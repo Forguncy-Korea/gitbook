@@ -42,7 +42,7 @@
 
 1. **리스트뷰에서 마우스 오른쪽 클릭 후, \[리스트뷰 세부 옵션]을 선택해주세요.**
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 2. **\[기타] 탭 - \[가로 틀 고정] 에서 필요한 설정을 해줍니다.**\
    아래 예시에서는 \[앞쪽 고정된 열 수]를 5로 설정하고, \[고정된 선 색]을 통해 고정된 열의 테두리 색상을 변경했습니다.
