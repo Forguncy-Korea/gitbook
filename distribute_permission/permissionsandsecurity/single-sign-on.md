@@ -6,7 +6,7 @@ Forguncy에서 작성한 애플리케이션에서 다른 웹 애플리케이션 
 
 Forguncy의 인증 연계 기능은 아래 그림과 같은 흐름으로 이루어집니다.
 
-<figure><img src="../../.gitbook/assets/image (2363).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Gemini_Generated_Image_s7gdxds7gdxds7gd.png" alt=""><figcaption></figcaption></figure>
 
 ## **GetUserToken API 설명**&#x20;
 
