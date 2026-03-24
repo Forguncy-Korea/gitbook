@@ -20,15 +20,17 @@
 
 
 
-### 로그인 모드&#x20;
+### 보안 공급자 등록
 
-로그인 모드에는 Office365 사용자 연동명령과, Office 365 통합인증 명령이 있습니다.&#x20;
+1. 서버관리자에 로그인합니다.\
+   Office 365 인증(Microsoft Entra ID)은 HTTPS를 통한 암호화된 통신이 필요하므로 Forguncy Builder의 디버깅 실행에서는 동작을 확인할 수 없습니다. HTTPS를 활성화하고 Forguncy Server에 애플리케이션을 게시해야 합니다.
+2.  **\[타사] - \[업로드]을 클릭하여 다운로드한 ZIP 파일을 선택합니다.**<br>
 
-* [Office365 사용자 연동 명령](/broken/pages/KGV23hc6OMBMxKUtuIoN) : Office365 계정으로만 로그인 할 수 있으며, 설정이 간단함&#x20;
-* [Office365 통합인증 명령](office365/undefined.md) : Office 365 계정 또는 기본 제공 사용자로 로그인할 수 있으며, 설정이 복잡함&#x20;
+    <figure><img src="../../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+3. **등록이 완료되면 다음과 같이 표시됩니다.**
 
-### 사용방법&#x20;
+<figure><img src="../../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-1. 플러그을 다운로드합니다.
-2. Forguncy Builder에서 설치하고 Forguncy Builder를 다시 실행합니다.
-3. Office 365 로그인은 서버명령에서만 사용되며, [Office365 통합인증 명령](office365/undefined.md)을 사용할 수 있다. 자세한 사항은 링크를 통해 확인할 수 있습니다. &#x20;
+\[구성 추가]를 클릭합니다.  다음 그림과 같이 Office 365(Microsoft Entra ID) 인증을 사용하기 위해 설정이 필요한 항목이 표시됩니다. 다음 절차에서는 이러한 설정 값을 얻는 방법을 설명합니다.
+
+<figure><img src="../../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
