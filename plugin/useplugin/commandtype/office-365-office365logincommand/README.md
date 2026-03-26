@@ -10,7 +10,7 @@
 
 위 방식들 중 Microsoft Office365를 이용한 인증은 2번이 아니라, 3번 방식을 사용합니다. 왜냐하면 Microsoft의 Office365는 Azure를 기반으로 하고 있고, 이는 Microsoft의 Cloud 서비스이기 때문에 언제든 열려 있는 서버이기 때문입니다.
 
-해당 플러그인을 사용하기 위해서는 [Office 365 Client ID와 TenantID](office-365.md)가 필요합니다.&#x20;
+해당 플러그인을 사용하기 위해서는 [Office 365 Client ID와 TenantID](/broken/pages/mQokel5gzBzlJYdzl1RJ)가 필요합니다.&#x20;
 
 ### 플러그인 다운로드&#x20;
 
@@ -20,17 +20,3 @@
 
 
 
-### 보안 공급자 등록
-
-1. 서버관리자에 로그인합니다.\
-   Office 365 인증(Microsoft Entra ID)은 HTTPS를 통한 암호화된 통신이 필요하므로 Forguncy Builder의 디버깅 실행에서는 동작을 확인할 수 없습니다. HTTPS를 활성화하고 Forguncy Server에 애플리케이션을 게시해야 합니다.
-2.  **\[타사] - \[업로드]을 클릭하여 다운로드한 ZIP 파일을 선택합니다.**<br>
-
-    <figure><img src="../../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
-3. **등록이 완료되면 다음과 같이 표시됩니다.**
-
-<figure><img src="../../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
-
-\[구성 추가]를 클릭합니다.  다음 그림과 같이 Office 365(Microsoft Entra ID) 인증을 사용하기 위해 설정이 필요한 항목이 표시됩니다. 다음 절차에서는 이러한 설정 값을 얻는 방법을 설명합니다.
-
-<figure><img src="../../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>

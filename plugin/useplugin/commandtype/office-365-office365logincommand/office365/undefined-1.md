@@ -12,7 +12,7 @@
 
 2\. 아래와 같이 명령을 설정합니다.&#x20;
 
-* ClientID, TenantID 및 Client Secret을 입력합니다. ([ClientID, TenantID 및 Client Secret 생성법](../office-365.md) 참고하세요) &#x20;
+* ClientID, TenantID 및 Client Secret을 입력합니다. ([ClientID, TenantID 및 Client Secret 생성법](/broken/pages/mQokel5gzBzlJYdzl1RJ) 참고하세요) &#x20;
 * 로그인 모드는 기존 사용자 정보 연동을 선택합니다.&#x20;
 * 기존 사용자 페이지 이름 연동 : 포건시에 해당 페이지를 만들어야 합니다.&#x20;
 * 속성에 ID 저장 &#x20;
