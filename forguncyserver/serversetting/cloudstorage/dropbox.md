@@ -78,11 +78,11 @@ http: //localhost:<포트 번호>/Forguncy/CloudStorageProvider/OAuthCallback
 예) https://<서버 관리 포털의 도메인>:22345/CloudStorageProvider/OAuthCallback
 ```
 
-<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 Permissions를 클릭하여 다음 위치를 활성화합니다.
 
-<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 \[Settings]를 클릭하고 다음 위치에서 "App key"와 "App secret"를 가져옵니다.
 

@@ -57,15 +57,15 @@ Windows 도메인 인증, 타사 사용자 통합 및 단일 사인온 앱은 2�
 
 1.  서버관리자의 로그인 페이지에서 사용자 이름과 암호를 입력하고 로그인 버튼 클릭합니다.<br>
 
-    <figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 2.  2단계 인증 페이지에서 휴대폰의 인증자 앱을 사용하여 계정을 추가하고 QR 코드를 스캔합니다. QR 코드를 스캔하면 휴대폰에 6자리 숫자가 표시됩니다.\
     <br>
 
-    <figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 3.  다음을 클릭하여 입력 상자에 인증자 APP에 표시되는 인증 코드를 입력합니다.\
     참고로   예제에서는MS Authenticator를 사용하였습니다.  <br>
 
-    <figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 이 장치에서 더 이상 묻지 않음 체크박스 선택하면 다음에 동일한 장치의 동일한 브라우저에서 2단계 확인 단계가 무시됩니다.
 
