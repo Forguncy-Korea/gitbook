@@ -15,7 +15,7 @@
 3. 두개의 데이터 테이블을 페이지의 리스트뷰에 바인딩합니다.&#x20;
 4. 페이지에 "데이터 전달"이라는 버튼을 생성한 후, 명령 편집을 합니다.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (1724).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1735).png" alt=""><figcaption></figcaption></figure>
 
 5\. 명령창에서 아래와 같이 설정합니다.&#x20;
 
@@ -28,8 +28,8 @@
 
 &#x20;     전송하는 원본 : F3    전달받을 대상 : 페이지1!Q3
 
-<figure><img src="../../../.gitbook/assets/image (396).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (407).png" alt=""><figcaption></figcaption></figure>
 
 6\. 실행을 하고, 데이터 전달 버튼을 클릭하면 리스트뷰로 데이터가 전달되는 것을 확인할 수 있다.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (2081).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2092).png" alt=""><figcaption></figcaption></figure>

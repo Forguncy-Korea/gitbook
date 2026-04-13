@@ -6,13 +6,13 @@
 
 관리자 역할은 기본적으로 모든 권한을 가집니다.
 
-<figure><img src="../../.gitbook/assets/image (2268).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2279).png" alt=""><figcaption></figcaption></figure>
 
 ### 역할 권한 설정&#x20;
 
 역할을 선택하고 오른쪽에서 역할의 권한을 설정합니다.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (2099).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2110).png" alt=""><figcaption></figcaption></figure>
 
 > * **사용자에게 역할이 할당되지 않았거나 할당된 역할에 권한이 없는 경우 사용자는 서버관리자에 로그인할 수 없습니다.**
 > * **사용자에게 없는 권한의 경우 해당 작업 버튼 또는 페이지가 숨겨집니다**

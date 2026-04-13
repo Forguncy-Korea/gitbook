@@ -27,7 +27,7 @@
 
 
 
-![](<../../../.gitbook/assets/image (1112).png>)
+![](<../../../.gitbook/assets/image (1123).png>)
 
 {% hint style="info" %}
 받는 사람 및 고급 설정에서 참조/숨은 참조를 클릭하면 데이터베이스에서 받는 사람을 가져오고, 팝업 대화 상자에서 테이블과 열을 선택하고, 쿼리 조건을 편집하여 받는 사람 정보를 가져올 수 있습니다.![](https://help.grapecity.com.cn/download/thumbnails/72357872/image2021-9-26_14-11-1.png?version=1\&modificationDate=1648092611000\&api=v2)
@@ -37,7 +37,7 @@
 
 페이지에서 셀 범위를 선택하고 버튼 설정합니다. 버튼의 명령을 편집하고 명령을 "서버단 명령 호출"으로 선택한 다음  서버단 명령 드롭다운 버튼을 클릭하고 드롭다운 목록에서 "메일보내기"를 선택합니다.
 
-![](<../../../.gitbook/assets/image (1846).png>)
+![](<../../../.gitbook/assets/image (1857).png>)
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72357872/%E6%AD%A5%E9%AA%A45.png?version=1\&modificationDate=1648092611000\&api=v2) 설정이 완료되면 \[확인]을 클릭하여 대화 상자를 닫습니다. 페이지를 실행합니다.페이지에서 메일 보내기 버튼 클릭하면 서비스가 지정된 전자 메일 주소로 메시지를 보냅니다.
 

@@ -2,7 +2,7 @@
 
 셀을 라디오 그룹으로 설정하고 실행 후 항목 중 하나를 선택할 수 있습니다. 라디오 버튼은 아래 그림에 나와 있습니다.
 
-<figure><img src="../../../.gitbook/assets/image (399).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (410).png" alt=""><figcaption></figcaption></figure>
 
 ## 라디오 버튼 설정  <a href="#radiobtnsetting" id="radiobtnsetting"></a>
 
@@ -18,7 +18,7 @@
 | 주요 표시 색상     | 스타일이 시스템에 없는 경우 라디오 버튼의 기본 색상을 설정할 수 있습니다.                                                                                       |
 | 선택 표시 색상     | 스타일이 시스템에 없는 경우 라디오 버튼의 보조 색상을 설정할 수 있습니다.                                                                                       |
 | 읽기 전용        | 이 옵션을 선택하면 라디오 버튼의 상태를 변경할 수 없습니다.                                                                                               |
-| 관련 명령 빠른 생성  | ![](<../../../.gitbook/assets/image (1010).png>)                                                                                 |
+| 관련 명령 빠른 생성  | ![](<../../../.gitbook/assets/image (1021).png>)                                                                                 |
 
 ## 목록 항목 설정  <a href="#settinglist" id="settinglist"></a>
 
@@ -28,7 +28,7 @@
 
 데이터베이스에서 목록항목을 선택하지 않으면 목록항목 이름을 직접 정의하고 +,-를 사용하여 목록항목을 늘리거나 줄일 수 있습니다.
 
-<figure><img src="../../../.gitbook/assets/image (478).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (489).png" alt=""><figcaption></figcaption></figure>
 
 #### 고급 설정 <a href="#id-dan-xuan-an-niu-gao-ji-she-zhi" id="id-dan-xuan-an-niu-gao-ji-she-zhi"></a>
 
@@ -36,7 +36,7 @@
 
 예를 들어 고급 설정을 클릭하여 다음 그림과 같이 프로젝트의 값을 수정합니다.
 
-<figure><img src="../../../.gitbook/assets/image (489).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (500).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -44,7 +44,7 @@
 
 * 기본값을 \[2]로 설정하면 라디오 버튼의 \[항목2]가 선택됩니다.
 
-<figure><img src="../../../.gitbook/assets/image (1243).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1254).png" alt=""><figcaption></figcaption></figure>
 
 #### 기타 항목을 추가합니다 <a href="#id-dan-xuan-an-niu-tian-jia-qi-ta-xiang" id="id-dan-xuan-an-niu-tian-jia-qi-ta-xiang"></a>
 
@@ -52,4 +52,4 @@
 
 기본적으로 100픽셀로 다른 텍스트 상자의 너비를 사용자 지정할 수도 있습니다.
 
-<figure><img src="../../../.gitbook/assets/image (2009).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2020).png" alt=""><figcaption></figcaption></figure>

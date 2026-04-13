@@ -8,9 +8,9 @@
 
 
 
-<figure><img src="../../.gitbook/assets/image (2125).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2136).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (2135).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2146).png" alt=""><figcaption></figcaption></figure>
 
 ## 서버단 명령 만들기&#x20;
 
@@ -20,7 +20,7 @@
 
 또는 폴더 만들기를 선택하여 폴더에 서버단 명령을 만듭니다.
 
-![](<../../.gitbook/assets/image (735).png>)
+![](<../../.gitbook/assets/image (746).png>)
 
 리본 메뉴 모음에서 만들기를 클릭하고 서버 개체 영역에서 서버단 명령을 클릭하여 서버 명령 만들기 대화 상자를 팝업할 수도 있습니다.
 
@@ -30,7 +30,7 @@
 
 CSV 내보내기를 선택하고, 데이터 테이블 및 CSV의 파일 경로를 선택합니다. 폴더는 이미 있는 폴더여야 하며 확장 ".csv"은 생략할 수 있습니다.
 
-![](<../../.gitbook/assets/image (1935).png>)
+![](<../../.gitbook/assets/image (1946).png>)
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72357163/%E6%AD%A5%E9%AA%A44.png?version=1\&modificationDate=1648092602000\&api=v2) 서버단 명령을 만든 후 개체 관리자의 서버단 명령 레이블 아래에 표시됩니다.
 
@@ -38,17 +38,17 @@ CSV 내보내기를 선택하고, 데이터 테이블 및 CSV의 파일 경로�
 
 서버단 명령을 선택하고 마우스 오른쪽 버튼을 클릭하면 마우스 오른쪽 버튼 클릭 메뉴가 나타나고 이 쪽 명령을 사용하지 않도록 설정하거나 서버 쪽 명령을 복사하도록 선택할 수 있습니다.
 
-![](<../../.gitbook/assets/image (1210).png>)
+![](<../../.gitbook/assets/image (1221).png>)
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72357163/%E6%AD%A5%E9%AA%A45.png?version=1\&modificationDate=1648092602000\&api=v2) 설정이 완료되면 이 서버단 명령을 호출할 수 있습니다.
 
 예를 들어 페이지에서 셀 범위를 선택하고 버튼을 설정합니다. 버튼의 명령을 편집하고 "서버 명령 호출"으로 명령을 선택한 다음 서버단 명령 뒤에 있는 드롭다운을 클릭하고 드롭다운 목록에서 "CSV 내보내기"를 선택합니다.
 
-![](<../../.gitbook/assets/image (1960).png>)
+![](<../../.gitbook/assets/image (1971).png>)
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72357163/%E6%AD%A5%E9%AA%A46.png?version=1\&modificationDate=1648092602000\&api=v2) 설정이 완료되면 \[확인]을 클릭하여 대화 상자를 닫습니다. 페이지를 실행합니다.페이지에서 \[CSV 내보내기]버튼을 클릭하면 설정된 지정된 경로 아래에 내보낸 CSV 파일이 표시됩니다.
 
-![](<../../.gitbook/assets/image (1674).png>)
+![](<../../.gitbook/assets/image (1685).png>)
 
 {% hint style="info" %}
 서버단 명령을 만든 후 일반 탭 아래의 테스트 버튼을 클릭하여 페이지에서 호출하지 않고 빌더에서 직접 실행할 수 있습니다.
@@ -64,13 +64,13 @@ CSV 내보내기를 선택하고, 데이터 테이블 및 CSV의 파일 경로�
 
 서버 측 명령을 생성한 후 일반 탭에서 "테스트" 버튼을 클릭하면 서버 측 명령을 페이지에서 호출하지 않고 디자이너에서 직접 실행할 수 있습니다.
 
-<figure><img src="../../.gitbook/assets/image (233).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (244).png" alt=""><figcaption></figcaption></figure>
 
 "테스트" 버튼을 클릭하면 다음 대화 상자가 나타납니다. 이 서버 명령을 실행하려면 사용자를 선택해야 하며 요청 시간 제한을 설정할 수 있습니다. 기본값은 100초입니다.
 
 서버 측 명령을 테스트할 때 디자이너는 서버 측 명령을 실행하라는 요청을 서버에 보냅니다. 실행 시간이 요청 시간을 초과하면 요청 시간 초과 오류가 자주 발생합니다. 서버 명령이 완료 후 정보를 반환하도록 요청 시간 제한을 설정할 수 있습니다.
 
-<figure><img src="../../.gitbook/assets/image (234).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (245).png" alt=""><figcaption></figcaption></figure>
 
 서버 명령에 매개변수가 있는 경우 서버 명령에 대한 매개변수도 대화 상자에 나열됩니다.
 
@@ -78,4 +78,4 @@ CSV 내보내기를 선택하고, 데이터 테이블 및 CSV의 파일 경로�
 
 클릭하면 ![](https://gccndocumentsitestorage.blob.core.chinacloudapi.cn/document-site-files/images/8ca07557-62b8-4219-8ddd-357e505dc985/80946150/image2023-1-31_17-50-17.png)로그 정보를 복사할 수 있습니다.
 
-<figure><img src="../../.gitbook/assets/image (235).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (246).png" alt=""><figcaption></figcaption></figure>

@@ -39,18 +39,18 @@ alert(len);
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72366468/%E6%AD%A5%E9%AA%A41.png?version=1\&modificationDate=1648092749000\&api=v2)페이지 1에 여러 테이블을 바인딩합니다.
 
-<figure><img src="../../../../../.gitbook/assets/image (1579).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (1590).png" alt=""><figcaption></figcaption></figure>
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72366468/%E6%AD%A5%E9%AA%A42.png?version=1\&modificationDate=1648092748000\&api=v2)  페이지 2에서 셀 범위를 선택하고 셀 유형을 페이지 내 컨텐츠가 포함된 셀로 설정하고 이름을 "Container"로 지정하고 하위 페이지를 페이지 1로 설정합니다.
 
-<figure><img src="../../../../../.gitbook/assets/image (1878).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (1889).png" alt=""><figcaption></figcaption></figure>
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72366468/%E6%AD%A5%E9%AA%A43.png?version=1\&modificationDate=1648092749000\&api=v2)페이지 2에서 셀 범위를 선택하고, 셀 유형을 버튼으로 설정하고, 명령을 \[자바스크립트로 직접 프로그래밍하기]으로 편집하고, JavaScript 코드를 입력합니다.
 
-<figure><img src="../../../../../.gitbook/assets/image (1870).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (1881).png" alt=""><figcaption></figcaption></figure>
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72366468/%E6%AD%A5%E9%AA%A44.png?version=1\&modificationDate=1648092749000\&api=v2)편집이 완료되면 \[확인]을 클릭하여 대화 상자를 닫습니다.
 
 페이지를 실행하고 페이지에서 버튼 클릭하면 가져온 하위 페이지의 모든 테이블 인스턴스 길이를 보여 주는 경고 상자가 나타납니다.<br>
 
-<figure><img src="../../../../../.gitbook/assets/image (1868).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (1879).png" alt=""><figcaption></figcaption></figure>

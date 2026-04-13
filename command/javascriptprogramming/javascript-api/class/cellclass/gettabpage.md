@@ -39,22 +39,22 @@ alert(subPageCell.getValue());
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72365030/%E6%AD%A5%E9%AA%A41.png?version=1\&modificationDate=1648092723000\&api=v2) 탭 페이지에서 셀 범위를 선택하고 탭으로 설정하고 이름을 "tabControl"로 지정합니다.
 
-<figure><img src="../../../../../.gitbook/assets/image (1515).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (1526).png" alt=""><figcaption></figcaption></figure>
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72365030/%E6%AD%A5%E9%AA%A42.png?version=1\&modificationDate=1648092723000\&api=v2) 페이지 1을 열고 페이지 행과 열 수를 모두 10으로 설정하고 페이지에서 셀 범위를 선택하여 myCell이라는 이름을 지정합니다. 값을 입력합니다.
 
-<figure><img src="../../../../../.gitbook/assets/image (1133).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (1144).png" alt=""><figcaption></figcaption></figure>
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72365030/%E6%AD%A5%E9%AA%A43.png?version=1\&modificationDate=1648092723000\&api=v2) 탭 페이지를 열고 선택 카드를 선택하고 셀 설정에서 하위 페이지를 페이지 1로 설정합니다.
 
-<figure><img src="../../../../../.gitbook/assets/image (537).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (548).png" alt=""><figcaption></figcaption></figure>
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72365030/%E6%AD%A5%E9%AA%A44.png?version=1\&modificationDate=1648092723000\&api=v2) 탭 페이지에서 셀 범위를 선택하고 셀 유형을 버튼 설정하고 명령을 \[JavaScript 명령]으로 편집하고 JavaScript 코드를 입력합니다.
 
-<figure><img src="../../../../../.gitbook/assets/image (1264).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (1275).png" alt=""><figcaption></figcaption></figure>
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72365030/%E6%AD%A5%E9%AA%A45.png?version=1\&modificationDate=1648092723000\&api=v2) 편집이 완료되면 \[확인]을 클릭하여 대화 상자를 닫습니다.
 
 페이지를 실행하고 페이지에서 버튼 클릭하면 탭의 하위 페이지에 지정된 셀의 값이 표시되고 브라우저에 셀 값이 표시되는 경고 상자가 나타납니다.
 
-<figure><img src="../../../../../.gitbook/assets/image (939).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (950).png" alt=""><figcaption></figcaption></figure>

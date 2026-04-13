@@ -2,7 +2,7 @@
 
 실행 후 입력할 수 있는 숫자 유형으로 셀을 설정합니다. 숫자 입력 상자는 다음 그림과 같습니다.
 
-<figure><img src="../../.gitbook/assets/image (446).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (457).png" alt=""><figcaption></figcaption></figure>
 
 ## 숫자 형식 설정&#x20;
 
@@ -36,4 +36,4 @@
 * 체크박스 선택하면 실행 후 마우스 휠과 키보드 위 또는 아래로 키를 사용하여 실행 후 숫자 셀의 값을 수정할 수 있습니다.
 * 체크박스를 선택하지 않으면 마우스 휠과 키보드 위/아래 키를 사용하여 실행 후 페이지에서 숫자 셀의 값을 수정할 수 없습니다.
 
-<figure><img src="../../.gitbook/assets/image (851).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (862).png" alt=""><figcaption></figcaption></figure>

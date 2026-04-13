@@ -2,7 +2,7 @@
 
 이메일 알림 설정 생성하기에서 모니터링되는 테이블과 필드는 물론 메일의 제목과 내용을 설정할 수 있습니다. 데이터 테이블의 데이터가 변경되면 이동식 그리드는 자동으로 이메일을 보내 사용자에게 알릴 수 있습니다.
 
-<figure><img src="../../.gitbook/assets/image (809).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (820).png" alt=""><figcaption></figcaption></figure>
 
 ## 이메일 알림 설정 생성하기 명령 설정&#x20;
 
@@ -25,18 +25,18 @@
 
 아래 그림에 나와 있습니다.
 
-<figure><img src="../../.gitbook/assets/image (1424).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1435).png" alt=""><figcaption></figcaption></figure>
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72354420/%E6%AD%A5%E9%AA%A43.png?version=1\&modificationDate=1648092563000\&api=v2)  알림 필드를 설정합니다. 하나 이상의 알림 필드를 추가하려면 새 필드를 클릭합니다.
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72354420/%E6%AD%A5%E9%AA%A44.png?version=1\&modificationDate=1648092563000\&api=v2)  아래 그림과 같이 "고급 설정 표시"를 클릭하여 보낸 사람의 주소, 이름 및 이메일 헤더 접두사를 설정합니다.
 
-<figure><img src="../../.gitbook/assets/image (1773).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1784).png" alt=""><figcaption></figcaption></figure>
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72354420/%E6%AD%A5%E9%AA%A45.png?version=1\&modificationDate=1648092563000\&api=v2)  설정이 완료되면 "확인"을 클릭하여 명령 창을 닫습니다.
 
 프로젝트를 실행한 후 "메일 구독" 버튼을 클릭하면 내장된 "이메일 구독" 페이지로 페이지가 이동합니다. 필요에 따라 이메일을 구독하고 확인을 클릭합니다.
 
-<figure><img src="../../.gitbook/assets/image (1085).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1096).png" alt=""><figcaption></figcaption></figure>
 
 구독 필드가 변경되면 현재 로그인한 사용자가 설정한 사서함으로 해당 메일을 수신할 수 있습니다.

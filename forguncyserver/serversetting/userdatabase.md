@@ -13,7 +13,7 @@ MySQL, SQLServer, SQLite에 대한 데이터베이스 설정을 지원하며, �
 
 
 
-![](<../../.gitbook/assets/image (847).png>)
+![](<../../.gitbook/assets/image (858).png>)
 
 연결 문자열의 형식은 Server=localhost입니다. User Id=root; password=123456; database=userservicedb;
 
@@ -21,7 +21,7 @@ MySQL, SQLServer, SQLite에 대한 데이터베이스 설정을 지원하며, �
 
 연결 테스트가 완료되면 \[설정 저장]을 클릭합니다. 그러면 사용자 정보 데이터가 설정한 데이터베이스에 저장되며, 이 데이터베이스에서 다음 새 데이터 테이블을 볼 수 있습니다.
 
-![](<../../.gitbook/assets/image (322).png>)
+![](<../../.gitbook/assets/image (333).png>)
 
 {% hint style="info" %}
 사용자 정보가 저장되는 데이터베이스에 새 사용자 정보 테이블과 이름이 같은 데이터 테이블이 없어야 하도록 지정합니다.
@@ -29,4 +29,4 @@ MySQL, SQLServer, SQLite에 대한 데이터베이스 설정을 지원하며, �
 
 사용자 지정 MySQL 또는 SQLServer에서 기본 SQLLite로 사용자 정보 데이터를 다시 전환하려면 데이터베이스 유형을 SQLLite로 변경한 후 설정 저장을 클릭하기만 하면 됩니다.
 
-![](<../../.gitbook/assets/image (1958).png>)
+![](<../../.gitbook/assets/image (1969).png>)

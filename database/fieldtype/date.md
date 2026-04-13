@@ -6,11 +6,11 @@
 
 방법 1. 데이터 테이블에서 첫 번째 행의 마지막 셀(필드 추가)의 드롭다운 버튼 클릭하여 드롭다운 목록에서 날짜 필드 유형을 선택합니다.
 
-![](<../../.gitbook/assets/image (2002).png>)
+![](<../../.gitbook/assets/image (2013).png>)
 
 방법 2 데이터 테이블을 열고 리본 메뉴에서 테이블 도구 필드를 선택하고 날짜 유형 버튼을 클릭합니다.
 
-![](<../../.gitbook/assets/image (2140).png>)
+![](<../../.gitbook/assets/image (2151).png>)
 
 날짜를 클릭하면 데이터 테이블에 날짜 필드가 추가되고 필드 이름을 변경하고  데이터를 추가할 수 있습니다.
 
@@ -20,7 +20,7 @@
 
 모든 하위 필드는 표시에만 사용할 수 있으며 해당 값은 일반 필드처럼 직접 수정 및 삭제할 수 없습니다. 하위 필드는 일반적으로 조건을 쿼리하는 데 사용됩니다.
 
-![](<../../.gitbook/assets/image (1016).png>)
+![](<../../.gitbook/assets/image (1027).png>)
 
 ## 날짜 형식 설정&#x20;
 
@@ -30,8 +30,8 @@
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72352160/%E6%AD%A5%E9%AA%A41.png?version=1\&modificationDate=1648092527000\&api=v2) 날짜 필드를 마우스 오른쪽 버튼으로 클릭하고 팝업 메뉴에서 \[셀 서식]을 선택합니다.
 
-![](<../../.gitbook/assets/image (1155).png>)
+![](<../../.gitbook/assets/image (1166).png>)
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72352160/%E6%AD%A5%E9%AA%A42.png?version=1\&modificationDate=1648092527000\&api=v2) \[셀 서식] 대화 상자의 \[숫자] 탭에서 \[날짜]로 분류를 선택하고 유형 및 범위를 선택합니다.
 
-![](<../../.gitbook/assets/image (1729).png>)
+![](<../../.gitbook/assets/image (1740).png>)

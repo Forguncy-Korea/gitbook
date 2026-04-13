@@ -35,7 +35,7 @@ listview.bind("selectedRowsChanged", select);
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72365344/%E6%AD%A5%E9%AA%A42.png?version=1\&modificationDate=1648092728000\&api=v2) 페이지 설정을 클릭하고 페이지 로드 시 명령을 편집합니다. 명령은 JavaScript 명령입니다. JavaScript 코드를 입력합니다.
 
-<figure><img src="../../../../../.gitbook/assets/image (1089).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (1100).png" alt=""><figcaption></figcaption></figure>
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72365344/%E6%AD%A5%E9%AA%A43.png?version=1\&modificationDate=1648092728000\&api=v2) 편집이 완료되면 \[확인]을 클릭하여 대화 상자를 닫습니다.
 

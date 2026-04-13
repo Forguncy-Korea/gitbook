@@ -12,7 +12,7 @@
 
 명령 설정은 다음과 같습니다.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (898).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (909).png" alt=""><figcaption></figcaption></figure>
 
 | 항목    | 설명           |
 | ----- | ------------ |
@@ -25,7 +25,7 @@
 2. "셀 위치 설정"버튼을 생성한다.
 3. 버튼 명령 편집을 통해 셀 위치 설정 명령을 아래와 같이 설정합니다.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (1940).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1951).png" alt=""><figcaption></figcaption></figure>
 
 4\. 실행을 하고, 셀 위치 설정을 클릭하면 3번에서 설정한대로 셀 위치가 변경되는 것을 확인할 수 있습니다.&#x20;
 

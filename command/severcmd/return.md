@@ -6,17 +6,17 @@
 
 ## 반환 값 <a href="#fan-hui-zhi" id="fan-hui-zhi"></a>
 
-<figure><img src="../../.gitbook/assets/image (241).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (252).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (242).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (253).png" alt=""><figcaption></figcaption></figure>
 
 반환값의 이름과 설명 설정할 수 있습니다.
 
 반환 값을 정의한 후 반환 명령 생성하기에서 정의된 반환 값을 사용할 수 있습니다.
 
-<figure><img src="../../.gitbook/assets/image (243).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (254).png" alt=""><figcaption></figcaption></figure>
 
 서버 명령을 호출할 때 반환 값을 변수에 저장할 수 있으며, 후속 명령에서는 이 변수를 사용할 수 있습니다.
 
-<figure><img src="../../.gitbook/assets/image (244).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (255).png" alt=""><figcaption></figcaption></figure>
 

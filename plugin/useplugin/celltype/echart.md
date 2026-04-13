@@ -18,7 +18,7 @@ ECharts 플러그인은 포건시에 대한 직관적이고 대화형 차트 표
 
 1. 페이지 영역을 선택한 후 ECharts 셀을 선택합니다.
 
-<figure><img src="../../../.gitbook/assets/image (270).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (281).png" alt=""><figcaption></figcaption></figure>
 
 2. 데이터바인딩을 합니다.&#x20;
 
@@ -30,13 +30,13 @@ ECharts 플러그인은 포건시에 대한 직관적이고 대화형 차트 표
 
 셀 설정에서 데이터 소스를 직접 선택하고, 데이터 소스 설정에서 데이터 소스명을 생성한 후(영문 이름 권장), 데이터 소스를 설정하여 데이터 테이블을 선택하고, 필요한 필드(데이터)를 선택하면 됩니다.
 
-<figure><img src="../../../.gitbook/assets/image (271).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (282).png" alt=""><figcaption></figcaption></figure>
 
 데이터 소스를 선택한 후 \[ECharts Config]을 클릭하여 ECharts 편집 페이지 로 들어갑니다 .
 
 코드를 입력한후 \[Run]버튼을 클릭하면 미리보기에서 차트가 나옵니다.
 
-<figure><img src="../../../.gitbook/assets/image (272).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (283).png" alt=""><figcaption></figcaption></figure>
 
 기본적으로 객체를 생성한 후 정의된 데이터 소스(예: DataSource )와 숫자 값(예: Date , SalesData ) 을 설정합니다.
 
@@ -223,15 +223,15 @@ declare namespace Forguncy {
 
 JSON 데이터 소스 창에서 JSON데이터를 아래와 같은 형식으로 입력합니다.
 
-<figure><img src="../../../.gitbook/assets/image (90).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (101).png" alt=""><figcaption></figcaption></figure>
 
 ECharts 구성을 클릭하여 아래와 같이 코드를 작성합니다.
 
-<figure><img src="../../../.gitbook/assets/image (91).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (102).png" alt=""><figcaption></figcaption></figure>
 
 코드 작성 후 실행버튼을 클릭하면 차트 미리보기를 확인할 수 있습니다.
 
-<figure><img src="../../../.gitbook/assets/image (92).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (103).png" alt=""><figcaption></figcaption></figure>
 
 
 

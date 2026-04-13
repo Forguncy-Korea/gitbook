@@ -8,7 +8,7 @@
 
 리스트뷰가 있는 페이지에서 버튼을 설정하는 명령어는 "리스트뷰 쿼리 대화 상자"이다.
 
-<figure><img src="../../.gitbook/assets/image (2398).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2409).png" alt=""><figcaption></figcaption></figure>
 
 | 설정          | 설명                                                                                                                |
 | ----------- | ----------------------------------------------------------------------------------------------------------------- |
@@ -21,4 +21,4 @@
 
 이때 쿼리는 "다음 조건을 모두 만족하는" 레코드에 대한 것입니다. 대화 상자 오른쪽 상단에서 쿼리 보기를 전환할 수 있습니다. 쿼리 조건을 추가하려면 "조건 추가" 버튼을 클릭하세요.
 
-<figure><img src="../../.gitbook/assets/image (2399).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2410).png" alt=""><figcaption></figcaption></figure>

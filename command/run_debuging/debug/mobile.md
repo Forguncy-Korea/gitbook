@@ -8,11 +8,11 @@
 
 빌더의 시작 탭에서 "모바일 디버깅"을 클릭하면 모바일 디버깅 페이지가 팝업됩니다. 모바일을 사용하여 페이지의 QR 코드를 스캔하면 모바일에서 페이지를 볼 수 있습니다.
 
-<figure><img src="../../../.gitbook/assets/image (729).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (740).png" alt=""><figcaption></figcaption></figure>
 
 
 
-![](<../../../.gitbook/assets/image (1754).png>)
+![](<../../../.gitbook/assets/image (1765).png>)
 
 페이지가 빌더에서 수정된 경우 저장 버튼을 클릭하거나 Ctrl+S 키 조합을 누른 다음 페이지를 새로 고치면 페이지 콘텐츠가 동시에 모바일에 업데이트됩니다.
 

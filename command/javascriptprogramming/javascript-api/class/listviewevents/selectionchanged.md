@@ -36,10 +36,10 @@ listview.bind("selectionChanged", select);
 \
 ​​​![](https://help.grapecity.com.cn/download/thumbnails/72365362/%E6%AD%A5%E9%AA%A42.png?version=1\&modificationDate=1648092728000\&api=v2)페이지 설정을 클릭하고 페이지 로드 시 명령을 편집합니다. 명령은 JavaScript 명령입니다. JavaScript 코드를 입력합니다.
 
-<figure><img src="../../../../../.gitbook/assets/image (535).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (546).png" alt=""><figcaption></figcaption></figure>
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72365362/%E6%AD%A5%E9%AA%A43.png?version=1\&modificationDate=1648092728000\&api=v2) 편집이 완료되면 \[확인]을 클릭하여 대화 상자를 닫습니다.
 
 페이지를 실행하면 기본 테이블의 현재 동작의 첫 번째 행이 현재 동작의 두 번째 행을 변경할 때 경고 상자가 나타납니다.
 
-<figure><img src="../../../../../.gitbook/assets/image (1122).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (1133).png" alt=""><figcaption></figcaption></figure>

@@ -18,13 +18,13 @@
 
 좌표 유형 GeoJSON 파일의 파일 이름은 " Korea\_point.json"과 같이 "\_point.json"으로 끝나야 하며, 윤곽선 유형 GeoJSON 파일은 "Korea\_area.json"과 같이 "\_area.json"으로 끝나야 합니다.
 
-![](https://help.grapecity.com.cn/download/thumbnails/80943660/%E6%AD%A5%E9%AA%A42.png?version=1\&modificationDate=1673923132000\&api=v2)  셀 범위나 테이블을 데이터 소스로 선택하고 리본 메뉴 표시줄에서 "삽입"을 클릭한 다음 지도에서 하위 유형을 선택합니다.![](<../../.gitbook/assets/image (286).png>)
+![](https://help.grapecity.com.cn/download/thumbnails/80943660/%E6%AD%A5%E9%AA%A42.png?version=1\&modificationDate=1673923132000\&api=v2)  셀 범위나 테이블을 데이터 소스로 선택하고 리본 메뉴 표시줄에서 "삽입"을 클릭한 다음 지도에서 하위 유형을 선택합니다.![](<../../.gitbook/assets/image (297).png>)
 
-<figure><img src="../../.gitbook/assets/image (288).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (299).png" alt=""><figcaption></figcaption></figure>
 
 ![](https://help.grapecity.com.cn/download/thumbnails/80943660/%E6%AD%A5%E9%AA%A43.png?version=1\&modificationDate=1673923132000\&api=v2)  지도 유형을 선택하면 지도 GeoJSON 구성 대화 상자가 열리며, "GeoJSON 파일을 저장할폴더 열기"를 클릭하고 준비된 GeoJSON 파일을 열린 폴더에 복사합니다. 여기에 있는 GeoJSON 파일은 이 프로젝트 파일에서만 사용할 수 있습니다.
 
-<figure><img src="../../.gitbook/assets/image (284).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (295).png" alt=""><figcaption></figcaption></figure>
 
 포건시 설치 경로에서 "Forguncy\Website\DesignerResources\Map" 폴더를 찾아 거기에 GeoJSON 파일을 복사할 수도 있습니다. 여기서 GeoJSON 파일은 전역 파일입니다. 즉, 모든 이동형 문서에서 이 파일을 사용할 수 있습니다.
 
@@ -36,11 +36,11 @@
 
 ![](https://help.grapecity.com.cn/download/thumbnails/80943660/%E6%AD%A5%E9%AA%A44.png?version=1\&modificationDate=1673923132000\&api=v2)  작업이 완료되면 클릭하세요.![](https://help.grapecity.com.cn/download/thumbnails/80943660/image2019-2-22_15-1-21.png?version=1\&modificationDate=1673923132000\&api=v2)아이콘은 GeoJSON 파일 목록을 새로 고침하고, 새로 고친 후 드롭다운 버튼을 클릭하면 해당 유형의 GeoJSON 파일 목록이 표시됩니다.
 
-<figure><img src="../../.gitbook/assets/image (285).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (296).png" alt=""><figcaption></figcaption></figure>
 
 ![](https://help.grapecity.com.cn/download/thumbnails/80943660/%E6%AD%A5%E9%AA%A45.png?version=1\&modificationDate=1673923132000\&api=v2)  목록에서 파일을 선택하고 "확인"을 클릭하면 지도 차트가 삽입됩니다.
 
-<figure><img src="../../.gitbook/assets/image (289).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (300).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -54,9 +54,9 @@
 
 색상 맵에서는 GeoJSON 개요 파일만 구성하면 됩니다.
 
-<figure><img src="../../.gitbook/assets/image (274).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (285).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (275).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (286).png" alt=""><figcaption></figcaption></figure>
 
 #### 버블 지도 <a href="#id-di-tu-qi-pao-di-tu" id="id-di-tu-qi-pao-di-tu"></a>
 
@@ -64,9 +64,9 @@
 
 GeoJSON  Polygon파일과 Point 파일은 색상 지도에서 구성해야 합니다.
 
-<figure><img src="../../.gitbook/assets/image (276).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (287).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (277).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (288).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -76,7 +76,7 @@ GeoJSON  Polygon파일과 Point 파일은 색상 지도에서 구성해야 합�
 
 GeoJSON  Polygon파일과 Point 파일은 색상 지도에서 구성해야 합니다.
 
-<figure><img src="../../.gitbook/assets/image (278).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (289).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -86,15 +86,15 @@ GeoJSON  Polygon파일과 Point 파일은 색상 지도에서 구성해야 합�
 
 색상지도의 범례 설정을 예로 들어보겠습니다 . 컬러맵을 선택한 후 리본 메뉴 바에서 "차트 도구-레이아웃- 범례 "를 선택합니다 . "없음"을 선택하거나 범례를 표시할 위치를 선택할 수 있습니다.
 
-<figure><img src="../../.gitbook/assets/image (279).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (290).png" alt=""><figcaption></figcaption></figure>
 
 예를 들어 왼쪽에 범례 표시를 선택하면 지도의 왼쪽 하단에 범례가 표시됩니다.
 
-<figure><img src="../../.gitbook/assets/image (280).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (291).png" alt=""><figcaption></figcaption></figure>
 
 범례를 변경할 수 있습니다. "기타 범례 옵션"을 클릭하여 설정 대화 상자를 엽니다. 범례의 채우기, 테두리 스타일 및 글꼴을 설정할 수 있습니다.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (282).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (293).png" alt=""><figcaption></figcaption></figure>
 
 | 설정  |                |                                                                                                                                                                                                                                                                                                                                                                                                                     |
 | --- | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

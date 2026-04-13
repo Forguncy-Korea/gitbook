@@ -4,7 +4,7 @@
 
 이 명령은 서버 단 명령에서만 사용할 수 있습니다.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (1582).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1593).png" alt=""><figcaption></figcaption></figure>
 
 ### 플러그인 다운로드&#x20;
 
@@ -20,25 +20,25 @@
 
 서버에서 파일 경로를 설정 하고 명령을 실행하면 해당 경로의 파일이 삭제됩니다.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (740).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (751).png" alt=""><figcaption></figcaption></figure>
 
 #### 파일 복사&#x20;
 
 서버의 특정 파일을 특정 위치에 복사 파일 경로를 설정한 후 이 명령어를 실행하면 파일을 복사하여 다른 경로로 이동시킵니다.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (643).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (654).png" alt=""><figcaption></figcaption></figure>
 
 #### 파일 이동&#x20;
 
 서버의 특정 파일을 특정 위치로 파일 경로를 설정 한후, 이 명령어를 실행하면 파일을 다른 경로로 이동 시킵니다.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (645).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (656).png" alt=""><figcaption></figcaption></figure>
 
 #### 파일 이름 변경&#x20;
 
 서버단 파일 이름을 변경합니다.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (732).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (743).png" alt=""><figcaption></figcaption></figure>
 
 #### 파일 정보 보기&#x20;
 
@@ -65,13 +65,13 @@
 
 특정 파일이 존재하지 않는 경우. "CreateDateTime", "LastModifyDateTime", "FileSize"를 가져오면 예외가 발생합니다.
 
-<figure><img src="../../../.gitbook/assets/image (1908).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1919).png" alt=""><figcaption></figcaption></figure>
 
 #### 파일 다운로드&#x20;
 
 파일 경로와 다운로드 시 파일 이름을 설정하고 이 명령을 실행하면 이 경로의 파일을 다운로드 합니다.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (894).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (905).png" alt=""><figcaption></figcaption></figure>
 
 #### 파일에 컨텐츠 저장&#x20;
 
@@ -81,19 +81,19 @@
 * 개체: 데이터베이스에서 쿼리한 데이터와 같이 이동 가능한 유형은 json을 통해 데이터를 직렬화하고 결과를 파일에 씁니다.
 * 파일 스트림(스트림): 이것은 Http 요청 명령을 보내는 것으로부터의 결과로 파일 스트림이 될 수 있으며 이동 가능한 유형은 스트림을 파일에 저장합니다.
 
-<figure><img src="../../../.gitbook/assets/image (2187).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2198).png" alt=""><figcaption></figcaption></figure>
 
 #### 폴더 생성&#x20;
 
 폴더 경로를 입력하고 명령을 실행하면 폴더를 생성합니다.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (611).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (622).png" alt=""><figcaption></figcaption></figure>
 
 #### 폴더 삭제&#x20;
 
 폴더 경로를 입력하고 명령을 실행하면 해 폴더를 삭제합니다.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (626).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (637).png" alt=""><figcaption></figcaption></figure>
 
 #### 폴더에 있는 파일 검색&#x20;
 
@@ -101,7 +101,7 @@
 
 하위 폴더 포함을 체크하면 하위 폴더에서도 파일 검색이 진행됩니다.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (2162).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2173).png" alt=""><figcaption></figcaption></figure>
 
 #### 데이터베이스에서 파일 정보 검색&#x20;
 
@@ -109,10 +109,10 @@
 
 결과 저장 파라미터 이름에 검색 결과가 저장됩니다.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (508).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (519).png" alt=""><figcaption></figcaption></figure>
 
 #### ZIP 폴더&#x20;
 
 폴더경로와 ZIP파일 경로를 입력하고 명령을 실행하면 입력한 폴더경로가 ZIP파일로 압축되어 ZIP 파일경로에 해당 ZIP파일이 생성됩니다.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (1430).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1441).png" alt=""><figcaption></figcaption></figure>

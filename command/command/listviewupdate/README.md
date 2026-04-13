@@ -4,7 +4,7 @@
 
 테이블 연산 명령에는 연산 행, 데이터, 선택, 연산 셀, 연산 열의 5가지 연산 유형이 있습니다.
 
-<figure><img src="../../../.gitbook/assets/image (2066).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2077).png" alt=""><figcaption></figcaption></figure>
 
 |       | 작업유형                                                                                        |
 | ----- | ------------------------------------------------------------------------------------------- |
@@ -37,4 +37,4 @@
 
 리스트뷰 옵션 설정 대화상자에서 즉시 저장 해제를 체크합니다.
 
-![](<../../../.gitbook/assets/image (802).png>)
+![](<../../../.gitbook/assets/image (813).png>)

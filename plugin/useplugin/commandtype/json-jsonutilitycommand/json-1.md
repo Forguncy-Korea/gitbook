@@ -28,7 +28,7 @@ JSON 역직렬화 명령을 사용하면 JSON 문자열을 JSON 객체로 변환
 
 &#x20;    . JSON 직렬화 버튼 생성&#x20;
 
-<figure><img src="../../../../.gitbook/assets/image (1289).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1300).png" alt=""><figcaption></figcaption></figure>
 
 2\. "JSON 직렬화" 버튼의 명령을 생성합니다.&#x20;
 
@@ -38,7 +38,7 @@ JSON 역직렬화 명령을 사용하면 JSON 문자열을 JSON 객체로 변환
 * JSON 문자열 : result
 * 결과를 파라미터로 반환 : res
 
-<figure><img src="../../../../.gitbook/assets/image (597).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (608).png" alt=""><figcaption></figcaption></figure>
 
 2-2. 루프 명령을 아래와 같이 설정합니다.&#x20;
 
@@ -49,7 +49,7 @@ JSON 역직렬화 명령을 사용하면 JSON 문자열을 JSON 객체로 변환
 
 &#x20;     \- 반복항목/배열 대상 객체 파라미터 이름 : Item
 
-<figure><img src="../../../../.gitbook/assets/image (616).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (627).png" alt=""><figcaption></figcaption></figure>
 
 루프 명령 만들기의 하위 명령명령명 데이터 테이블 업데이트 명령을 아래와 같이 설정합니다.&#x20;
 
@@ -58,7 +58,7 @@ JSON 역직렬화 명령을 사용하면 JSON 문자열을 JSON 객체로 변환
 * 열 : firstname    값 : =Item.first\_name
 * 열 : lastname     값:  =Item.last\_name
 
-<figure><img src="../../../../.gitbook/assets/image (689).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (700).png" alt=""><figcaption></figcaption></figure>
 
 3\. 실행을 하여 여러줄 텍스트 박스에 아 JSON 문자열을 입력하고,  JSON 직렬화 버튼을 클릭하면 리스트뷰에 필드들이 저장되는 것을 확인할 수 있습니다.&#x20;
 
@@ -67,4 +67,4 @@ JSON 역직렬화 명령을 사용하면 JSON 문자열을 JSON 객체로 변환
 {"first_name": "Naomi",  "last_name": "Green"}]}
 ```
 
-<figure><img src="../../../../.gitbook/assets/image (1267).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1278).png" alt=""><figcaption></figcaption></figure>

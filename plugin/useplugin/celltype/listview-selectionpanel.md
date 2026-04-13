@@ -14,12 +14,12 @@ SelectionPanel 플러그인을 사용하여 리스트뷰에서 선택한 항목�
 2. Forguncy Builder에서 설치하고 Forguncy Builder를 다시 실행합니다.
 3. 페이지에 리스트뷰를 추가합니다.
 
-<figure><img src="../../../.gitbook/assets/image (1201).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1212).png" alt=""><figcaption></figcaption></figure>
 
 4\. 셀 범위를 선택하고 해당 셀 유형을 ListView 선택 항목 표시기로 설정합니다.
 
-<figure><img src="../../../.gitbook/assets/image (1043).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1054).png" alt=""><figcaption></figcaption></figure>
 
 5\. 실행하면 리스트뷰 선택항목이 나오는 것을 확인할 수 있습니다.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (2091).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2102).png" alt=""><figcaption></figcaption></figure>

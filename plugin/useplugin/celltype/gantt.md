@@ -12,7 +12,7 @@
 
 ### 최소 구성만 사용하는 방법&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (515).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (526).png" alt=""><figcaption></figcaption></figure>
 
 1. 플러그인을 다운로드합니다.
 2. Forguncy Builder에서 설치하고 Forguncy Builder를 다시 실행합니다.
@@ -38,55 +38,55 @@
 
 &#x20;         \* 필수 값 : 3번에서 만든 필드와 연결&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (1625).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1636).png" alt=""><figcaption></figcaption></figure>
 
 ### 간트차트 툴바 설명
 
-<figure><img src="../../../.gitbook/assets/image (1443).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1454).png" alt=""><figcaption></figcaption></figure>
 
-![](<../../../.gitbook/assets/image (1780).png>): 현재 작업(task) 위에  작업 추가
+![](<../../../.gitbook/assets/image (1791).png>): 현재 작업(task) 위에  작업 추가
 
-![](<../../../.gitbook/assets/image (1860).png>): 현재 작업(task) 아래에 작업 추가&#x20;
+![](<../../../.gitbook/assets/image (1871).png>): 현재 작업(task) 아래에 작업 추가&#x20;
 
-![](<../../../.gitbook/assets/image (579).png>): 현재 작업 수준(Level) 줄이기 ,가장 높은 작업수준(Level)은 단일노드 (Leaf node)
+![](<../../../.gitbook/assets/image (590).png>): 현재 작업 수준(Level) 줄이기 ,가장 높은 작업수준(Level)은 단일노드 (Leaf node)
 
-![](<../../../.gitbook/assets/image (2008).png>): 현재 작업 수준 올리기
+![](<../../../.gitbook/assets/image (2019).png>): 현재 작업 수준 올리기
 
-![](<../../../.gitbook/assets/image (1176).png>): 같은 수준(Level)에서 현재 작업을 위로 이동&#x20;
+![](<../../../.gitbook/assets/image (1187).png>): 같은 수준(Level)에서 현재 작업을 위로 이동&#x20;
 
-![](<../../../.gitbook/assets/image (1872).png>): 같은 수준(Level)에서 현재 작업을 아래로 이동&#x20;
+![](<../../../.gitbook/assets/image (1883).png>): 같은 수준(Level)에서 현재 작업을 아래로 이동&#x20;
 
-![](<../../../.gitbook/assets/image (1651).png>):  현재 작업 삭제&#x20;
+![](<../../../.gitbook/assets/image (1662).png>):  현재 작업 삭제&#x20;
 
-![](<../../../.gitbook/assets/image (622).png>) :  현재 작업의 서브작업 확장&#x20;
+![](<../../../.gitbook/assets/image (633).png>) :  현재 작업의 서브작업 확장&#x20;
 
-![](<../../../.gitbook/assets/image (2042).png>):  현재 작업의 서브작업 축소&#x20;
+![](<../../../.gitbook/assets/image (2053).png>):  현재 작업의 서브작업 축소&#x20;
 
-![](<../../../.gitbook/assets/image (1492).png>) : 시간 단위(월 → 주)를 줄이고 오른쪽 보기의 크기를 늘림&#x20;
+![](<../../../.gitbook/assets/image (1503).png>) : 시간 단위(월 → 주)를 줄이고 오른쪽 보기의 크기를 늘림&#x20;
 
-![](<../../../.gitbook/assets/image (1684).png>) : 시간 단위(월 → 주)를 늘리고 오른쪽 보기의 크기를 줄임&#x20;
+![](<../../../.gitbook/assets/image (1695).png>) : 시간 단위(월 → 주)를 늘리고 오른쪽 보기의 크기를 줄임&#x20;
 
-![](<../../../.gitbook/assets/image (649).png>):  오른쪽 그래프 화면으로 전체보기&#x20;
+![](<../../../.gitbook/assets/image (660).png>):  오른쪽 그래프 화면으로 전체보기&#x20;
 
-![](<../../../.gitbook/assets/image (688).png>): 왼쪽 편집 화면과 오른쪽 그래프 화면으로 나누기&#x20;
+![](<../../../.gitbook/assets/image (699).png>): 왼쪽 편집 화면과 오른쪽 그래프 화면으로 나누기&#x20;
 
-![](<../../../.gitbook/assets/image (1877).png>): 왼쪽 편집 화면으로 전체보기&#x20;
+![](<../../../.gitbook/assets/image (1888).png>): 왼쪽 편집 화면으로 전체보기&#x20;
 
-![](<../../../.gitbook/assets/image (2007).png>): 크리티컬 패스(critical path) 하이라이트
+![](<../../../.gitbook/assets/image (2018).png>): 크리티컬 패스(critical path) 하이라이트
 
-![](<../../../.gitbook/assets/image (859).png>): 작업 상태 색상 표시/표시안하기&#x20;
+![](<../../../.gitbook/assets/image (870).png>): 작업 상태 색상 표시/표시안하기&#x20;
 
-![](<../../../.gitbook/assets/image (1730).png>): 오른쪽 그래프의 표시 방식 전환: 계획만 표시, 계획 표시, 실제 표시.
+![](<../../../.gitbook/assets/image (1741).png>): 오른쪽 그래프의 표시 방식 전환: 계획만 표시, 계획 표시, 실제 표시.
 
 &#x20;        (actualStart 및 actualEnd 컬럼을 설정하지 않으면 이 버튼이 나타나지 않습니다.)
 
-![](<../../../.gitbook/assets/image (1644).png>): 저장 버튼, 테이블에 데이터를 저장
+![](<../../../.gitbook/assets/image (1655).png>): 저장 버튼, 테이블에 데이터를 저장
 
 &#x20;        (데이터는 테이블에 제출하게 되며 테이블 테이블을 데이터베이스에 제출할지 여부는 사용자가 설정    합니다. 데이터 -> 데이터 제출 방법 -> 데이터 느슨한 바인딩 설정과 같은 테이블 설정에 주의하십시오. )
 
 ### 고급설정 사용방법&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (1585).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1596).png" alt=""><figcaption></figcaption></figure>
 
 이 섹션에서 설명하는 구성은 선택사항입니다.&#x20;
 
@@ -94,7 +94,7 @@
 
 <table><thead><tr><th width="93"></th><th width="153">필드명 </th><th width="310">설명 </th><th>codeName</th></tr></thead><tbody><tr><td>1</td><td>CodeName</td><td>작업 코드, E.g. A1234.</td><td>string</td></tr><tr><td>2</td><td>Description</td><td>작업 설명 </td><td>string</td></tr><tr><td>3</td><td>Progress</td><td>작업 완료 진행률, 예. 100%</td><td>int</td></tr><tr><td>4</td><td>Assigs</td><td>작업에서 사용한 리소스의 최종 결과 텍스트</td><td>string</td></tr><tr><td>5</td><td>IsMilestone</td><td>작업 이정표 </td><td>boolean</td></tr><tr><td>6</td><td>Actual Start</td><td>(계획된) 시작 시간을 보완하는 작업의 실제 시작 시간</td><td>OADATA</td></tr><tr><td>7</td><td>Actual End</td><td>(계획된) 종료 시간에 대한 보충으로 작업의 실제 시작 시간</td><td>OADATA</td></tr><tr><td>8 </td><td>Assigns</td><td>담당자 </td><td>string </td></tr></tbody></table>
 
-<figure><img src="../../../.gitbook/assets/image (403).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (414).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 * ActualStart : Null인 경우 그래프에 실제 정보가 그려지지 않습니다.&#x20;
@@ -129,7 +129,7 @@
 | ![](https://gcdn.grapecity.com.cn/data/attachment/forum/202011/28/233810d5mlhwtt96px3dtw.png)Suspended | 작업이 일시 중단됨  | string |
 | ![](https://gcdn.grapecity.com.cn/data/attachment/forum/202011/28/233540b4qq0d4dt4it09q6.png)Waiting   | 작업 대기 중     | string |
 
-<figure><img src="../../../.gitbook/assets/image (359).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (370).png" alt=""><figcaption></figcaption></figure>
 
 3\. 다른 데이터 테이블 사용&#x20;
 
@@ -145,6 +145,6 @@
 
 작업 명령을 설정하면 웹 페이지에 명령 열이 표시됩니다. 아이콘을 클릭하거나 행을 클릭하면 명령이 실행됩니다.
 
-<figure><img src="../../../.gitbook/assets/image (658).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (669).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (1588).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1599).png" alt=""><figcaption></figcaption></figure>

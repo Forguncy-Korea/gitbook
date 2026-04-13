@@ -8,7 +8,7 @@
 2. Forguncy Builder에서 설치하고 Forguncy Builder를 다시 실행합니다.
 3. 셀 범위를 선택하고 해당 셀 유형을 메뉴로 설정합니다.&#x20;
 
-<figure><img src="../../../../.gitbook/assets/image (2078).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (2089).png" alt=""><figcaption></figcaption></figure>
 
 4\. 속성 설정 영역의 "셀 설정" 탭에서 메뉴를 설정하며, 설정 설명은 표 1을 참조한다.
 

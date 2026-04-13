@@ -19,7 +19,7 @@
 * ![영상](https://gccndocumentsitestorage.blob.core.chinacloudapi.cn/document-site-files/images/03fe0519-46b1-4a5e-a4a7-f63ca4bfa6df/image.149ecc.png)로그를 CSV로 내보내려면 클릭하세요 .
 * 더 많은 쿼리 조건을 설정하려면 "열추가"를 클릭하세요.
 
-<figure><img src="../../../.gitbook/assets/image (2545).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2556).png" alt=""><figcaption></figcaption></figure>
 
 ![영상](https://gccndocumentsitestorage.blob.core.chinacloudapi.cn/document-site-files/images/03fe0519-46b1-4a5e-a4a7-f63ca4bfa6df/image.83f0bb.png)이 요청과 관련된 로그를 보려면 로그 행의 맨 오른쪽을 클릭하세요 .
 
@@ -49,7 +49,7 @@
 
 설정이 완료되면 "설정 저장" 버튼을 클릭하세요.
 
-<figure><img src="../../../.gitbook/assets/image (2546).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2557).png" alt=""><figcaption></figcaption></figure>
 
 ### 진단 로그 <a href="#zhen-duan-ri-zhi" id="zhen-duan-ri-zhi"></a>
 
@@ -61,7 +61,7 @@
 
 전체 진단 로그 항목은 타임스탬프, 로그 수준, 스레드 ID, 추적 컨텍스트 ID, 애플리케이션 이름, 프로세스 이름, 로그 콘텐츠 등 7개 부분으로 구성됩니다.
 
-<figure><img src="../../../.gitbook/assets/image (2547).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2558).png" alt=""><figcaption></figcaption></figure>
 
 * 타임스탬프: 로그 기록 시간을 나타냅니다. 이 시간과 텍스트 파일의 시간 사이에는 약간의 차이(밀리초 정도)가 있을 수 있습니다.
 * 로그 수준: 현재 진단 로그는 문제의 심각도에 따라 오름차순으로 추적, 디버그, 정보, 경고, 오류의 5개 수준으로 나뉩니다. 시스템은 기본적으로 정보 수준 로깅을 활성화합니다. 오류 수준 로그는 빨간색으로 표시되고, 경고 수준 로그는 노란색으로 표시되며, 기타 수준 로그는 기본 색상으로 표시됩니다.
@@ -72,7 +72,7 @@
 
 로그 표시 내용, 편집기 표시 내용, 기본 글꼴 크기, 스크롤 로딩 항목 수 등을 구성하여 ![영상](https://gccndocumentsitestorage.blob.core.chinacloudapi.cn/document-site-files/images/03fe0519-46b1-4a5e-a4a7-f63ca4bfa6df/image.4bd81e.png)고급 설정을 지정하고 공개 로그 접두어 표시를 사용자 정의 하려면 클릭하세요 .
 
-<figure><img src="../../../.gitbook/assets/image (183).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (194).png" alt=""><figcaption></figcaption></figure>
 
 * 로그 표시 내용: 스레드 ID,  ContextId, 앱 이름, 프로세스 명을 확인할 수 있습니다.
 * 편집기 표시 내용: 로그의 썸네일을 표시할지 여부입니다. 썸네일이 활성화되면 VsCode의 썸네일과 유사한 썸네일이 로그 편집기 오른쪽에 표시됩니다.
@@ -87,7 +87,7 @@
 
 로그 수준을 수정하면 서비스를 다시 시작하지 않고도 실시간으로 적용됩니다.
 
-<figure><img src="../../../.gitbook/assets/image (2548).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2559).png" alt=""><figcaption></figcaption></figure>
 
 #### 설정 저장 <a href="#cun-chu-she-zhi" id="cun-chu-she-zhi"></a>
 
@@ -108,4 +108,4 @@
 
 로그 데이터는 기본적으로 InfluxDB 데이터베이스에 저장됩니다. 다른 데이터베이스로 전환할 수 있습니다. 전환 후에는 새 로그 데이터가 전환된 데이터베이스에 저장됩니다.<br>
 
-<figure><img src="../../../.gitbook/assets/image (186).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (197).png" alt=""><figcaption></figcaption></figure>

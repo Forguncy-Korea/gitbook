@@ -6,13 +6,13 @@
 
 선택 설정에는 행 선택 체크박스 상태 유지, 단일 셀 단위만 선택 허용 (드래그 비허용)이 있습니다.
 
-![](<../../.gitbook/assets/image (1393).png>)
+![](<../../.gitbook/assets/image (1404).png>)
 
 ### 단일 셀 단위만 선택 허용 (드래그 비허용)&#x20;
 
 다중 선택은 기본적으로 허용됩니다. "단일 셀 단위만 선택 허용"을 선택하면 다중 선택이 단일 선택만 가능합니다.
 
-![](<../../.gitbook/assets/image (2165).png>)
+![](<../../.gitbook/assets/image (2176).png>)
 
 ## 행 선택 체크박스 상태 유지  <a href="#id-xuan-ze-she-zhi-shi-zhong-bao-liu-xuan-ze-xiang" id="id-xuan-ze-she-zhi-shi-zhong-bao-liu-xuan-ze-xiang"></a>
 
@@ -20,11 +20,11 @@
 
 이 옵션을 선택하면 리스트뷰를 다시 로드할 때 리스트뷰의 선택이 유지됩니다. 리스트뷰 선택 항목기를 사용할 때 이 옵션을 선택하는 것이 좋습니다.
 
-<figure><img src="../../.gitbook/assets/image (2301).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2312).png" alt=""><figcaption></figcaption></figure>
 
 예를 들어 항상 선택 항목 유지를 선택하지 않으면 테이블이 페이징되고 첫 번째 페이지의 데이터를 선택한 다음 페이지를 넘기고 다음 페이지의 데이터를 선택하면 이전에 선택한 데이터가 유지되지 않습니다.
 
 행 선택 체크박스 상태 유지를 선택한 후 첫 번째 페이지의 데이터를 선택한 다음 페이지를 뒤집어 다음 페이지의 데이터를 선택하면 이전에 선택한 데이터가 유지됩니다.
 
-<figure><img src="../../.gitbook/assets/image (2302).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2313).png" alt=""><figcaption></figcaption></figure>
 

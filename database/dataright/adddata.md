@@ -8,19 +8,19 @@
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72356953/%E6%AD%A5%E9%AA%A41.png?version=1\&modificationDate=1648092599000\&api=v2) 데이터 테이블을 열고 테이블 설정에서 데이터 추가/생성 권한 편집을 체크한 후 \[권한 편집..]을 클릭합니다.
 
-<figure><img src="../../.gitbook/assets/image (2540).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2551).png" alt=""><figcaption></figcaption></figure>
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72356953/%E6%AD%A5%E9%AA%A42.png?version=1\&modificationDate=1648092599000\&api=v2) 승인된 사용자를 설정하세요. 역할 열을 클릭하면 팝업 역할 목록에서 레코드 생성 권한을 부여하는 역할을 선택할 수 있습니다. 예를 들어 "로그인한 사용자"를 선택합니다.
 
 권한 제어 행을 선택하고 클릭하여 ![](https://gccndocumentsitestorage.blob.core.chinacloudapi.cn/document-site-files/images/8ca07557-62b8-4219-8ddd-357e505dc985/80944501/image2023-2-23_14-36-37.png)삭제합니다.
 
-<figure><img src="../../.gitbook/assets/image (2542).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2553).png" alt=""><figcaption></figcaption></figure>
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72356953/%E6%AD%A5%E9%AA%A43.png?version=1\&modificationDate=1648092599000\&api=v2) 행 조건 필터링을 설정하면 조건에 맞는 레코드가 필터링되어 승인된 사용자가 해당 작업을 수행할 수 있습니다.
 
 조건 필터 열을 클릭하여 조건을 설정하세요. 팝업 조건 필터 대화 상자에서 조건을 설정합니다. 예를 들어 아래 그림과 같이 조건을 "2023/1/1보다 큰 주문날짜"로 설정합니다.
 
-<figure><img src="../../.gitbook/assets/image (2544).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2555).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -30,5 +30,5 @@
 
 * 주문 날짜가 2023/1/1보다 작으면 레코드 생성이 실패합니다.
 
-![](<../../.gitbook/assets/image (366).png>)
+![](<../../.gitbook/assets/image (377).png>)
 

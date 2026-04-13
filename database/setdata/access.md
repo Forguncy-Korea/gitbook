@@ -13,14 +13,14 @@ Access 파일 데이터 테이블을 만드는 방법을 설명합니다.
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72351986/%E6%AD%A5%E9%AA%A41.png?version=1\&modificationDate=1648092524000\&api=v2) 리본의 메뉴 모음에서 \[데이터-> Access-테이블]을 선택합니다.
 
-<figure><img src="../../.gitbook/assets/image (2538).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2549).png" alt=""><figcaption></figcaption></figure>
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72351986/%E6%AD%A5%E9%AA%A42.png?version=1\&modificationDate=1648092524000\&api=v2)  가져올 Access 파일을 선택하고 \[열기]를 클릭합니다.
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72351986/%E6%AD%A5%E9%AA%A43.png?version=1\&modificationDate=1648092524000\&api=v2) 가져올 테이블을 선택하고 데이터 소스의 테이블을 선택한 테이블 영역으로 이동하려면 누릅니다.![](https://help.grapecity.com.cn/download/thumbnails/72351986/image2019-1-12_16-7-35.png?version=1\&modificationDate=1648092524000\&api=v2)
 
-![](<../../.gitbook/assets/image (473).png>)
+![](<../../.gitbook/assets/image (484).png>)
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72351986/%E6%AD%A5%E9%AA%A44.png?version=1\&modificationDate=1648092524000\&api=v2) \[확인]을 클릭하면 Access 파일의 데이터가 포건시로 가져옵니다.
 
-![](<../../.gitbook/assets/image (1739).png>)
+![](<../../.gitbook/assets/image (1750).png>)

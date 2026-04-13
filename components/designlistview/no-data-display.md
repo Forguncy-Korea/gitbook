@@ -8,11 +8,11 @@
 
 데이터가 없을 때 콘텐츠 설정 대화 상자를 팝업하려면 "항목이 없을 때  내용 설정 하이퍼링크를 클릭하세요.
 
-<figure><img src="../../.gitbook/assets/image (2471).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2482).png" alt=""><figcaption></figcaption></figure>
 
 항목이 없을 때 내용 설정을 클릭하면 아래와 같은 팝업창이 뜹니다.
 
-<figure><img src="../../.gitbook/assets/image (2472).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2483).png" alt=""><figcaption></figcaption></figure>
 
 | 설정     | 설명                                                         |
 | ------ | ---------------------------------------------------------- |

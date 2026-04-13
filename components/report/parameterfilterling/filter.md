@@ -12,20 +12,20 @@
 
 ![](https://help.grapecity.com.cn/download/thumbnails/56537584/%E6%AD%A5%E9%AA%A42.png?version=1\&modificationDate=1615944153000\&api=v2) 보고서 매개 변수를 추가합니다. 보고서 디자이너 오른쪽에 있는 데이터  패널을 열고 다음 그림과 같이 보고서 매개 변수 영역의 추가를 클릭합니다.
 
-![](<../../../.gitbook/assets/image (604).png>)
+![](<../../../.gitbook/assets/image (615).png>)
 
 ![](https://help.grapecity.com.cn/download/thumbnails/56537584/%E6%AD%A5%E9%AA%A43.png?version=1\&modificationDate=1615944153000\&api=v2)  데이터 필터를 추가합니다. 전체 테이블 구성 요소를 선택하여 속성 설정 패널을 엽니다. \[데이터 필터] 항목 뒤에 있는 \[필터 추가]를 클릭합니다.
 
-![](<../../../.gitbook/assets/image (523).png>)
+![](<../../../.gitbook/assets/image (534).png>)
 
 ![](https://help.grapecity.com.cn/download/thumbnails/56537584/%E6%AD%A5%E9%AA%A44.png?version=1\&modificationDate=1615944153000\&api=v2)  필터를 구성합니다. 데이터 집합의 필드를 직접 선택하거나 "표현식"을 선택하여 복잡한 표현식을 추가할 수 있습니다. 그룹을 추가하여 필터 그룹을 추가할 수도 있습니다.
 
 필터와 필터 그룹 간에는 다양한 필터 요구 사항을 충족하기 위해 위쪽의 버튼 통해 관계를 구성할 수 있습니다.
 
-![](<../../../.gitbook/assets/image (2122).png>)
+![](<../../../.gitbook/assets/image (2133).png>)
 
 ![](https://help.grapecity.com.cn/download/thumbnails/56537584/%E6%AD%A5%E9%AA%A45.png?version=1\&modificationDate=1615944154000\&api=v2)  보고서를 미리 봅니다. 매개변수 패널에 "남" 입력한 후 미리 보기를 클릭합니다.
 
 성별이 남자인 데이터만 나오는 것을 확인할 수 있다.&#x20;
 
-![](<../../../.gitbook/assets/image (2146).png>)
+![](<../../../.gitbook/assets/image (2157).png>)

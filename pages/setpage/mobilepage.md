@@ -12,15 +12,15 @@
 
 팝업 페이지 템플릿 선택 대화 상자에서 비즈니스 시나리오에 따라 페이지 템플릿을 선택해야 합니다. 빈 페이지, 대시보드,  작업현황, 메인화면  등을포함합니다.
 
-<figure><img src="../../.gitbook/assets/image (100).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (111).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (98).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (109).png" alt=""><figcaption></figcaption></figure>
 
 **방법 2.** 개체 관리자의 페이지 탭에서 마우스 오른쪽 버튼을 클릭하여 새 모바일  페이지 만들기를 클릭합니다.
 
-<figure><img src="../../.gitbook/assets/image (101).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (112).png" alt=""><figcaption></figcaption></figure>
 
-생성이 완료되면 "시작-> ![](<../../.gitbook/assets/image (102).png>)"을 클릭하거나 빠른 액세스 표시줄을 클릭하세요 ![](https://gccndocumentsitestorage.blob.core.chinacloudapi.cn/document-site-files/images/8ca07557-62b8-4219-8ddd-357e505dc985/80939705/image2018-1-29_11-5-15.png). 생성된 모바일 페이지가 컴퓨터 브라우저의 모바일시뮬레이터에 표시됩니다.
+생성이 완료되면 "시작-> ![](<../../.gitbook/assets/image (113).png>)"을 클릭하거나 빠른 액세스 표시줄을 클릭하세요 ![](https://gccndocumentsitestorage.blob.core.chinacloudapi.cn/document-site-files/images/8ca07557-62b8-4219-8ddd-357e505dc985/80939705/image2018-1-29_11-5-15.png). 생성된 모바일 페이지가 컴퓨터 브라우저의 모바일시뮬레이터에 표시됩니다.
 
 {% hint style="info" %}
 * 모바일  시뮬레이터에 모바일  페이지를 표시하지 않으려면 드롭다운 메뉴에서 브라우저 실행을 선택할 수 있습니다. 모바일 시뮬레이터를 사용하여 일반 웹 페이지 페이지를 실행하도록 선택하면 설정된 휴대폰 페이지가 표시됩니다.

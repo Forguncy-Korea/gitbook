@@ -7,7 +7,7 @@
 셀 유형 작동명령을 사용할 때 대상 셀을 선택해야 합니다. 대상 셀에 대한 셀 유형이 설정되지 않은 경우 \
 "선택된 셀없유형에는  가능한는작업이 없습니다"   라는메시지가 표시됩니다.
 
-<figure><img src="../../.gitbook/assets/image (467).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (478).png" alt=""><figcaption></figcaption></figure>
 
 예를 들어 대상 셀을 F2로 설정하고 셀 유형을 콤보 상자로 설정하면 대상 셀을 선택하면 해당 셀에서 수행할 수 있는 작업이 "작동"에 나열됩니다.
 
@@ -17,4 +17,4 @@
 
 
 
-<figure><img src="../../.gitbook/assets/image (465).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (476).png" alt=""><figcaption></figcaption></figure>

@@ -8,6 +8,6 @@ Excel 명령으로 내보내기 페이지에서 고급 설정을 지정하고 �
 
 내보낸 파일을 암호화하려면 다음 텍스트 상자에 암호화 비밀번호를 설정하세요. 비밀번호는 직접 설정하거나 매개변수로 설정할 수 있습니다.
 
-<figure><img src="../../../../.gitbook/assets/image (246).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (257).png" alt=""><figcaption></figcaption></figure>
 
 ### &#x20;<a href="#dao-chu-ye-mian-de-xin-xi-she-zhi" id="dao-chu-ye-mian-de-xin-xi-she-zhi"></a>

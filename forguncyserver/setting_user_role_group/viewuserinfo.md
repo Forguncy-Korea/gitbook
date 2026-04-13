@@ -6,7 +6,7 @@
 
 리본 메뉴 모음에서 \[만들기>뷰>사용자 정보 뷰 만들기]를 선택합니다.
 
-<figure><img src="../../.gitbook/assets/image (2420).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2431).png" alt=""><figcaption></figcaption></figure>
 
 사용자 관리 보기에는 다음 9가지 보기가 포함됩니다.
 
@@ -26,5 +26,5 @@
 
 보기가 추가되면 테이블 레이블 표시줄 아래에 사용자 관리 보기가 표시됩니다.
 
-<figure><img src="../../.gitbook/assets/image (2421).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2432).png" alt=""><figcaption></figcaption></figure>
 

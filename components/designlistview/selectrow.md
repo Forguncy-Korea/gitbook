@@ -8,21 +8,21 @@
 
 방법 1. 리스트뷰를 선택한 후 리본메뉴의 \[리스트뷰 도구-디자인-스타일 옵션] 영역에서 \[열 선택]을 선택합니다.
 
-![](<../../.gitbook/assets/image (1769).png>)
+![](<../../.gitbook/assets/image (1780).png>)
 
 방법 2. 리스트뷰를 선택하고 마우스 오른쪽 버튼을 클릭하고 마우스 오른쪽 버튼 클릭 메뉴에서 \[리스트뷰  옵션 설정]을 선택하고 리스트뷰 설정 대화 상자를 표시한 다음 \[행 선택 체크박스 표시하기]를 선택합니다.
 
-![](<../../.gitbook/assets/image (2184).png>)
+![](<../../.gitbook/assets/image (2195).png>)
 
 선택 열이 표시되면 비어 있는지 여부에 관계없이 리스트뷰 행의 첫 번째 셀이 체크박스로 설정됩니다.
 
 ListView 선택 항목  표시기  플러그인과 함께 사용할 수 있습니다. 선택 열을 표시하도록 테이블을 설정한 후 페이지에서 셀 영역을 선택하고 아래 그림과 같이 "ListView 선택 항목  표시기"로 설정합니다.
 
-<figure><img src="../../.gitbook/assets/image (2299).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2310).png" alt=""><figcaption></figcaption></figure>
 
 행을선택하려면  리스트뷰에서 레코드 앞의 체크박스를 선택하면 선택한 레코드가 리스트뷰 선택 항목표시기에 표시됩니다.
 
-<figure><img src="../../.gitbook/assets/image (2300).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2311).png" alt=""><figcaption></figcaption></figure>
 
 
 

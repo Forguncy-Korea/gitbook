@@ -30,8 +30,8 @@ alert(arg2.pageName);
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72365941/%E6%AD%A5%E9%AA%A41.png?version=1\&modificationDate=1648092738000\&api=v2)페이지 설정에서 JavaScript 파일을 업로드하고 JavaScript 코드를 입력합니다.
 
-<figure><img src="../../../../../.gitbook/assets/image (1738).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (1749).png" alt=""><figcaption></figcaption></figure>
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72365923/%E6%AD%A5%E9%AA%A42.png?version=1\&modificationDate=1648092738000\&api=v2)페이지를 실행하면 페이지가 로드될 때 페이지 1의 페이지 이름을 표시하는 경고 상자가 나타납니다.
 
-<figure><img src="../../../../../.gitbook/assets/image (653).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (664).png" alt=""><figcaption></figcaption></figure>

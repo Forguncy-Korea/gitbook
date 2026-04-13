@@ -12,4 +12,4 @@
 * Enter 키를 누르면 셀의 포커스가 수평으로 이동합니다.
 * 키보드를 사용하여 포커스를 전환하는 경우 편집 가능한 셀 간에만 전환됩니다.
 
-<figure><img src="../../.gitbook/assets/image (2458).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2469).png" alt=""><figcaption></figcaption></figure>

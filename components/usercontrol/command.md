@@ -8,7 +8,7 @@
 
 사용자  컨트롤에 사용자  컨트롤  속성을 생성한 후 사용자  컨트롤  요소의 명령어 설정 시 "속성값 설정" 명령어로 설정할 수 있다.
 
-<figure><img src="../../.gitbook/assets/image (2257).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2268).png" alt=""><figcaption></figcaption></figure>
 
 | 속성             | 설명                 |
 | -------------- | ------------------ |
@@ -21,7 +21,7 @@
 
 사용자  컨트롤에서 사용자  컨트롤 Event가 생성된 후 사용자  컨트롤 Element의 명령을 설정할 때 "사용자정의컨트롤  명령  호출"로 설정할 수 있으며 명령이름은 생성된 이벤트를 선택한다.
 
-<figure><img src="../../.gitbook/assets/image (2256).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2267).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -29,8 +29,8 @@
 
 사용자  컨트롤 페이지의 페이지 설정에서 속성이 변경될 때 명령을 편집할 수 있습니다.
 
-<figure><img src="../../.gitbook/assets/image (2264).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2275).png" alt=""><figcaption></figcaption></figure>
 
 이 명령에서는 속성 이름, 이전 값 및 새로운값의 세 가지 매개변수가 자동으로 생성되며 이 세 매개변수를 다른 명령에서 사용할 수 있습니다.
 
-<figure><img src="../../.gitbook/assets/image (2216).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2227).png" alt=""><figcaption></figcaption></figure>

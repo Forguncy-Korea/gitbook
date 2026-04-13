@@ -18,12 +18,12 @@
 
 <br>
 
-<figure><img src="../../../.gitbook/assets/image (1077).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1088).png" alt=""><figcaption></figcaption></figure>
 
 위 그림에서 "매개변수1" 은 데이터 소스 파라미터이고 "queryvalue" 파라미터는 보고서 매개변수입니다.
 
-<figure><img src="../../../.gitbook/assets/image (663).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (674).png" alt=""><figcaption></figcaption></figure>
 
 
 
-<figure><img src="../../../.gitbook/assets/image (668).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (679).png" alt=""><figcaption></figcaption></figure>

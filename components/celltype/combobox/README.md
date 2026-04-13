@@ -2,7 +2,7 @@
 
 셀을 콤보 상자로 설정하고 실행 후 드롭다운 상자에서 항목을 선택할 수 있습니다. 콤보 상자는 아래 그림 에 나와 있습니다.
 
-<figure><img src="../../../.gitbook/assets/image (1082).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1093).png" alt=""><figcaption></figcaption></figure>
 
 ## 드롭다운/콤보상자 설정&#x20;
 
@@ -40,7 +40,7 @@
 
 데이터베이스에서 항목 빌드를 선택하지 않으면 항목 이름을 직접 정의하고 +,-를 사용하여 항목을 늘리거나 줄일 수 있습니다.
 
-<figure><img src="../../../.gitbook/assets/image (1249).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1260).png" alt=""><figcaption></figcaption></figure>
 
 #### 고급 설정 <a href="#id-zu-he-kuang-gao-ji-she-zhi" id="id-zu-he-kuang-gao-ji-she-zhi"></a>
 
@@ -54,7 +54,7 @@
 
 예를 들어 고급 설정을 클릭하여 다음 그림과 같이 항목의 값을 수정합니다.
 
-<figure><img src="../../../.gitbook/assets/image (1247).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1258).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -62,7 +62,7 @@
 
 * 기본값을 \[2]로 설정하면 콤보 상자에서 \[항목2]가 선택됩니다.
 
-<figure><img src="../../../.gitbook/assets/image (549).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (560).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -77,4 +77,4 @@
 * 체크박스를 선택하면 실행 후 마우스 휠과 키보드 위 또는 아래로 키를 사용하여 실행 후 콤보 상자 셀의 값을 수정할 수 있습니다.
 * 체크박스를 선택하지 않으면 실행 후 마우스 휠과 키보드 위/아래 키를 사용하여 콤보 상자 셀의 값을 수정할 수 없습니다.
 
-<figure><img src="../../../.gitbook/assets/image (1597).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1608).png" alt=""><figcaption></figcaption></figure>

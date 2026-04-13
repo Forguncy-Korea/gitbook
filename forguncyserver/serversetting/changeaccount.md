@@ -6,11 +6,11 @@
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72363430/%E6%AD%A5%E9%AA%A41.png?version=1\&modificationDate=1648092701000\&api=v2) Windows 시작 메뉴를 열고 제어판-> 시스템 및 보안-> 관리 도구-> 서비스를 선택하고 목록에서 ForguncyServerService를 찾아 두 번 클릭합니다.
 
-![](<../../.gitbook/assets/image (2131).png>)
+![](<../../.gitbook/assets/image (2142).png>)
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72363430/%E6%AD%A5%E9%AA%A42.png?version=1\&modificationDate=1648092701000\&api=v2) 대화 상자에서 로그인 탭을 선택하고 이 계정을 선택하고 데이터베이스에 액세스할 수 있는 사용자 이름과 암호를 입력합니다.
 
-![](<../../.gitbook/assets/image (1149).png>)
+![](<../../.gitbook/assets/image (1160).png>)
 
 {% hint style="info" %}
 * 사용자는 관리자여야 합니다.
@@ -19,4 +19,4 @@
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72363430/%E6%AD%A5%E9%AA%A43.png?version=1\&modificationDate=1648092701000\&api=v2) 포건시 서버를 다시 시작합니다. \[ForguncyServerService]를 마우스 오른쪽 버튼 클릭하고 \[다시 시작]을 선택합니다.
 
-![](<../../.gitbook/assets/image (1829).png>)
+![](<../../.gitbook/assets/image (1840).png>)

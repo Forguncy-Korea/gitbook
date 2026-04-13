@@ -10,23 +10,23 @@
 
 리본 메뉴 모음에서 \[보고]를 선택하거나, 페이지 설정 대화 상자를 클릭하고, \[페이지] 탭을 클릭하고, 인쇄 머리글 영역에서 맨 위 머리글 행과 왼쪽 머리글 열을 설정합니다.![](https://help.grapecity.com.cn/download/thumbnails/72356550/image2020-3-16_11-7-18.png?version=1\&modificationDate=1648092593000\&api=v2)
 
-![](<../../.gitbook/assets/image (1676).png>)
+![](<../../.gitbook/assets/image (1687).png>)
 
 **위쪽에서 반복할 행 수**&#x20;
 
 위쪽에서 반복할 행 수를 클릭한 후 페이지에서 반복할 머리글 행을 선택합니다.![](https://help.grapecity.com.cn/download/thumbnails/72356550/image2020-3-16_11-10-18.png?version=1\&modificationDate=1648092593000\&api=v2)
 
-![](<../../.gitbook/assets/image (1248).png>)
+![](<../../.gitbook/assets/image (1259).png>)
 
 실행 후 인쇄 버튼 클릭하여 페이지를 PDF로 내보내면 내보낸 페이지에 설정된 제목 줄 내용이 각 페이지에 반복적으로 표시되는 것을 볼 수 있습니다.
 
-![](<../../.gitbook/assets/image (1864).png>)
+![](<../../.gitbook/assets/image (1875).png>)
 
 **왼쪽에서 반복할 열 수**&#x20;
 
 왼쪽 머리글 열 행을 클릭한 후 페이지에서 반복할 머리글 열을 선택합니다.![](https://help.grapecity.com.cn/download/thumbnails/72356550/image2020-3-16_11-10-18.png?version=1\&modificationDate=1648092593000\&api=v2)
 
-![](<../../.gitbook/assets/image (1767).png>)
+![](<../../.gitbook/assets/image (1778).png>)
 
 실행 후 인쇄 버튼을 클릭하여 페이지를 PDF로 내보내면 내보낸 페이지에 설정된 제목 열 내용이 각 페이지에 반복적으로 표시되는 것을 볼 수 있습니다.
 
@@ -40,7 +40,7 @@
 
 페이지에는 "페이지를 PDF 내보내기"라는 명령이 있는 인쇄 버튼이 있습니다. 페이지에서 반복 인쇄할 영역을 선택하고 행 인덱스 열을 마우스 오른쪽 버튼을 클릭한 다음 마우스 오른쪽 버튼 클릭 메뉴에서 반복 영역 \[반복설정>반복 영역으로 설정]으로 설정 을 선택합니다.
 
-![](<../../.gitbook/assets/image (2286).png>)
+![](<../../.gitbook/assets/image (2297).png>)
 
 반복 영역을 설정하면 반복 영역의 행 인덱스 색상이 변경됩니다.
 
@@ -48,16 +48,16 @@
 
 반복 영역의 머리를 설정하고, 반복 영역의 맨 위에서 반복할 머리 영역을 선택하고 마우스 오른쪽 버튼을 클릭한 다음 오른쪽 클릭 메뉴에서 \[반복 설정- > 머리글로 설정]을 선택합니다.
 
-![](<../../.gitbook/assets/image (706).png>)
+![](<../../.gitbook/assets/image (717).png>)
 
 **하단을 설정합니다**
 
 반복 영역의 맨 아래에서 반복할 아래쪽 영역을 선택하고 마우스 오른쪽 버튼을 클릭하고 마우스 오른쪽 버 클릭 메뉴에서 \[반복 설정- > 바닥로 설정]을 선택합니다.
 
-![](<../../.gitbook/assets/image (2287).png>)
+![](<../../.gitbook/assets/image (2298).png>)
 
 반복 영역, 머리 및 아래쪽을 설정하면 세 부분의 행 인덱스 색상이 다를 수 있습니다.
 
 페이지를 실행합니다. 인쇄 버튼을 클릭하면 인쇄된 각 페이지의 머리와 아래쪽에 동일한 내용이 표시됩니다( 즉, 설정된 반복 영역의 머리와 아래쪽).
 
-![](<../../.gitbook/assets/image (378).png>)
+![](<../../.gitbook/assets/image (389).png>)

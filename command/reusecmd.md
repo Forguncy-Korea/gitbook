@@ -6,13 +6,13 @@
 
 재사용명령 기능은 기본적으로 개체 관리자에 표시되지 않는 고급 기능입니다.재사용 명령 앞의 체크박스를 선택하고 "체크"를 클릭하면 개체 관리자에 재사용명령이 표시됩니다.
 
-<figure><img src="../.gitbook/assets/image (848).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (859).png" alt=""><figcaption></figcaption></figure>
 
 ## 재사용 명령&#x20;
 
 리본의 메뉴바에서 "만들기"를 선택한 후 "재사용명령"을 클릭하면 재사용명령을 생성하기 위한 대화상자가 팝업된다.
 
-<figure><img src="../.gitbook/assets/image (2046).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2057).png" alt=""><figcaption></figcaption></figure>
 
 | 항목   | 설명                                                                   |
 | ---- | -------------------------------------------------------------------- |
@@ -25,17 +25,17 @@
 
 
 
-<figure><img src="../.gitbook/assets/image (1805).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1816).png" alt=""><figcaption></figcaption></figure>
 
 다른 페이지에서는 이 재사용 명령을 사용할 수 있습니다.
 
 순서 목록에서 버튼을 설정하고 해당 명령을 편집한 다음 "재사용 명령 호출" 명령을 선택하고 재사용 명령을 선택합니다. 재사용 명령에 매개변수가 있는 경우 매개변수도 설정해야 합니다.
 
-<figure><img src="../.gitbook/assets/image (1097).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1108).png" alt=""><figcaption></figcaption></figure>
 
 실행 후 홈 페이지의 버튼을 클릭하여 grapecity홈페이지로 이동합니다.&#x20;
 
-<figure><img src="../.gitbook/assets/image (500).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (511).png" alt=""><figcaption></figcaption></figure>
 
 ###
 
@@ -64,29 +64,29 @@
 
 일반 명령을 재사용 명령으로 직접 변환할 수도 있습니다. 이미 편집한 명령 창의 명령 목록에서 마우스 오른쪽 버튼 클릭 하 고 메뉴를 팝업 합니다.
 
-![](<../.gitbook/assets/image (1934).png>)
+![](<../.gitbook/assets/image (1945).png>)
 
 \[재사용 명령으로 변환]을 선택하면 재사 명령으로 변환 대화 상자가 나타납니다. 변환된 재사용 명령은 원래 명령을 대체하므로 주의해서 수행합니다.
 
-![](<../.gitbook/assets/image (1523).png>)
+![](<../.gitbook/assets/image (1534).png>)
 
 예를 들어 주문 목록 페이지에서 비활성화 단추를 설정하고, 해당 명령을 편집하여 \[셀 속성과 내용 변경하], 대상 셀은 버,튼 셀 속성은 \[활성화 설정]이고 설정값 비활성화합니다.
 
-![](<../.gitbook/assets/image (1394).png>)
+![](<../.gitbook/assets/image (1405).png>)
 
 이미 편집한 명령 창의 명령 목록에서 마우스 오른쪽 버튼 클릭 하 고 메뉴를 팝업 합니다.
 
 \[재사용 명령으로 변환]을 선택하고 재사용 명령 생성 대화 상자에서 재사용 명령의 이름을 \[버튼 비활성화]로 설정합니다.&#x20;
 
-![](<../.gitbook/assets/image (1438).png>)
+![](<../.gitbook/assets/image (1449).png>)
 
 \[확인]을 클릭하면 셀 속성 설정 명령의 대상 셀인 \[파라미 1]이라는 파라미터가 자동으로 생성됩니다.
 
-![](<../.gitbook/assets/image (2244).png>)
+![](<../.gitbook/assets/image (2255).png>)
 
 재사용 명령 관리자를 열고 재사 명령이 있는 행을 클릭하여 파라미터 이름을 설정할 수 있습니다.![](https://help.grapecity.com.cn/download/thumbnails/72354536/image2019-9-16_13-46-2.png?version=1\&modificationDate=1648092565000\&api=v2)
 
-![](<../.gitbook/assets/image (1416).png>)
+![](<../.gitbook/assets/image (1427).png>)
 
 직원 목록 페이지에서 사용 안 함 버튼 설정하고, 해당 명령을 재사명령으로 편집하고, 재사명령을 "버튼추가 사용 안 함"으로 선택한 후 "대상 셀"이라는 매개 변수를 설정해야 합니다.
 
@@ -94,4 +94,4 @@
 
 페이지를 실행하고 주문 목록 페이지에서 비활성화 버튼을 클릭하면 추가 버튼이 비활성화됩니다
 
-![](<../.gitbook/assets/image (1408).png>)
+![](<../.gitbook/assets/image (1419).png>)

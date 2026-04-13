@@ -4,4 +4,4 @@
 
 FGC\_401 페이지"의 인터페이스와 모양을 수정할 수 있지만 특수 기능이 있는 하이퍼링크는 삭제할 수 없습니다.
 
-<figure><img src="../../../.gitbook/assets/image (1766).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1777).png" alt=""><figcaption></figcaption></figure>

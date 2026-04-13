@@ -37,18 +37,18 @@ alert(masterPageName);
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72366484/%E6%AD%A5%E9%AA%A41.png?version=1\&modificationDate=1648092749000\&api=v2)페이지 1에서 셀 범위를 선택하고 셀 유형을 페이지 내 컨텐츠가 포함된 셀로 설정하고 이름을 "Container"로 지정하고 하위 페이지를 페이지 2로 설정합니다.
 
-<figure><img src="../../../../../.gitbook/assets/image (1181).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (1192).png" alt=""><figcaption></figcaption></figure>
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72366484/%E6%AD%A5%E9%AA%A42.png?version=1\&modificationDate=1648092749000\&api=v2) 페이지 2를 선택하고 마우스 오른쪽 버튼을 클릭한 다음 오른쪽 클릭 메뉴에서 마스터 페이지 설정을 선택한 다음 목록에서 마스터 페이지를 선택합니다.
 
-<figure><img src="../../../../../.gitbook/assets/image (1466).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (1477).png" alt=""><figcaption></figcaption></figure>
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72366484/%E6%AD%A5%E9%AA%A43.png?version=1\&modificationDate=1648092749000\&api=v2)페이지 1에서 셀 범위를 선택하고 셀 유형을 버튼으로 설정하고 명령을 JavaScript 명령으로 편집하고 JavaScript 코드를 입력합니다.
 
-<figure><img src="../../../../../.gitbook/assets/image (780).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (791).png" alt=""><figcaption></figcaption></figure>
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72366484/%E6%AD%A5%E9%AA%A44.png?version=1\&modificationDate=1648092749000\&api=v2)편집이 완료되면 \[확인]을 클릭하여 대화 상자를 닫습니다.
 
 페이지를 실행하고 페이지에서 버튼을 클릭하면 하위 페이지의 마스터 페이지 이름을 표시하는 경고 상자가 나타납니다.
 
-<figure><img src="../../../../../.gitbook/assets/image (1177).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (1188).png" alt=""><figcaption></figcaption></figure>

@@ -2,7 +2,7 @@
 
 콤보 상자의 셀 설정에서 체크박스를 설정해야 하는 항목에서 \[데이터 테이블에서 항목 가져오기]를 선택한 후 데이터베이스의 데이터 생성 콤보 상자의 항목을 선택할 수 있습니다.
 
-<figure><img src="../../../.gitbook/assets/image (1250).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1261).png" alt=""><figcaption></figcaption></figure>
 
 ## 데이터테이블에서 프로젝트 생성&#x20;
 
@@ -15,15 +15,15 @@
 
 예를 들어 제품 테이블의 범주 ID는 범주 테이블의 ID 필드와 연결됩니다.
 
-<figure><img src="../../../.gitbook/assets/image (2114).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2125).png" alt=""><figcaption></figcaption></figure>
 
 셀을 콤보 상자로 설정하고 데이터베이스에서 항목 생성을 선택하고 데이터 테이블, 값 필드, 표시 필드를 선택합니다. 다음 그림과 같이 하위 프로젝트를 설정하려면 \[드롭다운 하위 항목]을 클릭합니다.
 
-<figure><img src="../../../.gitbook/assets/image (1559).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1570).png" alt=""><figcaption></figcaption></figure>
 
 실행 후 드롭다운 버튼을 클릭하면 콤보 상자의 항목과 해당 하위 항목이 표시됩니다.
 
-<figure><img src="../../../.gitbook/assets/image (866).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (877).png" alt=""><figcaption></figcaption></figure>
 
 ## 항목 쿼리&#x20;
 
@@ -47,11 +47,11 @@
 
 다음 그림과 같이 항목 쿼리를 클릭하고 쿼리 조건을 설정하고, 필드는 범주이고, 작업은 같고, 값은 의류입니다.
 
-<figure><img src="../../../.gitbook/assets/image (1294).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1305).png" alt=""><figcaption></figcaption></figure>
 
 실행 후 콤보 상자에 카테고리가 의류와 같은 항목을 쿼리하여 다음과 같이 표시합니다.
 
-<figure><img src="../../../.gitbook/assets/image (479).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (490).png" alt=""><figcaption></figcaption></figure>
 
 ## 항목 정렬&#x20;
 
@@ -64,4 +64,4 @@
 
 다음 그림과 같이 항목 정렬을 클릭하여 정렬 기준을 설정하고 필드를 ID로 설정하고 내림차순으로 정렬합니다.
 
-<figure><img src="../../../.gitbook/assets/image (1265).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1276).png" alt=""><figcaption></figcaption></figure>

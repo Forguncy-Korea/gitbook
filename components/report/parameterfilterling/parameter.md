@@ -6,13 +6,13 @@
 
 ![](https://help.grapecity.com.cn/download/thumbnails/56537582/%E6%AD%A5%E9%AA%A41.png?version=1\&modificationDate=1615882811000\&api=v2) 보고서 디자이너의 오른쪽에서 데이터 바인딩 패널을 연 후 다음 그림과 같이 보고서 매개 변수 영역의 추가를 클릭합니다.
 
-![](<../../../.gitbook/assets/image (1553).png>)
+![](<../../../.gitbook/assets/image (1564).png>)
 
 ![](https://help.grapecity.com.cn/download/thumbnails/56537582/%E6%AD%A5%E9%AA%A42.png?version=1\&modificationDate=1615883436000\&api=v2)  보고서 매개 변수 목록에 나타나는 새 항목인 보고서 매개 변수 1을 클릭하면 보고서 매개 변수에 대한 자세한 설정 정보가 패널에 표시됩니다.
 
 
 
-![](<../../../.gitbook/assets/image (1465).png>)
+![](<../../../.gitbook/assets/image (1476).png>)
 
 보고서 매개 변수 편집 패널의 설정 항목은 다음과 같습니다.
 
@@ -34,4 +34,4 @@
 
 데이터 필터링에 보고서 매개 변수를 사용하거나 보고서 매개 변수를 보고서로 직접 드래그하여 매개 변수 값을 직접 표시할 수 있습니다.
 
-![](<../../../.gitbook/assets/image (495).png>)
+![](<../../../.gitbook/assets/image (506).png>)

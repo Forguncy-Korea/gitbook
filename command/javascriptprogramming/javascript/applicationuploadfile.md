@@ -8,7 +8,7 @@
 
 \[파일-> 옵션-> JavaScript/CSS 제작 관]를 선택하고 \[JavaScript 파일 관리] 영역에서 \[링크 추가], \[파일 업로드] 또는 \[빈 파일 생성]을 선택합니다.
 
-<figure><img src="../../../.gitbook/assets/image (751).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (762).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -22,11 +22,11 @@ JavaScript 파일을 업로드한 후 파일 이름을 클릭한 후 JavaScript 
 
 ![](https://help.grapecity.com.cn/download/thumbnails/56532102/%E6%AD%A5%E9%AA%A41.png?version=1\&modificationDate=1611021618000\&api=v2) 두 셀 범위를 선택하고 셀 유형을 텍스트 상자로 설정합니다.
 
-<figure><img src="../../../.gitbook/assets/image (578).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (589).png" alt=""><figcaption></figcaption></figure>
 
 ![](https://help.grapecity.com.cn/download/thumbnails/56532102/%E6%AD%A5%E9%AA%A42.png?version=1\&modificationDate=1611021618000\&api=v2) \[파일-> 옵션-> JavaScript/CSS]를 선택하고 \[JavaScript 파일 관리] 영역에서 \[파일 업로드]를 선택하여 JavaScript 파일을 업로드합니다.
 
-<figure><img src="../../../.gitbook/assets/image (2169).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2180).png" alt=""><figcaption></figcaption></figure>
 
 코드는 다음과 같습니다.
 
@@ -39,7 +39,7 @@ function Add(num1, num2){
 
 ![](https://help.grapecity.com.cn/download/thumbnails/56532102/%E6%AD%A5%E9%AA%A43.png?version=1\&modificationDate=1611021618000\&api=v2) 셀 범위를 선택하고 셀 유형을 버튼으로 설정하고 이름을 "button"으로 지정합니다. 명령을 편집하고, 명령을 JavaScript 명령으로 설정하고, JavaScript 코드를 입력합니다.
 
-<figure><img src="../../../.gitbook/assets/image (1390).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1401).png" alt=""><figcaption></figcaption></figure>
 
 ```javascript
 //현재 페이지 가져오기

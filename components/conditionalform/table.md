@@ -51,16 +51,16 @@ Excel과 동일한 조건부 서식 지정 기능이 제공되며 비즈니스 �
 * 고유 또는 중복 값만 서식 지정&#x20;
 * 수식을 사용하여 서식을 지정할 셀 결정&#x20;
 
-<figure><img src="../../.gitbook/assets/image (1910).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1921).png" alt=""><figcaption></figcaption></figure>
 
 ## 규칙 지우기&#x20;
 
 규칙지우기를 선택하면 "선택한 셀의 규칙 지우기", "시트 전체에서 규칙 지우기", "이 테이블에서 규칙 지우기"를 할 수 있습니다.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (1113).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1124).png" alt=""><figcaption></figcaption></figure>
 
 ## 규칙 관리&#x20;
 
 "규칙 관리"를 클릭하면 팝업되는 조건부 서식 규칙 관리자에서 규칙을 생성, 편집 및 삭제할 수 있습니다.
 
-<figure><img src="../../.gitbook/assets/image (922).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (933).png" alt=""><figcaption></figcaption></figure>

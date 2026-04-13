@@ -8,10 +8,10 @@
 
 공동 작업 프로젝트를 열면 데이터 테이블, 페이지 및 마스터 페이지 아래의 개체 앞에 현재 상태를 나타내는 아이콘이 있음을 알 수 있습니다.
 
-* ![](<../../../.gitbook/assets/image (2597).png>): 현재 객체를 사용할 수 있으며 편집을 위해 체크 아웃할 수 있음을 나타냅니다.
-* ![](<../../../.gitbook/assets/image (2594).png>): 다른 사용자가 체크 아웃하는 등 폴더 아래의 하위 모듈이 변경되었습니다. 폴더를 클릭하면 각 개체의 현재 상태가 표시됩니다.
-* ![](<../../../.gitbook/assets/image (2595).png>): 현재 사용자가 체크 아웃했으며 편집할 수 있음을 나타냅니다.
-* ![](<../../../.gitbook/assets/image (2596).png>): 다른 사용자가 체크 아웃했으며 편집할 수 없습니다. 체크 아웃하고 편집하려면 다른 사용자가 체크 인을 즉시 사용할 때까지 기다려야 합니다.
+* ![](<../../../.gitbook/assets/image (2608).png>): 현재 객체를 사용할 수 있으며 편집을 위해 체크 아웃할 수 있음을 나타냅니다.
+* ![](<../../../.gitbook/assets/image (2605).png>): 다른 사용자가 체크 아웃하는 등 폴더 아래의 하위 모듈이 변경되었습니다. 폴더를 클릭하면 각 개체의 현재 상태가 표시됩니다.
+* ![](<../../../.gitbook/assets/image (2606).png>): 현재 사용자가 체크 아웃했으며 편집할 수 있음을 나타냅니다.
+* ![](<../../../.gitbook/assets/image (2607).png>): 다른 사용자가 체크 아웃했으며 편집할 수 없습니다. 체크 아웃하고 편집하려면 다른 사용자가 체크 인을 즉시 사용할 때까지 기다려야 합니다.
 
 ## 체크 아웃 작업&#x20;
 
@@ -19,15 +19,15 @@
 
 예를 들어 메인화면 페이지의 상태가 있는 경우 Nancy가 페이지를 편집하고 페이지의 셀 범위를 선택하여 병합하면 프롬프트 상자가 나타납니다.
 
-<figure><img src="../../../.gitbook/assets/image (2083).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2094).png" alt=""><figcaption></figcaption></figure>
 
 확인을 클릭하면 체크 아웃 할 수 있으며, 체크 아웃 한 후 Nancy는 페이지를 계속 편집 할 수 있으며, 페이지의 상태가 변경되어 위로 마우스를 가져가면 "내가 체크 아웃했습니다"가 표시됩니다.
 
 체크 아웃할 페이지를 선택하고 마우스 오른쪽 버튼 클릭하고 마우스 오른쪽 버튼 클릭 메뉴에서 체크 아웃을 선택하여 페이지를 직접 체크 아웃할 수도 있습니다.
 
-<figure><img src="../../../.gitbook/assets/image (1411).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1422).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (426).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (437).png" alt=""><figcaption></figcaption></figure>
 
 동시에 다른 사용자의 경우 페이지의 상태가 변경되고 위로 마우스를 가져가면 Nancy에 의해 체크 아웃되었음을 나타냅니다.
 

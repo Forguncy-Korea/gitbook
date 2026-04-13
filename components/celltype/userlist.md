@@ -4,7 +4,7 @@
 
 사용자 관리 사이트에 사용자를 추가하는 방법은 사용자 만들기를 참조하십시오. 사용자 선택 상자는 다음 그림과 같습니다.
 
-<figure><img src="../../.gitbook/assets/image (1744).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1755).png" alt=""><figcaption></figcaption></figure>
 
 ## 사용자 목록 선택기 설정&#x20;
 
@@ -26,15 +26,15 @@
 
 예를 들어 다음과 같은 사용자가 사용자 관리에 추가되었습니다.
 
-<figure><img src="../../.gitbook/assets/image (850).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (861).png" alt=""><figcaption></figcaption></figure>
 
 페이지에서 셀 범위를 선택하고 셀 유형을 사용자 선택 상자로 설정하고 셀 설정에서 역할을 관리자로 설정하고, 사용자 이름으로 나열을 표시하고, 드롭다운 상자에는 다음 그림과 같이 사용자 이름 및 메일로 나열됩니다.
 
-<figure><img src="../../.gitbook/assets/image (2284).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2295).png" alt=""><figcaption></figcaption></figure>
 
 실행 후 드롭다운 버튼을 클릭하여 역할이 관리자만 나열하고 드롭다운 상자에 사용자 이름과 전자 메일을 표시합니다. 유재석을 선택하면 다음 그림과 같이 사용자 선택 상자에 사용자 이름이 표시됩니다.
 
-<figure><img src="../../.gitbook/assets/image (1332).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1343).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -49,4 +49,4 @@
 * 체크박스를 선택하면 실행 후 마우스 휠과 키보드 위 또는 아래로 키를 사용하여 실행 후 사용자 선택 상자 셀의 값을 수정할 수 있습니다.
 * 체크박스를 선택하지 않으면 실행 후 마우스 휠과 키보드 위/아래 키를 사용하여 실행 후 사용자 선택 상자 셀의 값을 수정할 수 없습니다.
 
-<figure><img src="../../.gitbook/assets/image (2116).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2127).png" alt=""><figcaption></figcaption></figure>

@@ -14,8 +14,8 @@
 
 Tibero  데이터베이스 플러그인을 설치 하면 디자이너의 플러그인 목록에 새 플러그인 옵션이 표시됩니다.
 
-<figure><img src="../../../.gitbook/assets/image (2515).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2526).png" alt=""><figcaption></figcaption></figure>
 
 데이터베이스에 접속하면 Tibero 데이터베이스를 선택할 수 있게 됩니다.
 
-<figure><img src="../../../.gitbook/assets/image (2516).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2527).png" alt=""><figcaption></figcaption></figure>

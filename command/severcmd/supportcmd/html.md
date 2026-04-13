@@ -21,18 +21,18 @@
 * 페이지 내보내기: 앱에서 페이지를 선택하여 HTML로 내보냅니다.
 * 결과를 저장할 파라미터 이름 : 다음 명령에서 사용할 수 있는 변수에 결과를 저장합니다.&#x20;
 
-![](<../../../.gitbook/assets/image (454).png>)
+![](<../../../.gitbook/assets/image (465).png>)
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72358353/%E6%AD%A5%E9%AA%A44.png?version=1\&modificationDate=1648092617000\&api=v2) 페이지를 HTML 명령으로 내보낸 후 "메일 내용 편집"을 선택하고 페이지를 HTML 명령으로 내보내는 변수 "고객주문"페이지를 선택하는 메일 보내기 명령을 추가합니다. 추가 설정은 [알림 명령 -메일 보내기 명령](../../command/sendmailcmd.md)을 참조 하세요.
 
-![](<../../../.gitbook/assets/image (1546).png>)
+![](<../../../.gitbook/assets/image (1557).png>)
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72358353/%E6%AD%A5%E9%AA%A45.png?version=1\&modificationDate=1648092617000\&api=v2)  설정완료되면 이 서버단 명령을 호출할 수 있습니다.
 
 예를 들어 페이지에서 셀 범위를 선택하고 버튼을 설정합니다. 버튼 명령을 편집하고 "서버단 명령 호출"으로 명령을 선택한 다음 서버 쪽 명령 뒤에 있는 드롭다운 버튼을 클릭하고 드롭다운 목록에서 "Html로 페이지 보내기"를 선택합니다.
 
-![](<../../../.gitbook/assets/image (1621).png>)
+![](<../../../.gitbook/assets/image (1632).png>)
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72358353/%E6%AD%A5%E9%AA%A45.png?version=1\&modificationDate=1648092617000\&api=v2) 설정이 완료되면 \[확인]을 클릭하여 대화 상자를 닫습니다. 페이지를 실행합니다.페이지에서 페이지를 메일전송 버튼을 클릭하면 지정된 페이지가 HTML 문자열로 변환되고 페이지 내용이 지정된 전자 메일 주소로 메시지 내용으로 전송됩니다.
 
-![](<../../../.gitbook/assets/image (1812).png>)
+![](<../../../.gitbook/assets/image (1823).png>)

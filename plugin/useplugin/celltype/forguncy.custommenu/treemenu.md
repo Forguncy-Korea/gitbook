@@ -10,7 +10,7 @@
 2. Forguncy Builder에서 설치하고 Forguncy Builder를 다시 실행합니다.
 3. 셀 범위를 선택하고 해당 셀 유형을 트리 메뉴로 설정합니다.
 
-<figure><img src="../../../../.gitbook/assets/image (2265).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (2276).png" alt=""><figcaption></figcaption></figure>
 
 
 

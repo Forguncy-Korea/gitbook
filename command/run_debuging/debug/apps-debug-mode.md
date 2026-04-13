@@ -8,12 +8,12 @@
 
 관리 콘솔의 애플리케이션 관리에서 애플리케이션을 선택하고 고급 설정 탭 아래의 "기타 설정" 영역에서 애플리케이션 실행 모드를 전환할 수 있습니다.
 
-<figure><img src="../../../.gitbook/assets/image (255).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (266).png" alt=""><figcaption></figcaption></figure>
 
 실행 모드를 디버그 모드로 전환한 후 디버그 모드의 사용자를 선택합니다. 이러한 사용자가 애플리케이션에 액세스하면 브라우저 콘솔에서 실행된 명령, 실행된 Sql 및 프롬프트 정보의 로그를 확인하여 문제 추적을 용이하게 할 수 있습니다.
 
 디버깅 모드에서는 실행 명령 로그, SQL 실행 등의 정보를 얻을 수 있으므로 보안상의 이유로 모든 사람이 디버깅 모드를 켜는 것보다 특정 사람을 대상으로 프롬프트 모드를 켜는 것이 좋습니다.
 
-<figure><img src="../../../.gitbook/assets/image (256).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (267).png" alt=""><figcaption></figcaption></figure>
 
 설정이 완료되면 선택한 사용자로 애플리케이션에 로그인합니다. 해당 페이지에서 명령을 실행한 후 F12를 누르면 콘솔에서 디버깅 정보를 볼 수 있습니다.

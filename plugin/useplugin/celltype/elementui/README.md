@@ -8,7 +8,7 @@
 
 
 
-<figure><img src="../../../../.gitbook/assets/image (1509).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1520).png" alt=""><figcaption></figcaption></figure>
 
 
 

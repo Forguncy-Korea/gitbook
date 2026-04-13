@@ -4,12 +4,12 @@
 
 1. 버튼을 생성한 후, 버튼을 클릭하고 "명령 편집"을 선택합니다.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (1600).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1611).png" alt=""><figcaption></figcaption></figure>
 
 2\. 명령창을 열고, 명령선택에서 명령유형 플러그인 "리스트뷰 새로고침 명령"을 선택합니다.
 
-<figure><img src="../../../.gitbook/assets/image (902).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (913).png" alt=""><figcaption></figcaption></figure>
 
 3\. 실행한 후, "리스트뷰 새로고침" 버튼을 클릭하면 리스트뷰가 새로고침되는 것을 확인할 수 있습니다.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (704).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (715).png" alt=""><figcaption></figcaption></figure>

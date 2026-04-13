@@ -33,8 +33,8 @@ alert(path);
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72366330/%E6%AD%A5%E9%AA%A41.png?version=1\&modificationDate=1648092746000\&api=v2)페이지에서 셀 범위를 선택하고, 셀 유형을 버튼으로 설정하고, 명령을 \[자바스크립트로 직접 프로그래밍하기]으로 편집하고, JavaScript 코드를 입력합니다.&#x20;
 
-<figure><img src="../../../../../.gitbook/assets/image (1854).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (1865).png" alt=""><figcaption></figcaption></figure>
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72366388/%E6%AD%A5%E9%AA%A42.png?version=1\&modificationDate=1648092747000\&api=v2)페이지를 실행합니다.버튼을 클릭하면 사용자 파일의 저장 경로가 표시된 경고 상자가 나타납니다.
 
-<figure><img src="../../../../../.gitbook/assets/image (1649).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (1660).png" alt=""><figcaption></figcaption></figure>

@@ -12,19 +12,19 @@
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72358198/%E6%AD%A5%E9%AA%A41.png?version=1\&modificationDate=1648092616000\&api=v2)  프로젝트 탐색기의 서버단 명령 탭을 마우스 오른쪽 버튼을 클릭하고 서버 쪽 명령 만들기를 선택하여 서버단 명령 만들기 대화 상자를 띄웁니다.
 
-![](<../../../.gitbook/assets/image (607).png>)
+![](<../../../.gitbook/assets/image (618).png>)
 
 리본 메뉴 모음에서 만들기를 클릭하고 서버 개체 영역에서 서버단 명령을 클릭하여 서버 명령 만들기 대화 상자를 팝업할 수도 있습니다.
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72358198/%E6%AD%A5%E9%AA%A42.png?version=1\&modificationDate=1648092616000\&api=v2) 서버단 명령 편집 대화 상자를 표시하여 서버단 명령에 대한 일반 설정을 편집합니다. 서버 명령의 이름을 "파라미터설정"으로 설정합니다.
 
-![](<../../../.gitbook/assets/image (2214).png>)
+![](<../../../.gitbook/assets/image (2225).png>)
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72358198/%E6%AD%A5%E9%AA%A43.png?version=1\&modificationDate=1648092616000\&api=v2)  서버 쪽 명령을 편집하는 명령입니다. \[편집 명령] 하이퍼링크를 클릭하고 서버 명령 편집 대화 상자를 표시하고 파라미터 설정 명령을 선택합니다.
 
 파라미터 이름을 설정한 후에는 파라미터 값을 설정해야 합니다. 파라미터의 값을 고정 값 또는 수식 또는 데이터 테이블에서 설정할 수 있습니다.
 
-![](<../../../.gitbook/assets/image (792).png>)
+![](<../../../.gitbook/assets/image (803).png>)
 
 * 값 또는 수식: 고정 값 또는 수식을 설정할 수 있습니다.
 * 데이터베이스 참조: 데이터 테이블을 선택합니다.
@@ -33,7 +33,7 @@
 * 상위 제한: 표시/건너뛰려는 데이터의 행 수를 설정합니다.
 * 정렬: 필요에 따라 데이터의 데이터 정렬을 설정합니다.
 
-![](<../../../.gitbook/assets/image (804).png>)
+![](<../../../.gitbook/assets/image (815).png>)
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72358198/%E6%AD%A5%E9%AA%A44.png?version=1\&modificationDate=1648092616000\&api=v2)  파라미터를 설정합니다. 서버단 명령이 생성되면 다른 명령에서 이 서버단 명령을 호출할 수 있습니다.
 
@@ -41,14 +41,14 @@
 
 업데이트 조건을 필드 ID의 값으로 1로 설정합니다.
 
-![](<../../../.gitbook/assets/image (1169).png>)
+![](<../../../.gitbook/assets/image (1180).png>)
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72358198/%E6%AD%A5%E9%AA%A45.png?version=1\&modificationDate=1648092616000\&api=v2) 서버단 명령을 만든 후 서버단 명령을 호출할 수 있습니다.
 
 예를 들어 페이지에서 셀 범위를 선택하고 버튼을 설정합니다. 버튼의 명령을 "서버단 명령 호출"로 선택하고, 서버단 명령에는 "파라미터설정"하는 명령을 선택합니다. "원격 데이터를 최신 정보로 업데이트하기"도 체크합니다.
 
-![](<../../../.gitbook/assets/image (808).png>)
+![](<../../../.gitbook/assets/image (819).png>)
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72358198/%E6%AD%A5%E9%AA%A46.png?version=1\&modificationDate=1648092615000\&api=v2) 설정이 완료되면 확인을 클릭하여 대화 상자를 닫고 페이지를 실행합니다，페이지에서 주문 업데이트 버튼을 클릭하면 서버 측에서 설정 변수를 실행하여 주문 테이블의 ID가 1 인 레코드에 대한 주문 날짜를 오늘로 업데이트합니다.
 
-![](<../../../.gitbook/assets/image (761).png>)
+![](<../../../.gitbook/assets/image (772).png>)

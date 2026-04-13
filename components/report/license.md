@@ -14,7 +14,7 @@
 
 * 기본 서버 라이센스에 보고서 라이센스가 포함된 경우 다음과 같이 표시됩니다.
 
-![](<../../.gitbook/assets/image (2121).png>)
+![](<../../.gitbook/assets/image (2132).png>)
 
 
 

@@ -5,7 +5,7 @@
 페이지를 Excel로 내보내는 것은 내보내기 명령에 속합니다.\
 <br>
 
-<figure><img src="../../.gitbook/assets/image (2513).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2524).png" alt=""><figcaption></figcaption></figure>
 
 ## 페이지를 Excel로 내보내기&#x20;
 
@@ -15,11 +15,11 @@ Excel로 페이지를 내보내는 설정 지침은 표에 나와 있습니다.
 
 예를 들어 주문정 페이지에서 \[내보내기] 버튼을 설정하는 명령은 \[페이지를 Excel로 내보내기], 페이지는 기본 \[현재 페이지], 테이블 데이터 내보내기 모드는 \[엑셀에 리스트뷰 모든 내용을 표시], Excel 파일 이름은 \[기타 이름]을 선택하고 M4 셀을 지정합니다.&#x20;
 
-![](<../../.gitbook/assets/image (720).png>)
+![](<../../.gitbook/assets/image (731).png>)
 
 실행 후 주문 테이블\_목록 페이지에서 테이블의 데이터가 모두 표시되지 않습니다. \[페이지 내보내기] 단추를 클릭하면 내보낸 Excel의 이름이 M4셀의 값인 \[주문 목록]이며, 여기서 테이블의 행 수가 자동으로 증가하고 테이블의 모든 데이터가 표시되고 페이지의 모든 내용이 Excel로 내보내집니다.
 
-![](<../../.gitbook/assets/image (557).png>)
+![](<../../.gitbook/assets/image (568).png>)
 
 {% hint style="info" %}
 * **마스터 페이지에서 페이지를 Excel로 내보내기 명령을 실행하면 페이지 자리 표시자의 하위 페이지만 내보내집니다.**

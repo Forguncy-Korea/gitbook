@@ -28,16 +28,16 @@
 
 
 
-![](<../../../.gitbook/assets/image (1019).png>)
+![](<../../../.gitbook/assets/image (1030).png>)
 
 그런 다음 트랜잭션 명령에 데이터 테이블 작업 명령을 추가해야 합니다.
 
-![](<../../../.gitbook/assets/image (1128).png>)
+![](<../../../.gitbook/assets/image (1139).png>)
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72358037/%E6%AD%A5%E9%AA%A44.png?version=1\&modificationDate=1648092613000\&api=v2)  서버단 명령이 생성되면이 서버단 명령을 호출할 수 있습니다.
 
 예를 들어 페이지에서 셀 범위를 선택하고 버튼을 설정합니다. 버튼의 명령을 편집하고 명령을 트랜잭션 명령으로 선택합니다.
 
-![](<../../../.gitbook/assets/image (1374).png>)
+![](<../../../.gitbook/assets/image (1385).png>)
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72358037/%E6%AD%A5%E9%AA%A45.png?version=1\&modificationDate=1648092613000\&api=v2)  설정이 완료되면 확인을 클릭하여 대화 상자를 닫고 페이지를 실행합니다，페이지에서 데이터 업데이트 버튼을 클릭하면 서버는 트랜잭션 명령의 데이터 테이블 작업 명령을 실행하여 데이터를 업데이트합니다.

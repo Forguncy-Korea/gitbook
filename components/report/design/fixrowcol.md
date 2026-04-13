@@ -8,4 +8,4 @@
 
 그런 다음 실제 요구 사항에 따라 해당 동결 수를 조정할 수 있습니다.
 
-![](<../../../.gitbook/assets/image (1396).png>)
+![](<../../../.gitbook/assets/image (1407).png>)

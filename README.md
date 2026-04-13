@@ -28,7 +28,7 @@ HTML, JavaScript, CSS를 몰라도 Excel에서 작업하는 것과 동일하게,
 
 <mark style="background-color:yellow;">지금 바로 Forguncy를</mark> <mark style="background-color:yellow;"></mark><mark style="background-color:yellow;">**다운로드**</mark><mark style="background-color:yellow;">하여 직접 테스트해보세요!!!</mark>
 
-[<img src=".gitbook/assets/image (2392).png" alt="https://www.mescius.co.kr/forguncy/download" data-size="original">](https://www.mescius.co.kr/forguncy/download)
+[<img src=".gitbook/assets/image (2403).png" alt="https://www.mescius.co.kr/forguncy/download" data-size="original">](https://www.mescius.co.kr/forguncy/download)
 
 > * [Forguncy 공식 홈페이지](https://www.grapecity.co.kr/solutions/forguncy?utm_source=dev.grapecity.co.kr\&utm_medium=referral\&utm_campaign=forum\&utm_term=home\&utm_content=fgc)
 > * [Forguncy 튜토리얼](https://www.grapecity.co.kr/solutions/forguncy/tutorial?utm_source=dev.grapecity.co.kr\&utm_medium=referral\&utm_campaign=forum\&utm_term=tutorial\&utm_content=fgc)

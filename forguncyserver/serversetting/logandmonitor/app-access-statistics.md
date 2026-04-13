@@ -6,5 +6,5 @@
 
 통계 로그는 애플리케이션을 기준으로 필터링할 수 있으며 기본적으로 첫 번째 애플리케이션의 데이터가 표시됩니다. 페이지, 시작 시간, 종료 시간을 선택하여 로그 정보를 필터링할 수 있습니다.
 
-<figure><img src="../../../.gitbook/assets/image (2517).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2528).png" alt=""><figcaption></figcaption></figure>
 

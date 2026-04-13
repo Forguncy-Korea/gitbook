@@ -67,10 +67,10 @@ alert(errorMessage);
 
 ![](https://help.grapecity.com.cn/download/thumbnails/78807338/%E6%AD%A5%E9%AA%A41.png?version=1\&modificationDate=1663664849000\&api=v2) 페이지에서 셀 범위를 선택하고 셀 유형을 버튼으로 설정하고 명령을 \[JavaScript 명령]으로 편집하고 JavaScript 코드를 입력합니다.
 
-<figure><img src="../../../../.gitbook/assets/image (1474).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1485).png" alt=""><figcaption></figcaption></figure>
 
 ![](https://help.grapecity.com.cn/download/thumbnails/78807338/%E6%AD%A5%E9%AA%A42.png?version=1\&modificationDate=1663664849000\&api=v2) 편집이 완료되면 \[확인]을 클릭하여 대화 상자를 닫습니다.
 
 페이지를 실행하고 데이터 가져오기 버튼을 클릭하면 가져온 데이터를 표시하는 경고 상자가 나타납니다.
 
-<figure><img src="../../../../.gitbook/assets/image (1145).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1156).png" alt=""><figcaption></figcaption></figure>

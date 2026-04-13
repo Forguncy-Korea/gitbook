@@ -15,11 +15,11 @@ AVG 평균, COUNT 레코드 수, MAX 최대값, MIN 최소값 및 SUM 합계의 
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72352291/%E6%AD%A5%E9%AA%A41.png?version=1\&modificationDate=1648092529000\&api=v2)  데이터 테이블을 선택하고 마우스 오른쪽 버튼 클릭하고 팝업 메뉴에서 \[통계 열 추가]를 선택합니다.
 
-![](<../../.gitbook/assets/image (1258).png>)
+![](<../../.gitbook/assets/image (1269).png>)
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72352291/%E6%AD%A5%E9%AA%A42.png?version=1\&modificationDate=1648092529000\&api=v2) \[통계 열 추가] 대화 상자에서 필드 이름을 입력하고 데이터 형식을 선택한 다음 통계 함수 및 필드 목록에서 함수 및 필드를 클릭하여 선택합니다.
 
-![](<../../.gitbook/assets/image (534).png>)
+![](<../../.gitbook/assets/image (545).png>)
 
 {% hint style="info" %}
 * 데이터 형식을 선택하지 않을 수 있으며 포건시는 수식에 따라 데이터 형식을 자동으로 지정하므로 실제 요구 사항에 따라 수정할지 여부를 선택할 수 있습니다.
@@ -28,11 +28,11 @@ AVG 평균, COUNT 레코드 수, MAX 최대값, MIN 최소값 및 SUM 합계의 
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72352291/%E6%AD%A5%E9%AA%A43.png?version=1\&modificationDate=1648092529000\&api=v2) 편집이 완료되면 확인을 클릭하여 통계 필드를 완료합니다. 새로 추가된 통계 필드는 테이블 관리 패널의 필드 목록에 표시되며 테이블의 작업 영역에는 표시되지 않습니다.
 
-![](<../../.gitbook/assets/image (1849).png>)
+![](<../../.gitbook/assets/image (1860).png>)
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72352291/%E6%AD%A5%E9%AA%A44.png?version=1\&modificationDate=1648092529000\&api=v2) 통계 필드를 편집하고 삭제할 수 있습니다. 통계 필드를 두 번 클릭하여 통계 필드 편집 대화 상자를 엽니다.
 
-![](<../../.gitbook/assets/image (931).png>)
+![](<../../.gitbook/assets/image (942).png>)
 
 페이지에 테이블을 추가하고 일부 필드를 바인딩하여 통계 필드를 사용합니다. 실행 후 통계 필드의 계산 결과를 볼 수 있습니다
 

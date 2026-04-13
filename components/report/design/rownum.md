@@ -12,24 +12,24 @@
 
 먼저 테이블을 만들고 다음 그림과 같이 필드를 바인딩합니다.
 
-![](<../../../.gitbook/assets/image (475).png>)
+![](<../../../.gitbook/assets/image (486).png>)
 
 ![](https://help.grapecity.com.cn/download/thumbnails/64456059/%E6%AD%A5%E9%AA%A42.png?version=1\&modificationDate=1633752177000\&api=v2) 새 열이 추가되었습니다.
 
 맨 왼쪽에 열을 추가하고 머리글 행에 전역 행 번호를 입력합니다.
 
-![](<../../../.gitbook/assets/image (1291).png>)
+![](<../../../.gitbook/assets/image (1302).png>)
 
 ![](https://help.grapecity.com.cn/download/thumbnails/64456059/%E6%AD%A5%E9%AA%A43.png?version=1\&modificationDate=1633752177000\&api=v2) 표현식 편집기를 엽니다.
 
 전역 행 번호 세부 정보 셀을 마우스 오른쪽 버튼 클릭하고 **표현식을 선택합니다**.
 
-![](<../../../.gitbook/assets/image (448).png>)
+![](<../../../.gitbook/assets/image (459).png>)
 
 ![](https://help.grapecity.com.cn/download/thumbnails/64456059/%E6%AD%A5%E9%AA%A44.png?version=1\&modificationDate=1633752177000\&api=v2) 식을 추가합니다.
 
 오른쪽에서  RowNumber를  검색하여 오른쪽 표현식에 추가한 다음 저장을 클릭합니다.
 
-![](<../../../.gitbook/assets/image (1491).png>)
+![](<../../../.gitbook/assets/image (1502).png>)
 
 ![](https://help.grapecity.com.cn/download/thumbnails/64456059/%E6%AD%A5%E9%AA%A45.png?version=1\&modificationDate=1633752177000\&api=v2) 보고서를 미리 보고 행 번호 효과를 확인합니다.

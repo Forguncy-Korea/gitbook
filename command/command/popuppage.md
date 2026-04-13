@@ -12,15 +12,15 @@
 
 * 내부 페이지: 내부 페이지의 이름을 입력하면 앱에서 페이지를 선택하는 것과 동일한 효과를 내어 내부 페이지가 직접 팝업됩니다.
 
-<figure><img src="../../.gitbook/assets/image (2481).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2492).png" alt=""><figcaption></figcaption></figure>
 
 * 셀에서 페이지 이름 값 선택     : 수식을 직접 입력하거나 페이지에서 셀을 선택하여 수식의 계산 또는 셀 값에 따라 해당 페이지를 팝업할 수 있습니다.
 
-![](<../../.gitbook/assets/image (1787).png>)
+![](<../../.gitbook/assets/image (1798).png>)
 
 실행 후 팝업 버튼을 클릭하면 "=B5" 수식의 계산 결과에 따라 주문 목록 페이지가 나타납니다.
 
-![](<../../.gitbook/assets/image (2237).png>)
+![](<../../.gitbook/assets/image (2248).png>)
 
 {% hint style="info" %}
 페이지 이동 명령 뒤에 있는 명령은 실행되지 않습니다.&#x20;
@@ -42,9 +42,9 @@
 
 컨텍스트 변수에는 대상 페이지의 모든 팝업 페이지 닫기 명령의 반환 값이 나열됩니다.<br>
 
-<figure><img src="../../.gitbook/assets/image (2482).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2493).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (2484).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2495).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -54,4 +54,4 @@
 
 닫기 버튼을 숨길 수도 있습니다. "파일->옵션->응용 프로그램 설정"을 선택하고 인터페이스 설정 영역 하단에서 아래 그림과 같이 "팝업 닫기 버튼 숨기기"를 체크합니다.
 
-<figure><img src="../../.gitbook/assets/image (750).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (761).png" alt=""><figcaption></figcaption></figure>

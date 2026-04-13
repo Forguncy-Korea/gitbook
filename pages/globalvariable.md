@@ -10,15 +10,15 @@
 
 리본의 메뉴바에서 "수식-전역변수"를 선택하면 전역변수 생성 대화상자가 나타납니다.
 
-<figure><img src="../.gitbook/assets/image (1911).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1922).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (428).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (439).png" alt=""><figcaption></figcaption></figure>
 
 전역 변수 생성 대화 상자에서 "새로 만들기"를 클릭하고 전역 변수의 이름과 값을 입력하며 값은 고정 값만 가능합니다 .
 
 생성된 전역 변수에 대해 참조 삭제 및 찾기 등의 작업도 수행할 수 있습니다.&#x20;
 
-<figure><img src="../.gitbook/assets/image (2297).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2308).png" alt=""><figcaption></figcaption></figure>
 
 ## 수식에서 전역 변수 사용&#x20;
 
@@ -26,7 +26,7 @@
 
 사용시 "=전역변수 1"과 같이 수식을 직접 입력하거나![](https://help.grapecity.com.cn/download/thumbnails/80959800/image2023-2-16_16-44-32.png?version=1\&modificationDate=1676537072000\&api=v2), 팝업 대화 상자에서 변수를 선택하고 삽입을 두 번 클릭합니다.
 
-<figure><img src="../.gitbook/assets/image (1909).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1920).png" alt=""><figcaption></figcaption></figure>
 
 ## **명령을 통해 전역 변수의 값을 편집** <a href="#id-di-shi-ba-zhang-quan-ju-bian-liang-4.-tong-guo-ming-ling-bian-ji-quan-ju-bian-liang-de-zhi" id="id-di-shi-ba-zhang-quan-ju-bian-liang-4.-tong-guo-ming-ling-bian-ji-quan-ju-bian-liang-de-zhi"></a>
 
@@ -36,7 +36,7 @@
 
 설정이 완료된 후 이 명령어를 다시 호출하면 변수를 참조하는 모든 위치가 새로 고쳐집니다.
 
-<figure><img src="../.gitbook/assets/image (1916).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1927).png" alt=""><figcaption></figcaption></figure>
 
 ## 서버 관리자에서 전역 변수 값 편집&#x20;
 
@@ -44,4 +44,4 @@
 
 여기에서 전역 변수의 값을 편집하고 편집 후 "설정 저장"을 클릭하면 이 변수를 참조하는 모든 위치가 새로 고쳐집니다.
 
-<figure><img src="../.gitbook/assets/image (550).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (561).png" alt=""><figcaption></figcaption></figure>

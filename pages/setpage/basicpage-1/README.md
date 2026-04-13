@@ -14,9 +14,9 @@
 
 *   인증 모드가 일반 인증 또는 타사 사용자 통합인 경우 기본 제공 페이지는 다음과 같습니다.<br>
 
-    <figure><img src="../../../.gitbook/assets/image (2441).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (2452).png" alt=""><figcaption></figcaption></figure>
 *   인증 모드가 Windows 도메인 인증인 경우 기본 제공 페이지는 다음과 같습니다.<br>
 
-    <figure><img src="../../../.gitbook/assets/image (2442).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (2453).png" alt=""><figcaption></figcaption></figure>
 
 일반 인증에서 Windows 도메인 인증으로 전환하면 불필요한 내장 페이지가 자동으로 제거되고, Windows 도메인 인증에서 일반 인증으로 전환하면 제거된 내장 페이지가 자동으로 다시 추가됩니다. 인증 모드를 전환할 때 이전에 사용자 정의된 수정 사항은 저장되지 않습니다.

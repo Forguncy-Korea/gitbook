@@ -14,4 +14,4 @@
 
 시스템 성능에 영향을 미칠 수 있는 명령 사이에 추적 프로세스 상태 명령을 추가합니다.  첫번째로그는   "페이지 PDF로 내보내기"  명령을 실행 하기 전의 로그이고, 마지막 로그는 "페이지 PDF로 내보내기"  명령을 실행 하기 후의 로그입니다.
 
-<figure><img src="../../../.gitbook/assets/image (1735).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1746).png" alt=""><figcaption></figcaption></figure>

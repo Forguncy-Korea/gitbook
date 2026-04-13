@@ -8,19 +8,19 @@
 
 페이지 탭을 마우스 오른쪽 버튼 클릭하고 폴더 만들기를 선택합니다. 페이지를 폴더 밖으로 드래그/제거할 수 있습니다.<br>
 
-<figure><img src="../../.gitbook/assets/image (2435).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2446).png" alt=""><figcaption></figcaption></figure>
 
 ### 폴더 작업
 
 폴더를 선택하고 마우스 오른쪽 버튼 클릭하면 팝업 메뉴 모음에서 새 페이지 만들기, 새 모바일 페이지 만들기, 새 폴더 만들기, 이름 변경하기, 삭제, 위로 이동, 아래로 이동 선택할 수 있습니다.<br>
 
-<figure><img src="../../.gitbook/assets/image (2436).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2447).png" alt=""><figcaption></figcaption></figure>
 
 ### 페이지 작업&#x20;
 
 페이지를 선택하고 마우스 오른쪽 버튼 클릭하면 팝업 메뉴 모음에서 열기, 이름 변경하기, 시작 페이지로 설정, 브라우저 표시 제목 설정, 마스터 페이지 설정, 삭제, 복제, 모든 참조 찾기, 위로 이동, 아래로 이동을 선택할 수 있습니다.<br>
 
-<figure><img src="../../.gitbook/assets/image (2437).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2448).png" alt=""><figcaption></figcaption></figure>
 
 ## **페이지 크기 조정** <a href="#id-ye-mian-cao-zuo-3.-tiao-zheng-ye-mian-chi-cun" id="id-ye-mian-cao-zuo-3.-tiao-zheng-ye-mian-chi-cun"></a>
 
@@ -40,9 +40,9 @@
 
 페이지의 작업 영역에서 Ctrl 키를 누른 채 행과 열을 드래그하여 행 높이와 열 너비를 변경합니다. 이렇게 하면 행의 높이/열 너비를 변경한 후에도 레이아웃을 그대로 유지할 수 있습니다.
 
-<figure><img src="../../.gitbook/assets/image (978).png" alt=""><figcaption><p>열 너비를 변경하기 전 </p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (989).png" alt=""><figcaption><p>열 너비를 변경하기 전 </p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (989).png" alt=""><figcaption><p>열 너비 변경 후 </p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1000).png" alt=""><figcaption><p>열 너비 변경 후 </p></figcaption></figure>
 
 ### 행과 열을 숨기거나 표시
 
@@ -54,7 +54,7 @@
 
 페이지의 작업 영역에서 숨길 행이나 열을 선택하고 행 중 하나의 행 머리글 또는 열 헤더를 마우스 오른쪽  버튼을 클릭하고 \[숨기기]를 클릭합니다.<br>
 
-<figure><img src="../../.gitbook/assets/image (2438).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2449).png" alt=""><figcaption></figcaption></figure>
 
 #### 숨기기 취소
 
@@ -62,7 +62,7 @@
 
 페이지의 작업 영역에서 표시할 행이나 열을 선택하고 행 중 하나 또는 열의 열 헤더를 마우스 오른쪽 버튼 클릭한 다음 \[숨기기 취소]를 클릭합니다.<br>
 
-<figure><img src="../../.gitbook/assets/image (2439).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2450).png" alt=""><figcaption></figcaption></figure>
 
 ## 단축 키 목록 <a href="#shortcut-key" id="shortcut-key"></a>
 

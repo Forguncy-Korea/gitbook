@@ -4,7 +4,7 @@
 
 페이지에서 영역을 선택하고 해당 셀 유형을 페이지 컨테이너 셀로 설정하십시오.이 영역은 하위 페이지를 표시하는 데 사용됩니다.서브 페이지의 크기에 따라 영역의 크기를 조정하십시오.
 
-<figure><img src="../../.gitbook/assets/image (1609).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1620).png" alt=""><figcaption></figcaption></figure>
 
 ## 설정&#x20;
 
@@ -20,24 +20,24 @@
 
 * **오버플로** : 페이지 컨테이너가 확장되어 하위 페이지를 완전히 표시합니다. 아래 그림과 같이 하위 페이지 오버플로 모드를 "오버플로"로 설정합니다.
 
-<figure><img src="../../.gitbook/assets/image (1759).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1770).png" alt=""><figcaption></figcaption></figure>
 
 실행 후 하위 페이지가 페이지 컨테이너를 오버플로하는 것을 볼 수 있습니다
 
-<figure><img src="../../.gitbook/assets/image (796).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (807).png" alt=""><figcaption></figcaption></figure>
 
 * **스크롤** : 페이지 컨테이너에 스크롤 막대가 나타납니다. 아래 그림과 같이 하위 페이지 오버플로 모드를 "스크롤"로 설정합니다.
 
-<figure><img src="../../.gitbook/assets/image (1665).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1676).png" alt=""><figcaption></figcaption></figure>
 
 실행 후 페이지 컨테이너에 스크롤 막대가 나타나는 것을 볼 수 있습니다.
 
-<figure><img src="../../.gitbook/assets/image (640).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (651).png" alt=""><figcaption></figcaption></figure>
 
 * **잘라내기** : 하위 페이지에서 페이지 컨테이너를 초과하는 부분이 잘려서 표시되지 않습니다. 아래 그림과 같이 하위 페이지 오버플로 모드를 "잘라내기"로 설정합니다.
 
-<figure><img src="../../.gitbook/assets/image (1502).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1513).png" alt=""><figcaption></figcaption></figure>
 
 실행 후 서브 페이지에서 페이지 컨테이너를 넘는 부분이 잘린 것을 확인할 수 있습니다.
 
-<figure><img src="../../.gitbook/assets/image (1229).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1240).png" alt=""><figcaption></figcaption></figure>

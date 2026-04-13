@@ -20,11 +20,11 @@
 
 \[삽입>키워드]를 선택하고 키워드 목록에서 키워드를 클릭하여 페이지에 키워드를 삽입할 수 있습니다.
 
-<figure><img src="../.gitbook/assets/image (1690).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1701).png" alt=""><figcaption></figcaption></figure>
 
 그 중 사용자 이름, 사용자 전체 이름, 이메일 주소, 역할은 사용자의 기본 속성이고, 직위는 사용자 정의 속성이며, 회사, 사업부, 부서는 조직 수준입니다.
 
 예를 들어 페이지에 키워드를 삽입하고 실행 후 로그인한 사용자의 페이지 이름과 속성 정보를 페이지에 표시할 수 있습니다.
 
-<figure><img src="../.gitbook/assets/image (1033).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1044).png" alt=""><figcaption></figcaption></figure>
 

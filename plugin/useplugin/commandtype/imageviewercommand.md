@@ -14,7 +14,7 @@ ImageViewer명령을 통해 더블 클릭하여 이미지 회전, 확대 및 기
 2. Forguncy Builder에서 설치하고 Forguncy Builder를 다시 실행합니다.
 3. 이미지 또는 버튼에 "Image Viewer" 명령을 추가합니다.
 
-<figure><img src="../../../.gitbook/assets/image (1194).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1205).png" alt=""><figcaption></figcaption></figure>
 
 4\. 실행을 한 후, 이미지를 클릭 하면 이미지뷰어가 나오는것을 확인할 수 있습니다.&#x20;
 

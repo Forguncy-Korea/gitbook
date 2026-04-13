@@ -42,6 +42,6 @@ A1 스타일은 열을 나타내는 문자와 행을 숫자로 나타냅니다. 
 
 셀 이름을 올바르게 입력하면 글꼴 색상이 녹색으로 바뀌고 참조된 셀이 녹색 테두리로 선택됩니다.
 
-![](<../../.gitbook/assets/image (2190).png>)
+![](<../../.gitbook/assets/image (2201).png>)
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72355494/%E6%AD%A5%E9%AA%A45.png?version=1\&modificationDate=1648092578000\&api=v2)  Enter 키를 눌러 수식 작성을 완료합니다. 페이지가 실행되면 계산 결과가 페이지에 표시됩니다.

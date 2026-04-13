@@ -8,7 +8,7 @@
 
 프로세스 단계를 선택하고 일반 프로세스 추가를 클릭하면 프로세스 단계 뒤에 일반 프로세스를 추가할 수 있습니다.
 
-<figure><img src="../../.gitbook/assets/image (1414).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1425).png" alt=""><figcaption></figcaption></figure>
 
 ### 일반 프로세스 설정&#x20;
 

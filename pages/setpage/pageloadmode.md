@@ -4,4 +4,4 @@
 
 "파일->옵션->응용 프로그램 설정"의 "애플리케이션 UI" 영역에서 "페이지 로딩 모드"를 설정하십시오.
 
-<figure><img src="../../.gitbook/assets/image (1970).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1981).png" alt=""><figcaption></figcaption></figure>

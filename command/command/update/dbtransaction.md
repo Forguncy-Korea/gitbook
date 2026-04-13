@@ -14,20 +14,20 @@
 
 다음 그림과 같이 첫 번째 데이터 테이블 작업 유형을 추가, 대상 테이블을 주문 테이블로 설정하고 다음 그림과 같이 "고객이름"라는 바인딩되지 않은 필드를 추가합니다.
 
-![](<../../../.gitbook/assets/image (1574).png>)
+![](<../../../.gitbook/assets/image (1585).png>)
 
 다음 그림과 같이 여러 데이터 테이블 추가 작업을 눌러 두 번째 데이터 테이블 작업 유형을 업데이트로 설정하고 ID는 2, 레코드의 구매자를 정아라로 업데이트합니다.![](https://help.grapecity.com.cn/download/thumbnails/72354026/image2018-1-19_11-57-51.png?version=1\&modificationDate=1648092554000\&api=v2)
 
-![](<../../../.gitbook/assets/image (2027).png>)
+![](<../../../.gitbook/assets/image (2038).png>)
 
 다음 그림과 같이 ID 3의 레코드를 삭제하여 세 번째 데이터 테이블 작업 유형을 삭제하도록 설정합니다.
 
-![](<../../../.gitbook/assets/image (834).png>)
+![](<../../../.gitbook/assets/image (845).png>)
 
 실행 후 주문 목록 페이지에서 추가 버튼 클릭하여 추가 페이지를 표시하고 데이터를 입력한 후 확인을 클릭합니다.
 
 새 레코드 "주문 A008"이 추가되었습니다. 주문 A002의  정아라로 업데이트되었습니다. 원래 주문 목록 ID가 3인 주문 A003이 삭제되었습니다.
 
-![](<../../../.gitbook/assets/image (559).png>)
+![](<../../../.gitbook/assets/image (570).png>)
 
 <br>

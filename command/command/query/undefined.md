@@ -6,4 +6,4 @@
 
 쿼리 명령을 사용하여 여러 쿼리 조건을 추가하고 및/또는 대괄호를 사용하여 여러 쿼리 조건을 연결하여 고급 쿼리를 수행합니다.
 
-<figure><img src="../../../.gitbook/assets/image (2310).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2321).png" alt=""><figcaption></figcaption></figure>

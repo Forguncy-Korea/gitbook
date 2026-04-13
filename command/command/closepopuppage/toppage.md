@@ -4,23 +4,23 @@
 
 팝업 페이지에서 테이블의 데이터를 편집하고 팝업 페이지를 닫을 때 입력 값을 상위 페이지에 반환을 선택하면 팝업 페이지의 값을 테이블로 다시 전달할 수도 있습니다.<br>
 
-![](<../../../.gitbook/assets/image (1569).png>)
+![](<../../../.gitbook/assets/image (1580).png>)
 
 입력 값을 상위페이지에 반환하는 기능은 웹 사이트에서 널리 사용되며 응용 프로그램은 다음과 같습니다.
 
 예를 들어 팝업페이지 1에서 팝업 버튼의 명령은 "팝업 페이지"이며 버튼을 클릭하면 팝업페이지 2가 팝업되고 팝업페이지 1의 D2 값이 팝업페이지 2의 D2로 전달됩니다.
 
-![](<../../../.gitbook/assets/image (2103).png>)
+![](<../../../.gitbook/assets/image (2114).png>)
 
 팝업 페이지 2에서 닫기 버튼 명령은 팝업 닫기이며 입력 값을 상위 페이지에 반을 선택합니다.
 
-![](<../../../.gitbook/assets/image (1526).png>)
+![](<../../../.gitbook/assets/image (1537).png>)
 
 실행 후 팝업페이지 1의 텍스트 상자에 값 "123"을 입력하고 팝업을 클릭하면 팝업페이지 2가 팝업되고 팝업페이지 2의 텍스트 상자가 페이지 1에서 값 "123"을 받습니다.
 
 값 "123"을 "포건시"로 수정한 후 "닫기" 버튼을 클릭하여 팝업페이지 2를 닫으면 팝업페이지 1의 값이 팝업페이지 2에서 수정된 값이 됩니다. 즉, 팝업 페이지의 값이 원본 페이지로 다시 전달됩니다.
 
-![](<../../../.gitbook/assets/image (2013).png>)
+![](<../../../.gitbook/assets/image (2024).png>)
 
 ## **값이 테이블로 다시 전달** <a href="#id-zhi-hui-chuan-3.-zhi-hui-chuan-dao-biao-ge" id="id-zhi-hui-chuan-3.-zhi-hui-chuan-dao-biao-ge"></a>
 
@@ -30,20 +30,20 @@
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72353894/%E6%AD%A5%E9%AA%A41.png?version=1\&modificationDate=1648092552000\&api=v2) 주문 정보 페이지에서 테이블에서 편집 하이퍼링크를 선택하고 편집 명령을 클릭합니다.
 
-![](<../../../.gitbook/assets/image (2241).png>)
+![](<../../../.gitbook/assets/image (2252).png>)
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72353894/%E6%AD%A5%E9%AA%A42.png?version=1\&modificationDate=1648092552000\&api=v2) 설정 명령은 팝업 페이지이며, 페이지는 팝업 페이지를 선택하고 테이블의 주문 번호가 있는 셀 I10의 값을 팝업 페이지의 대상 셀 H4로 전달합니다.
 
-![](<../../../.gitbook/assets/image (540).png>)
+![](<../../../.gitbook/assets/image (551).png>)
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72353894/%E6%AD%A5%E9%AA%A43.png?version=1\&modificationDate=1648092552000\&api=v2) 팝업 페이지를 엽니다. 페이지에서 \[수정] 버튼의 명령을 편집하고\[팝업 닫기] 명령으로 명령을 선택하고 \[입력 값을 상위 페이지에 반환]을 선택합니다.
 
-![](<../../../.gitbook/assets/image (2240).png>)
+![](<../../../.gitbook/assets/image (2251).png>)
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72353894/%E6%AD%A5%E9%AA%A44.png?version=1\&modificationDate=1648092552000\&api=v2) 페이지를 실행합니다. 주문이 있는 라인의 편집 하이퍼링크를 클릭하여 팝업 페이지에 현재 라인의 주문 번호를 표시합니다.
 
-![](<../../../.gitbook/assets/image (1785).png>)
+![](<../../../.gitbook/assets/image (1796).png>)
 
 팝업 페이지의 텍스트 상자에서 주문 번호를 수정한 후 수정 버튼을 클릭합니다. 주문 목록 테이블의 첫 번째 주문 라인에 대한 주문 번호가 A008로 업데이트되었음을 확인할 수 있습니다.
 
-![](<../../../.gitbook/assets/image (2258).png>)
+![](<../../../.gitbook/assets/image (2269).png>)

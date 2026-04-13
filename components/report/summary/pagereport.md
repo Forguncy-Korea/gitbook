@@ -8,5 +8,5 @@
 
 페이지 보고서의 페이지 레이아웃은 디자인 타임과 정확히 일치하며 각 구성 요소의 위치와 크기는 변경되지 않으며 재무 문서, 은행 명세서 및 기타 형식의 엄격한 보고서를 디자인하는 데 사용되는 것과 같은 기존의 종이 보고서 형식을 만드는 데 적합합니다.<br>
 
-<figure><img src="../../../.gitbook/assets/image (267).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (278).png" alt=""><figcaption></figcaption></figure>
 

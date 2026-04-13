@@ -4,7 +4,7 @@
 
 JavaScript 명령을 사용하여 설정된 JavaScript 코드를 실행할 수 있습니다.
 
-![](<../../.gitbook/assets/image (1853).png>)
+![](<../../.gitbook/assets/image (1864).png>)
 
 ## JavaScript 명령&#x20;
 
@@ -24,8 +24,8 @@ var countcellValue=Forguncy.Page.getCell("count").getValue();
 alert(countcellValue);
 ```
 
-![](<../../.gitbook/assets/image (2100).png>)
+![](<../../.gitbook/assets/image (2111).png>)
 
 실행 후 쿼리 버튼 클릭하면 대화 상자가 나타납니다.&#x20;
 
-![](<../../.gitbook/assets/image (1192).png>)
+![](<../../.gitbook/assets/image (1203).png>)

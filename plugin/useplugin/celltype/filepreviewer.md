@@ -20,7 +20,7 @@ FilePreviewer 플러그인은 미리보기 첨부 셀을 지원하고 Tencent �
 2. Forguncy Builder에서 설치하고 Forguncy Builder를 다시 실행합니다.
 3. 셀 영역을 선택하고, 셀 유형 "FilePreviewer"로 설정합니다.
 
-<figure><img src="../../../.gitbook/assets/image (2204).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2215).png" alt=""><figcaption></figcaption></figure>
 
 4\. 실행하면 아래와 같이 화면이 나옵니다.&#x20;
 

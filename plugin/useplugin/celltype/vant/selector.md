@@ -19,19 +19,19 @@
 
 ### 빌더화면&#x20;
 
-<figure><img src="../../../../.gitbook/assets/image (966).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (977).png" alt=""><figcaption></figcaption></figure>
 
 
 
 ### 실행화면 (런타임)
 
-<figure><img src="../../../../.gitbook/assets/image (983).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (994).png" alt=""><figcaption></figcaption></figure>
 
 
 
 ### 셀속성&#x20;
 
-<figure><img src="../../../../.gitbook/assets/image (975).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (986).png" alt=""><figcaption></figcaption></figure>
 
 <table><thead><tr><th width="284">이름 </th><th>설명 </th></tr></thead><tbody><tr><td>명령 편집</td><td>값이 변경될 때 실행할 명령 구성</td></tr><tr><td>데이터 유효성 검사</td><td>셀의 구성 데이터 유효성 검사, 업데이트 명령 실행 또는 요청 서버 명령 실행 시에만 유효성 검사</td></tr><tr><td>UI 권한</td><td>현재 사용자의 역할에 따라 표시/편집 가능/활성화 권한</td></tr><tr><td>기본값</td><td>기본값</td></tr><tr><td>바인딩 사용</td><td>항목이 데이터베이스에서 바인딩되는지 여부를 나타냅니다 <br>. 항목이 데이터베이스에서 온 경우 선택기는 중복 항목을 자동으로 제거합니다. <br></td></tr><tr><td>항목 구성 </td><td>디자인 타임에 바인딩 해제 항목 구성</td></tr><tr><td>바인딩 항목 구성 </td><td>구성 바인딩 항목. 구성 값/레이블 열, 필터, 정렬, 상단/오프셋 및 캐시 허용</td></tr><tr><td>자리 표시자</td><td>텍스트 상자 자리 표시자</td></tr><tr><td>접두사 아이콘</td><td><img src="https://grapecity.atlassian.net/wiki/download/thumbnails/2931197565/image2022-3-28_13-37-55.png?version=1&#x26;modificationDate=1648445876463&#x26;cacheVersion=1&#x26;api=v2&#x26;width=215&#x26;height=60" alt=""></td></tr><tr><td>접미사 아이콘</td><td><img src="https://grapecity.atlassian.net/wiki/download/thumbnails/2931197565/image2022-3-28_13-38-18.png?version=1&#x26;modificationDate=1648445899333&#x26;cacheVersion=1&#x26;api=v2&#x26;width=189&#x26;height=68" alt=""></td></tr><tr><td>내부 테두리 표시</td><td><img src="https://grapecity.atlassian.net/wiki/download/thumbnails/2931197565/image2022-3-28_13-39-5.png?version=1&#x26;modificationDate=1648445945593&#x26;cacheVersion=1&#x26;api=v2&#x26;width=209&#x26;height=66" alt=""></td></tr><tr><td>지우기 아이콘 활성화</td><td><p>선택한 항목이 비어 있지 않을 때 접미사 지우기 아이콘을 표시할지 여부를 결정합니다.</p><p><img src="https://grapecity.atlassian.net/wiki/download/thumbnails/2931197565/image2022-3-28_13-50-54.png?version=1&#x26;modificationDate=1648446655073&#x26;cacheVersion=1&#x26;api=v2&#x26;width=208&#x26;height=64" alt=""></p></td></tr><tr><td>읽기 전용</td><td>읽기 전용<br></td></tr><tr><td>비활성화 </td><td>비활성화 </td></tr><tr><td>팝업 구성</td><td><p>도구 모음 표시: 팝업에 상단 표시줄 표시 여부를 결정합니다.</p><p><img src="https://grapecity.atlassian.net/wiki/download/thumbnails/2931197565/image2022-3-28_13-52-13.png?version=1&#x26;modificationDate=1648446733743&#x26;cacheVersion=1&#x26;api=v2&#x26;width=281&#x26;height=250" alt=""></p><p>위쪽 제목</p><p><img src="https://grapecity.atlassian.net/wiki/download/thumbnails/2931197565/image2022-3-28_13-54-3.png?version=1&#x26;modificationDate=1648446843307&#x26;cacheVersion=1&#x26;api=v2&#x26;width=293&#x26;height=250" alt=""></p><p>확인 버튼 텍스트 </p><p><img src="https://grapecity.atlassian.net/wiki/download/thumbnails/2931197565/image2022-3-28_13-54-35.png?version=1&#x26;modificationDate=1648446875893&#x26;cacheVersion=1&#x26;api=v2&#x26;width=287&#x26;height=250" alt=""></p><p>취소 버튼 텍스트</p><p><img src="https://grapecity.atlassian.net/wiki/download/thumbnails/2931197565/image2022-3-28_13-55-9.png?version=1&#x26;modificationDate=1648446909897&#x26;cacheVersion=1&#x26;api=v2&#x26;width=291&#x26;height=250" alt=""></p><p>표시 가능한 항목 개수: 보이는 열의 개수</p><p>항목 높이(픽셀): 항목 높이</p><p>살짝 밀기 기간 : 모멘텀 애니메이션의 지속 시간, 단위 ms</p></td></tr></tbody></table>
 

@@ -2,13 +2,13 @@
 
 NoticeBar를 통해 알림을 사용할 수 있습니다 .
 
-<figure><img src="../../../../.gitbook/assets/image (764).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (775).png" alt=""><figcaption></figcaption></figure>
 
 
 
 ### 셀속성
 
-<figure><img src="../../../../.gitbook/assets/image (799).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (810).png" alt=""><figcaption></figcaption></figure>
 
 | 이름          | 설명                                                        |
 | ----------- | --------------------------------------------------------- |

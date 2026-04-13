@@ -14,9 +14,9 @@ Active Directory 의 사용자, 조직 단위 등 정보를 포건시 사용자,
 
 사용자 계정 관리 인터페이스의 타사 영역에서 업로드를 클릭하고 ADSecurityProvider .zip 파일을 선택합니다.
 
-<figure><img src="../../../.gitbook/assets/image (1988).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1999).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (294).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (305).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -24,7 +24,7 @@ Active Directory 의 사용자, 조직 단위 등 정보를 포건시 사용자,
 
 기타 설정의 내용은 내부의 서버 담당자 또는 보안 담당자에게 문의를 하여 내용을 작성 후 적용해주십시오.
 
-<figure><img src="../../../.gitbook/assets/image (905).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (916).png" alt=""><figcaption></figcaption></figure>
 
 * 동기화 간격(분): 포건시는 보안 공급자로부터 얻은 사용자 정보를 캐시합니다. 자동 동기화 간격 설정은 포건시가 최신 사용자 정보 데이터를 자동으로 동기화하는 시간을 나타냅니다. 기본값은 20분입니다.
 * 사용자 속성: 포건시가 사용자 속성에서 가져오는 속성을 나타냅니다. 포건시는 사용자 이름, 사서함 정보를 가져오고 더 많은 사용자 속성을 가져오도록 설정할 수 있습니다.&#x20;
@@ -37,20 +37,20 @@ Active Directory 의 사용자, 조직 단위 등 정보를 포건시 사용자,
 
 ![](https://help.grapecity.com.cn/download/thumbnails/80942475/%E6%AD%A5%E9%AA%A43.png?version=1\&modificationDate=1673923114000\&api=v2) 외부 인증 제공자 명을 클릭하면 AD서버에 등록된 사용자, 역할, 조직을 확인할 수 있습니다.
 
-<figure><img src="../../../.gitbook/assets/image (2376).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2387).png" alt=""><figcaption></figcaption></figure>
 
 ![](https://help.grapecity.com.cn/download/thumbnails/80942475/%E6%AD%A5%E9%AA%A44.png?version=1\&modificationDate=1673923114000\&api=v2) 포건시빌더의 리본메뉴에서 \[보안>인증모드]를 클릭 한 후, “외부서비스 인증"선택합니다.
 
-<figure><img src="../../../.gitbook/assets/image (2378).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2389).png" alt=""><figcaption></figcaption></figure>
 
 ![](https://help.grapecity.com.cn/download/thumbnails/80942475/%E6%AD%A5%E9%AA%A45.png?version=1\&modificationDate=1673923114000\&api=v2)포건시 빌더에서  \[배포>서버배포]를  클릭하여 배포를 합니다.
 
-<figure><img src="../../../.gitbook/assets/image (2379).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2390).png" alt=""><figcaption></figcaption></figure>
 
 ![](https://help.grapecity.com.cn/download/thumbnails/80942475/%E6%AD%A5%E9%AA%A46.png?version=1\&modificationDate=1673923114000\&api=v2)서버관리자의   \[앱목록]에서 배포한 앱에서 하단에 "통합"에서 ADSecurityProvider를 선택합니다.
 
-<figure><img src="../../../.gitbook/assets/image (2377).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2388).png" alt=""><figcaption></figcaption></figure>
 
 ![](https://help.grapecity.com.cn/download/thumbnails/80942475/%E6%AD%A5%E9%AA%A47.png?version=1\&modificationDate=1673923114000\&api=v2) \[앱목록>모든앱목록]에서 배포한 앱을 재시작합니다.
 
-<figure><img src="../../../.gitbook/assets/image (2380).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2391).png" alt=""><figcaption></figcaption></figure>

@@ -2,7 +2,7 @@
 
 리스트뷰 명령에서 상태정보 선택 시 상태 정보 항목에는 리스트뷰 상태 저장과 리스트뷰 상태 로드 두가지 동작 종류가 있습니다.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (2508).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2519).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -16,7 +16,7 @@
 
 테이블에 저장된 테이블 상태가 표시되도록 하려면 리스트뷰상태 로드 명령을 사용합니다.
 
-<figure><img src="../../../.gitbook/assets/image (2509).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2520).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -26,4 +26,4 @@
 
 <br>
 
-<figure><img src="../../../.gitbook/assets/image (2511).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2522).png" alt=""><figcaption></figcaption></figure>

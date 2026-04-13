@@ -18,7 +18,7 @@
 4. &#x20;버튼을 클릭하고 우측에 명령 편집을 클릭하여 명령창을 실행합니다.
 5. 명령창에서 명령선택을 "포커스 설정 명령"을 선택한 후, 대상 셀을 설정합니다.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (2115).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2126).png" alt=""><figcaption></figcaption></figure>
 
 6\. 실행하고, "포커스 설정"버튼을 클릭하면 텍스트상자에 포커스가 있는것을 확인할 수 있습니다.&#x20;
 

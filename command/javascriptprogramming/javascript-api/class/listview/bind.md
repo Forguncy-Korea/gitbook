@@ -40,10 +40,10 @@ listview.bind("SelectionChanged", function () {
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72365423/%E6%AD%A5%E9%AA%A42.png?version=1\&modificationDate=1648092729000\&api=v2)페이지 설정에서 \[페이지 로드 시 명령 편집]을 클릭하고 명령을 \[자바스크립트로 직접 프로그래밍하기]으로 편집하고 JavaScript 코드를 입력합니다.
 
-<figure><img src="../../../../../.gitbook/assets/image (1656).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (1667).png" alt=""><figcaption></figcaption></figure>
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72365423/%E6%AD%A5%E9%AA%A43.png?version=1\&modificationDate=1648092729000\&api=v2)편집이 완료되면 \[확인]을 클릭하여 대화 상자를 닫습니다.
 
 페이지를 실행하고 테이블의 현재 행을 변경하면 경고 상자가 나타납니다.
 
-<figure><img src="../../../../../.gitbook/assets/image (1619).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (1630).png" alt=""><figcaption></figcaption></figure>

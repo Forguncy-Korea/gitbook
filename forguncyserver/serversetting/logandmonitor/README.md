@@ -10,7 +10,7 @@
 
 서버관리자에서 \[설정>로그]를 선택하여 로그관리페이지로 들어갑니다.
 
-<figure><img src="../../../.gitbook/assets/image (151).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (162).png" alt=""><figcaption></figcaption></figure>
 
 
 

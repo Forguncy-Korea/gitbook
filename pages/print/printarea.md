@@ -12,11 +12,11 @@
 
 
 
-![](<../../.gitbook/assets/image (2024).png>)
+![](<../../.gitbook/assets/image (2035).png>)
 
 실행 후 페이지의 테이블 데이터가 모두 로드되지만 리스트 크기 제한으로 인해 완전히 표시되지 않습니다. \[인쇄] 버튼을 클릭하면 리스트뷰가 PDF로 내보내지고 리스트뷰가 자동으로 확장되어 리스트뷰의 모든 데이터가 인쇄됩니다.
 
-![](<../../.gitbook/assets/image (2023).png>)
+![](<../../.gitbook/assets/image (2034).png>)
 
 ### 인쇄 영역 설정 <a href="#she-zhi-da-yin-qu-yu" id="she-zhi-da-yin-qu-yu"></a>
 
@@ -26,4 +26,4 @@
 
 예를 들어 페이지에서 테이블을 선택한 다음 리본 메뉴 표시줄에서 "인쇄->인쇄 영역"을 선택하고 "인쇄 영역 설정"을 클릭합니다.
 
-<figure><img src="../../.gitbook/assets/image (109).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (120).png" alt=""><figcaption></figcaption></figure>

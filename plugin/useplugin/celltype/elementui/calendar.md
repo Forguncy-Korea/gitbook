@@ -2,13 +2,13 @@
 
 엘리먼트 UI의 달력을 이용하여 포건시 페이지에서 달력을 사용할 수 있습니다.&#x20;
 
-<figure><img src="../../../../.gitbook/assets/image (631).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (642).png" alt=""><figcaption></figcaption></figure>
 
 
 
 ### 셀속성&#x20;
 
-<figure><img src="../../../../.gitbook/assets/image (2117).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (2128).png" alt=""><figcaption></figcaption></figure>
 
 <br>
 

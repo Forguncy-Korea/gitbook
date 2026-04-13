@@ -10,7 +10,7 @@
 
 피벗테이블을 선택하고 셀 설정에서 "피벗테이블 설정"을 클릭하면 피벗 테이블 설정 대화 상자가 팝업되며 "그 외"탭을 선택합니다.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (1572).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1583).png" alt=""><figcaption></figcaption></figure>
 
 고정 필드 콤보 상자에서 고정할 필드를 선택하거나 모두 고정하거나, 없음을 선택할 수 있습니다.
 
@@ -18,8 +18,8 @@
 
 고정필드 콤보 상자에서 모두 고정을 선택합니다.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (2271).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2282).png" alt=""><figcaption></figcaption></figure>
 
 "모두 고정"을 선택하면 전체 라인 헤더가 고정됩니다.
 
-<figure><img src="../../.gitbook/assets/image (419).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (430).png" alt=""><figcaption></figcaption></figure>

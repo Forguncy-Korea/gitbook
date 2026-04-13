@@ -12,11 +12,11 @@
 
 예를 들어, 피벗 테이블이 설정된 페이지에서 " Excel로 내보내기" 버튼을 설정하고 명령은 "페이지Excel로 내보내기"입니다.
 
-<figure><img src="../../.gitbook/assets/image (2014).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2025).png" alt=""><figcaption></figcaption></figure>
 
 실행 후 페이지의 모든 테이블과 피벗 테이블이 로드됩니다."Excel로 내보내기" 버튼을 클릭하면 페이지의 피벗 테이블을 포함하여 페이지가 Excel로 내보내집니다.
 
-<figure><img src="../../.gitbook/assets/image (915).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (926).png" alt=""><figcaption></figcaption></figure>
 
 ### 제한&#x20;
 

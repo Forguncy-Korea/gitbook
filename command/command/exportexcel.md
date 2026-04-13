@@ -2,7 +2,7 @@
 
 테이블 내보내기 명령을 사용하여 페이지의 테이블을 Excel로 내보낼 수 있습니다.&#x20;
 
-![](<../../.gitbook/assets/image (2142).png>)
+![](<../../.gitbook/assets/image (2153).png>)
 
 ## 테이블을 Excel로 내보내기&#x20;
 
@@ -15,8 +15,8 @@
 
 예를 들어 주문 정보 페이지에서 테이블 내보내기 버튼을 Excel로 내보내기로 설정하고, Excel로 내보낼 리스트뷰를  리스트뷰 1로 선택하고, 내보낸 Excel 파일 이름 기타 이름으로 선택하여 M4 셀을 지정합니다.&#x20;
 
-![](<../../.gitbook/assets/image (1459).png>)
+![](<../../.gitbook/assets/image (1470).png>)
 
 실행 후 주문 목록 페이지에서 내보내기 버튼을 클릭하면 테이블의 데이터가 Excel로 내보내지며 Excel 파일 이름은 M4 셀의 값인 주문정보입니다.&#x20;
 
-![](<../../.gitbook/assets/image (2251).png>)
+![](<../../.gitbook/assets/image (2262).png>)

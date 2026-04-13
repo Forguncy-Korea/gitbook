@@ -4,7 +4,7 @@
 
 하이퍼링크는 그림 에 나와 있으며 텍스트 텍스트가 하이퍼링크로 설정되어 있습니다
 
-<figure><img src="../../.gitbook/assets/image (352).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (363).png" alt=""><figcaption></figcaption></figure>
 
 ## 하이퍼링크를 설정&#x20;
 

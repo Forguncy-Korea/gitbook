@@ -31,11 +31,11 @@ Forguncy Builder는 Excel 화면을 기반으로 원하는 웹 페이지를 디�
 
 (3) EULA(사용자 라이선스 동의서)에 동의하시면 “설치” 버튼이 활성화됩니다. 클릭하셔서 설치를 진행해 주세요.
 
-<figure><img src="../../.gitbook/assets/image (2495).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2506).png" alt=""><figcaption></figcaption></figure>
 
 **4. 설치가 완료된 후, Forguncy Builder를 실행하실 수 있습니다.**
 
-<figure><img src="../../.gitbook/assets/image (2497).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2508).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **문의하기**

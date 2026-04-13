@@ -6,7 +6,7 @@
 
 차트 명령을 설정하면 다음 명령에서 직접 사용할 수 있는 계열 이름, 클래스 및 값과 같은 기본 매개 변수가 자동으로 생성됩니다.
 
-![](<../../.gitbook/assets/image (393).png>)
+![](<../../.gitbook/assets/image (404).png>)
 
 차트의 범주 부분을 클릭하면 상세 정보를 확인할 수 있는 기능을 구현합니다.
 
@@ -22,11 +22,11 @@
 
 소스 셀을 클릭한 후 팝업 대화 상자에서 변수 목록에서 변수를 선택하고 삽입을 두 번 클릭합니다. 이러한 변수는 시스템에서 자동으로 생성됩니다.![](https://help.grapecity.com.cn/download/thumbnails/72356166/image2021-9-26_12-6-27.png?version=1\&modificationDate=1648092588000\&api=v2)
 
-![](<../../.gitbook/assets/image (2155).png>)
+![](<../../.gitbook/assets/image (2166).png>)
 
 여기서는 클래스만 필요하므로 매개 변수 클래스를 팝업 페이지의 대상 셀에 전달합니다.
 
-![](<../../.gitbook/assets/image (1162).png>)
+![](<../../.gitbook/assets/image (1173).png>)
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72356166/%E6%AD%A5%E9%AA%A43.png?version=1\&modificationDate=1648092588000\&api=v2) 세부 정보 페이지에서 영역이 C11의 값과 같을 때 테이블에 대한 쿼리 조건을 설정합니다. 10행 셀 설정을 숨깁니다.
 

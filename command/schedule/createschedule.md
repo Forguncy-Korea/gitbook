@@ -6,9 +6,9 @@
 
 예약 작업 기능은 개체 관리자에 기본적으로 표시되지 않는 고급 기능입니다 . 프토젝트 탐색기의 ![](https://help.grapecity.com.cn/download/thumbnails/80946065/image2023-1-9_11-57-14.png?version=1\&modificationDate=1673923165000\&api=v2)버튼을 클릭하면,  개체선택 창이작뜹니다.  개체선택창에서  예약작업의 확인란을 선택하고 "확인"을 클릭하면 개체 관리자에 예약된 작업이 표시됩니다.
 
-<figure><img src="../../.gitbook/assets/image (371).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (382).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (1723).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1734).png" alt=""><figcaption></figcaption></figure>
 
 ## 예약된 작업 만들기&#x20;
 
@@ -20,34 +20,34 @@
 
 또는 리본 메뉴에서 \[만들기]>\[예약작업]에서 대화상자를 뜨게 할 수 있습니다.
 
-![](<../../.gitbook/assets/image (1455).png>)
+![](<../../.gitbook/assets/image (1466).png>)
 
 2. 예약 작업 만들기에서 편집합니다. 일반 설정을 사용하면 나중에 자신 또는 다른 사용자가 쉽게 유지 관리할 수 있도록 예약된 작업의 이름과 설명을 설정할 수 있습니다.
 
-![](<../../.gitbook/assets/image (1711).png>)
+![](<../../.gitbook/assets/image (1722).png>)
 
 3. &#x20;타이밍 작업의 트리거를 편집하여 이 타이밍 작업에 대한 트리거를 설정합니다.
 
-![](<../../.gitbook/assets/image (1737).png>)
+![](<../../.gitbook/assets/image (1748).png>)
 
 * 일정 계획: 실행 빈도를 한 번/매시간/일별/주별/월별로 설정하고 고급 설정에서 만료 날짜를 설정할 수 있습니다.
 * 실행된 예약 작업: 명령에서 사용할 수 있는 다음 매개 변수가 자동으로 생성됩니다. 매개 변수 이름은 수정을 지원합니다.
 
-![](<../../.gitbook/assets/image (521).png>)
+![](<../../.gitbook/assets/image (532).png>)
 
 * 실행된 서버단 명령: 명령에서 사용할 수 있는 다음 매개 변수가 자동으로 생성됩니다. 매개 변수 이름은 수정을 지원합니다.
 
-![](<../../.gitbook/assets/image (1157).png>)
+![](<../../.gitbook/assets/image (1168).png>)
 
 * 실행된 외부 테이블이 저장 되면 명령에서 사용할 수 있는 다음 매개 변수가 자동으로 생성됩니다. 매개 변수 이름은 수정을 지원합니다.
 
-![](<../../.gitbook/assets/image (1745).png>)
+![](<../../.gitbook/assets/image (1756).png>)
 
 4. 예약된 작업에 의해 실행되는 명령을 편집합니다. \[명령 편집] 하이퍼링크를 클릭하고 예약된 작업 편집 대화 상자를 표시하고 CSV 가져오기/내보내기를 선택합니다.
 
 &#x20;     CSV 작업을 선택하고 데이터 테이블 및 CSV의 파일 경로를 선택합니다.
 
-![](<../../.gitbook/assets/image (339).png>)
+![](<../../.gitbook/assets/image (350).png>)
 
 5. 설정이 완료되면 개체 관리자의 예약된 작업 탭에서 생성된 예약된 작업을 볼 수 있습니다.
 
@@ -55,7 +55,7 @@
 
 예약된 작업을 선택하고 마우스 오른쪽 버튼을 클릭하면 예약된 작업을 사용하지 않도록 설정하거나 예약된 작업을 복사하도록 선택할 수 있는 마우스 오른쪽 버튼 클릭 메뉴가 나타납니다.
 
-![](<../../.gitbook/assets/image (349).png>)
+![](<../../.gitbook/assets/image (360).png>)
 
 6. 설정이 완료되면 앱을 실행하거나 게시하고 설정된 시간에 CSV 내보내기 명령을 실행합니다.
 
@@ -63,17 +63,17 @@
 
 예약된 작업을 만든 후 빌더에서 직접 타이밍 작업을 테스트할 수 있으며 앱을 실행하지 않고도 예약된 작업의 설정을 테스트할 수 있습니다.
 
-![](<../../.gitbook/assets/image (737).png>)
+![](<../../.gitbook/assets/image (748).png>)
 
 테스트 버튼을 클릭하면 예약된 작업의 명령이 즉시 실행됩니다. 예약된 작업에서 명령을 실행하면 테스트 결과가 표시됩니다. 결과에는 "반환 코드" 및 "로그"가 포함됩니다.
 
-![](<../../.gitbook/assets/image (1017).png>)
+![](<../../.gitbook/assets/image (1028).png>)
 
 &#x20;**빌더에서 정기적으로 명령 실행**&#x20;
 
 이 옵션을 선택하면 빌더에서 예약된 작업에 대한 명령이 예약되고 기본적으로 선택되지 않습니다.
 
-![](<../../.gitbook/assets/image (1535).png>)
+![](<../../.gitbook/assets/image (1546).png>)
 
 
 
@@ -83,7 +83,7 @@
 
 "파일-옵션-응용 프로그램 설정"을 선택하고 동작 영역에서 "예약된 작업의 동시 실행"을 선택합니다.
 
-<figure><img src="../../.gitbook/assets/image (232).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (243).png" alt=""><figcaption></figcaption></figure>
 
 * 이 옵션을 체크하면 예약된 시간이 되면 예약된 작업이 즉시 실행됩니다.
 * 이 옵션을 선택하지 않으면 예약된 작업이 예약된 시간에 도착하면 실행 대기열에 추가되어 순차적으로 실행됩니다.

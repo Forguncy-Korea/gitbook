@@ -9,7 +9,7 @@
 * 오토스크롤
 *   캐시활성화&#x20;
 
-    <figure><img src="../../.gitbook/assets/image (2459).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (2470).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -19,7 +19,7 @@
 
 리스트뷰를 선택하고 마우스 오른쪽 버튼 클릭, 오른쪽 클릭 메뉴에서 "리스트뷰 옵션 설정"을 선택, 리스트뷰 설정 대화 상자를 팝업창에서 데이터"탭을 선택하고, "페이지를 표시할 때 데이터를 불러오지 않습니다"를 선택하 페이지를 열 때 테이블 데이터를 로드하지 않습니다, 데이터가 새로 고쳐질 때만 데이터가 로드됩니다.
 
-![](<../../.gitbook/assets/image (1545).png>)
+![](<../../.gitbook/assets/image (1556).png>)
 
 ## 자동으로 데이터 다시 불러오기&#x20;
 
@@ -29,13 +29,13 @@
 
 예를 들어 간격을 1초로 설정하면 데이터가 1초 후에 새로 고쳐집니다.
 
-![](<../../.gitbook/assets/image (1446).png>)
+![](<../../.gitbook/assets/image (1457).png>)
 
 ## 오토스크롤&#x20;
 
 오토 스크롤을 사용하여 리스트뷰에서 데이터를 자동으로 스크롤합니다.
 
-![](<../../.gitbook/assets/image (1032).png>)
+![](<../../.gitbook/assets/image (1043).png>)
 
 리스트뷰를 선택하고 마우스 오른쪽 버튼 클릭, 오른쪽 클릭 메뉴에서 "리스트뷰 옵션 설정"을 선택, 리스트뷰 설정 대화 상자를 팝업창에서 데이터"탭을 선택하고,  \[오토스크롤]을 선택하면 자동 스크롤 속도(느린, 중간 및 빠른)를 설정할 수 있습니다.
 
@@ -51,4 +51,4 @@
 
 참고: 권한이나 쿼리 조건 등으로 인해 여러 사용자가 서로 다른 결과를 쿼리해야 하는 경우 캐싱을 활성화하지 마세요.
 
-<figure><img src="../../.gitbook/assets/image (2460).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2471).png" alt=""><figcaption></figcaption></figure>

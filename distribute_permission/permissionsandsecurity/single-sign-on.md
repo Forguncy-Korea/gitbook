@@ -34,7 +34,7 @@ Forguncy의 인증 연계 기능은 아래 그림과 같은 흐름으로 이루�
 
 다른 응용 프로그램에서 로그인 허용을 선택하지 않으면 사용자의 토큰을 요청할 수 없습니다.
 
-<figure><img src="../../.gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (60).png" alt=""><figcaption></figcaption></figure>
 
 | 설정                 | 설명                                                                                                                                                   |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -86,7 +86,7 @@ Process.Start(baseUrl + "?token=" + token);
 
 서버의 "C:\Users\Public\Documents\ForguncyServer\ _Application Name_ " 디렉토리에서 "Config.xml" 구성 파일을 찾아 열고 아래 그림과 같이 Password 값을 편집합니다.
 
-<figure><img src="../../.gitbook/assets/image (2601).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2612).png" alt=""><figcaption></figcaption></figure>
 
 >
 >

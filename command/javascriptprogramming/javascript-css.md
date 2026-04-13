@@ -10,7 +10,7 @@
 
 ![](https://help.grapecity.com.cn/download/thumbnails/56532247/%E6%AD%A5%E9%AA%A43.png?version=1\&modificationDate=1611021620000\&api=v2) 각 파일 및 위치는 아래 그림과 같이 실제 비즈니스에 따라 JavaScript 및 CSS 코드를 디버깅할 수 있습니다.
 
-<figure><img src="../../.gitbook/assets/image (1206).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1217).png" alt=""><figcaption></figcaption></figure>
 
 
 

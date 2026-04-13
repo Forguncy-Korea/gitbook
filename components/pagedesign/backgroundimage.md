@@ -6,21 +6,21 @@
 
 기본 제공 배경 이미지 유형에는 텍스처 배경, 바, 전체 배경, 장식 요소, 테마 그림 및 배경 색상 블록이 포함됩니다.
 
-<figure><img src="../../.gitbook/assets/image (1975).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1986).png" alt=""><figcaption></figcaption></figure>
 
 예를 들어 텍스처 배경을 선택하고 \[확인]을 클릭하면 선택한 텍스처 배경이 페이지에 삽입된 것을 볼 수 있습니다.
 
-<figure><img src="../../.gitbook/assets/image (1449).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1460).png" alt=""><figcaption></figcaption></figure>
 
 ## 배경 이미지를 디자인&#x20;
 
 배경 이미지를 삽입한 후 배경 이미지가 있는 셀을 선택하고 마우스 오른쪽 버튼을 클릭한 다음 오른쪽 클릭 메뉴에서 배경 이미지 선택을 선택합니다.
 
-<figure><img src="../../.gitbook/assets/image (1560).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1571).png" alt=""><figcaption></figcaption></figure>
 
 배경 이미지를 선택한 후 리본의 메뉴 모음에서 그림 도구-디자인을 선택하여 배경 이미지를 조정합니다.
 
-<figure><img src="../../.gitbook/assets/image (695).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (706).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -37,16 +37,16 @@
 
 배경 이미지를 삽입한 후 배경 그림이 있는 셀을 선택하고 마우스 오른쪽 버튼을 클릭한 다음 오른쪽 클릭 메뉴에서 배경 이미지 선택을 선택한 다음 마우스 오른쪽 버튼을 클릭하고 마우스 오른쪽 버튼 클릭 메뉴에서 \[그림 편집 명령]을 선택합니다.
 
-<figure><img src="../../.gitbook/assets/image (1073).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1084).png" alt=""><figcaption></figcaption></figure>
 
 또는 배경 이미지를 선택하고 리본 메뉴 모음에서 그림 도구-디자인에서 그림 명령을 클릭합니다.
 
-<figure><img src="../../.gitbook/assets/image (347).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (358).png" alt=""><figcaption></figcaption></figure>
 
 팝업 메시지 상자 명령으로 설정 명령과 같은 팝업 그림 명령 설정 대화 상자에서 명령을 설정합니다.
 
-<figure><img src="../../.gitbook/assets/image (1369).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1380).png" alt=""><figcaption></figcaption></figure>
 
 실행 후 페이지에서 배경 그림이 있는 위치를 클릭하면 명령이 실행되고 메시지 상자가 나타납니다.
 
-<figure><img src="../../.gitbook/assets/image (1740).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1751).png" alt=""><figcaption></figcaption></figure>

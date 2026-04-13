@@ -8,7 +8,7 @@
 
 또는 폴더 만들기를 선택하여 폴더에 서버단 명령을 만듭니다.
 
-![](<../../../../.gitbook/assets/image (560).png>)
+![](<../../../../.gitbook/assets/image (571).png>)
 
 리본 메뉴 모음에서 만들기를 클릭하고 서버 개체 영역에서 서버단 명령을 클릭하여 서버단 명령 만들기 대화 상자를 팝업할 수도 있습니다.
 
@@ -22,15 +22,15 @@
   * 리스트뷰 높이 만큼 표시 후 다른 시트 생성: 예를 들어 테이블에는 20개의 행이 있고, 10씩 행 보여준다면 11\~20개의 행은 두 번째 sheet로 내보내집니다.
 * 내보내기 파일 경로: Excel 파일을 내보낼 때 파일이 저장되는 경로를 설정합니다. "D:\Excel 내보내기\주문 목록 .xlsx"와 같은 파일의 전체 경로를 입력해야 하며 폴더는 이미 있는 폴더여야 하며 접미사 이름 ".xlsx"은 생략할 수 있습니다.
 
-![](<../../../../.gitbook/assets/image (1215).png>)
+![](<../../../../.gitbook/assets/image (1226).png>)
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72357487/%E6%AD%A5%E9%AA%A44.png?version=1\&modificationDate=1648092607000\&api=v2)  설정 완료되면 이 서버 명령을 호출할 수 있습니다.
 
 예를 들어 페이지에서 셀 범위를 선택하고 버튼 설정합니다. 버튼의 명령을 편집하고 명령을 "서버단 명령 호출"으로 선택한 다음 서버단 명령 뒤에 있는 드롭다운을 클릭하고 드롭다운 목록에서 "페이지 Excel로  내보내기"를 선택합니다.
 
-![](<../../../../.gitbook/assets/image (570).png>)
+![](<../../../../.gitbook/assets/image (581).png>)
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72357487/%E6%AD%A5%E9%AA%A45.png?version=1\&modificationDate=1648092607000\&api=v2) 설정이 완료되면 \[확인]을 클릭하여 대화 상자를 닫습니다. 페이지를 실행합니다.페이지에서 \[Excel 내보내기] 버튼 클릭하면 설정된 지정된 경로 아래에 내보낸 Excel 파일이 표시됩니다.
 
-![](<../../../../.gitbook/assets/image (440).png>)
+![](<../../../../.gitbook/assets/image (451).png>)
 

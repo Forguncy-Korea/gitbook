@@ -38,14 +38,14 @@ return count;
 
 실행 후 페이지는 다음과 같이 표시됩니다.
 
-<figure><img src="../../../../../.gitbook/assets/image (384).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (395).png" alt=""><figcaption></figcaption></figure>
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72366285/%E6%AD%A5%E9%AA%A42.png?version=1\&modificationDate=1648092744000\&api=v2)페이지 설정에서 페이지 로드를 편집할 때의 명령은 \[자바스크립트로 직접 프로그래밍하기]이며 JavaScript 코드를 입력합니다.
 
-<figure><img src="../../../../../.gitbook/assets/image (1875).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (1886).png" alt=""><figcaption></figcaption></figure>
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72366285/%E6%AD%A5%E9%AA%A43.png?version=1\&modificationDate=1648092744000\&api=v2)편집이 완료되면 \[확인]을 클릭하여 대화 상자를 닫습니다.
 
 페이지를 실행한 후 피벗 테이블의 값이 사용자 지정 방식으로 요약되는 것을 볼 수 있습니다.
 
-<figure><img src="../../../../../.gitbook/assets/image (1334).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (1345).png" alt=""><figcaption></figcaption></figure>

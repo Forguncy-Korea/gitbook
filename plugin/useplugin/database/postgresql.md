@@ -12,8 +12,8 @@
 
 PostgreSQL 데이터베이스 플러그인을 설치한 후 빌더의 플러그인 목록에 새 플러그인 옵션이 표시됩니다.
 
-<figure><img src="../../../.gitbook/assets/image (173).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (184).png" alt=""><figcaption></figcaption></figure>
 
 데이터베이스 접속 시 PostgreSQL 데이터베이스를 선택할 수 있게 됩니다.
 
-<figure><img src="../../../.gitbook/assets/image (174).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (185).png" alt=""><figcaption></figcaption></figure>

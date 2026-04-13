@@ -10,7 +10,7 @@ Windows 도메인 인증은 편리한 인증 방법이며 포건시는 Windows �
 
 수동 동기화 영역에서 수동 동기화 하기 버튼을 클릭하면 현재 사용자가 있는 Windows 도메인의 사용자 동기화가 시작됩니다.
 
-![](<../../.gitbook/assets/image (1957).png>)
+![](<../../.gitbook/assets/image (1968).png>)
 
 ## 동기화 설정&#x20;
 
@@ -20,5 +20,5 @@ Windows 도메인 인증은 편리한 인증 방법이며 포건시는 Windows �
 
 동기화 설정 영역에서 "동기화 활성화하기"를 선택하면 동기화 시간 및 동기화 간격을 시간 단위로 설정할 수 있습니다.
 
-![](<../../.gitbook/assets/image (2224).png>)
+![](<../../.gitbook/assets/image (2235).png>)
 

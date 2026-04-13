@@ -14,7 +14,7 @@
 
 SQL Server 데이터베이스에 연결하는 방법에 대한 자세한 내용은 SQL Server에 연결을 참조 [하십시오](https://help.grapecity.com.cn/pages/viewpage.action?pageId=46172273) .
 
-![](<../../../.gitbook/assets/image (1295).png>)
+![](<../../../.gitbook/assets/image (1306).png>)
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72358307/%E6%AD%A5%E9%AA%A42.png?version=1\&modificationDate=1648092617000\&api=v2)  개체 관리자에서서버 명령 탭을 마우스 오른쪽 버튼으로 클릭하고 "서버 명령 생성"을 선택하면 서버 명령 편집 대화 상자가 나타나 서버 명령의 일반 설정을 편집할 수 있습니다. 서버 명령의 이름을 "저장 프로시저 호출"로 설정합니다.
 
@@ -41,7 +41,7 @@ SQL Server 데이터베이스에 연결하는 방법에 대한 자세한 내용�
 
 예를 들어 페이지에서 셀 범위를 선택하고 버튼으로 설정합니다. 버튼의 명령을 편집하고 "서버 명령 호출"로 명령을 선택한 다음 서버 명령 뒤의 드롭다운을 클릭하고 드롭다운 목록에서 "저장 프로시저 호출"의 서버 명령을 선택하고, 파리미터 이름과  값을 설정합니다.&#x20;
 
-![](<../../../.gitbook/assets/image (429).png>)
+![](<../../../.gitbook/assets/image (440).png>)
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72358307/%E6%AD%A5%E9%AA%A46.png?version=1\&modificationDate=1648092616000\&api=v2)  설정이 완료되면 확인을 클릭하여 대화 상자를 닫습니다. Name과 CountryCode를 입력하고 저장프로시저 호출 버튼을 클릭합니다.&#x20;
 

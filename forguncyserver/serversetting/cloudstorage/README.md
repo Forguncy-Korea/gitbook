@@ -23,11 +23,11 @@ Forguncy가 지원하는 클라우드 스토리지 서비스는 다음과 같습
 
 업로드를 클릭하고 클라우드 저장소 공급자를 선택하고 업로드 후 인증 구성을 수행합니다.
 
-<figure><img src="../../../.gitbook/assets/image (2518).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2529).png" alt=""><figcaption></figcaption></figure>
 
 업로드가 완료되면 아래 목록에 공급자 이름, 버전 번호 및 의존성 버전 번호가 표시됩니다. ![](https://help.grapecity.com.cn/download/thumbnails/80953092/image2022-9-30_16-34-14.png?version=1\&modificationDate=1673923284000\&api=v2)버튼을   클릭하면 삭제할 수 있습니다.
 
-<figure><img src="../../../.gitbook/assets/image (1541).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1552).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -37,7 +37,7 @@ Forguncy가 지원하는 클라우드 스토리지 서비스는 다음과 같습
 
 공급자 정보 편집창에 정보를입력합니다.
 
-<figure><img src="../../../.gitbook/assets/image (1140).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1151).png" alt=""><figcaption></figcaption></figure>
 
 ### 클라우드 스토리지 사용&#x20;
 
@@ -45,8 +45,8 @@ Forguncy가 지원하는 클라우드 스토리지 서비스는 다음과 같습
 
 예를 들어 관리 콘솔의 "설정-저장 경로"에서 최종 사용자가 업로드한 파일의 저장 유형을 클라우드 저장소로 설정합니다 .
 
-<figure><img src="../../../.gitbook/assets/image (2285).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2296).png" alt=""><figcaption></figcaption></figure>
 
 애플리케이션의 고급 설정에서 최종 사용자가 클라우드 스토리지에 업로드한 파일의 스토리지 유형을 설정합니다.
 
-<figure><img src="../../../.gitbook/assets/image (1855).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1866).png" alt=""><figcaption></figcaption></figure>

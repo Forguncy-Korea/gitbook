@@ -16,7 +16,7 @@
 
 사용 가능한 의 데이터 세트 이름 드롭다운 상자에서 위에 정의된 제품 범주 데이터 집합을 선택하고, 데이터 필드 드롭다운 상자에서 범주 이름을 선택하고, 레이블 필드 드롭다운 상자에서 다음 그림과 같이 범주 이름을 선택합니다.
 
-![](<../../../.gitbook/assets/image (1126).png>)
+![](<../../../.gitbook/assets/image (1137).png>)
 
 여기서 데이터 필드의 값은 데이터 집합 SQL 문에 전달된 실제 매개 변수 값으로 사용됩니다. 레이블 필드의 값은 드롭다운 목록 상자에 표시되는 문자열입니다.
 
@@ -26,10 +26,10 @@
 
 필터를 구성합니다. 여기서 필터는 범주 이름 필드로 구성됩니다(오른쪽을 클릭하고 드롭다운 목록에서 범주 이름을 선택합니다). 데이터는 보고서 매개 변수로 구성됩니다(오른쪽을 클릭하고 드롭다운 목록에서 범주 이름을 선택합니다).![](https://help.grapecity.com.cn/download/thumbnails/56537608/image2021-10-13_19-6-45.png?version=1\&modificationDate=1635241194000\&api=v2)![](https://help.grapecity.com.cn/download/thumbnails/56537608/image2021-10-13_19-6-38.png?version=1\&modificationDate=1635241194000\&api=v2)
 
-![](<../../../.gitbook/assets/image (1165).png>)
+![](<../../../.gitbook/assets/image (1176).png>)
 
 ![](https://help.grapecity.com.cn/download/thumbnails/56537608/%E6%AD%A5%E9%AA%A45.png?version=1\&modificationDate=1615949842000\&api=v2)  보고서를 미리 봅니다. 매개 변수 패널에서 드롭다운 버튼을 클릭하면 드롭다운 목록 스타일의 쿼리 매개 변수가 표시됩니다. 드롭다운 상자에서 쿼리 조건을 선택하기만 하면(키워드를 입력하여 자동으로 검색할 수 있습니다) 범주별로 제품 정보를 쿼리할 수 있습니다.
 
-![](<../../../.gitbook/assets/image (1015).png>)
+![](<../../../.gitbook/assets/image (1026).png>)
 
 <br>

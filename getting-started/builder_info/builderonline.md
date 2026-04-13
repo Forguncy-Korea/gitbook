@@ -15,17 +15,17 @@ description: 인터넷이 연결된 환경에서 포건시 빌더를 활성화/�
 
 **1. Forguncy를 실행하면, 아래와 같이 제품 라이선스 등록 안내 창이 나타납니다.**
 
-<figure><img src="../../.gitbook/assets/image (2549).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2560).png" alt=""><figcaption></figcaption></figure>
 
 **2. 정품인증 안내창에서 “**<mark style="background-color:yellow;">**라이선스 정품인증 도구 실행하기**</mark>**”를 클릭합니다.**&#x20;
 
 아래와 같은 인증키 입력 창이 나타나면, 메시어스로 부터 구입하신 정품인증 라이선스키를 입력해주시면 됩니다.
 
-<figure><img src="../../.gitbook/assets/image (2552).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2563).png" alt=""><figcaption></figcaption></figure>
 
 **3. Forguncy 정품인증이 완료되면 아래와 같이 성공 문구가 나타납니다.**
 
-<figure><img src="../../.gitbook/assets/image (2553).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2564).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **라이선스 활성화 실패**
@@ -51,19 +51,19 @@ description: 인터넷이 연결된 환경에서 포건시 빌더를 활성화/�
 
 **1. Forguncy를 실행 후, “파일” 탭으로 접근합니다.**
 
-![](<../../.gitbook/assets/image (1037).png>)
+![](<../../.gitbook/assets/image (1048).png>)
 
 **2. “파일” 탭의 “정보 > 라이선스 등록 취소”를 클릭합니다.**<br>
 
-<figure><img src="../../.gitbook/assets/image (2498).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2509).png" alt=""><figcaption></figcaption></figure>
 
 **3. “비활성화 확인” 창에서 “비활성화” 버튼을 클릭합니다.**
 
-<figure><img src="../../.gitbook/assets/image (2499).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2510).png" alt=""><figcaption></figcaption></figure>
 
 **4. 마지막으로 비활성화 여부를 확인하는 창이 나타납니다.**
 
-<figure><img src="../../.gitbook/assets/image (2500).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2511).png" alt=""><figcaption></figcaption></figure>
 
 **5. 정품인증 라이선스 비활성화가 완료되면 Forguncy Builder는 자동으로 종료됩니다.**
 

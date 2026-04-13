@@ -49,7 +49,7 @@ listview.showColumns([1,2]);
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72365867/%E6%AD%A5%E9%AA%A42.png?version=1\&modificationDate=1648092736000\&api=v2) 셀 범위를 선택하고 셀 유형을 버튼으로 설정하고 명령을 \[자바스크립트로 직접 프로그래밍하기]으로 편집하고 JavaScript 코드를 입력합니다.
 
-<figure><img src="../../../../../.gitbook/assets/image (1059).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (1070).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -57,10 +57,10 @@ listview.showColumns([1,2]);
 
 * 페이지를 실행하고 페이지에서 열 숨기기 버튼을 클릭하면 생년월일 및 부서 열이 숨겨집니다.
 
-<figure><img src="../../../../../.gitbook/assets/image (1326).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (1337).png" alt=""><figcaption></figcaption></figure>
 
 
 
 * 페이지에서 열 표시 버튼을 클릭하면 숨겨진 생년월일 및 부서 열이 표시됩니다.
 
-<figure><img src="../../../../../.gitbook/assets/image (1842).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (1853).png" alt=""><figcaption></figcaption></figure>

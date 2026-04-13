@@ -6,7 +6,7 @@
 
 리소스 권한을 설정한 후 설정 저장을 클릭하면 권한이 적용됩니다.
 
-<figure><img src="../../.gitbook/assets/image (2270).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2281).png" alt=""><figcaption></figcaption></figure>
 
 ### 역할별 권한 설정&#x20;
 
@@ -16,7 +16,7 @@
 
 "이 역할의 기존 권한을 보려면 클릭하십시오"를 클릭하면 팝업 카드에서 이 역할의 기존 권한을 볼 수 있습니다.
 
-<figure><img src="../../.gitbook/assets/image (1951).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1962).png" alt=""><figcaption></figcaption></figure>
 
 ### 모듈별 권한 설정&#x20;
 
@@ -24,4 +24,4 @@
 
 탭을 전환하여 리소스 권한을 볼 수 있으며 역할 앞의 확인란을 선택하거나 선택 취소할 수 있습니다.
 
-<figure><img src="../../.gitbook/assets/image (2274).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2285).png" alt=""><figcaption></figcaption></figure>

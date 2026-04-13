@@ -2,13 +2,13 @@
 
 리스트뷰 업데이트 명령만들기에서 작업 유형을 선택하여 작업 행 범주 아래에 편집, 추가, 삽입 및 삭제의 네가지 작업 유형이 있습니다.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (1235).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1246).png" alt=""><figcaption></figcaption></figure>
 
 ### 편집&#x20;
 
 작업 유형이 "편집"인 경우 리스트뷰의 데이터를 업데이트할 수 있지만 데이터베이스에 즉시 제출되지는 않습니다.
 
-<figure><img src="../../../.gitbook/assets/image (923).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (934).png" alt=""><figcaption></figcaption></figure>
 
 다음 설정이 필요합니다.
 
@@ -22,7 +22,7 @@
 
 작업 유형이 "추가"인 경우 데이터를 리스트뷰에 추가할 수 있지만 데이터베이스에 즉시 반영되지는 않습니다.
 
-<figure><img src="../../../.gitbook/assets/image (2090).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2101).png" alt=""><figcaption></figcaption></figure>
 
 다음 설정이 필요합니다.
 
@@ -37,7 +37,7 @@
 
 작업 유형이 "삽입"인 경우 리스트뷰에 행을 삽입할 수 있지만 데이터베이스에 즉시 제출되지는 않습니다.
 
-<figure><img src="../../../.gitbook/assets/image (2245).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2256).png" alt=""><figcaption></figcaption></figure>
 
 다음 설정이 필요합니다.
 
@@ -51,7 +51,7 @@
 
 작동유형이 "삭제"인 경우 리스트뷰의 데이터를 삭제할 수 있지만 데이터베이스에 즉시 제출되지는 않습니다.
 
-<figure><img src="../../../.gitbook/assets/image (1637).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1648).png" alt=""><figcaption></figcaption></figure>
 
 다음 설정이 필요합니다.
 

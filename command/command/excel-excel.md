@@ -2,7 +2,7 @@
 
 Excel 데이터를 리스트뷰로 가져오기 명령을 사용하여 Excel의 데이터를 테이블로 직접 가져올 수 있습니다.<br>
 
-<figure><img src="../../.gitbook/assets/image (2514).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2525).png" alt=""><figcaption></figcaption></figure>
 
 ## 명령 설정&#x20;
 
@@ -22,21 +22,21 @@ Excel 데이터를 리스트뷰로 가져오기 명령에서 데이터를 가져
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72354196/%E6%AD%A5%E9%AA%A41.png?version=1\&modificationDate=1648092557000\&api=v2) 주문 목록 페이지에서 버튼을 추가하고 명령을 파일 다운로드로 설정하고 다운로드 가능한 파일인 주문 템플릿 .xlsx 업로드합니다. 자세한 내용은 [Excel 명령 - 템플릿 파일 다운로드](excel.md)를 참조하십시오.
 
-![](<../../.gitbook/assets/image (1087).png>)
+![](<../../.gitbook/assets/image (1098).png>)
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72354196/%E6%AD%A5%E9%AA%A42.png?version=1\&modificationDate=1648092557000\&api=v2) 주문 목록 페이지에 추가합니다.\[Excel 가져오기] 버튼을 사용하여 \[Excel을 리스트뷰로 가져오기]로 명령을 설정하고 가져온 테이블 \[리스트뷰 1] 및 가져오기 모드 \[추가]를 선택합니다. 리스트뷰 1을 선택하면 템플릿 열과 템플릿 열  이름이 자동으로 채워집니다.
 
-![](<../../.gitbook/assets/image (1293).png>)
+![](<../../.gitbook/assets/image (1304).png>)
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72354196/%E6%AD%A5%E9%AA%A43.png?version=1\&modificationDate=1648092557000\&api=v2) 페이지를 실행하고 파일 다운로드 버튼을 클릭하여 주문정보 .xlsx 로컬로 다운로드합니다.
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72354196/%E6%AD%A5%E9%AA%A44.png?version=1\&modificationDate=1648092557000\&api=v2) 엑셀파일에 주문 데이터를 입력한 후 저장합니다
 
-![](<../../.gitbook/assets/image (1129).png>)
+![](<../../.gitbook/assets/image (1140).png>)
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72354196/%E6%AD%A5%E9%AA%A45.png?version=1\&modificationDate=1648092557000\&api=v2) 주문 목록 페이지에서\[Excel 가져오기] 버튼을 클릭하고 데이터를 채울 \[주문정보 .xlsx] 파일을 선택한 후 \[열기]를 클릭하면 선택한 주문 데이터 Excel 파일의 데이터가 테이블로 가져옵니다.
 
-![](<../../.gitbook/assets/image (1124).png>)
+![](<../../.gitbook/assets/image (1135).png>)
 
 {% hint style="info" %}
 * 테이블의 콤보 상자의 경우 데이터베이스에서 프로젝트를 빌드하도록 선택하고 값 필드를 선택하고 표시 필드를 다르게 선택하면 포건시가 표시 필드별로 인식됩니다.
@@ -66,11 +66,11 @@ Excel과 테이블에 모두 있는 데이터는 Excel의 데이터로 업데이
 
 예를 들어 Excel 및 테이블의 데이터는 다음 그림과 같습니다.
 
-![](<../../.gitbook/assets/image (852).png>)
+![](<../../.gitbook/assets/image (863).png>)
 
 선택 모드는 병합, 기본 키로 주문 번호 설정, Excel에서 데이터를 가져온 후 다음과 같이 표시됩니다.
 
-![](<../../.gitbook/assets/image (2141).png>)
+![](<../../.gitbook/assets/image (2152).png>)
 
 
 

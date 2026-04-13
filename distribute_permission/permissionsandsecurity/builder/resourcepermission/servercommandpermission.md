@@ -8,4 +8,4 @@
 
 팝업 "역할 선택" 대화 상자에 현재 애플리케이션의 모든 역할이 나열됩니다. 하나 이상의 역할을 선택한 후 확인을 클릭하여 대화 상자를 닫습니다.
 
-<figure><img src="../../../../.gitbook/assets/image (2434).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (2445).png" alt=""><figcaption></figcaption></figure>

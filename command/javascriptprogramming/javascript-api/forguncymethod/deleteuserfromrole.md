@@ -46,7 +46,7 @@ Forguncy.deleteUserFromRole(
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72364643/%E6%AD%A5%E9%AA%A42.png?version=1\&modificationDate=1648092718000\&api=v2) 셀 범위를 선택하고 셀 유형을 버튼을 설정하고 명령을 \[JavaScript 명령]으로 편집하고 JavaScript 코드를 입력합니다.
 
-<figure><img src="../../../../.gitbook/assets/image (895).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (906).png" alt=""><figcaption></figcaption></figure>
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72364643/%E6%AD%A5%E9%AA%A43.png?version=1\&modificationDate=1648092718000\&api=v2) 편집이 완료되면 \[확인]을 클릭하여 대화 상자를 닫습니다.
 
@@ -54,4 +54,4 @@ Forguncy.deleteUserFromRole(
 
 경고 상자에서 확인을 클릭하면 페이지를 새로 고치면 사용자 정보 테이블에서 리틀리의 역할이 비어 있음을 알 수 있습니다.
 
-<figure><img src="../../../../.gitbook/assets/image (2072).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (2083).png" alt=""><figcaption></figcaption></figure>

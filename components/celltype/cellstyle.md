@@ -12,7 +12,7 @@
 
 다음 그림은 기본 테마 아래의 버튼에 대한 셀 스타일입니다<br>
 
-<figure><img src="../../.gitbook/assets/image (2444).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2455).png" alt=""><figcaption></figcaption></figure>
 
 ## 신규 셀 스타일&#x20;
 
@@ -24,7 +24,7 @@
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72352836/%E6%AD%A5%E9%AA%A42.png?version=1\&modificationDate=1648092537000\&api=v2) 셀 스타일 목록에서 \[신규 셀 스타일 만들기]를 클릭하여 \[셀 스타일 설] 대화 상자를 표시합니다.
 
-![](<../../.gitbook/assets/image (1353).png>)
+![](<../../.gitbook/assets/image (1364).png>)
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72352836/%E6%AD%A5%E9%AA%A43.png?version=1\&modificationDate=1648092537000\&api=v2) \[이름] 뒤에 있는 텍스트 상자에 스타일의 이름을 입력합니다.<br>
 
@@ -34,7 +34,7 @@
 
 예를 들어, 아래 그림과 같이 "색상"을 선택하고 배경색을 밝은 파란색으로, 전경색을 노란색으로 설정합니다.
 
-<figure><img src="../../.gitbook/assets/image (1005).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1016).png" alt=""><figcaption></figcaption></figure>
 
 "기타" 탭에서 글꼴 스타일, 여백 및 투명도를 설정할 수 있습니다.
 
@@ -42,8 +42,8 @@
 * 테두리 안쪽 여백: 왼쪽, 오른쪽, 위쪽 및 아래쪽 패딩을 포함하여 테두리와 콘텐츠 사이의 거리를 나타냅니다 .
 * 투명도: 전체 투명도를 말하며 배경 투명도만 설정하려면 "색상" 탭 항목에서 설정해야 합니다.
 
-<figure><img src="../../.gitbook/assets/image (947).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (958).png" alt=""><figcaption></figcaption></figure>
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72352836/%E6%AD%A5%E9%AA%A45.png?version=1\&modificationDate=1648092537000\&api=v2) \[확인]을 클릭하면 버 셀에 스타일이 적용되고 \[셀 스타일]을 클릭하면 스타일 목록 맨 위에 사용자 지정 스타일이 나열됩니다.
 
-<figure><img src="../../.gitbook/assets/image (972).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (983).png" alt=""><figcaption></figcaption></figure>

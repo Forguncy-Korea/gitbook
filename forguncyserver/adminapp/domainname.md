@@ -8,7 +8,7 @@
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72363211/%E6%AD%A5%E9%AA%A41.png?version=1\&modificationDate=1648092698000\&api=v2)  서버관리의 앱 목록에서 앱을 선택하고 앱 이름을 클릭하여 앱의 일반 설정 페이지로 이동합니다.
 
-![](<../../.gitbook/assets/image (876).png>)
+![](<../../.gitbook/assets/image (887).png>)
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72363211/%E6%AD%A5%E9%AA%A42.png?version=1\&modificationDate=1648092698000\&api=v2)  도메인 이름 설정 영역에서 https://www.domain.com:8080 같은 새 도메인 이름을 입력하고 설정 저장을 클릭합니다.
 

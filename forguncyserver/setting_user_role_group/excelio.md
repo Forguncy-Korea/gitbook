@@ -12,7 +12,7 @@
 
 서버 관리자의 \[사용자 설정] 영역이 내장되어 있는 경우 \[가져오기 및 내보내기]를 클릭하고 \[내보내기]를 클릭합니다.
 
-<figure><img src="../../.gitbook/assets/image (2422).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2433).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 내보낸 Excel 파일의 기본 이름은 사용자 이름, 사용자 유형, 전체 이름, 전자 메일 주소, 암호, 역할, 소유 조직 정보 및 기타 사용자 지정 속성 정보가 포함된 "Forguncy 사용자 .xlsx"입니다.
@@ -24,7 +24,7 @@
 
 서버 관리자의 \[사용자-설정] 영역에서 \[가져오기 및 내보내기]를 클릭하고  \[가져오기]를 클릭합니다.
 
-<figure><img src="../../.gitbook/assets/image (2423).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2434).png" alt=""><figcaption></figcaption></figure>
 
 Excel 파일을 가져올 때 다음 두 가지 모드를 선택할 수 있습니다.
 

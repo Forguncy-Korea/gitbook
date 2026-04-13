@@ -30,12 +30,12 @@ DropBox용 클라우드 스토리지 공급자를 등록하면 DropBox에 파일
 2.  \[설정>클라우드 저장소 설정]을 선택하여 클라우드 저장소 설정 페이지로 들어갑니다.\
     업로드를 클릭하고 클라우드 저장소 공급자를 선택하고 업로드 후 인증 구성을 수행합니다.<br>
 
-    <figure><img src="../../../.gitbook/assets/image (2602).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (2613).png" alt=""><figcaption></figcaption></figure>
 
 
 3. 업로드가 완료됩니다.
 
-<figure><img src="../../../.gitbook/assets/image (2603).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2614).png" alt=""><figcaption></figcaption></figure>
 
 ### 2. DropBox로부터 인증 정보를 취득
 
@@ -50,11 +50,11 @@ DropBox용 클라우드 스토리지 공급자를 등록하면 DropBox에 파일
 
     \[Create app]를 선택합니다.<br>
 
-    <figure><img src="../../../.gitbook/assets/image (2604).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (2615).png" alt=""><figcaption></figcaption></figure>
 
     다음과 같이 설정합니다. (Name your app는 임의의 이름을 설정하십시오)<br>
 
-    <figure><img src="../../../.gitbook/assets/image (2605).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (2616).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -78,15 +78,15 @@ http: //localhost:<포트 번호>/Forguncy/CloudStorageProvider/OAuthCallback
 예) https://<서버 관리 포털의 도메인>:22345/CloudStorageProvider/OAuthCallback
 ```
 
-<figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
 Permissions를 클릭하여 다음 위치를 활성화합니다.
 
-<figure><img src="../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
 \[Settings]를 클릭하고 다음 위치에서 "App key"와 "App secret"를 가져옵니다.
 
-<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -94,12 +94,12 @@ Permissions를 클릭하여 다음 위치를 활성화합니다.
 
 1.  **설정 > 클라우드 스토리지 설정 > 인증 설정 > 인증 추가를 클릭합니다.**<br>
 
-    <figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
 
 
 2.  **자격 증명을 설정합니다. 다음 항목을 입력한 후 \[로그인 및 저장]을 클릭합니다.**<br>
 
-    <figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
 
 |  이름      | 임의의 이름을 설정하십시오. 여기에서 지정한 이름이 Forguncy Builder에서 설정할 때 선택 목록으로 표시됩니다. |
 | -------- | -------------------------------------------------------------------- |

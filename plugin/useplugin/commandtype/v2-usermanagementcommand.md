@@ -12,7 +12,7 @@
 
 ### 1. 사용자 관리
 
-<figure><img src="../../../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (48).png" alt=""><figcaption></figcaption></figure>
 
 * 로그인: 사용자를 로그인합니다. 비밀번호 확인 건너뛰기를 지원합니다.
 * 로그아웃: 현재 사용자를 로그아웃합니다.
@@ -31,7 +31,7 @@
 
 ### 2. 역할관리
 
-<figure><img src="../../../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>
 
 * 역할 추가: 새 역할을 생성합니다.
 * 역할 업데이트: 대상 역할을 업데이트합니다.
@@ -54,7 +54,7 @@
 
 ### 3. 조직관리
 
-<figure><img src="../../../.gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (50).png" alt=""><figcaption></figcaption></figure>
 
 * 조직 추가: 새 조직 노드를 생성합니다.
 * 조직 업데이트: 대상 조직 노드를 업데이트합니다.
@@ -77,7 +77,7 @@
 
 ### 4. 가져오기 및 내보내기
 
-<figure><img src="../../../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (51).png" alt=""><figcaption></figcaption></figure>
 
 * Excel에서 가져오기: Excel에서 시스템으로 사용자 정보를 가져옵니다. 증분 가져오기와 대체 가져오기의 두 가지 모드가 있습니다. 파일 이름은 서버에 이미 존재하는 파일 이름을 나타냅니다.
 * Excel 내보내기: 사용자 정보를 Excel 형식으로 서버로 내보내려면 파일의 전체 경로(서버 경로 및 파일 이름 포함, 예: D:\temp.xlsx)를 설정해야 합니다.
@@ -86,6 +86,6 @@
 
 ### 5. 관리포털 URL 가져오기
 
-<figure><img src="../../../.gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (52).png" alt=""><figcaption></figcaption></figure>
 
 일반적으로 RESTful API를 접속하는데 사용되는 관리 콘솔의 URL을 획득합니다.

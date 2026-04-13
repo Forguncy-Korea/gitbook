@@ -20,19 +20,19 @@
 
 ### 빌더화면&#x20;
 
-<figure><img src="../../../../.gitbook/assets/image (486).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (497).png" alt=""><figcaption></figcaption></figure>
 
 
 
 ### 실행 화면 (런타임)
 
-<figure><img src="../../../../.gitbook/assets/image (2041).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (2052).png" alt=""><figcaption></figcaption></figure>
 
 
 
 ### 셀 속성&#x20;
 
-<figure><img src="../../../../.gitbook/assets/image (488).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (499).png" alt=""><figcaption></figcaption></figure>
 
 | 이름         | 설명                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

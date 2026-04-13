@@ -4,7 +4,7 @@
 
 고급 설정에서 페이지 쿼리 및 정렬에 대한 캐시를 제거할지 여부를 설정할 수 있습니다.
 
-![](<../../../.gitbook/assets/image (1504).png>)
+![](<../../../.gitbook/assets/image (1515).png>)
 
 ## &#x20;<a href="#id-gao-ji-she-zhi-yi-chu-huan-cun-2.-yi-chu-ye-mian-cha-xun-he-pai-xu-de-huan-cun" id="id-gao-ji-she-zhi-yi-chu-huan-cun-2.-yi-chu-ye-mian-cha-xun-he-pai-xu-de-huan-cun"></a>
 

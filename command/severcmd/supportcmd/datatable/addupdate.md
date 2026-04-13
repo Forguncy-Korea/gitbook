@@ -14,7 +14,7 @@
 
 **2.** 서버 명령의 일반 설정을 편집합니다. 서버 명령의 이름을 "데이터 추가"로 설정합니다.
 
-<figure><img src="../../../../.gitbook/assets/image (247).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (258).png" alt=""><figcaption></figcaption></figure>
 
 **3.** 서버 명령의 명령을 편집합니다. "명령 편집" 하이퍼링크를 클릭하면 서버 명령 편집 대화 상자가 팝업되어 데이터 테이블 작업 명령을 선택할 수 있습니다.
 
@@ -29,7 +29,7 @@
   * 모든 기: 쿼리 조건의 값이 수식이고 수식 계산 결과가 비어 있는 경우 해당 조건은 영구 거짓으로 판단됩니다(다른 조건이 없으면 모든 레코드가 반환됩니다).
   * 빈값으로 기록:쿼리 조건의 값이 수식이고 수식 계산 결과가 비어 있는 경우 이 조건은 열 값이 비어 있는 레코드를 쿼리합니다.
 
-<figure><img src="../../../../.gitbook/assets/image (248).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (259).png" alt=""><figcaption></figcaption></figure>
 
 **4.**  설정이 완료되면 이 서버 명령을 호출할 수 있습니다.
 
@@ -37,7 +37,7 @@
 
 "고급 설정 표시"를 클릭하고 "호출 성공 후 데이터 다시 로드"를 선택하면 서버가 데이터 테이블 작업 명령을 호출한 후 페이지에 데이터가 다시 로드되고 추가/업데이트된 데이터가 표시됩니다.
 
-<figure><img src="../../../../.gitbook/assets/image (249).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (260).png" alt=""><figcaption></figcaption></figure>
 
 **5.** 설정이 완료되면 "확인"을 클릭하여 대화상자를 닫습니다.
 
@@ -45,12 +45,12 @@
 
 ID 1의 데이터를 찾아 업데이트합니다. 검색에 성공하면 데이터가 업데이트됩니다.
 
-<figure><img src="../../../../.gitbook/assets/image (250).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (261).png" alt=""><figcaption></figcaption></figure>
 
 업데이트 조건이 ID=8로 설정된 경우 다음과 같습니다.
 
-<figure><img src="../../../../.gitbook/assets/image (252).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (263).png" alt=""><figcaption></figcaption></figure>
 
 실행 후 ID가 8인 데이터가 검색되어 업데이트됩니다. 찾을 수 없으면 새로운 데이터가 추가됩니다.
 
-<figure><img src="../../../../.gitbook/assets/image (251).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (262).png" alt=""><figcaption></figcaption></figure>

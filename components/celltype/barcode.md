@@ -2,7 +2,7 @@
 
 셀을 바코드 유형으로 설정하고 바코드 유형을 QR 코드 또는 1차원 코드로 선택합니다.
 
-<figure><img src="../../.gitbook/assets/image (833).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (844).png" alt=""><figcaption></figcaption></figure>
 
 ## 바코드 설정&#x20;
 
@@ -21,7 +21,7 @@
 * 셀 수식에서 사용되며 연결 문자를 사용하여 바코드 문자의 스티치를 지원합니다.
 * 데이터 테이블에서 사용됩니다.
 
-<figure><img src="../../.gitbook/assets/image (2283).png" alt=""><figcaption><p>QR코드 </p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2294).png" alt=""><figcaption><p>QR코드 </p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (870).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (881).png" alt=""><figcaption></figcaption></figure>
 

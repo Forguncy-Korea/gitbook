@@ -8,9 +8,9 @@
 
 사용자    정의 컨트롤을 선택하고 우클릭 후 우클릭 메뉴에서 "새속성 만들기"를  선택하면 속성 생성 대화상자가 팝업된다.
 
-<figure><img src="../../.gitbook/assets/image (1813).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1824).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (1802).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1813).png" alt=""><figcaption></figcaption></figure>
 
 | 항목    | 설명                                                                                                                                                                                                                                                                                                                                          |
 | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -21,7 +21,7 @@
 
 구성 요소에 대한 속성을 생성하고 페이지에 구성 요소를 적용한 후 오른쪽 셀 설정에서 속성 값을 설정할 수 있습니다.
 
-<figure><img src="../../.gitbook/assets/image (1233).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1244).png" alt=""><figcaption></figcaption></figure>
 
 ####
 

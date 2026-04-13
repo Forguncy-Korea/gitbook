@@ -2,7 +2,7 @@
 
 자료 반복 셀은 그래픽 리스트 셀형을 지원하며 테이블의 데이터는 커스텀 템플릿 영역에 표시됩니다. 따라서 자료반복 셀을 사용하여 카드 보기에 데이터를 표시할 수 있습니다.
 
-<figure><img src="../../.gitbook/assets/image (1946).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1957).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -10,7 +10,7 @@
 
 데이터 소스 유형에는 데이터소스(데이터테이블)과 리스트뷰가 있습니다.
 
-<figure><img src="../../.gitbook/assets/image (2394).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2405).png" alt=""><figcaption></figcaption></figure>
 
 #### 데이터 소스 <a href="#id-tu-wen-lie-biao-bang-ding-shu-ju-yuan" id="id-tu-wen-lie-biao-bang-ding-shu-ju-yuan"></a>
 
@@ -23,7 +23,7 @@
 * 바인딩: 데이터 테이블의 필드를 바인딩합니다.
 * 수식: 수식으로 설정합니다. 함수를 사용할 수 있으며 페이지의 셀/이름을 참조하거나 다른 열을 참조합니다.
 
-<figure><img src="../../.gitbook/assets/image (1130).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1141).png" alt=""><figcaption></figcaption></figure>
 
 | 설정            | 설명                                                                                                                                                                                                                                                                                                                                                             |
 | ------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -45,11 +45,11 @@
 
 그런 다음 페이지에서 영역을 선택하고 해당 셀 유형을 자료반복셀로 설정합니다.
 
-<figure><img src="../../.gitbook/assets/image (786).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (797).png" alt=""><figcaption></figcaption></figure>
 
 템플릿의 연관된 열을 편집할 때 테이블에서 열의 열 이름을 선택해야 하므로 미리 열 이름을 설정하거나 테이블을 마우스 오른쪽 버튼을 클릭하고 "각  열에 이름  자동생성" 을 클릭합니다.
 
-<figure><img src="../../.gitbook/assets/image (1587).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1598).png" alt=""><figcaption></figcaption></figure>
 
 | 설정               | 설명                                                                                                                                                                                                                                                                         |
 | ---------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -65,13 +65,13 @@
 
 "템플리 수정"을 클릭하여 템플릿을 수정할 수 있습니다.
 
-<figure><img src="../../.gitbook/assets/image (2395).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2406).png" alt=""><figcaption></figcaption></figure>
 
 셀에 표시되는 내용을 설정합니다.
 
 템플릿 페이지에서 "템플릿 수정"을 클릭하고 셀을 선택하거나 결합할 셀 범위를 선택한 후 셀 설정에서 관련 컬럼을 설정합니다.
 
-<figure><img src="../../.gitbook/assets/image (2393).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2404).png" alt=""><figcaption></figcaption></figure>
 
 ## 디스플레이 모드&#x20;
 
@@ -85,13 +85,13 @@
 
 모든 항목이 하나의 열에 표시됩니다. 데이터를 완전히 표시할 수 없는 경우 세로 방향으로 스크롤 막대가 나타납니다.
 
-<figure><img src="../../.gitbook/assets/image (1050).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1061).png" alt=""><figcaption></figcaption></figure>
 
 ### 수평&#x20;
 
 모든 항목이 한 줄에 표시됩니다. 데이터를 완전히 표시할 수 없는 경우 가로 방향으로 스크롤 막대가 나타납니다.
 
-<figure><img src="../../.gitbook/assets/image (427).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (438).png" alt=""><figcaption></figcaption></figure>
 
 ### 흐름&#x20;
 
@@ -99,4 +99,4 @@
 
 
 
-<figure><img src="../../.gitbook/assets/image (697).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (708).png" alt=""><figcaption></figcaption></figure>

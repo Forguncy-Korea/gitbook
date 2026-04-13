@@ -14,7 +14,7 @@
 2. Forguncy Builder에서 설치하고 Forguncy Builder를 다시 실행합니다.
 3. 셀영역을 선택하고 셀 유형을 서명으로 설정합니다.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (724).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (735).png" alt=""><figcaption></figcaption></figure>
 
 | 설정           | 설명                                                   |
 | ------------ | ---------------------------------------------------- |

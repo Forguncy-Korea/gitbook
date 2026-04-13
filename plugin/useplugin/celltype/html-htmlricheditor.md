@@ -18,8 +18,8 @@ HTML Editor에서 저장하는 데이터 형식은 HTML 태그입니다.&#x20;
 2. Forguncy Builder에서 설치하고 Forguncy Builder를 다시 실행합니다.
 3. 셀 범위를 선택하고 해당 셀 유형을 HTML 편집기로 설정합니다.
 
-<figure><img src="../../../.gitbook/assets/image (1422).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1433).png" alt=""><figcaption></figcaption></figure>
 
 4\. 실행하면 HTML 편집기를 사용하여 아래 그림과 같이 편집할 수 있습니다.
 
-<figure><img src="../../../.gitbook/assets/image (2093).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2104).png" alt=""><figcaption></figcaption></figure>

@@ -6,7 +6,7 @@
 
 리본메뉴에 \[보안-> 사용자 관리]를 선택하여 사용자 관리 플랫폼인 개발 시 사용자 계정 관리 플랫폼으로 이동합니다.
 
-<figure><img src="../../.gitbook/assets/image (1893).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1904).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 기본 등록된 관리자 계정, 사용자 이름: Administrator, 암호: 123456 로그인합니다.
@@ -20,7 +20,7 @@
 
 포건시 서버에 들어가 포건시 서버관리자로 이동합니다.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (583).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (594).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 기본 등록된 관리자 계정, 사용자 이름: Administrator, 암호: 123456 로그인합니다.

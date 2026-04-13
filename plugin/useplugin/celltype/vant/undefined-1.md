@@ -6,11 +6,11 @@
 
 ### 빌더 화면&#x20;
 
-<figure><img src="../../../../.gitbook/assets/image (783).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (794).png" alt=""><figcaption></figcaption></figure>
 
 ### 실행화면 (런타임)
 
-<figure><img src="../../../../.gitbook/assets/image (787).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (798).png" alt=""><figcaption></figcaption></figure>
 
 1. 값이 한 단계의 값과 같으면 현재 값이 현재 단계입니다.
 2. 값이 null이면 모든 단계가 시작되지 않음을 의미합니다.

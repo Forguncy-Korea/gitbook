@@ -2,7 +2,7 @@
 
 셀을 페이지 네비게이션 버튼 유형으로 설정하여 테이블의 데이터를 전환합니다. 페이지 네비게이션 다음 그림과 같습니다.
 
-<figure><img src="../../.gitbook/assets/image (1495).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1506).png" alt=""><figcaption></figcaption></figure>
 
 ## 페이지 네비게이션 설정&#x20;
 
@@ -20,11 +20,11 @@
 
 세부 정보 페이지에서 셀 범위를 선택하고 셀 유형을 페이지네비게이션으 설정하고 탐색 테이블을 다음 그림과 같이 주문 정보테이블로 설정합니다.
 
-<figure><img src="../../.gitbook/assets/image (1963).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1974).png" alt=""><figcaption></figcaption></figure>
 
 실행 후 목록 페이지에서 주문 번호를 클릭하여 세부 정보 페이지로 이동합니다. 다음 행 버 아이콘을 클릭하면 주문 테이블의 다음 데이터 행에 대한 세부 정보 페이지로 전환할 수 있습니다.
 
-<figure><img src="../../.gitbook/assets/image (480).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (491).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 * **셀 유형은 표에서 지원되지 않습니다.**

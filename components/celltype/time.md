@@ -2,7 +2,7 @@
 
 셀을 시간 표시 유형으로 설정하고 실행 후 직접 시간을 입력하거나 드롭다운 목록에서 시간을 선택할 수 있습니다. 시간 입력 상자는 다음 그림과 같습니다.
 
-<figure><img src="../../.gitbook/assets/image (1395).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1406).png" alt=""><figcaption></figcaption></figure>
 
 ## 시간 표시 설정&#x20;
 
@@ -23,4 +23,4 @@
 * 체크박스를 선택하면 실행 후 마우스 휠과 키보드 위 또는 아래로 키를 사용하여 실행 후 시간 셀의 값을 수정할 수 있습니다.
 * 체크박스를 선택하지 않으면 실행 후 마우스 휠과 키보드 위/아래 키를 사용하여 실행 후 페이지에서 시간 셀의 값을 수정할 수 없습니다.
 
-<figure><img src="../../.gitbook/assets/image (1900).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1911).png" alt=""><figcaption></figcaption></figure>

@@ -32,16 +32,16 @@ Excel에서와 동일한 두 가지 방법으로 이름 수식을 만듭니다.
 
 방법1. 셀을 선택하고 이름 상자에서 셀 이름을 직접 수정하지만 메모 및 참조 위치를 수정할 수는 없습니다.
 
-![](<../../.gitbook/assets/image (1363).png>)
+![](<../../.gitbook/assets/image (1374).png>)
 
 방법2. 변수명 관리자에서 이름정보를 편집합니다.&#x20;
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72355510/%E6%AD%A5%E9%AA%A41.png?version=1\&modificationDate=1648092578000\&api=v2) 리본 메뉴 막대에서 \[수식->변수명 관리자]를 클릭합니다.
 
-![](<../../.gitbook/assets/image (1631).png>)
+![](<../../.gitbook/assets/image (1642).png>)
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72355510/%E6%AD%A5%E9%AA%A42.png?version=1\&modificationDate=1648092578000\&api=v2) \[변수명 관리자] 대화 상자에서 만든 셀 이름을 선택하고 \[편집]을 클릭합니다.
 
-![](<../../.gitbook/assets/image (1164).png>)
+![](<../../.gitbook/assets/image (1175).png>)
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72355510/%E6%AD%A5%E9%AA%A43.png?version=1\&modificationDate=1648092578000\&api=v2) 팝업 이름 편집 대화 상자에서 이름, 메모 및 참조 위치를 편집할 수 있습니다.

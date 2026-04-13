@@ -18,11 +18,11 @@
 
 영역을 선택하고 문자와 스타일을 설정합니다.
 
-![](<../../../.gitbook/assets/image (1761).png>)
+![](<../../../.gitbook/assets/image (1772).png>)
 
 다음 그림과 같이 페이지 자리 표시자를 벗어난 부분을 포함하여 실행 후 텍스트가 모두 표시됩니다.
 
-![](<../../../.gitbook/assets/image (746).png>)
+![](<../../../.gitbook/assets/image (757).png>)
 
 ## 스크롤
 
@@ -30,11 +30,11 @@
 
 영역을 선택하고 문자와 스타일을 설정합니다.
 
-![](<../../../.gitbook/assets/image (472).png>)
+![](<../../../.gitbook/assets/image (483).png>)
 
 실행 후 페이지 아래에 스크롤 막대가 표시되고 페이지 자리 표시 영역을 벗어난 텍스트는 스크롤 막대를 이동하여 완전히 표시해야 합니다.
 
-![](<../../../.gitbook/assets/image (1493).png>)
+![](<../../../.gitbook/assets/image (1504).png>)
 
 ## 잘라내기&#x20;
 
@@ -42,8 +42,8 @@
 
 영역을 선택하고 문자와 스타일을 설정합니다.
 
-![](<../../../.gitbook/assets/image (1337).png>)
+![](<../../../.gitbook/assets/image (1348).png>)
 
 실행 후 페이지의 자리 표시자를 벗어난 페이지의 텍스트가 잘려 표시되지 않습니다.
 
-![](<../../../.gitbook/assets/image (723).png>)
+![](<../../../.gitbook/assets/image (734).png>)

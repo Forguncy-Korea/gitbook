@@ -22,7 +22,7 @@ JSON 직렬화 명령은 JSON개체를 JSON 문자열로 변환할 수 있고, J
 
 &#x20;     . 결과를 파라미터로 반환 : 직렬화된 변수 이름 &#x20;
 
-<figure><img src="../../../../.gitbook/assets/image (1727).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1738).png" alt=""><figcaption></figcaption></figure>
 
 * JSON 역직렬화 명령 : JSON 문자열을 JSON 객체로 변환&#x20;
 
@@ -30,7 +30,7 @@ JSON 직렬화 명령은 JSON개체를 JSON 문자열로 변환할 수 있고, J
 
 &#x20;     . 결과를 파라미터로 반환 : 역직렬화된 변수 이름&#x20;
 
-<figure><img src="../../../../.gitbook/assets/image (1344).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1355).png" alt=""><figcaption></figcaption></figure>
 
 ```
 ```

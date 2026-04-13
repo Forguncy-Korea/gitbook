@@ -4,4 +4,4 @@
 
 서버 측 알림을 통해 워크플로 사이트의 정보 알림, 채팅 시스템의 인스턴트 메시징, 온라인 고객 서비스 및 목록 데이터의 활성 업데이트를 실현할 수 있습니다. 동시에 외부 타사 WebSocket과 통신하여 시스템의 데이터 수신 및 서비스 기능을 확장할 수도 있습니다.
 
-<figure><img src="../../../../.gitbook/assets/image (463).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (474).png" alt=""><figcaption></figcaption></figure>

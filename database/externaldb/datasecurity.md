@@ -8,4 +8,4 @@
 이 속성을 설정하면 데이터 필드 또는 테이블이 있는 페이지에 로그인해야 액세스할 수 있는 사용자 권한 설정의 익명 액세스 설정이 재정의됩니다.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (2410).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2421).png" alt=""><figcaption></figcaption></figure>

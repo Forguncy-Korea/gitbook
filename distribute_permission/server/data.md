@@ -8,17 +8,17 @@
 
 
 
-<figure><img src="../../.gitbook/assets/image (1376).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1387).png" alt=""><figcaption></figcaption></figure>
 
 ### 사용 권한 테이블 선택&#x20;
 
 사용 권한 테이블 선택을 클릭하여 "테이블 열기 권한 선택"
 
-<figure><img src="../../.gitbook/assets/image (360).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (371).png" alt=""><figcaption></figcaption></figure>
 
 이 대화 상자에는 응용 프로그램의 모든 데이터 테이블이 나열됩니다. 데이터 테이블의 생성 레코드 권한, 행 권한 및 필드 권한을 설정할 수 있습니다. 확인 후 해당 권한을 설정할 수 있습니다.
 
-<figure><img src="../../.gitbook/assets/image (899).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (910).png" alt=""><figcaption></figcaption></figure>
 
 ### 데이터 권한 설정&#x20;
 
@@ -30,15 +30,15 @@
 
 역할 열을 클릭하고 팝업 역할 목록에서 데이터/행/열 생성 권한을 부여하는 역할을 선택합니다.
 
-<figure><img src="../../.gitbook/assets/image (605).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (616).png" alt=""><figcaption></figcaption></figure>
 
 조건 필터 열을 클릭하여 조건을 설정합니다.
 
-<figure><img src="../../.gitbook/assets/image (1670).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1681).png" alt=""><figcaption></figcaption></figure>
 
 모든 기록을 설정하거나 사용자 정의할 수 있습니다.
 
-<figure><img src="../../.gitbook/assets/image (1066).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1077).png" alt=""><figcaption></figcaption></figure>
 
 #### 데이터 생성 권한 만들기 <a href="#id-shu-ju-quan-xian-chuang-jian-ji-lu-quan-xian" id="id-shu-ju-quan-xian-chuang-jian-ji-lu-quan-xian"></a>
 

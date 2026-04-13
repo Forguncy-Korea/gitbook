@@ -6,6 +6,6 @@
 
 예약된 작업 페이지에서 예약된 작업 목록, 상태, 설명, 트리거 방법 및 명령을 보고 설정할 수 있습니다.
 
-<figure><img src="../../.gitbook/assets/image (140).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (151).png" alt=""><figcaption></figcaption></figure>
 
 설정에는 실행 및 비활성화가 포함됩니다. 실행을 클릭하면 예약된 작업에 대한 명령이 즉시 실행됩니다. \[비활성화]를 클릭하면 예약된 작업이 비활성화되고 예약된 작업을 다시 활성화하려면 \[실행]을 클릭합니다.

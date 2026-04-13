@@ -4,7 +4,7 @@
 
 페이지에 업데이트할 필드가 바인딩된 셀이 없는 경우(예: 사용자가 입력하지 않고 업데이트해야 하는 데이터가 있는 경우) 필드와 업데이트하거나 추가할 값을 직접 설정할 수 있는 고정 값입니다.
 
-![](<../../../.gitbook/assets/image (1368).png>)
+![](<../../../.gitbook/assets/image (1379).png>)
 
 ## **기타 바인딩 해제된 열 설정**   <a href="#id-gao-ji-she-zhi-qi-ta-fei-bang-ding-zi-duan-2.-she-zhi-qi-ta-fei-bang-ding-zi-duan" id="id-gao-ji-she-zhi-qi-ta-fei-bang-ding-zi-duan-2.-she-zhi-qi-ta-fei-bang-ding-zi-duan"></a>
 
@@ -12,8 +12,8 @@
 
 예를 들어 추가 페이지에서 데이터 테이블 작업 유형이 추가인 확인 단추에 대한 명령을 설정하고 필드 추가를 클릭하여 바인딩되지 않은 필드를 추가합니다. 필드 선택 페이지에 셀 바인딩이 없는 구매자 필드의 값은 정아라입니다.
 
-![](<../../../.gitbook/assets/image (1261).png>)
+![](<../../../.gitbook/assets/image (1272).png>)
 
 실행 후 주문 목록 페이지에서 추가 버튼을 클릭하면 추가 페이지가 나타나고 주문 데이터를 입력한 후 확인을 클릭하여 팝업 페이지를 닫으면 구매자가 정아라인 주문 목록에 방금 입력한 주문이 추가됩니다.
 
-![](<../../../.gitbook/assets/image (364).png>)
+![](<../../../.gitbook/assets/image (375).png>)

@@ -12,8 +12,8 @@
 
 1. 셀 영역을 선택 한 후, 셀유형에서 "작은 리치 텍스트 편집기"를 선택합니다.
 
-<figure><img src="../../../.gitbook/assets/image (2585).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2596).png" alt=""><figcaption></figcaption></figure>
 
 2. 실행하면 브라우저에서 편집기를 사용할 수 있습니다.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (2586).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2597).png" alt=""><figcaption></figcaption></figure>

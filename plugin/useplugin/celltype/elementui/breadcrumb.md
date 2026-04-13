@@ -31,7 +31,7 @@
 
 ### **셀속성**&#x20;
 
-<figure><img src="../../../../.gitbook/assets/image (1094).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1105).png" alt=""><figcaption></figcaption></figure>
 
 
 

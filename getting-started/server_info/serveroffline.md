@@ -12,15 +12,15 @@
 
 **1 . Forguncy 서버 관리자를 실행한 후, \[지원]>\[라이선스 목록]에 들어갑니다. 라이선스 목록에 체험판으로 나오는 것을 확인할 수 있습니다. 라이선스 인증을 하기 위해 \[서버 라이선스 추가]버튼을 클릭합니다.**
 
-<figure><img src="../../.gitbook/assets/image (2347).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2358).png" alt=""><figcaption></figcaption></figure>
 
 **2.** 아래와 같은 서버 키 활성화 창이 나타나면, 그레이프시티로부터 구입하신 라이선스 키를 입력해주세요.
 
-<figure><img src="../../.gitbook/assets/image (2348).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2359).png" alt=""><figcaption></figcaption></figure>
 
 3 . **컴퓨터가 인터넷에 연결되지 않았다면 아래와 같이 “오프라인 활성화” 버튼이 나타나게 되며,** 해당 버튼을 클릭하여 다음 단계로 진행합니다.
 
-![](<../../.gitbook/assets/image (601).png>)
+![](<../../.gitbook/assets/image (612).png>)
 
 4 . 아래와 같은 **“오프라인 활성화”** 창에 나타나는 **“오프라인 정품 인증 키”를 복사하여 아래 사이트에 접속하여 입력한 후 Build 버튼을 클릭합니다. 생성되는 코드 활성화를 복사하여 입력하여 오프라인 활성화를 진행하시면 됩니다.**
 
@@ -33,7 +33,7 @@
 **메시어스와** 오프라인 인증 절차가 완료될 때 까지, 아래의 "오프라인 활성화" 창은 반드시 열어 두셔야 합니다.
 {% endhint %}
 
-![](<../../.gitbook/assets/image (1412).png>)
+![](<../../.gitbook/assets/image (1423).png>)
 
 5\. 이후 메시어스 코리아에서 보내주신 정보 확인 후에 **"코드 활성화 키"** 값을 보내드립니다.
 
@@ -55,19 +55,19 @@
 
 **1. Forguncy 서버관리자를 실행 후, “지원">"라이선스 목록"을 선택합니다.**
 
-<figure><img src="../../.gitbook/assets/image (2354).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2365).png" alt=""><figcaption></figcaption></figure>
 
 **2.** **"비활성화"를 클릭합니다.**
 
-![](<../../.gitbook/assets/image (453).png>)
+![](<../../.gitbook/assets/image (464).png>)
 
 **3. “Forguncy 서버 인증 비활성화” 창에서 “비활성화” 버튼을 클릭합니다.**
 
-![](<../../.gitbook/assets/image (1300).png>)
+![](<../../.gitbook/assets/image (1311).png>)
 
 **4. 해당 컴퓨터에가 오프라인 상태인 경우 “오프라인 비활성화” 확인창이 나타납니다.**
 
-![](<../../.gitbook/assets/image (1552).png>)
+![](<../../.gitbook/assets/image (1563).png>)
 
 **5. 아래와 같은** **“오프라인 활성화”** 창에 나타나는 "**오프라인 비활성화의 응용 프로그램 키” 를 복사한 후,** 아래 사이트에 접속 한 후, 비활성화 메뉴를 선택하고 비활성화 코드를 입력한 후 \[Deactive]버튼을 클릭합니다.
 
@@ -80,10 +80,10 @@
 메시어스와의 오프라인 비활성화 절차가 완료될 때 까지, 아래의 "오프라인 비활성화" 창은 반드시 열어 두셔야 합니다.
 {% endhint %}
 
-![](<../../.gitbook/assets/image (361).png>)
+![](<../../.gitbook/assets/image (372).png>)
 
 **6. 메일을 보내주신 후에, "닫기" 눌러 라이선스 비활성화를 종료합니다.**<br>
 
 **7.  아래와 같이 라이선스 목록에 체험판이라고 나타나면 정상적으로 비활성화된 것 입니다.**
 
-<figure><img src="../../.gitbook/assets/image (2355).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2366).png" alt=""><figcaption></figcaption></figure>

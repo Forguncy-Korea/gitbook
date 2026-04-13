@@ -22,11 +22,11 @@ AzureSysnapseDedicated&#x20;
 
 &#x20;      1\) Serverless SQL 풀 연결&#x20;
 
-&#x20;     ![](<../../../.gitbook/assets/image (2588).png>)
+&#x20;     ![](<../../../.gitbook/assets/image (2599).png>)
 
 
 
 &#x20;    2\) AzureSysnapseDedicated  연결&#x20;
 
-&#x20;    ![](<../../../.gitbook/assets/image (2589).png>)
+&#x20;    ![](<../../../.gitbook/assets/image (2600).png>)
 

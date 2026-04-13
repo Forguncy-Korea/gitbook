@@ -30,15 +30,15 @@
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72355036/%E6%AD%A5%E9%AA%A41.png?version=1\&modificationDate=1648092572000\&api=v2) 페이지에서 기본 테이블 주문 정 테이블을 테이블에 바인딩하고 필드를 바인딩합니다.
 
-<figure><img src="../../.gitbook/assets/image (925).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (936).png" alt=""><figcaption></figcaption></figure>
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72355036/%E6%AD%A5%E9%AA%A42.png?version=1\&modificationDate=1648092572000\&api=v2)  주문 세부 정보 양식을 직접 제공합니다페이지에서 선택한 영역으로 드래그하여 필드를 바인딩합니다.
 
-<figure><img src="../../.gitbook/assets/image (356).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (367).png" alt=""><figcaption></figcaption></figure>
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72355036/%E6%AD%A5%E9%AA%A43.png?version=1\&modificationDate=1648092572000\&api=v2) 하위 테이블을 설정합니다. 테이블을 선택하고 테이블에서 마우스 오른쪽 버튼 클릭하여 리스트뷰 관계 연 설정을 선택합니다.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (1432).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1443).png" alt=""><figcaption></figcaption></figure>
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72355036/%E6%AD%A5%E9%AA%A44.png?version=1\&modificationDate=1648092572000\&api=v2) 하위 테이블 설정에서 연결 필드, 기본 테이블 및 기본 테이블이 연결될 필드를 설정합니다.
 

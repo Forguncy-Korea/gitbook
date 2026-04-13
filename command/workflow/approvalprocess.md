@@ -12,7 +12,7 @@
 
 프로세스 단계를 선택하고 승인 프로세스 추가를 클릭하면 프로세스 단계 뒤에 승인 프로세스를 추가할 수 있습니다.
 
-<figure><img src="../../.gitbook/assets/image (483).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (494).png" alt=""><figcaption></figcaption></figure>
 
 ### 승인 프로세스 설정&#x20;
 
@@ -20,7 +20,7 @@
 
 승인 절차 하이퍼링크를 클릭하여 승인 프로세스 설정 페이지로 이동합니다.
 
-<figure><img src="../../.gitbook/assets/image (896).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (907).png" alt=""><figcaption></figcaption></figure>
 
 승인 프로세스 설정에 대한 설명은 아래 표에 나와있습니다.&#x20;
 

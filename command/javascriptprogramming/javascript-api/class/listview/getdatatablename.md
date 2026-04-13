@@ -37,10 +37,10 @@ alert(name);
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72365486/%E6%AD%A5%E9%AA%A42.png?version=1\&modificationDate=1648092730000\&api=v2)셀 범위를 선택하고 셀 유형을 버튼으로 설정하고 명령을 \[자바스크립트로 직접 프로그래밍하기]으로 편집하고 JavaScript 코드를 입력합니다.
 
-<figure><img src="../../../../../.gitbook/assets/image (373).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (384).png" alt=""><figcaption></figcaption></figure>
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72365486/%E6%AD%A5%E9%AA%A43.png?version=1\&modificationDate=1648092730000\&api=v2)편집이 완료되면 \[확인]을 클릭하여 대화 상자를 닫습니다.
 
 페이지를 실행하고 페이지에서 테이블 이름 가져오기 버튼을 클릭하면 테이블 바인딩된 데이터 테이블 이름을 표시하는 경고 상자가 나타납니다.
 
-<figure><img src="../../../../../.gitbook/assets/image (1825).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (1836).png" alt=""><figcaption></figcaption></figure>

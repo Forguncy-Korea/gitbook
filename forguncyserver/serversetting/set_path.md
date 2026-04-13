@@ -6,7 +6,7 @@
 
 포건시의 서버관리자에서 \[설정-> 저장소 경로설정]을 선택하여 저장소 경로 페이지로 이동합니다.
 
-<figure><img src="../../.gitbook/assets/image (146).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (157).png" alt=""><figcaption></figcaption></figure>
 
 * 애플리케이션 기본 경로: 게시된 앱을 저장하며 기본적으로 \[C:₩Users₩Public₩Documents₩ForguncyServer]에 저장됩니다.
 * 로그 경로: 데이터 로그는 데이터베이스에서 수행하는 모든 작업을 기록합니다. 데이터 로깅을 사용하면 오류 분석, 동작 분석, 보안 감사 등을 수행하여 데이터 실행을 효과적으로 얻을 수 있습니다. 기본값은 \[C:\Users\사용자 이름\AppData\Local\Temp]에 저장됩니다. 게시된 앱 로그는 \[C:\Windows\Temp]에 저장됩니다.
@@ -24,4 +24,4 @@
 
 서버관리자에서 앱 관리를 클릭하고 첨부 파일 저장소 경로를 설정할 앱을 선택하고 고급 설정에서 첨부 파일 저장소 경로를 설정하고 설정이 완료되면 설정 저장을 클릭합니다.
 
-![](<../../.gitbook/assets/image (395).png>)
+![](<../../.gitbook/assets/image (406).png>)

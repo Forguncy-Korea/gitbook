@@ -16,15 +16,15 @@
 
 행 헤더를 마우스 오른쪽 버튼을 클릭하고 행 높이를 선택하면 열 너비 설정 대화 상자가 나타나고 \[행 높이]를 선택합니다.
 
-<figure><img src="../../.gitbook/assets/image (1279).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1290).png" alt=""><figcaption></figcaption></figure>
 
 적응 모드로 설정된 행 인덱스는 빨간색으로 바뀝니다.
 
-<figure><img src="../../.gitbook/assets/image (561).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (572).png" alt=""><figcaption></figcaption></figure>
 
 실행 후 텍스트 상자에 내용을 입력하면 콘텐츠의 너비가 텍스트 상자의 높이를 초과하면 자동으로 확장됩니다.
 
-<figure><img src="../../.gitbook/assets/image (358).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (369).png" alt=""><figcaption></figcaption></figure>
 
 ## 범위 모드&#x20;
 
@@ -35,7 +35,7 @@
 
 예를 들어 열 A의 열 너비를 범위 모드로 설정하고 최소값은 0픽셀이고 최대값은 1입니다.
 
-<figure><img src="../../.gitbook/assets/image (330).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (341).png" alt=""><figcaption></figcaption></figure>
 
 B 열 너비는 기본 고정 모드, 20픽셀입니다.
 
@@ -43,8 +43,8 @@ C 열 너비를 범위 모드로 설정하고 최소값은 0픽셀, 최대값은
 
 범위 모드로 설정된 열 인덱스는 보라색으로 바뀝니다.
 
-<figure><img src="../../.gitbook/assets/image (1858).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1869).png" alt=""><figcaption></figcaption></figure>
 
 A열과 C열은 각각 전체 페이지의 나머지 공간의 1/4과 3/4을 차지합니다.
 
-<figure><img src="../../.gitbook/assets/image (662).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (673).png" alt=""><figcaption></figcaption></figure>

@@ -10,7 +10,7 @@
 
 스타일은 주제마다 다릅니다. 다음 그림은 기본 테마 아래의 리스트뷰 스타일입니다.<br>
 
-<figure><img src="../../.gitbook/assets/image (2449).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2460).png" alt=""><figcaption></figcaption></figure>
 
 ## 새 리스트뷰 스타일 만들기&#x20;
 
@@ -22,7 +22,7 @@
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72353453/%E6%AD%A5%E9%AA%A42.png?version=1\&modificationDate=1648092546000\&api=v2) \[빠른 스타일]의 기본 제공 테이블 스타일 목록에서 \[새 리스트뷰 스타일]을 클릭하여 \[리스트뷰 스타일 설정] 대화 상자를 표시합니다.
 
-![](<../../.gitbook/assets/image (1692).png>)
+![](<../../.gitbook/assets/image (1703).png>)
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72353453/%E6%AD%A5%E9%AA%A43.png?version=1\&modificationDate=1648092546000\&api=v2) \[이름] 뒤에 있는 텍스트 상자에 스타일의 이름을 입력합니다.
 
@@ -46,4 +46,4 @@
 
 수정외에도 복제, 기본값으로 설정 등의 설정이 가능합니다.<br>
 
-<figure><img src="../../.gitbook/assets/image (2450).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2461).png" alt=""><figcaption></figcaption></figure>

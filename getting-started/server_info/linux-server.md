@@ -53,4 +53,4 @@ sudo bash installForguncy_cn.sh
 
 Windows 시스템에서는 빨간색 상자의 URL에 접속하여 관리 콘솔에 들어갑니다.
 
-<figure><img src="../../.gitbook/assets/image (106).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (117).png" alt=""><figcaption></figcaption></figure>

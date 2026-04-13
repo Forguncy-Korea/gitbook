@@ -6,11 +6,11 @@
 
 1. 리본메뉴에서 \[데이터>Forgucny파일가져오기]를 선택합니다.
 
-<figure><img src="../../.gitbook/assets/image (642).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (653).png" alt=""><figcaption></figcaption></figure>
 
 2. 가져올 포건시 파일을 선택합니다.
 3. 포건시 파일 가져오기 대화상자에서 페이지, 마스터페이지, 테이블, 서버 명령, 예약된 작업 등을 가져올 수 있습니다. 선택을 하고 확인을 클릭합니다.
 
-<figure><img src="../../.gitbook/assets/image (860).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (871).png" alt=""><figcaption></figcaption></figure>
 
 5. 확인을 클릭하면, 포건시파일에서 선택한 데이터를 사용할 수 있습니다.

@@ -10,8 +10,8 @@
 
 여기서 T-AQ 열은 숨겨진 열로 나열되며, 이는 주문 테이블 테이블이 숨겨져 있으며 실행 후 표시되지 않음을 나타냅니다. ID 값을 입력하여 주문 번호 쿼리할 때 쿼리된 값이 올바른지 확인할 수 없습니다.
 
-<figure><img src="../../../.gitbook/assets/image (1726).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1737).png" alt=""><figcaption></figcaption></figure>
 
 Ctrl+F5를 누르거나 Ctrl 키를 누른 다음 클릭하여 숨겨진 테이블을 표시하여 쿼리된 값이 올바른지 쉽게 확인할 수 있습니다.
 
-<figure><img src="../../../.gitbook/assets/image (2170).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2181).png" alt=""><figcaption></figcaption></figure>

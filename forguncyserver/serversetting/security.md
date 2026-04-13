@@ -7,7 +7,7 @@
 
 모든 앱의 기본 설정에서 \[포건시 서버 내 모든 애플리케이션에 대한 기본 웹 보안 설정]을 설정하면 관리 콘솔의 모든 앱에 적용됩니다.
 
-![](<../../.gitbook/assets/image (326).png>)
+![](<../../.gitbook/assets/image (337).png>)
 
 * Http 참조 허용 목록: \
   이 설정은 글로벌 설정 ( "GlobalConfig.xml"파일)의 GlobalConfiguration 요소 바로 아래에 설명 된 AllowUrlReferrer 요소에 의한 설정과 동일합니다. 여기서 설정한 내용은 GlobalConfig.xml 파일에 반영됩니다.\
@@ -21,11 +21,11 @@
 
 
 
-    <figure><img src="../../.gitbook/assets/image (449).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (460).png" alt=""><figcaption></figcaption></figure>
 
 각 앱에 대해 별도의 Http 참조 허용 목록 및 iframe CORS 규칙을 설정할 수도 있습니다. 모든 앱 목록에서 앱을 클릭하여 일반 설정 인터페이스로 이동하여 고급 설정에서 보안 설정을 수행할 수 있습니다.
 
-<figure><img src="../../.gitbook/assets/image (147).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (158).png" alt=""><figcaption></figcaption></figure>
 
 ## Forguncy 서버 관리자 웹 보안 설정 &#x20;
 
@@ -33,7 +33,7 @@ Http 참조 허용 목록 및 iframe CORS 규칙: 서버관리자의 설정에�
 
 * 서버관리자 보안 설정: 이 옵션을 선택하면 관리 콘솔이 SSL(보안 소켓 계층)을 사용하여 연결을 암호화합니다.
 
-![](<../../.gitbook/assets/image (563).png>)
+![](<../../.gitbook/assets/image (574).png>)
 
 ## 사용자 서비스 도메인 설정&#x20;
 
@@ -45,7 +45,7 @@ Http 참조 허용 목록 및 iframe CORS 규칙: 서버관리자의 설정에�
 
 설정 관리 콘솔 사이트의 도메인 이름 영역에서 텍스트 상자를 클릭하고 텍스트 상자에 설정된 도메인 이름을 입력한 다음 완료되면 설정 저장을 클릭하고 서비스를 다시 시작합니다.
 
-![](<../../.gitbook/assets/image (2281).png>)
+![](<../../.gitbook/assets/image (2292).png>)
 
 ### 포건시사이트 세션 설정 <a href="#guan-li-kong-zhi-tai-zhan-dian-hui-hua-de-she-zhi" id="guan-li-kong-zhi-tai-zhan-dian-hui-hua-de-she-zhi"></a>
 
@@ -53,4 +53,4 @@ Http 참조 허용 목록 및 iframe CORS 규칙: 서버관리자의 설정에�
 
 이 시간 내에 아무런 조치도 취하지 않으면 세션이 만료되며 관리 콘솔에 다시 로그인해야 합니다. 세션 시간은 2 \~ 1440(분)까지 설정할 수 있습니다.
 
-<figure><img src="../../.gitbook/assets/image (148).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (159).png" alt=""><figcaption></figcaption></figure>

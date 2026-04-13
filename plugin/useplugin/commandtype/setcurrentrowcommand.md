@@ -15,11 +15,11 @@
 3. 페이지에 데이터 테이블과 연결된 리스트뷰와 텍스트 상자를 추가합니다.
 4. 페이지에 버튼을 생성하고, 명령 편집을 아래와 같이 설정합니다.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (1470).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1481).png" alt=""><figcaption></figcaption></figure>
 
 "현재 행 설정"을 클릭하면 쿼리 조건 설정창이 나타나며, 현재행의 조건을 설정합니다.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (1949).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1960).png" alt=""><figcaption></figcaption></figure>
 
 5\. 실행을 한 후, 텍스트 박스에 셀을 입력한 후 "현재 행 설정"버튼을 클릭하면 리스트뷰에서 텍스트박스의 내용이 있는 행으로 이동하는 것을 확인할 수 있습니다.
 

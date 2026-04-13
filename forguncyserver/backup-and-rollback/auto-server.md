@@ -10,7 +10,7 @@
 
 자동 백업 경로를 설정한 후 디자이너에서 애플리케이션을 퍼블리싱할 때 데이터베이스를 덮어쓰면 서버가 자동으로 해당 애플리케이션을 백업합니다.
 
-<figure><img src="../../.gitbook/assets/image (2521).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2532).png" alt=""><figcaption></figcaption></figure>
 
 ### 예약된 백업 및 복원 <a href="#ding-shi-bei-fen-yu-hai-yuan" id="ding-shi-bei-fen-yu-hai-yuan"></a>
 
@@ -18,7 +18,7 @@
 
 관리 콘솔에서 "설정->백업 및 복원"을 선택합니다. 예약 백업 구성 영역에서 "예약 백업 켜기"를 선택하고 백업 시간, 백업 간격 일수, 최대 백업 횟수를 설정한 후 "설정 저장"을 클릭합니다.
 
-<figure><img src="../../.gitbook/assets/image (2523).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2534).png" alt=""><figcaption></figcaption></figure>
 
 설정을 저장한 후, 설정된 시간과 간격에 따라 백업이 진행됩니다.
 
@@ -36,7 +36,7 @@
 
 백업 및 복원 영역에서 "복원"을 클릭하고 복원할 파일을 선택합니다.
 
-<figure><img src="../../.gitbook/assets/image (2524).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2535).png" alt=""><figcaption></figcaption></figure>
 
 #### 사용자 정보 복원 <a href="#yong-hu-xin-xi-hai-yuan" id="yong-hu-xin-xi-hai-yuan"></a>
 
@@ -44,4 +44,4 @@
 
 복원 영역에서 "복원"을 클릭하고 복원하려는 파일을 선택하십시오.
 
-<figure><img src="../../.gitbook/assets/image (2525).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2536).png" alt=""><figcaption></figcaption></figure>

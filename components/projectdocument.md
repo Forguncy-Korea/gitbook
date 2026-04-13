@@ -4,11 +4,11 @@
 
 포건시의 리본메뉴에서 \[파일]을 클릭하고 \[내보내기]를 선택합니다.&#x20;
 
-<figure><img src="../.gitbook/assets/image (858).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (869).png" alt=""><figcaption></figcaption></figure>
 
 내보낸 문서의 기본 이름은 "Forguncy 프로젝트 문서 .xlsx"이며 파일을 열면 다음과 같이 표시됩니다.
 
-<figure><img src="../.gitbook/assets/image (1666).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1677).png" alt=""><figcaption></figcaption></figure>
 
 
 

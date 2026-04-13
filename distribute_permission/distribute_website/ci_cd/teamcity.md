@@ -34,7 +34,7 @@ TeamCity를 설치하고 TeamCity 서버 서비스와 TeamCity 에이전트 서�
 
     구성이 완료되면 "만들기"를 클릭하십시오.
 
-    <figure><img src="../../../.gitbook/assets/image (139).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (150).png" alt=""><figcaption></figcaption></figure>
 
     구성이 완료되면 "만들기"를 클릭하십시오.
 

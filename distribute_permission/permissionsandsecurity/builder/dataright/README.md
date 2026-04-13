@@ -18,4 +18,4 @@
 
 설정된 행 권한, 필드 권한, 레코드 생성 권한을 모두 확인하고 수정하거나 삭제할 수 있는 데이터 권한 대화 상자가 나타납니다.
 
-<figure><img src="../../../../.gitbook/assets/image (2424).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (2435).png" alt=""><figcaption></figcaption></figure>

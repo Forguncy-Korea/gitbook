@@ -2,7 +2,7 @@
 
 셀을 로그인 사용자 유형으로 설정하여 로그인한 사용자의 사용자 이름, 로그인, 로그아웃, 워크플로 알림을 표시합니다. 로그인한 사용자는 다음 그림과 같습니다.
 
-<figure><img src="../../.gitbook/assets/image (1253).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1264).png" alt=""><figcaption></figcaption></figure>
 
 ## 현재 사용자 설정&#x20;
 

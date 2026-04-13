@@ -12,7 +12,7 @@
 
 마스터 페이지를 선택한 후 오버플로 모드를 설정하여 하위 페이지를 표시하는 방법을 설정할 수 있습니다. 모바일 페이지의 오버플로 모드 설정은 일반 페이지의 오버플로 모드와 동일합니다([오버플로 모드](https://help.grapecity.com.cn/pages/viewpage.action?pageId=72352409) 참조).
 
-<figure><img src="../../.gitbook/assets/image (1708).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1719).png" alt=""><figcaption></figcaption></figure>
 
 ## 세로 행 수
 
@@ -35,7 +35,7 @@
 
 * 페이지를 마우스 오른쪽 버튼을 클릭하고 팝업 메뉴 선택 상자에서 시작 페이지로 설정을 선택합니다.
 
-<figure><img src="../../.gitbook/assets/image (1687).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1698).png" alt=""><figcaption></figcaption></figure>
 
 ## 페이지가 로딩 시 처리 명령 편
 
@@ -47,7 +47,7 @@
 
 Excel 페이지 설정과 유사한 Page, Margin, Header/Footer 및 Worksheet의 4개 탭이 포함되어 있지만 인쇄 품질, 초안 품질, 설명 및 오류 셀 인쇄 설정을 지원하지 않습니다.
 
-<figure><img src="../../.gitbook/assets/image (1707).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1718).png" alt=""><figcaption></figcaption></figure>
 
 ## 페이지 확대/축소 허용
 

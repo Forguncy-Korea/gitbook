@@ -21,7 +21,7 @@
 오른쪽 테이블 설정에서 테이블 이름과 메모를 설정할 수 있습니다. 메모를 설정한 후 데이터 테이블 위로 마우스를 가져가면 설정된 메모 정보가 표시됩니다.
 
 워크플로우 설정은  [워크플로우 설정](../../command/workflow/setting.md)을 참고하십시오. 데이터 권한은 데이터 권한을 참고하십시오.\
-![](<../../.gitbook/assets/image (2502).png>)
+![](<../../.gitbook/assets/image (2513).png>)
 
 <table><thead><tr><th width="254">이름 </th><th>설명 </th></tr></thead><tbody><tr><td>기본 제공 필드 표시 </td><td>선택하면 기본 제공 필드(생성인, 생성일,최종개정인, 최종수정일)가 디자이너에 표시됩니다.</td></tr><tr><td>권한</td><td>데이터 테이블 권한에는 레코드 생성 권한, 행 권한, 필드 권한이 포함됩니다. 권한을 활성화한 후 클릭하여 권한을 설정할 수 있습니다. 자세한 내용은 <a href="../dataright/">데이터 권한</a>을 참조하세요 .</td></tr><tr><td>메모 </td><td>메모를 설정한 후, 데이터 테이블 위에 마우스를 올리면 설정된 비고 정보가 표시됩니다.</td></tr></tbody></table>
 
@@ -36,19 +36,19 @@
 데이터 테이블에 대해 하나 이상의 열 인덱스를 설정하여 테이블의 레코드를 빠르게 검색하거나 정렬할 수 있습니다.
 
 데이터 테이블을 선택하고 마우스 오른쪽 버튼을 클릭한 후 오른쪽 클릭 메뉴에서 "테이블인덱스 설정"을 선택합니다.\
-![](<../../.gitbook/assets/image (2473).png>)
+![](<../../.gitbook/assets/image (2484).png>)
 
-<figure><img src="../../.gitbook/assets/image (2474).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2485).png" alt=""><figcaption></figcaption></figure>
 
 인덱스 설정 대화 상자에서 "추가"를 클릭하면 인덱스 열 설정 대화 상자가 나타납니다.
 
 하나 이상의 인덱스 열을 설정하고 인덱스 열의 정렬 방법을 설정하려면 "추가" 버튼을 클릭하세요.
 
-<figure><img src="../../.gitbook/assets/image (2475).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2486).png" alt=""><figcaption></figcaption></figure>
 
 인덱스 컬럼을 추가한 후 대화 상자에서 모든 인덱스 컬럼을 볼 수 있으며, 인덱스 컬럼의 이름을 편집하여 고유하게 설정할 수도 있습니다.<br>
 
-<figure><img src="../../.gitbook/assets/image (2476).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2487).png" alt=""><figcaption></figcaption></figure>
 
 ### 데이터 테이블 이름 변경 &#x20;
 

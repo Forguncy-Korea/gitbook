@@ -33,14 +33,14 @@ listview.bind("valueChanged", change);
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72365375/%E6%AD%A5%E9%AA%A41.png?version=1\&modificationDate=1648092729000\&api=v2)페이지에서 범위를 선택하고, 데이터 테이블을 셀 범위로 드래그하고, 데이터 테이블의 필드를 바인딩하고, 테이블의 편집 허용을 켭니다.
 
-<figure><img src="../../../../../.gitbook/assets/image (665).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (676).png" alt=""><figcaption></figcaption></figure>
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72365375/%E6%AD%A5%E9%AA%A42.png?version=1\&modificationDate=1648092728000\&api=v2)페이지 설정을 클릭하고 페이지 로드 시 명령을 편집합니다. 명령은 JavaScript 명령입니다. JavaScript 코드를 입력합니다.
 
-<figure><img src="../../../../../.gitbook/assets/image (556).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (567).png" alt=""><figcaption></figcaption></figure>
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72365375/%E6%AD%A5%E9%AA%A43.png?version=1\&modificationDate=1648092728000\&api=v2)편집이 완료되면 \[확인]을 클릭하여 대화 상자를 닫습니다.
 
 페이지를 실행하고 테이블의 값을 변경하면 경고 상자가 나타납니다.
 
-<figure><img src="../../../../../.gitbook/assets/image (2159).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (2170).png" alt=""><figcaption></figcaption></figure>

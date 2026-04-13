@@ -11,7 +11,7 @@
 | V10  | [Vant.zip](https://forguncy-korea.github.io/attached_files/Plugin_Files/V10_Plugin/Vant.zip) |
 | v9   | [Vant.zip](https://forguncy-korea.github.io/attached_files/Plugin_Files/V9_Plugin/Vant.zip)  |
 
-<figure><img src="../../../../.gitbook/assets/image (973).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (984).png" alt=""><figcaption></figcaption></figure>
 
 
 

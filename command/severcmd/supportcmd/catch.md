@@ -10,13 +10,13 @@
 
 서버단 명령을 편집하는 명령입니다. 명령 탭에서 \[명령편집] 하이퍼링크를 클릭하고 서버단 명령 실행 대화 상자를 표시하고 예외 처리 명령을 선택합니다.
 
-![](<../../../.gitbook/assets/image (2050).png>)
+![](<../../../.gitbook/assets/image (2061).png>)
 
 예외 처리 명령을 선택하면 \[Try], \[Catch], \[Finally] 세 개의 하위 노드가 나타납니다. 각 노드는 명령 목록을 추가할 수 있습니다.
 
 Catch 노드에서 Exception Code 및 Exception Message를 설정하고 다음 명령에서 파라미터로 사용할 수 있습니다.
 
-<figure><img src="../../../.gitbook/assets/image (1477).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1488).png" alt=""><figcaption></figcaption></figure>
 
 명령이 예외 없이 실행되면 오류 코드는 0이 됩니다. 오류 코드는 예외 또는 오류가 발생한 경우에만 0이 아닙니다.
 

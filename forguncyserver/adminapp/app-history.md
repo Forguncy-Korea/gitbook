@@ -6,7 +6,7 @@
 
 포건시서버관리자  에서 앱 목록을 클릭하고 앱을 선택한 후 앱 이을 선택하세요.
 
-<figure><img src="../../.gitbook/assets/image (141).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (152).png" alt=""><figcaption></figcaption></figure>
 
 ### 설정 <a href="#she-zhi" id="she-zhi"></a>
 
@@ -22,7 +22,7 @@
 
 "포건시서버에서 이 애플리케이션을 실행하기 위한 로그 보기"를 클릭하면 다음 대화 상자가 나타납니다.
 
-<figure><img src="../../.gitbook/assets/image (142).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (153).png" alt=""><figcaption></figcaption></figure>
 
 감사 로그 대화 상자에서 기본 검색 조건에는 애플리케이션, 로그 유형, 작업 애플리케이션 이름이 포함됩니다.
 

@@ -8,7 +8,7 @@
 
 빌더의 리본 메뉴 모음에서 배포-> 배포파일생성을 선택하여 파일을 로컬로 저장합니다.
 
-![](<../../.gitbook/assets/image (1444).png>)
+![](<../../.gitbook/assets/image (1455).png>)
 
 ## 오프라인으로 웹사이트를 배포&#x20;
 
@@ -16,9 +16,9 @@
 
 포건시 서버의 설치 경로에서 "OfflinePublishTool .exe"을 찾아 두 번 클릭하여 설치 없이 게시 설정 창을 직접 엽니다.
 
-<figure><img src="../../.gitbook/assets/image (132).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (143).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (133).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (144).png" alt=""><figcaption></figcaption></figure>
 
 다음 설정을 설정한 후 확인을 클릭하여 사이트를 배포합니다.
 
@@ -44,4 +44,4 @@
 
 파일->옵션-> 응용프로그램 설정을 선택하여 기타 영역에서 오프라인 배포 암호를 설정합니다.
 
-<figure><img src="../../.gitbook/assets/image (134).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (145).png" alt=""><figcaption></figcaption></figure>

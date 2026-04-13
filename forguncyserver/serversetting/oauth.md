@@ -14,13 +14,13 @@
 
 포건시 서버관리자에서 \[설정>웹보안설정]을 선택하여 웹 보안 설정 페이지로 들어갑니다.
 
-<figure><img src="../../.gitbook/assets/image (1359).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1370).png" alt=""><figcaption></figcaption></figure>
 
 타사 인증 영역에서 관리자는 각 타사에 대한 클라이언트 식별자 및 암호를 구성할 수 있습니다.
 
 클라이언트 권한 추가를 클릭하여 클라이언트 권한 편집 페이지를 표시합니다.
 
-<figure><img src="../../.gitbook/assets/image (1749).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1760).png" alt=""><figcaption></figcaption></figure>
 
 | 설정         | 설명                                                                                                                                                                                                                                                    |
 | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

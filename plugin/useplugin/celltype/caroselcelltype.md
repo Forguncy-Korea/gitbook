@@ -13,18 +13,18 @@
 1. 플러그인을 다운로드합니다.
 2. Forguncy Builder에서 설치하고 Forguncy Builder를 다시 실행합니다.
 
-<figure><img src="../../../.gitbook/assets/image (901).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (912).png" alt=""><figcaption></figcaption></figure>
 
 3\. 셀 영역을 선택하고, 셀 유형 "그림 슬라이드"로 설정합니다.
 
-<figure><img src="../../../.gitbook/assets/image (2356).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2367).png" alt=""><figcaption></figcaption></figure>
 
 4. 이미지선택을 합니다.
 
-<figure><img src="../../../.gitbook/assets/image (2358).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2369).png" alt=""><figcaption></figcaption></figure>
 
 
 
 5\. 실행하면 아래와 같이 그림 슬라이드가 나오는 것을 확인할 수 있습니다.
 
-<figure><img src="../../../.gitbook/assets/image (2359).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2370).png" alt=""><figcaption></figcaption></figure>

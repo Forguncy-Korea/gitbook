@@ -12,9 +12,9 @@
 
 예를 들어 리스트뷰를 선택한 후 자동 병합을 선택하면 첫 번째 열에 인접한 행과 동일한 값의 셀이 병합된 것을 볼 수 있습니다.
 
-![](<../../.gitbook/assets/image (900).png>)
+![](<../../.gitbook/assets/image (911).png>)
 
-![](<../../.gitbook/assets/image (1904).png>)
+![](<../../.gitbook/assets/image (1915).png>)
 
 
 

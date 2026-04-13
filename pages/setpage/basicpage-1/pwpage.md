@@ -8,10 +8,10 @@
 
 비밀번호 재설정 기능을 사용하려면 먼저 메일 서버를 구성해야 합니다.
 
-<figure><img src="../../../.gitbook/assets/image (2019).png" alt=""><figcaption><p>비밀번호분실 화면 </p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2030).png" alt=""><figcaption><p>비밀번호분실 화면 </p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (2206).png" alt=""><figcaption><p>비밀번호재설정 링크 보내기 화면 </p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2217).png" alt=""><figcaption><p>비밀번호재설정 링크 보내기 화면 </p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (460).png" alt=""><figcaption><p>비밀번호재설정 화면 </p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (471).png" alt=""><figcaption><p>비밀번호재설정 화면 </p></figcaption></figure>
 
 설정 페이지에 접속하기 위해서는 로그인이 필요하며, 로그인 시 비밀번호를 잊으셨다면 "비밀번호 찾기" 기능을 이용하실 수 있습니다.

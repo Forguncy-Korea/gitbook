@@ -8,13 +8,13 @@
 
 채우기 모드를 활성화할 수 없다면 피벗테이블과 연결된 리스트뷰가 편집할 수 있도록 활성화되어 있는지 확인하시기 바랍니다.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (2003).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2014).png" alt=""><figcaption></figcaption></figure>
 
 채우기 모드를 설정하고 실행을 합니다.
 
 실행 후, 피벗테이블에서 데이터를 편집할 수 있으며 데이터가 수정되면 리스트뷰의 데이터도 수정됩니다.
 
-<figure><img src="../../.gitbook/assets/image (1064).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1075).png" alt=""><figcaption></figcaption></figure>
 
 ### 마스터설정&#x20;
 
@@ -22,10 +22,10 @@
 
 실행 후 리스트뷰 1과 리스트뷰2의 모든 필드가 피벗테이블에 표시됩니다.
 
-<figure><img src="../../.gitbook/assets/image (1959).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1970).png" alt=""><figcaption></figcaption></figure>
 
 ### 편집 후 즉시 새로고침&#x20;
 
 피벗테이블에서 채우기 모두가 켜져 있고, 피벗테이블 속성에서 소계/행총계/열 총계 중 하나 이상이 확인되면 새로운 설정이 추가됩니다. 편집 후 즉시 새로고침 옵션을 체크한 후 피벗테이블을 편집할 떄 소계 및 합계 행 데이터가 즉시 새로 고쳐지지만 데이터 양이 많을 경우 속도가 느려질 수 있습니다.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (1211).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1222).png" alt=""><figcaption></figcaption></figure>

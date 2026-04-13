@@ -8,7 +8,7 @@
 
 스타일은 밝은 색상, 중간 색상 및 어두운 색상으로 구분된 색상 음영으로 분류됩니다. 이 세 가지 범주는 다른 색상, 다른 음영에 따라 다른 스타일로 나뉩니다. 피벗 테이블의 셀 스타일은 주제마다 다릅니다. 다음 그림은 기본 테마 아래의 피벗 테이블의 셀 스타일입니다.
 
-<figure><img src="../../.gitbook/assets/image (2426).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2437).png" alt=""><figcaption></figcaption></figure>
 
 ### 신규 셀 스타일 만들기&#x20;
 
@@ -40,7 +40,7 @@
 
 스타일 속성에서 묶여 진 행 / 묶여진  열 표시 할지 여부를 선택할 수 있습니다.  기본적으로 묶어진 행, 열은 선택되어 있지 않습니다.&#x20;
 
-![](<../../.gitbook/assets/image (391).png>)
+![](<../../.gitbook/assets/image (402).png>)
 
 ## **스크롤 가능할 때 스크롤 막대를 표시** <a href="#id-tou-shi-biao-yang-shi-5.-jin-zai-cao-zuo-shi-xian-shi-gun-dong-tiao" id="id-tou-shi-biao-yang-shi-5.-jin-zai-cao-zuo-shi-xian-shi-gun-dong-tiao"></a>
 

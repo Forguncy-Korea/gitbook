@@ -30,8 +30,8 @@ alert("이동 가능한 타입");
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72365955/%E6%AD%A5%E9%AA%A41.png?version=1\&modificationDate=1648092738000\&api=v2)페이지 설정에서 JavaScript 파일을 업로드하고 JavaScript 코드를 입력합니다.
 
-<figure><img src="../../../../../.gitbook/assets/image (1610).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (1621).png" alt=""><figcaption></figcaption></figure>
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72365955/%E6%AD%A5%E9%AA%A42.png?version=1\&modificationDate=1648092738000\&api=v2)페이지를 실행하고 테이블에서 팝업버튼을 클릭하여 팝업페이지를 띄우고, 닫기 버튼을 클릭하여 팝업 페이지가 닫히면 경고 상자가 나타납니다.
 
-<figure><img src="../../../../../.gitbook/assets/image (1873).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (1884).png" alt=""><figcaption></figcaption></figure>

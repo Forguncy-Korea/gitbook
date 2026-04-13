@@ -6,7 +6,7 @@ CSV 가져오기/내보내기 명령 중 CSV 처리 방식을 CSV로 가져오�
 
 1. 페이지에 CSV 가져오기 버튼과, 제품테이블과 연결한 리스트뷰를 생성해줍니다.&#x20;
 
-<figure><img src="../../../../.gitbook/assets/image (386).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (397).png" alt=""><figcaption></figcaption></figure>
 
 2\. CSV가져오기 버튼 명령을 아래와 같이 설정합니다.&#x20;
 
@@ -30,7 +30,7 @@ CSV 가져오기/내보내기 명령 중 CSV 처리 방식을 CSV로 가져오�
 
 &#x20;    열 : K6    CSV 열 이름 : 가격&#x20;
 
-<figure><img src="../../../../.gitbook/assets/image (656).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (667).png" alt=""><figcaption></figcaption></figure>
 
 3\. 실행을 하고, CSV 가져오기 버튼을 클릭한 후 파일을 선택하면 리스트뷰에 해당 CSV파일이 가져와진 것을 확인할 수 있습니다.&#x20;
 

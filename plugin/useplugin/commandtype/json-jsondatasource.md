@@ -27,21 +27,21 @@ JSON 데이터 소스 가져오기 명령은 JSON의 내용을 리스트뷰나 �
 
 &#x20;   버튼을 만듭니다.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (2266).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2277).png" alt=""><figcaption></figcaption></figure>
 
 &#x20; 5\. 명령창에 "JSON 데이터를 셀로 가져오기" 또 "JSON 데이터를 리스트뷰로 가져오기"를 선택합니다.
 
 * JSON 데이터를 셀로 가져오기&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (1370).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1381).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (2045).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2056).png" alt=""><figcaption></figcaption></figure>
 
 <table><thead><tr><th width="270">항목 </th><th>설명 </th></tr></thead><tbody><tr><td>JSON 데이터 소스 </td><td>JSON  데이터 소스가 있는 셀 </td></tr><tr><td>JSON 설정 예제 </td><td>JSON 설정 예제를 입력하면  JSON 경로 및 목표 셀의 속성 이름에 속성이 나타남 </td></tr><tr><td>JSON 경로 </td><td>JSON 경로 </td></tr><tr><td>속성 이름 </td><td>JSON 속성 경로 </td></tr><tr><td>셀 </td><td>속성 경로가 입력될 셀 </td></tr></tbody></table>
 
 * JSON 데이터를 리스트뷰로 가져오기&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (1699).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1710).png" alt=""><figcaption></figcaption></figure>
 
 <table><thead><tr><th width="270">항목 </th><th>설명 </th></tr></thead><tbody><tr><td>JSON 데이터 소스 </td><td>JSON  데이터 소스가 있는 셀 </td></tr><tr><td>JSON 설정 예제 </td><td>JSON 설정 예제를 입력하면  JSON 경로 및 목표 셀의 속성 이름에 속성이 나타남 </td></tr><tr><td>JSON 경로 </td><td>JSON 경로 </td></tr><tr><td>리스트뷰 </td><td>JSON 데이터를 가져올 리스트뷰 </td></tr><tr><td>속성 이름</td><td>JSON 속성 경로 </td></tr><tr><td>셀 </td><td>속성 경로가 입력될 리스트뷰의 셀 </td></tr></tbody></table>
 
@@ -93,4 +93,4 @@ JSON 데이터 소스 가져오기 명령은 JSON의 내용을 리스트뷰나 �
 
 &#x20;"데이터 셀로 가져오기" 와 "데이터 리스트뷰 가져오기" 버튼을 클릭하면 아래와 같이 셀과 리스트뷰에 JSON 데이터를 가져오는 것을 확인할 수 있습니다.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (1639).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1650).png" alt=""><figcaption></figcaption></figure>

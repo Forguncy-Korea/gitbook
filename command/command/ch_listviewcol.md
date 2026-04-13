@@ -2,7 +2,7 @@
 
 리스트뷰 열이 많은 경우 페이지에 열을 완전히 표시하기가 어렵습니다. 열 옵션 명령을 사용하여 리스트뷰에 없는 열을 추가하거나 리스트뷰에  이미 있는 열을 삭제할 수 있으며 언제든지 표시할 열을 사용자 지정하여 데이터를 쉽게 볼 수 있습니다.
 
-![](<../../.gitbook/assets/image (1530).png>)
+![](<../../.gitbook/assets/image (1541).png>)
 
 예를 들어 페이지의 테이블에는 많은 열이 있고, 페이지에 테이블을 완전히 표시할 수 없으며, 페이지 아래에 스크롤 막대가 나타나고, 모든 데이터를 보려면 스크롤 막대를 이동해야 하며, 이러한 작업은 사용자 환경에 영향을 줄 수 있습니다.
 
@@ -18,7 +18,7 @@
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72354479/%E6%AD%A5%E9%AA%A44.png?version=1\&modificationDate=1648092564000\&api=v2) 열 옵션 명령을 설정하고 대상 테이블을 선택하면 테이블에 없는 필드가 열 설정에 자동으로 채워집니다.
 
-![](<../../.gitbook/assets/image (2261).png>)
+![](<../../.gitbook/assets/image (2272).png>)
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72354479/%E6%AD%A5%E9%AA%A45.png?version=1\&modificationDate=1648092564000\&api=v2) 열 설정에 열을 추가하거나, 열을 삭제하거나, 열을 위로 이동하고, 열을 아래로 이동하거나, 대상 열, 이름, 너비, 열 머리글 스타일 및 셀 스타일을 직접 변경할 수 있습니다.
 
@@ -28,7 +28,7 @@
 
 예를 들어 범주 이름 열을 선택하여 표시 열로 이동합니다.
 
-![](<../../.gitbook/assets/image (1762).png>)
+![](<../../.gitbook/assets/image (1773).png>)
 
 표시 열에서 열을 선택하고 클릭하여 표시 열의 열을 사용 가능한 열로 다시 이동합니다.![](https://help.grapecity.com.cn/download/thumbnails/72354479/image2019-3-18_11-6-38.png?version=1\&modificationDate=1648092564000\&api=v2)
 
@@ -38,5 +38,5 @@
 
 설정이 완료되면 확인을 클릭하면 페이지에 다음과 같이 표시됩니다.
 
-![](<../../.gitbook/assets/image (1173).png>)
+![](<../../.gitbook/assets/image (1184).png>)
 

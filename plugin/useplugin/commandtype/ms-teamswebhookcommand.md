@@ -14,20 +14,20 @@
 2. Forguncy Builder에서 설치하고 Forguncy Builder를 다시 실행합니다.
 3.  팀에서 마우스 오른쪽 메뉴에서 "채널관리"를 클릭합니다. <br>
 
-    <figure><img src="../../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 
 
 4.  커넥터에서 \[편집]을 클릭합니다.<br>
 
-    <figure><img src="../../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;4\. Incoming webhook 구성을 클릭합니다.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (1372).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1383).png" alt=""><figcaption></figcaption></figure>
 
 5\. IncomingWebhook 연결한 이름을 입력한 후, 만들기를 클릭하면 URL이 나옵니다. 해당 URL을 복사합니다.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (546).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (557).png" alt=""><figcaption></figcaption></figure>
 
 6\. 서버단 명령 실행에서 아래와 같이 명령을 설정합니다.&#x20;
 
@@ -37,8 +37,8 @@
 * WebHook URL : 5번에서 복사한 URL
 * 내용 : 메시지 내용&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (2075).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2086).png" alt=""><figcaption></figcaption></figure>
 
 7\. 해당 명령을 실행하면 아래와 같이 팀즈에 메시지가 보내지는 것을 확인할 수 있습니다.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (2262).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2273).png" alt=""><figcaption></figcaption></figure>

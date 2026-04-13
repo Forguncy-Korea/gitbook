@@ -10,22 +10,22 @@
 
 데이터 정렬을 테이블의 그룹화 기준으로 설정하고, "{Month(주문 날짜)}" 표현식으로 설정하고, 오름차순으로 정렬합니다.![](https://help.grapecity.com.cn/download/attachments/64455969/image2019-5-27_14-38-14.png?version=1\&modificationDate=1633750715000\&api=v2)<br>
 
-![](<../../../.gitbook/assets/image (2061).png>)
+![](<../../../.gitbook/assets/image (2072).png>)
 
 ## 그룹 필터링&#x20;
 
 테이블 그룹화를 선택하여 그룹화 옵션 아래의 필터 아래에 항목을 추가합니다.
 
-![](<../../../.gitbook/assets/image (1150).png>)
+![](<../../../.gitbook/assets/image (1161).png>)
 
 그런 다음 필터를 테이블의 그룹화 조건으로 설정하고, 여러 필터를 추가하고, 그룹을 필터링하고, 필터 조건 간의 관계를설정하여  필터를 만들 수 있습니다.
 
-![](<../../../.gitbook/assets/image (2130).png>)
+![](<../../../.gitbook/assets/image (2141).png>)
 
 다음은 다음 그림과 같이 {Month(주문 날짜)}로 설정되어 있으며(그룹화 조건과 동일) 필터링 규칙은 6보다 큽니다.
 
-![](<../../../.gitbook/assets/image (434).png>)
+![](<../../../.gitbook/assets/image (445).png>)
 
 보고서를 미리 보면 필터링이 표시되고 테이블에는 7월 이후의 데이터만 표시됩니다.
 
-![](<../../../.gitbook/assets/image (1439).png>)
+![](<../../../.gitbook/assets/image (1450).png>)

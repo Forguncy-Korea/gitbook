@@ -4,7 +4,7 @@
 
 마스터 페이지의 페이지 설정에는 이름, 세로 행 수, 가로 열 수 및 페이지 늘이기 모드에 대한 설정이 포함됩니다.
 
-<figure><img src="../../.gitbook/assets/image (955).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (966).png" alt=""><figcaption></figcaption></figure>
 
 ## 이름
 

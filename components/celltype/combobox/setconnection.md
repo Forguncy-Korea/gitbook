@@ -16,20 +16,20 @@
 
 첫 번째 콤보 상자를 선택하고 속성 설정 영역에서 셀 설정 탭을 선택하고 항목을 설정합니다.
 
-<figure><img src="../../../.gitbook/assets/image (516).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (527).png" alt=""><figcaption></figcaption></figure>
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72353186/%E6%AD%A5%E9%AA%A43.png?version=1\&modificationDate=1648092542000\&api=v2) 두 번째 콤보 상자를 선택하고 속성 설정 영역에서 셀 설정 탭을 선택하고 항목을 설정합니다.
 
-<figure><img src="../../../.gitbook/assets/image (1241).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1252).png" alt=""><figcaption></figcaption></figure>
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72353186/%E6%AD%A5%E9%AA%A44.png?version=1\&modificationDate=1648092542000\&api=v2) 프로젝트 쿼리를 클릭합니다. 쿼리 조건을 설정합니다.
 
 범주 ID에 따라 제품 이름을 표시하려면 필드가 범주 ID를 선택하고, 작업 선택이 같음을 선택하고, 값이 첫 번째 콤보 상자가 있는 셀을 선택하기 때문에 새 조건을 만듭니다.
 
-<figure><img src="../../../.gitbook/assets/image (1863).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1874).png" alt=""><figcaption></figcaption></figure>
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72353186/%E6%AD%A5%E9%AA%A45.png?version=1\&modificationDate=1648092542000\&api=v2) \[확인]을 클릭하여 쿼리 조건 창을 닫습니다. 프로그램을 실행한 후 첫 번째 콤보 상자의 값을 선택하면 두 번째 콤보 상자에 해당 값(범주 ID)을 기반으로 관련 제품이 나열됩니다.
 
-<figure><img src="../../../.gitbook/assets/image (1589).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1600).png" alt=""><figcaption></figcaption></figure>
 
 ##

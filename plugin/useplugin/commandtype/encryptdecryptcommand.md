@@ -4,7 +4,7 @@
 
 이 플러그인은 서버단 명령에서만 사용할 수 있습니다.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (1881).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1892).png" alt=""><figcaption></figcaption></figure>
 
 ### 플러그인 다운로드&#x20;
 
@@ -20,11 +20,11 @@
 
 &#x20; 3-1. 서버단 명령 실행 창에서 파라미터를 설정합니다.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (1285).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1296).png" alt=""><figcaption></figcaption></figure>
 
 &#x20; 3-2. 서버단 명령 실행 창에서 반환값을 설정합니다.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (2073).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2084).png" alt=""><figcaption></figcaption></figure>
 
 &#x20; 3-3. 서버단 명령 실행 창에서 명령을 다음과 같이 설정합니다.&#x20;
 
@@ -36,11 +36,11 @@
 
 &#x20;  \- 결과를 파라미터로 반환 : Result&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (1352).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1363).png" alt=""><figcaption></figcaption></figure>
 
 4\. 실행하면 아래와 같이 암호화 코드를 반환합니다.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (1928).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1939).png" alt=""><figcaption></figcaption></figure>
 
 ## 암호화 유형&#x20;
 
@@ -74,7 +74,7 @@ HMAC 암호화 알고리즘은 메시지 무결성을 위한 키 기반 검증 �
 
 HMAC 암호화 알고리즘은 암호화, 전자 서명, 메시지 확인 등에 사용할 수 있습니다.
 
-<figure><img src="../../../.gitbook/assets/image (913).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (924).png" alt=""><figcaption></figcaption></figure>
 
 <table><thead><tr><th width="229">항목 </th><th>유형 </th><th>설명 </th></tr></thead><tbody><tr><td>Source </td><td>입력 값</td><td>일반 텍스트 문자열 전달</td></tr><tr><td>Secret</td><td>입력 값</td><td>사용자 지정 키 전달</td></tr><tr><td>알고리즘 </td><td>입력 값</td><td>암호화 방법 선택(HMACSHA1, HMACSHA256, HMACSHA512, HMACMD5), </td></tr><tr><td>결과를 파라미터로 반환 </td><td>출력 값</td><td>암호화된 암호문을 새 매개변수에 전달</td></tr></tbody></table>
 

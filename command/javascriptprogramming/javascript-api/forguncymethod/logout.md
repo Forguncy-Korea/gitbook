@@ -28,10 +28,10 @@ Forguncy.logOut();
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72364756/%E6%AD%A5%E9%AA%A41.png?version=1\&modificationDate=1648092719000\&api=v2) 페이지에서 셀 범위를 선택하고 셀 유형을 버튼 설정하고 명령을 \[JavaScript 명령]으로 편집하고 JavaScript 코드를 입력합니다.
 
-<figure><img src="../../../../.gitbook/assets/image (2260).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (2271).png" alt=""><figcaption></figcaption></figure>
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72364756/%E6%AD%A5%E9%AA%A42.png?version=1\&modificationDate=1648092719000\&api=v2) 편집이 완료되면 \[확인]을 클릭하여 대화 상자를 닫습니다.
 
 페이지를 실행하고 로그인한 후 로그아웃 버튼을 클릭하면 현재 로그인한 사용자가 로그아웃되고 페이지가 새로 고쳐집니다.
 
-<figure><img src="../../../../.gitbook/assets/image (2074).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (2085).png" alt=""><figcaption></figcaption></figure>

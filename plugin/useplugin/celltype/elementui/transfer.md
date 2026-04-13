@@ -4,7 +4,7 @@
 
 여러 선택 항목의 또 다른 UI입니다.
 
-<figure><img src="../../../../.gitbook/assets/image (992).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1003).png" alt=""><figcaption></figcaption></figure>
 
 특히 vue에 대한 기본 지식이 있는 개발자는 이 셀 유형에서 제공하는 몇 가지 인터페이스를 사용하여 자신만의 아이템 UI를 정의할 수 있습니다.
 
@@ -44,7 +44,7 @@
 
 ### 셀속성&#x20;
 
-<figure><img src="../../../../.gitbook/assets/image (2205).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (2216).png" alt=""><figcaption></figcaption></figure>
 
 | 이름         | 설명                                                                                                                                                                                                                                             |
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

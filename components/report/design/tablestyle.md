@@ -4,8 +4,8 @@
 
 테이블을 선택하여 속성 설정 패널에서 테이블의 모양 스타일을 조정합니다.
 
-![](<../../../.gitbook/assets/image (1678).png>)
+![](<../../../.gitbook/assets/image (1689).png>)
 
 보고서의 제목을 전환하여 전체 보고서의 모양을 조정할 수도 있습니다.
 
-![](<../../../.gitbook/assets/image (2069).png>)
+![](<../../../.gitbook/assets/image (2080).png>)

@@ -33,10 +33,10 @@ alert(pageName);
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72366106/%E6%AD%A5%E9%AA%A41.png?version=1\&modificationDate=1648092740000\&api=v2)해당 페이지에 버튼을 생성하고, “자바스크립트로 직접 프로그래밍하기” 명령으로 코드를 추가합니다.
 
-<figure><img src="../../../../../.gitbook/assets/image (632).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (643).png" alt=""><figcaption></figcaption></figure>
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72366106/%E6%AD%A5%E9%AA%A42.png?version=1\&modificationDate=1648092740000\&api=v2)편집이 완료되면 \[확인]을 클릭하여 대화 상자를 닫습니다.
 
 페이지를 실행하고 페이지에서 버튼을 클릭하면 현재 페이지의 이름을 표시하는 경고 상자가 나타납니다.
 
-<figure><img src="../../../../../.gitbook/assets/image (769).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (780).png" alt=""><figcaption></figcaption></figure>

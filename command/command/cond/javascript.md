@@ -2,7 +2,7 @@
 
 조건 명령을 설정할 때 조건은 JavaScript 조건을 선택하고 JavaScript 실행 결과에 따라 true를 반환할 때 적절한 명령을 실행합니다.
 
-<figure><img src="../../../.gitbook/assets/image (2312).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2323).png" alt=""><figcaption></figcaption></figure>
 
 ## JavaScript 조건&#x20;
 
@@ -16,23 +16,23 @@ JavaScript 조건을 사용하는 방법은 다음과 같습니다.
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72354313/%E6%AD%A5%E9%AA%A42.png?version=1\&modificationDate=1648092560000\&api=v2) 주문 목록 페이지에서 추가 버튼 설정하여 명령을 조건 명령으로 설정합니다.
 
-![](<../../../.gitbook/assets/image (2047).png>)
+![](<../../../.gitbook/assets/image (2058).png>)
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72354313/%E6%AD%A5%E9%AA%A43.png?version=1\&modificationDate=1648092560000\&api=v2) 조건을 설정합니다. \[If \[조건식]에서 \[빈 명령]을 클릭하고 오른쪽에서 \[JavaScript 조건] 명령을 선택합니다. 다음 그림과 같이 JavaScript 코드 입력 상자에 코드를 입력합니다.
 
 설정이 완료되면 확인을 클릭합니다.
 
-![](<../../../.gitbook/assets/image (1558).png>)
+![](<../../../.gitbook/assets/image (1569).png>)
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72354313/%E6%AD%A5%E9%AA%A44.png?version=1\&modificationDate=1648092560000\&api=v2) 명령을 설정합니다. 다음 그림과 같이 \[빈 명령]을 클릭하고 오른쪽의 \[명령선택] 콤보 상자에서 \[팝업 보여주기]를 선택합니다. 자세한 내용은 [페이지 명령-팝업 페이지를](../popuppage.md) 참조하십시오. 설정이 완료되면 확인을 클릭합니다.
 
-![](<../../../.gitbook/assets/image (2052).png>)
+![](<../../../.gitbook/assets/image (2063).png>)
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72354313/%E6%AD%A5%E9%AA%A45.png?version=1\&modificationDate=1648092560000\&api=v2) 조건부 분기를 추가합니다. \[Else 추가]를 선택합니다.
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72354313/%E6%AD%A5%E9%AA%A46.png?version=1\&modificationDate=1648092560000\&api=v2) \[Else] 아래의 \[빈 명령]을 클릭하고 오른쪽의 \[명령 선택] 콤보 상자에서 명령을 메시지 보여주기로 선택합니다. 설정이 완료되면 \[확인]을 클릭하여 명령 선택 창을 닫고 명령 창을 닫습니다.&#x20;
 
-![](<../../../.gitbook/assets/image (1407).png>)
+![](<../../../.gitbook/assets/image (1418).png>)
 
 
 

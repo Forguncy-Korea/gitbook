@@ -13,13 +13,13 @@ JavaScript 파일을 지정할 페이지를 선택하고 속성 설정 영역에
 
 업로드가 완료되면 JavaScript를 클릭하고 삭제하고 편집할 수 있습니다.![](https://help.grapecity.com.cn/download/thumbnails/56532136/image2017-12-28_15-5-13.png?version=1\&modificationDate=1611021618000\&api=v2)![](https://help.grapecity.com.cn/download/thumbnails/56532136/image2017-12-28_15-5-34.png?version=1\&modificationDate=1611021618000\&api=v2)
 
-![](<../../../.gitbook/assets/image (343).png>)
+![](<../../../.gitbook/assets/image (354).png>)
 
 ![](https://help.grapecity.com.cn/download/thumbnails/56532136/%E6%AD%A5%E9%AA%A41.png?version=1\&modificationDate=1611021618000\&api=v2) 디자이너의 페이지에서 셀 범위를 선택하고 셀 유형을 단추로 설정하고 이름을 "button"으로 지정합니다.
 
 ![](https://help.grapecity.com.cn/download/thumbnails/56532136/%E6%AD%A5%E9%AA%A42.png?version=1\&modificationDate=1611021618000\&api=v2) 페이지 설정에서 JavaScript 파일 아래의 업로드 아이콘을 클릭하여 JavaScript 파일을 업로드합니다.![](https://help.grapecity.com.cn/download/thumbnails/56532136/image2019-7-8_15-32-43.png?version=1\&modificationDate=1611021618000\&api=v2)
 
-<figure><img src="../../../.gitbook/assets/image (1521).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1532).png" alt=""><figcaption></figcaption></figure>
 
 ```javascript
 //클릭 이벤트 핸들러를 버튼에 바인딩
@@ -38,4 +38,4 @@ cell.bind("click", onClick);
 
 페이지를 실행하고 페이지에서 버튼을 클릭하면 경고 상자가 나타납니다.
 
-<figure><img src="../../../.gitbook/assets/image (2174).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2185).png" alt=""><figcaption></figcaption></figure>

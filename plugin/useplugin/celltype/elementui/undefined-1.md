@@ -4,15 +4,15 @@
 
 ### 빌더화면&#x20;
 
-<figure><img src="../../../../.gitbook/assets/image (538).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (549).png" alt=""><figcaption></figcaption></figure>
 
 ### 실행화면 (런타임)
 
-<figure><img src="../../../../.gitbook/assets/image (389).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (400).png" alt=""><figcaption></figcaption></figure>
 
 ### 셀속성&#x20;
 
-<figure><img src="../../../../.gitbook/assets/image (398).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (409).png" alt=""><figcaption></figcaption></figure>
 
 
 

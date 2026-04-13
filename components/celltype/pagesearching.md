@@ -2,7 +2,7 @@
 
 셀을 페이지 탐색 유형으로 설정하여 테이블이 리스트뷰의 레코드를 페이징하도록 합니다. 페이지  탐색 버튼은 다음 그림과 같습니다.
 
-<figure><img src="../../.gitbook/assets/image (849).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (860).png" alt=""><figcaption></figcaption></figure>
 
 ## 페이지 탐색 설정&#x20;
 
@@ -20,13 +20,13 @@
 
 예를 들어 주문 목록 페이지에서 셀 범위를 선택하고 셀 유형을 페이지 매김 탐색 단추로 설정하고 셀 설정에서 페이지 매김 테이블 이름을 표 1로 설정하고 다음 그림과 같이 페이지당 행 수를 5개로 설정합니다.
 
-<figure><img src="../../.gitbook/assets/image (552).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (563).png" alt=""><figcaption></figcaption></figure>
 
 실행 후 목록 페이지에서 테이블당 5줄의 레코드만 표시되고 다음 아이콘을 클릭하면 테이블에 다음 페이지의 데이터가 표시됩니다.
 
 페이지 수에 대한 입력 상자에 기록할 페이지 수를 입력하고 Enter 키를 눌러 해당 페이지로 바로 이동할 수도 있습니다.
 
-<figure><img src="../../.gitbook/assets/image (369).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (380).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 * **ODBC 데이터 원본 또는 목록에 통계 열을 사용하는 경우 페이징 탐색을 사용할 수 없습니다.**

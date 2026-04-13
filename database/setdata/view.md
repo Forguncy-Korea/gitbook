@@ -22,7 +22,7 @@
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72355684/%E6%AD%A5%E9%AA%A43.png?version=1\&modificationDate=1648092581000\&api=v2) 편집 후 "확인"을 클릭하세요. "기본 키 선택" 대화 상자가 나타납니다. 왼쪽 키로 필드를 선택한 후 "확인"을 클릭하여 대화 상자를 닫습니다.<br>
 
-<figure><img src="../../.gitbook/assets/image (2478).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2489).png" alt=""><figcaption></figcaption></figure>
 
 **4.** 뷰가 생성되어 테이블 라벨 표시줄 아래에 표시됩니다.        &#x20;
 
@@ -33,14 +33,14 @@
 사용자 계정 관리 플랫폼의 모든 사용자와 정보를 표시하는 사용자 정보 보기를 만들 수 있습니다.
 
 리본 메뉴 모음에서 \[만들기>\[뷰]>\[사용자 정보 뷰 만들기]를 선택합니다.\
-![](<../../.gitbook/assets/image (2487).png>)
+![](<../../.gitbook/assets/image (2498).png>)
 
 필요한 사용자 관리 보기를 선택하거나 "한 번의 클릭으로 모든 내장 뷰  추가"를 선택할 수 있습니다.
 
 보기가 추가되면 테이블 레이블 표시줄 아래에 사용자 관리 보기가 표시됩니다.\
 <br>
 
-<figure><img src="../../.gitbook/assets/image (2488).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2499).png" alt=""><figcaption></figcaption></figure>
 
 ## 뷰 기본 작업
 
@@ -52,7 +52,7 @@
 
 뷰에서 필드를 선택한 후, 리본 메뉴바에서 "데이터 테이블-필드->필드명"을 선택하면 이름 대화 상자가 나타나며, 대화 상자에서 필드 별칭을 설정합니다.
 
-<figure><img src="../../.gitbook/assets/image (2489).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2500).png" alt=""><figcaption></figcaption></figure>
 
 ### 필드 유형 변경&#x20;
 
@@ -60,7 +60,7 @@
 
 뷰에서 필드를 선택한 후 리본 메뉴바에서 "데이터 테이블 - 필드"를 선택하고 데이터 유형 뒤의 콤보박스를 클릭하여 필드의 필드 유형을 변경합니다.
 
-<figure><img src="../../.gitbook/assets/image (2539).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2550).png" alt=""><figcaption></figcaption></figure>
 
 ### 뷰 편집&#x20;
 

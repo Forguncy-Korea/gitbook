@@ -19,7 +19,7 @@
 
 명령창에서 "워크플로우 명령"을 선택하고 아래와 같이 설정합니다.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (400).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (411).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -29,7 +29,7 @@
 
 리스트뷰에 처리해야 하는 레코드가 여러 개인 경우 워크플로우 처리 명령을 사용하여 레코드를 일괄 처리할 수 있습니다.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (725).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (736).png" alt=""><figcaption></figcaption></figure>
 
 
 

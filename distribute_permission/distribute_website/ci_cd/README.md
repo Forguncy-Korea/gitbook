@@ -20,11 +20,11 @@ cd C:\Program Files\Forguncy 10\Website\designerBin
 ForguncyConsole /?
 ```
 
-<figure><img src="../../../.gitbook/assets/image (137).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (148).png" alt=""><figcaption></figcaption></figure>
 
 **ForguncyConsole.exe Action=PublishToServer /help** 명령을 사용하면 더 많은 매개변수 설명을 볼 수 있습니다.
 
-<figure><img src="../../../.gitbook/assets/image (138).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (149).png" alt=""><figcaption></figcaption></figure>
 
 ### 포건시 프로젝트 파일 배포  <a href="#fa-bu-huo-zi-ge-gong-cheng-wen-jian" id="fa-bu-huo-zi-ge-gong-cheng-wen-jian"></a>
 

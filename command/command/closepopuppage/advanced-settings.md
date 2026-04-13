@@ -2,7 +2,7 @@
 
 팝업 페이지를 닫는 명령을 설정할 때 고급 설정을 할 수 있으며 반환 결과와 반환 값을 설정할 수 있습니다.
 
-<figure><img src="../../../.gitbook/assets/image (2479).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2490).png" alt=""><figcaption></figcaption></figure>
 
 ### 결과 반환 <a href="#fan-hui-jie-guo" id="fan-hui-jie-guo"></a>
 
@@ -15,9 +15,9 @@
 
 사용자는 팝업 페이지가 닫힐 때 사용자 정의 반환 값을 만들 수 있습니다. <br>
 
-<figure><img src="../../../.gitbook/assets/image (2480).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2491).png" alt=""><figcaption></figcaption></figure>
 
 반환값은 팝업 페이지 명령 중 "팝업 페이지를 닫은 후 실행할 명령" 설정에서 사용할 수 있습니다.<br>
 
-<figure><img src="../../../.gitbook/assets/image (2483).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2494).png" alt=""><figcaption></figcaption></figure>
 

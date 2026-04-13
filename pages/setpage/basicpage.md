@@ -6,13 +6,13 @@
 
 *   방법 1. 개체 관리자의 페이지 탭에서 새 페이지 만들기를 마우스 오른쪽 버튼을 클릭하여 빈 페이지를 만듭니다.            <br>
 
-    <figure><img src="../../.gitbook/assets/image (2440).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (2451).png" alt=""><figcaption></figcaption></figure>
 
 팝업 페이지 템플릿 선택 대화 상자에서 비즈니스 시나리오에 따라 페이지 템플릿을 선택해야 합니다. 빈 페이지, 대시보드, 분류정보통계, 필터통계목록, 관계설정리스트뷰등이  포함되어 있습니다.
 
-<figure><img src="../../.gitbook/assets/image (99).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (110).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (2587).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2598).png" alt=""><figcaption></figcaption></figure>
 
 * 방법 2. 리본 메뉴 모음에서 \[만들기]>\[페이지] 선택하여 빈 페이지를 만듭니다.
 

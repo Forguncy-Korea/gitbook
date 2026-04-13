@@ -35,10 +35,10 @@ listview.selectRow(2);
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72365725/%E6%AD%A5%E9%AA%A42.png?version=1\&modificationDate=1648092734000\&api=v2)셀 범위를 선택하고 셀 유형을 버튼으로 설정하고 명령을 \[자바스크립트로 직접 프로그래밍하기]으로 편집하고 JavaScript 코드를 입력합니다.
 
-<figure><img src="../../../../../.gitbook/assets/image (2288).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (2299).png" alt=""><figcaption></figcaption></figure>
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72365768/%E6%AD%A5%E9%AA%A43.png?version=1\&modificationDate=1648092735000\&api=v2)편집이 완료되면 \[확인]을 클릭하여 대화 상자를 닫습니다.
 
 페이지를 실행하고, 기본 현재 동작의 첫 번째 행을 설정하고, 페이지에서 현재 행 설정 버튼을 클릭하면 지정된 행이 현재 행으로 설정됩니다.
 
-<figure><img src="../../../../../.gitbook/assets/image (1618).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (1629).png" alt=""><figcaption></figcaption></figure>

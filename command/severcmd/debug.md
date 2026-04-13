@@ -12,7 +12,7 @@
 
 예를 들어 다음 그림과 같이 매개 변수와 명령이 있는 보다 복잡한 서버단 명령을 만듭니다.
 
-<figure><img src="../../.gitbook/assets/image (443).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (454).png" alt=""><figcaption></figcaption></figure>
 
 페이지에서 호출 서버 명령을 설정한 다음 페이지를 실행하고 페이지의 주문 세부 정보 테이블 테이블에서 데이터를 추가, 수정 및 삭제한 다음 주문 세부 정보 업데이트 버튼을 클릭하면 서비스 쪽에서 순환 명령의 데이터 테이블 작업 명령을 실행합니다.
 
@@ -20,4 +20,4 @@
 
 서버단 명령이 오류로 실행되는 경우 여기에 있는 정보를 기반으로 디버깅을 수정할 수 있습니다.
 
-<figure><img src="../../.gitbook/assets/image (380).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (391).png" alt=""><figcaption></figcaption></figure>

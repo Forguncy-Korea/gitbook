@@ -32,12 +32,12 @@ Google 드라이브에 파일 및 폴더를 만들거나 다운로드할 수 있
 
     <br>
 
-    <figure><img src="../../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
 
 
 3.  등록이 완료됩니다.<br>
 
-    <figure><img src="../../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -50,52 +50,52 @@ Forguncy는 Google 드라이브와 함께 작동하기 위해 Google Cloud Platf
 1. **Google 계정을 준비하고 Google Cloud Platform에 로그인합니다.**
 2.  **우측 상단에 있는 "콘솔"을 클릭합니다.**<br>
 
-    <figure><img src="../../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
 3.  **새 프로젝트를 만듭니다.**\
     (기존 프로젝트를 사용하는 경우이 단계를 건너 뜁니다.)
 
     메뉴에서 IAM 및 관리 > 프로젝트 만들기를 선택합니다.<br>
 
-    <figure><img src="../../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
 
-    <figure><img src="../../../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
 
 
 
 임의의 프로젝트 이름으로 프로젝트를 생성합니다.<br>
 
-<figure><img src="../../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;**3. Google Drive API를 사용 설정합니다.**\
 화면 상단의 검색창에 Google Drive API를 입력하고 \[Google Drive API]를 선택합니다.
 
-<figure><img src="../../../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
 
 사용을 클릭합니다.<br>
 
-<figure><img src="../../../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
 
 4. &#x20;**OAuth 동의 화면을 설정합니다.**
 
 > 사용하는 Google API가 기밀성이 높은 범위에 해당하는 경우 필요한 설정입니다. 자세한 내용은 OAuth 동의 화면 페이지를 확인하십시오.
 
-<figure><img src="../../../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
 
 \[시작하기]를 클릭합니다.
 
-<figure><img src="../../../.gitbook/assets/image (2598).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2609).png" alt=""><figcaption></figcaption></figure>
 
 아래 텍스트박스를 입력합니다.<br>
 
-<figure><img src="../../../.gitbook/assets/image (2599).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2610).png" alt=""><figcaption></figcaption></figure>
 
 #### \[외부]를 선택합니다.
 
-<figure><img src="../../../.gitbook/assets/image (2600).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2611).png" alt=""><figcaption></figcaption></figure>
 
 \[만들기]를 클릭합니다.
 
-<figure><img src="../../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
 
 애플리케이션 유형을 "웹 애플리케이션"을 선택하고 이름을 입력합니다.
 
@@ -114,7 +114,7 @@ Forguncy는 Google 드라이브와 함께 작동하기 위해 Google Cloud Platf
 
 
 
-<figure><img src="../../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
 
 \[저장] 버튼을 클릭합니다.<br>
 
@@ -125,23 +125,23 @@ https://www.googleapis.com/auth/drive,https://www.googleapis.com/auth/drive.read
 
 ```
 
-<figure><img src="../../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
 
 \[업데이트]버튼을 클릭합니다.&#x20;
 
 6.  메뉴에서 \[대상]을 선택 한 후, 테스트사용자를 추가합니다.   \
     <br>
 
-    <figure><img src="../../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
 
 
 7. 메뉴에서 \[클라이언트]를 선택한 후, 우측에서 다운로드 버튼을 클릭합니다.
 
-<figure><img src="../../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
 
 \[JSON 다운로드] 버튼을 클릭합니다.
 
-<figure><img src="../../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
 
 ## 클라우드 스토리지 인증 설정
 
@@ -149,11 +149,11 @@ https://www.googleapis.com/auth/drive,https://www.googleapis.com/auth/drive.read
    구성파일은  구글에서  다운로드받은\
    JSON 파일을 선택합니다.
 
-<figure><img src="../../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
 
 2.  액세스할 수 있는 항목을 선택합니다. 하단에       있는\
     \[계속] 버튼을 클릭합니다.&#x20;
 
-    <figure><img src="../../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
 
 설정이 완료됩니다.&#x20;

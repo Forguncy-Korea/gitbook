@@ -6,14 +6,14 @@
 
 기본 응용프로그램에서 기본 응용프로그램으로 설정을 선택한 후 설정 저장을 클릭하여 응용프로그램을 기본 응용프로그램으로 설정합니다.
 
-<figure><img src="../../.gitbook/assets/image (1748).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1759).png" alt=""><figcaption></figcaption></figure>
 
 설정이 완료되면 응용프로그램 이름이 굵게 표시되고 마지막으로 기본 응용프로그램 ID가 표시되고 실행되면 URL이 응용프로그램 이름 없이 http:// _서버 이름이_ 됩니다.
 
-![](<../../.gitbook/assets/image (1551).png>)
+![](<../../.gitbook/assets/image (1562).png>)
 
 **기본 응용프로그의 설정을 해제합니다**
 
 모든 앱 목록에서 기본 응용프로그램으로 설정을 선택 취소한 후 설정 저장을 클릭하여 기본 응용프로그램을 취소합니다. 응용프로그램 이름이 굵게 표시되지 않고 실행되면 URL이 http:// _서버 이름_/_앱 이름으로_ 돌아갑니다.
 
-![](<../../.gitbook/assets/image (2025).png>)
+![](<../../.gitbook/assets/image (2036).png>)

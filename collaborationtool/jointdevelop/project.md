@@ -12,7 +12,7 @@
 
 아래    Create a new repository 버튼을 클릭합니다.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (602).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (613).png" alt=""><figcaption></figcaption></figure>
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72363999/%E6%AD%A5%E9%AA%A42.png?version=1\&modificationDate=1648092709000\&api=v2) 새 저장소 만들기 페이지에서 저장소이름 입력하고 오픈 소스가 비공개인지 공개인지 여부를 선택하고 실제 비즈니스 상황에 따라 다른 설정을 설정합니다.
 
@@ -28,7 +28,7 @@
 
 텍스트 상자에 단계에서 가져온 저장소 주소를 입력합니다.
 
-<figure><img src="../../.gitbook/assets/image (2366).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2377).png" alt=""><figcaption></figcaption></figure>
 
 브랜치 이름 뒤에 있는 새로 고침 버튼 클릭하여 분기 이름을 새로 고치고 드롭다운 상자에서 업로드할 분기를 선택할 수 있습니다.
 
@@ -42,11 +42,11 @@
 
 업로드가 완료되면 github에 다음과 같이 표시됩니다.
 
-<figure><img src="../../.gitbook/assets/image (1402).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1413).png" alt=""><figcaption></figcaption></figure>
 
 디자이너에서 공동 작업 개발 그룹의 프로젝트 만들기 회색을 사용할 수 없으며 다른 상태는 사용할 수 있습니다.
 
-<figure><img src="../../.gitbook/assets/image (2367).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2378).png" alt=""><figcaption></figcaption></figure>
 
 ## 프로젝트 열기&#x20;
 
@@ -56,7 +56,7 @@
 
 텍스트 상자에 공동 작업 서버의 주소를 입력합니다
 
-<figure><img src="../../.gitbook/assets/image (2368).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2379).png" alt=""><figcaption></figcaption></figure>
 
 분기 이름 뒤에 있는 새로 고침 버튼을 클릭하여 분기 이름을 새로 고치고 드롭다운 상자에서 분기를 선택여 공동 작업 프로젝트를 열 수 있습니다.
 
@@ -70,4 +70,4 @@
 
 초기 사용자 이름은 컴퓨터에 로그인한 사용자 이름이며 이메일은 포건시를 활성화하는 이메일입니다.
 
-<figure><img src="../../.gitbook/assets/image (2529).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2540).png" alt=""><figcaption></figcaption></figure>

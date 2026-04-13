@@ -4,8 +4,8 @@
 
 1. 셀영역을 지정한 뒤, 리본 메뉴에서 \[홈>셀유형]에서 플러그인을 선택합니다.
 
-<figure><img src="../../../.gitbook/assets/image (1599).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1610).png" alt=""><figcaption></figcaption></figure>
 
 2\. 셀유형 플러그인이 지정한 영역에 설정된 것을 확인할 수 있습니다.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (1633).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1644).png" alt=""><figcaption></figcaption></figure>

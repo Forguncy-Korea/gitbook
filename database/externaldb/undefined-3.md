@@ -6,7 +6,7 @@
 
 리본의 메뉴 모음에서 \[데이터->데이터베이스 연결]를 선택하고 "데이터베이스 연결 관리" 대화 상자에서 "새로 만들기"를 클릭합니다.
 
-<figure><img src="../../.gitbook/assets/image (539).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (550).png" alt=""><figcaption></figcaption></figure>
 
 연결 정보를 추가한 후 "테이블을  외부을 DB로 이동"을클릭하면 기본 제공 테이블을 외부 테이블로 변환하는 대화 상자가 나타납니다. 연결된 모든 외부 데이터베이스와 모든 내장 데이터 테이블이 대화 상자에 나열됩니다.
 
@@ -14,4 +14,4 @@
 
 기본 제공 테이블을 외부 데이터베이스의 데이터 테이블로 변환한 후 작업 흐름, 권한, 데이터 바인딩, 데이터 연결 등을 포함한 모든 테이블 설정이 저장됩니다.
 
-<figure><img src="../../.gitbook/assets/image (2127).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2138).png" alt=""><figcaption></figcaption></figure>

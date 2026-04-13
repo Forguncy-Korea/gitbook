@@ -12,11 +12,11 @@ description: 인터넷이 연결된 환경에서 포건시 빌더를 활성화/�
 
 2\. **서버 관리자 화면 > 좌측의 "지원" > 라이선스 목록**을 선택합니다.<br>
 
-<figure><img src="../../.gitbook/assets/image (2505).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2516).png" alt=""><figcaption></figcaption></figure>
 
 3\. “서버 라이선스 추가” 버튼을 클릭하여 나타나는 팝업창에, **구입하신 Forguncy Server 라이선스 키를 입력합니다.**
 
-<figure><img src="../../.gitbook/assets/image (2352).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2363).png" alt=""><figcaption></figcaption></figure>
 
 **4. Forguncy Server 인증이 완료되면 입력한 라이선스키의 정보가 화면에 나타납니다.**
 
@@ -46,7 +46,7 @@ description: 인터넷이 연결된 환경에서 포건시 빌더를 활성화/�
 
 2\. **서버 관리자 화면 > 좌측의 "지원" > 라이선스 목록을 선택합니다.**
 
-<figure><img src="../../.gitbook/assets/image (2353).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2364).png" alt=""><figcaption></figcaption></figure>
 
 4\. 목록에서 해제하실 **라이선스키의 목록 중 “비활성화”를 클릭**합니다.
 

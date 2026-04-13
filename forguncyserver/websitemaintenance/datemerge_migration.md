@@ -6,13 +6,13 @@
 
 빌더의 리본 메뉴 모음에서 \[배포->서버배포]를 선택하고 서버 데이터베이스 덮어쓰기를 선택합니다.
 
-<figure><img src="../../.gitbook/assets/image (144).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (155).png" alt=""><figcaption></figcaption></figure>
 
 ## 데이터 병합 및 마이그레이션&#x20;
 
 서버 데이터베이스 덮어쓰기를 선택하면 다음 두 가지 옵션이 있습니다.
 
-<figure><img src="../../.gitbook/assets/image (1624).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1635).png" alt=""><figcaption></figcaption></figure>
 
 * 모두 덮어쓰기 : 빌더의 테이블 구조 및 데이터로 모든 서버 데이터베이스를 덮어쓴다.
 * 부분 덮어쓰기: 빌더의 테이블 구조를 서버의 데이터베이스 테이블로 엎어쓰기하지만, 서버의 데이터들은 그대로 유지한다.&#x20;
@@ -21,7 +21,7 @@
 
 부분 덮어쓰기를 선택하면 다음 그림과 같이 데이터 병합 설정이 필요합니다.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (1598).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1609).png" alt=""><figcaption></figcaption></figure>
 
 \[데이터 마이그레이션 정보 설정] 대화 상자의 맨 위에는 모든 항목과 여러 항목이라는 두 가지 옵션이 있습니다. 각 항목은 왼쪽과 오른쪽 두 영역으로 나뉩니다. 왼쪽에는 디자이너의 데이터베이스 패턴이 있고 오른쪽에는 서버 데이터베이스 패턴이 있습니다.
 
@@ -71,7 +71,7 @@
 
 게시 시 백업의 자동 설정 영역에서 "배포 시점에 웹 사이트 자동 백업"을 선택하고 자동 백업 경로를 설정합니다.
 
-<figure><img src="../../.gitbook/assets/image (1409).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1420).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 * 이 기능은 기본 제공 데이터베이스에만 사용됩니다. 기본 제공 데이터베이스와 아웃리치 데이터베이스를 모두 사용하는 하이브리드 데이터베이스를 사용하는 경우 기본 제공 데이터베이스 부분만 표시하여 매핑 정보를 설정합니다.

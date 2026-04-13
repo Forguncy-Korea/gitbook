@@ -4,7 +4,7 @@
 
 리본 메뉴 모음에서 보안-> 인증 모드를 선택하고 Forguncy 인증, Windows  인증 및 외부 서비스 인증을 선택합니다.
 
-![](<../../../.gitbook/assets/image (577).png>)
+![](<../../../.gitbook/assets/image (588).png>)
 
 ### Forguncy 인증&#x20;
 

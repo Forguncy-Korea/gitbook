@@ -8,13 +8,13 @@
 
 컴퓨터 또는 내 컴퓨터에서 마우스 오른쪽 버튼 클릭하고 관리를 선택합니다.
 
-<figure><img src="../../.gitbook/assets/image (1661).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1672).png" alt=""><figcaption></figcaption></figure>
 
 팝업 컴퓨터 관리자에서 서비스를 선택하고 서비스 목록에서 Forguncy Server Service를 찾아 상태가 시작됨 또는 실행 중인지, 시작 유형이 자동인지 확인합니다.
 
 그렇지 않은 경우 시작 유형을 자동으로 설정하고 서비스를 다시 시작합니다.<br>
 
-<figure><img src="../../.gitbook/assets/image (1626).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1637).png" alt=""><figcaption></figcaption></figure>
 
 
 

@@ -2,7 +2,7 @@
 
 루프 명령에서 루프가 지정된 리스트뷰로 반복되는 경우 루프 수는 브라우저에서 리스트뷰의 행 수 또는 선택한 행의 행 수입니다. 루프 중에 레코드 수가 변경되면 루프 수가 변경됩니다.
 
-![](<../../../.gitbook/assets/image (555).png>)
+![](<../../../.gitbook/assets/image (566).png>)
 
 ## 리스트뷰로 루프&#x20;
 
@@ -14,15 +14,15 @@
 
 &#x20;목록 페이지의 데이터 복사 버튼에서 명령을 반복 명령으로 설정하고, 리스트별 루프로 루프를 선택하고, 리스트뷰를 리스트 1로 선택하고, 리스트뷰 루프 모드를 다음 그림과 같이 모든 행을 반복합니다.&#x20;
 
-![](<../../../.gitbook/assets/image (2250).png>)
+![](<../../../.gitbook/assets/image (2261).png>)
 
 다음 그림과 같이 루프의 하위 명령을 리스트뷰 업데이트 명령만들기로 설정하고 다음 그림과 같이 추가 유형을 설정하려면 \[빈 명령]을 클릭합니다.
 
-![](<../../../.gitbook/assets/image (1284).png>)
+![](<../../../.gitbook/assets/image (1295).png>)
 
 실행 후 주문 목록의 표 1에 8개의 레코드가 있고 데이터 복사 단추를 클릭한 후 표 2에 8개의 레코드가 추가되고 테이블 1의 데이터가 테이블 2에 복사되어 테이블 작업 명령이 8번 실행됩니다. 테이블 1의 레코드 수입니다.
 
-![](<../../../.gitbook/assets/image (1076).png>)
+![](<../../../.gitbook/assets/image (1087).png>)
 
 #### 선택한 행 루프
 
@@ -30,11 +30,11 @@
 
 고객주문 테이블과 선택한 행을 추가할 테이블을 만듭니다.
 
-![](<../../../.gitbook/assets/image (2084).png>)
+![](<../../../.gitbook/assets/image (2095).png>)
 
 고객주문 테이블과 연결된 리스트뷰와 복사테이블과 연결된 리스트뷰를 생성합니다.
 
-<figure><img src="../../../.gitbook/assets/image (1705).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1716).png" alt=""><figcaption></figcaption></figure>
 
 \[데이터복사] 버튼을 생성한 후, 명령 편집을 아래와 같이 설정합니다.
 
@@ -42,7 +42,7 @@
 * 루프 범부 선택 : 리스트뷰에 따라 루프
 * 리스트뷰 루프모드 : 선택한 행 루프
 
-<figure><img src="../../../.gitbook/assets/image (1879).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1890).png" alt=""><figcaption></figcaption></figure>
 
 하위 명령을 아래와 같이 설정합니다.
 
@@ -52,8 +52,8 @@
 * 주문번호 : 리스트뷰1의 주문번호 열
 * 고객이름 : 리스트뷰1의 고객이름 열
 
-<figure><img src="../../../.gitbook/assets/image (891).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (902).png" alt=""><figcaption></figcaption></figure>
 
 실행하고, 리스트뷰1에서 행을 선택하고 \[데이터복사]버튼을 클릭하면 선택된 행이 리스트뷰2에 복사된 것을 확인할 수 있습니다.
 
-<figure><img src="../../../.gitbook/assets/image (433).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (444).png" alt=""><figcaption></figcaption></figure>

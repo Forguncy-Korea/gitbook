@@ -8,7 +8,7 @@
 
 모듈 대화 상자에는 문서의 모든 모듈과 모듈의 상태가 나열되어 있으며 수정된 모듈을 체크 아웃한 사용자를 확인할 수 있습니다.
 
-<figure><img src="../../../.gitbook/assets/image (2370).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2381).png" alt=""><figcaption></figcaption></figure>
 
 각 모듈에 대한 설명은 아래 표를 참조하십시오.
 
@@ -22,13 +22,13 @@
 
 사용자 Nancy 개체 관리자의 테이블 레이블을 마우스 오른쪽 버튼 클릭하고 테이블 만들기를 선택합니다.
 
-<figure><img src="../../../.gitbook/assets/image (1533).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1544).png" alt=""><figcaption></figcaption></figure>
 
 테이블 이름 설정 대화 상자를 팝업하고 테이블 이름을 입력한 다음 \[확인]을 클릭합니다.
 
 이렇게 하면 모든 내장 테이블을 체크 아웃하고 확인을 클릭하여 계속하라는 메시지가 표시됩니다.
 
-<figure><img src="../../../.gitbook/assets/image (2188).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2199).png" alt=""><figcaption></figcaption></figure>
 
 이렇게 하면 모든 내장 테이블이 체크 아웃되고 테이블 1이 만들어집니다.
 

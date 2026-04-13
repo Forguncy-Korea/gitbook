@@ -8,10 +8,10 @@
 
 명령을 비공개로 설정한 후에는 명령에 대한 사용 권한을 더 이상 설정할 필요가 없습니다.
 
-![](<../../.gitbook/assets/image (1680).png>)
+![](<../../.gitbook/assets/image (1691).png>)
 
 서버단 명령에서 "서버 명령 호출"으로 명령을 선택하고 서버단 명령 목록에서 비공개 서버단 명령을 선택할 수 있습니다.
 
-<figure><img src="../../.gitbook/assets/image (381).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (392).png" alt=""><figcaption></figcaption></figure>
 
 그러나 페이지 측에서 서버단 명령을 호출할 때 비공개 서버단 명령은 서버단 명령 목록에 나열되지 않으므로 비공개 서버 명령을 호출하기 위해 페이지 측에서 직접 요청을 보낼 수 없습니다.

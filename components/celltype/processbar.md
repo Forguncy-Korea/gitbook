@@ -2,7 +2,7 @@
 
 셀 유형을 "프로세스 바"로 설정합니다.
 
-<figure><img src="../../.gitbook/assets/image (2201).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2212).png" alt=""><figcaption></figcaption></figure>
 
 프로세스 바는 페이지 측 작업 워크플로우의 핵심 기능을 제공합니다. 워크플로우 상태(예: 승인 대기 중)에 대한 데이터테이블의 데이터에 따라 해당 상태에 대한 작업 버튼 및 담당자를 표시하고 작업 흐름 막대의 버튼을 통해 워크플로우를 진행합니다.
 
@@ -12,7 +12,7 @@
 
 프로세스 바의 예는 아래 그림에 나와 있습니다.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (401).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (412).png" alt=""><figcaption></figcaption></figure>
 
 프로세스 바를 선택하고 속성 설정 영역에서 셀 설정 탭을 선택합니다. 설정 지침은 아래 표에 나와 있습니다.우
 
@@ -41,7 +41,7 @@
 
 \[공통 스타일] 아래에서 \[설정]을 클릭하여 대화 상자에서 레이아웃, 글꼴, 색상, 테두리 등을 설정합니다.
 
-<figure><img src="../../.gitbook/assets/image (1367).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1378).png" alt=""><figcaption></figcaption></figure>
 
 #### 단일 스타일&#x20;
 
@@ -49,8 +49,8 @@
 
 ![](https://help.grapecity.com.cn/download/thumbnails/56526402/%E6%AD%A5%E9%AA%A41.png?version=1\&modificationDate=1611021540000\&api=v2) \[단일 스타일]에서 제출을 선택하고 \[추가]를 클릭합니다.
 
-<figure><img src="../../.gitbook/assets/image (1806).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1817).png" alt=""><figcaption></figcaption></figure>
 
 ![](https://help.grapecity.com.cn/download/thumbnails/56526402/%E6%AD%A5%E9%AA%A42.png?version=1\&modificationDate=1611021540000\&api=v2) 제출 버튼을 추가한 후 \[설정]을 클릭하여 스타일을 지정합니다.
 
-<figure><img src="../../.gitbook/assets/image (324).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (335).png" alt=""><figcaption></figcaption></figure>

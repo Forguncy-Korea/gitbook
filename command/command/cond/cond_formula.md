@@ -6,7 +6,7 @@
 
 조건을 선택하고 \[조건 삭제]를 클릭하여 조건을 삭제합니다. 조건을 위 또는 아래로 이동하려면 클릭합니다.![](https://help.grapecity.com.cn/download/thumbnails/72354253/image2018-12-18_14-21-41.png?version=1\&modificationDate=1648092558000\&api=v2)
 
-![](<../../../.gitbook/assets/image (924).png>)
+![](<../../../.gitbook/assets/image (935).png>)
 
 | 설정   | 설명                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 | ---- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -24,32 +24,32 @@
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72354253/%E6%AD%A5%E9%AA%A41.png?version=1\&modificationDate=1648092558000\&api=v2) 첫 페이지에서 \[로그인 사용자]로 선택한 셀 범위를 선택하고 \[주문 보기] 버튼 설정하여 \[조건문 만들기] 명령으로 명령을 설정합니다.
 
-![](<../../../.gitbook/assets/image (1850).png>)
+![](<../../../.gitbook/assets/image (1861).png>)
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72354253/%E6%AD%A5%E9%AA%A42.png?version=1\&modificationDate=1648092558000\&api=v2)  조건을 설정합니다. \[If \[조건식]을 클릭하고, \[새 조건]을 클릭하고 필드를 \[로그인 사용자]로 설정합니다. 역할, 작업은 같음, 값은 관리자입니다.
 
 설정이 완료되면 확인을 클릭합니다.
 
-![](<../../../.gitbook/assets/image (1613).png>)
+![](<../../../.gitbook/assets/image (1624).png>)
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72354253/%E6%AD%A5%E9%AA%A43.png?version=1\&modificationDate=1648092558000\&api=v2) 명령을 설정합니다. \[If \[조건식]에서 \[명령없음]을 클릭하고 오른쪽의 \[선택 명령] 콤보 상자에서 \[명령] 페이지 이동을 선택하고 페이지에서 \[주문 목록]을 선택합니다.
 
 설정이 완료되면 확인을 클릭합니다.
 
-![](<../../../.gitbook/assets/image (2295).png>)
+![](<../../../.gitbook/assets/image (2306).png>)
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72354253/%E6%AD%A5%E9%AA%A44.png?version=1\&modificationDate=1648092558000\&api=v2)  \[Else 추가]를 선택합니다.
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72354253/%E6%AD%A5%E9%AA%A45.png?version=1\&modificationDate=1648092558000\&api=v2) \[Else] 아래의 \[빈 명령]을 클릭하고 오른쪽의 \[선택 명령] 콤보 상자에서 \[메시지 보여주]를 선택합니다. 설정이 완료되면 \[확인]을 클릭하여 명령 선택 창을 닫고 명령 창을 닫습니다.
 
-![](<../../../.gitbook/assets/image (1404).png>)
+![](<../../../.gitbook/assets/image (1415).png>)
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72354253/%E6%AD%A5%E9%AA%A46.png?version=1\&modificationDate=1648092558000\&api=v2) 페이지를 실행한 후 사용자에게 로그인해야 합니다.
 
 관리자 계정으로 로그인합니다. 로그인한 후 주문 보기를 클릭하여 주문 목록 페이지로 이동합니다.&#x20;
 
-![](<../../../.gitbook/assets/image (762).png>)
+![](<../../../.gitbook/assets/image (773).png>)
 
 권한이 없는 계정으로 로그인하면  다음 그림과 같이 주문 보기를 클릭하고 메시지 상자를 표시합니다.
 
-![](<../../../.gitbook/assets/image (2038).png>)
+![](<../../../.gitbook/assets/image (2049).png>)

@@ -10,17 +10,17 @@
 
 응용프로그 이름 뒤에 표시되어 앱이 Https 앱임을 나타냅니다.![](https://help.grapecity.com.cn/download/thumbnails/72363173/image2021-1-19_11-7-22.png?version=1\&modificationDate=1648092697000\&api=v2)
 
-![](<../../.gitbook/assets/image (1550).png>)
+![](<../../.gitbook/assets/image (1561).png>)
 
 응용 프로그램 상태에는 시작 및 중지가 있습니다.&#x20;
 
 * 응용 프로그램 시작 상태인 경우 찾아보기에서 응용프로그램으 이동을 클릭할 수 있습니다.![](https://help.grapecity.com.cn/download/thumbnails/72363173/image2020-2-28_11-21-37.png?version=1\&modificationDate=1648092697000\&api=v2)
 
-![](<../../.gitbook/assets/image (1823).png>)
+![](<../../.gitbook/assets/image (1834).png>)
 
 * 응용 프로그램 중지된 경우 찾아보기 아래에 회색이 표시되고 응용 프로그램에 들어갈 수 없습니다. 시작/중지 아래에서 응용프로그 실행을 클릭할 수 있으며 응용프로그램이 실행되기 시작하면 찾아보기를 클릭하여 응용프로그램으로 이동할 수 있습니다.![](https://help.grapecity.com.cn/download/thumbnails/72363173/image2020-2-28_11-21-37.png?version=1\&modificationDate=1648092697000\&api=v2)![](https://help.grapecity.com.cn/download/thumbnails/72363173/image2020-2-28_11-23-34.png?version=1\&modificationDate=1648092697000\&api=v2)![](https://help.grapecity.com.cn/download/thumbnails/72363173/image2020-2-28_11-21-37.png?version=1\&modificationDate=1648092697000\&api=v2)
 
-![](<../../.gitbook/assets/image (878).png>)
+![](<../../.gitbook/assets/image (889).png>)
 
 ## 응용프로그램 삭제&#x20;
 
@@ -30,4 +30,4 @@
 
 응용프로그램 삭제 영역에서 삭제를 클릭하여 응용프로그램을 삭제합니다. 이 작업은 되돌릴 수 없으므로 주의해서 수행하십시오.
 
-<figure><img src="../../.gitbook/assets/image (1342).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1353).png" alt=""><figcaption></figcaption></figure>

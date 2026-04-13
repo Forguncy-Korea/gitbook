@@ -8,16 +8,16 @@
 
 예를 들어 감추기 버튼를 설정하는 명령은 대상 영역이 7\~14줄이고 값이 보이지 않는 행으로 행 및 열 레이아웃 설정 명령입니다.
 
-![](<../../.gitbook/assets/image (1616).png>)
+![](<../../.gitbook/assets/image (1627).png>)
 
 보이기 버튼을 설정하는 명령은 대상 영역이 7\~14줄이고 값이 표시됨인 행 및 열 레이아웃 설정 명령입니다.
 
-![](<../../.gitbook/assets/image (2229).png>)
+![](<../../.gitbook/assets/image (2240).png>)
 
 실행 후 감추기 버튼을 클릭하면 노란색 영역인 7\~14줄이 숨겨집니다.
 
-![](<../../.gitbook/assets/image (885).png>)
+![](<../../.gitbook/assets/image (896).png>)
 
 실행 후 보이기 버튼을 클릭하면 노란색 영역인 7\~14줄이 표시됩니다.
 
-![](<../../.gitbook/assets/image (839).png>)
+![](<../../.gitbook/assets/image (850).png>)

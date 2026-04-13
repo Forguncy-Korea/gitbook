@@ -4,4 +4,4 @@
 
 피벗 테이블에 대한 자세한 내용은 [피벗 테이블](../pivottable/)을 참조하십시오.
 
-<figure><img src="../../.gitbook/assets/image (1277).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1288).png" alt=""><figcaption></figcaption></figure>

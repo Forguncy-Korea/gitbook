@@ -19,4 +19,4 @@
 * 서버에서 최신 버전 가져오기: 모든 사용자가 제출한 수정 사항을 포함하여 최신 버전의 엔지니어링 파일을 가져옵니다.
 * 서버를 원격 동기화하여 사용하기: 최신 버전을 가져오고 로컬로 커밋되지 않은 모든 변경 내용이 취소됩니다.
 
-<figure><img src="../../../.gitbook/assets/image (2373).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2384).png" alt=""><figcaption></figcaption></figure>

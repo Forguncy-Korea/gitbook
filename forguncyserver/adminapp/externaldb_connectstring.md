@@ -10,6 +10,6 @@
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72363240/%E6%AD%A5%E9%AA%A42.png?version=1\&modificationDate=1648092698000\&api=v2) 그런 다음 고급 설정을 클릭하면 데이터베이스 연결 문자열 영역에서 앱에 연결된 모든 유형의 데이터베이스를 볼 수 있습니다. 데이터베이스 연결 문자열을 구성할 수 있습니다.
 
-![](<../../.gitbook/assets/image (375).png>)
+![](<../../.gitbook/assets/image (386).png>)
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72363240/%E6%AD%A5%E9%AA%A43.png?version=1\&modificationDate=1648092698000\&api=v2) 구성이 완료되면 설정 저장을 클릭하고 프롬프트에 따라 앱 서비스를 다시 시작하면 적용됩니다.

@@ -22,28 +22,28 @@
 
 <br>
 
-<figure><img src="../../../../.gitbook/assets/image (882).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (893).png" alt=""><figcaption></figcaption></figure>
 
 로그아웃하고 페이지를 실행합니다.&#x20;
 
 버튼이 비활성화 된것을 확인할 수 있습니다.&#x20;
 
-<figure><img src="../../../../.gitbook/assets/image (325).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (336).png" alt=""><figcaption></figcaption></figure>
 
 
 
 셀 권한을 설정한 후 리본 메뉴 모음에서 \[배포->서버배포]를 선택하고 배포 설정 대화 상자에서 다음 \[로컬의 페이지 접근 권한과 UI 사용 권한 설정을 서버에 덮어쓰기]를 선택합니다.
 
-![](<../../../../.gitbook/assets/image (1555).png>)
+![](<../../../../.gitbook/assets/image (1566).png>)
 
 관리 콘솔로 이동합니다. 허가를 선택하고 포건시애플리케이션 목록에서 애플리케이션 이름을 클릭한 다음 리소스 권한을 선택합니다.
 
 모드로 "모듈별 권한 설정"을 선택하면 셀 권한이 설정된 모든 셀과 그들이 속한 페이지를 볼 수 있으며 여기에서 셀 권한 설정을 직접 변경할 수 있습니다. 변경이 완료된 후 "설정 저장"을 클릭하면 디자이너에서 수정할 필요가 없습니다.
 
-<figure><img src="../../../../.gitbook/assets/image (990).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1001).png" alt=""><figcaption></figcaption></figure>
 
 ### 편집 가능 권한&#x20;
 
 예를 들어 텍스트 상자의 편집 가능 권한을 로그인한 사용자가 편집할 수 있도록 설정합니다.
 
-<figure><img src="../../../../.gitbook/assets/image (1961).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1972).png" alt=""><figcaption></figcaption></figure>

@@ -2,7 +2,7 @@
 
 정렬 명령을 사용하여 오름차순, 내림차순 또는 토글을 포함하여 테이블의 데이터를 필드 중 하나로 정렬합니다.
 
-![](<../../.gitbook/assets/image (1318).png>)
+![](<../../.gitbook/assets/image (1329).png>)
 
 ## 정렬 기준&#x20;
 
@@ -10,7 +10,7 @@
 
 정렬 조건을 선택하고 \[조건 삭제]를 클릭하여 삭제합니다. 정렬 기준을 위 또는 아래로 이동하려면 클릭합니다.![](https://help.grapecity.com.cn/download/thumbnails/72354125/image2018-12-18_14-21-41.png?version=1\&modificationDate=1648092555000\&api=v2)
 
-![](<../../.gitbook/assets/image (1583).png>)
+![](<../../.gitbook/assets/image (1594).png>)
 
 ## 정렬 기준 설정&#x20;
 

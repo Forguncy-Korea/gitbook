@@ -16,13 +16,13 @@ description: 인터넷이 연결되지 않은 환경에서 포건시 빌더를 �
 
 **1 . Forguncy를 실행하면, 아래와 같이 제품 라이선스 등록 안내 창이 나타납니다.**
 
-<figure><img src="../../.gitbook/assets/image (2554).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2565).png" alt=""><figcaption></figcaption></figure>
 
 **2. 정품인증 안내창에서 “**<mark style="background-color:yellow;">**라이선스 정품인증 도구 실행하기**</mark>**”를 클릭합니다.**&#x20;
 
 아래와 같은 인증키 입력 창이 나타나면, 메시어스로 부터 구입하신 라이선스 키를 입력해주세요.
 
-<figure><img src="../../.gitbook/assets/image (2555).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2566).png" alt=""><figcaption></figcaption></figure>
 
 3 . **컴퓨터가 인터넷에 연결되지 않았다면 아래와 같이 “오프라인 활성화” 버튼이 나타나며,** 해당 버튼을 클릭하여 다음 단계로 진행합니다.
 
@@ -63,7 +63,7 @@ description: 인터넷이 연결되지 않은 환경에서 포건시 빌더를 �
 
 **2.** **“파일” 탭의 “정보 > 라이선스 등록 취소”**&#xB97C; 클릭합니다.<br>
 
-<figure><img src="../../.gitbook/assets/image (2501).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2512).png" alt=""><figcaption></figcaption></figure>
 
 **4. “비활성화 확인” 창에서 “비활성화” 버튼을 클릭합니다.**
 

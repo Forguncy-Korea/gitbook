@@ -10,13 +10,13 @@
 
 팝업 기록 대화 상자에서 쿼리의 키워드를 직접 입력하여 작업 기록 쿼리를 수행할 수 있습니다. 기록 ID, 사용자 이름, 주석, 체크 인 시간 및 모듈 이름을 입력합니다.
 
-<figure><img src="../../../.gitbook/assets/image (2372).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2383).png" alt=""><figcaption></figcaption></figure>
 
 개별 페이지, 데이터베이스 또는 기타 모듈의 커밋 기록을 직접 볼 수도 있습니다.
 
 * 페이지를 선택하고 마우스 오른쪽 버튼을 클릭한 다음 마우스 오른쪽 버튼 클릭 메뉴에서 기록 보기를 선택합니다.
 
-<figure><img src="../../../.gitbook/assets/image (1239).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1250).png" alt=""><figcaption></figcaption></figure>
 
 * 데이터 테이블을 선택하고 마우스 오른쪽 버튼 클릭한 다음 오른쪽 클릭 메뉴에서 기록 보기를 선택합니다.
 * 전 모듈을 클릭하고 모듈 대화 상자에서 모듈을 선택하고 마우스 오른쪽 버튼을 클릭한 다음 기록 보기를 팝업한 다음 기록 보기를 클릭합니다.
@@ -29,10 +29,10 @@
 * 이 버전을  다른 이름으로 저장하: 이 지정된 버전의 엔지니어링 파일을 일반 활자 그리드 엔지니어링 파일로 저장할 수 있습니다.
 * 버전 ID 복사하기 : ID를 복사하여 기록하고 쿼리하는 데 사용할 수 있습니다.
 
-<figure><img src="../../../.gitbook/assets/image (719).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (730).png" alt=""><figcaption></figcaption></figure>
 
 
 
 프로젝트 모듈을 클릭하고 모듈 대화 상자에서 모듈을 선택한 후 마우스 오른쪽 버튼을 클릭하면 "모듈보기"가 팝업되고 "변경 내용 표  " 를 클릭합니다.
 
-<figure><img src="../../../.gitbook/assets/image (2536).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2547).png" alt=""><figcaption></figcaption></figure>

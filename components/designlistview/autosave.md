@@ -12,17 +12,17 @@
 
 테이블을 새로 고치거나 페이지를 다시 로드하거나 브라우저를 전환하면 리스트뷰 상태가 유지됩니다.
 
-<figure><img src="../../.gitbook/assets/image (2451).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2462).png" alt=""><figcaption></figcaption></figure>
 
 이 옵션을 켜면 상태 정보 데이터를 저장하기 위한 상태 정보 테이블이 추가됩니다.
 
 다음 대화 상자가 나타납니다.
 
-<figure><img src="../../.gitbook/assets/image (2452).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2463).png" alt=""><figcaption></figcaption></figure>
 
 "확인"을 클릭하면 "FGC\_상태정보" 테이블이 추가됩니다.
 
-<figure><img src="../../.gitbook/assets/image (2453).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2464).png" alt=""><figcaption></figcaption></figure>
 
 
 

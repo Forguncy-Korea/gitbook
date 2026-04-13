@@ -6,7 +6,7 @@
 
 페이지에서 영역을 선택하고 해당 셀 유형을 탭 셀로 설정하십시오.이 영역은 하위 페이지를 표시하는 데 사용됩니다.서브 페이지의 크기에 따라 영역의 크기를 조정하십시오.
 
-<figure><img src="../../.gitbook/assets/image (666).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (677).png" alt=""><figcaption></figcaption></figure>
 
 ## 설정&#x20;
 

@@ -45,14 +45,14 @@ Forguncy.addUserToRole(
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72364590/%E6%AD%A5%E9%AA%A41.png?version=1\&modificationDate=1648092717000\&api=v2) 페이지에서 범위를 선택하고 셀 유형을 로그인한 사용자로 설정하고 사용자 정보 보기를 테이블에 바인딩합니다.
 
-<figure><img src="../../../../.gitbook/assets/image (2076).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (2087).png" alt=""><figcaption></figcaption></figure>
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72364590/%E6%AD%A5%E9%AA%A42.png?version=1\&modificationDate=1648092717000\&api=v2) 셀 범위를 선택하고 셀 유형을 버튼으로 설정하고 명령을 \[JavaScript 명령]으로 편집하고 JavaScript 코드를 입력합니다.
 
-<figure><img src="../../../../.gitbook/assets/image (1031).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1042).png" alt=""><figcaption></figcaption></figure>
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72364590/%E6%AD%A5%E9%AA%A43.png?version=1\&modificationDate=1648092717000\&api=v2) 편집이 완료되면 \[확인]을 클릭하여 대화 상자를 닫습니다.
 
 페이지를 실행하고 관리자를 사용하여 로그인한 후 페이지에서 그룹에 추가 버튼 클릭하면 성공적으로 추가했다는 알림창이 나타납니다.
 
-<figure><img src="../../../../.gitbook/assets/image (1158).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1169).png" alt=""><figcaption></figcaption></figure>

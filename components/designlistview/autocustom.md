@@ -6,7 +6,7 @@
 
 적응형 행 높이를 설정하기 전에 줄 바꿈을 켜야 합니다.
 
-![](<../../.gitbook/assets/image (1389).png>)
+![](<../../.gitbook/assets/image (1400).png>)
 
 ### 행 높이 자동 맞춤&#x20;
 
@@ -14,7 +14,7 @@
 
 예를 들어 리스트 자동 줄 바꿈을 켜고 적응형 행 높이를 설정하지 않은 경우 리스트뷰의 장소 열이 자동 조정하지 않습니다.
 
-![](<../../.gitbook/assets/image (481).png>)
+![](<../../.gitbook/assets/image (492).png>)
 
 ### 열 너비 자동 맞춤&#x20;
 
@@ -24,4 +24,4 @@
 
 &#x20;열 너비 자동 맞춤 선택하면 리스트뷰의 주문날짜  열 너비가 넓어집니다.
 
-<figure><img src="../../.gitbook/assets/image (2303).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2314).png" alt=""><figcaption></figcaption></figure>

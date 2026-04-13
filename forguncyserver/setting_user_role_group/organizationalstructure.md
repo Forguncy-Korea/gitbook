@@ -8,25 +8,25 @@
 
 조직 구조가 설정되거나 수정되면 즉시 적용됩니다.
 
-<figure><img src="../../.gitbook/assets/image (593).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (604).png" alt=""><figcaption></figcaption></figure>
 
 ### 조직 노드 추가&#x20;
 
 조직 노드가 있는 행에서![](https://help.grapecity.com.cn/download/thumbnails/80944269/image2023-2-24_11-7-20.png?version=1\&modificationDate=1677208041000\&api=v2)조직 노드는 다음 레벨에 추가할 수 있습니다. 상위 노드에 하위 노드를 추가하거나 이러한 노드를 끌어다 놓아 원하는 조직 구조를 만들 수 있습니다.
 
-<figure><img src="../../.gitbook/assets/image (1476).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1487).png" alt=""><figcaption></figcaption></figure>
 
 ### 조직 노드 이름 바꾸기&#x20;
 
 조직 노드가 있는 행에서![](https://help.grapecity.com.cn/download/thumbnails/80944269/image2023-2-24_11-8-7.png?version=1\&modificationDate=1677208087000\&api=v2)조직 노드의 이름을 바꿀 수 있습니다.
 
-<figure><img src="../../.gitbook/assets/image (1110).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1121).png" alt=""><figcaption></figcaption></figure>
 
 ### 조직 노드 삭제&#x20;
 
 조직 노드가 있는 행에서![](https://help.grapecity.com.cn/download/thumbnails/80944269/image2023-2-24_11-10-6.png?version=1\&modificationDate=1677208206000\&api=v2)조직 노드를 삭제할 수 있습니다.
 
-<figure><img src="../../.gitbook/assets/image (1475).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1486).png" alt=""><figcaption></figcaption></figure>
 
 ## 조직 수준&#x20;
 
@@ -38,19 +38,19 @@
 
 관리 콘솔의 "내장 사용자-사용자 관리" 영역에서 "조직 수준"을 선택하고 "조직 수준 추가"를 클릭하고 팝업 대화 상자에 조직 수준의 이름을 입력하여 추가합니다. 새로운 조직 수준.
 
-<figure><img src="../../.gitbook/assets/image (1473).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1484).png" alt=""><figcaption></figcaption></figure>
 
 #### 조직 수준 수정 <a href="#id-chuang-jian-zu-zhi-jie-gou-bian-ji-zu-zhi-ji-bie" id="id-chuang-jian-zu-zhi-jie-gou-bian-ji-zu-zhi-ji-bie"></a>
 
 조직 수준 행에서![](https://help.grapecity.com.cn/download/thumbnails/80944269/image2023-2-24_11-14-57.png?version=1\&modificationDate=1677208497000\&api=v2)조직 수준을 편집할 수 있습니다.
 
-<figure><img src="../../.gitbook/assets/image (1882).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1893).png" alt=""><figcaption></figcaption></figure>
 
 #### 조직 수준 삭제 <a href="#id-chuang-jian-zu-zhi-jie-gou-shan-chu-zu-zhi-ji-bie" id="id-chuang-jian-zu-zhi-jie-gou-shan-chu-zu-zhi-ji-bie"></a>
 
 조직 수준 행에서![](https://help.grapecity.com.cn/download/thumbnails/80944269/image2023-2-24_11-16-35.png?version=1\&modificationDate=1677208595000\&api=v2)조직 수준이 삭제됩니다.
 
-<figure><img src="../../.gitbook/assets/image (912).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (923).png" alt=""><figcaption></figcaption></figure>
 
 #### 조직 수준 설정 <a href="#id-chuang-jian-zu-zhi-jie-gou-she-zhi-zu-zhi-ji-bie" id="id-chuang-jian-zu-zhi-jie-gou-she-zhi-zu-zhi-ji-bie"></a>
 
@@ -58,7 +58,7 @@
 
 조직 노드를 선택하고 오른쪽의 "조직 편집"을 클릭한 후 팝업 대화 상자에서 조직 수준을 설정합니다.
 
-<figure><img src="../../.gitbook/assets/image (1608).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1619).png" alt=""><figcaption></figcaption></figure>
 
 ## 조직 구성원&#x20;
 
@@ -72,17 +72,17 @@
 
 ![](https://help.grapecity.com.cn/download/thumbnails/80944269/%E6%AD%A5%E9%AA%A41.png?version=1\&modificationDate=1673923140000\&api=v2)  조직 노드를 선택하고 오른쪽에서 사용자 추가를 클릭합니다.
 
-<figure><img src="../../.gitbook/assets/image (1403).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1414).png" alt=""><figcaption></figcaption></figure>
 
 ![](https://help.grapecity.com.cn/download/thumbnails/80944269/%E6%AD%A5%E9%AA%A42.png?version=1\&modificationDate=1673923140000\&api=v2)  팝업된 "멤버추가" 대화상자에서 사용자 인증 모드를 선택하고 검색창에 검색어를 입력한 후 클릭![](https://help.grapecity.com.cn/download/thumbnails/80944269/image2023-2-24_11-25-6.png?version=1\&modificationDate=1677209106000\&api=v2)또는 Enter 키를 눌러 검색하거나 사용자를 직접 선택할 수 있습니다.
 
 사용자를 성공적으로 추가하려면 확인을 클릭하십시오. 여러 번 검색하고 마지막 사용자의 확인란을 선택한 다음 마지막으로 "확인"을 클릭하면 선택한 모든 사용자를 한 번에 추가할 수 있으므로 사용자를 추가하는 데 편리합니다.
 
-<figure><img src="../../.gitbook/assets/image (1977).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1988).png" alt=""><figcaption></figcaption></figure>
 
 ![](https://help.grapecity.com.cn/download/thumbnails/80944269/%E6%AD%A5%E9%AA%A43.png?version=1\&modificationDate=1673923139000\&api=v2)   추가하면 해당 조직 노드 아래에 사용자가 표시됩니다.
 
-<figure><img src="../../.gitbook/assets/image (588).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (599).png" alt=""><figcaption></figcaption></figure>
 
 #### 감독자로 설정 <a href="#id-chuang-jian-zu-zhi-jie-gou-she-zhi-wei-zhu-guan" id="id-chuang-jian-zu-zhi-jie-gou-she-zhi-wei-zhu-guan"></a>
 
@@ -90,6 +90,6 @@
 
 조직 구성원 행에서 "리더" 작업 열 아래의 확인란을 선택하여 사용자가 조직 노드의 감독자임을 나타냅니다.
 
-<figure><img src="../../.gitbook/assets/image (1617).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1628).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (741).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (752).png" alt=""><figcaption></figcaption></figure>

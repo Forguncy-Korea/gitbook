@@ -12,7 +12,7 @@
 
 리본 메뉴 모음에서 \[공동작업-> 작업 중 내역보기]를 선택하여 변경 대화 상자를 표시합니다.
 
-<figure><img src="../../../.gitbook/assets/image (2371).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2382).png" alt=""><figcaption></figcaption></figure>
 
 **이 모듈을 포함하기**&#x20;
 
@@ -26,7 +26,7 @@
 
 체크 인 주석을 입력한 후 체크 인 단추를 클릭하여 체크 인하거나 Ctrl+Enter 키를 눌러 커밋하면 체크 인 시 포함된 변경 내용만 체크 인되고 체크 인 시 무시된 변경 내용은 체크인되지 않습니다.
 
-<figure><img src="../../../.gitbook/assets/image (1653).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1664).png" alt=""><figcaption></figcaption></figure>
 
 ## 취소&#x20;
 
@@ -38,7 +38,7 @@
 
 변경 모듈을 선택한 후 Ctrl 키를 누른 채 다른 변경 내용을 계속 선택한 다음 마우스 오른쪽 버튼을 클릭하고 마우스 오른쪽 버튼 클릭 메뉴에서 실행 취소를 선택하여 한 번에 여러 변경 내용을 취소할 수도 있습니다.
 
-<figure><img src="../../../.gitbook/assets/image (2178).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2189).png" alt=""><figcaption></figcaption></figure>
 
 실행 취소되면 모듈이 해제되고 다른 사용자가 모듈을 체크 아웃하고 편집할 수 있습니다.
 
@@ -48,9 +48,9 @@
 
 "체크인 시 포함" 또는 "체크인 시 무시"에서 모듈을 선택하고 마우스 오른쪽 버튼을 클릭한 후 마우스 오른쪽 버튼 클릭 메뉴에서 "차이"를 선택합니다.
 
-<figure><img src="../../../.gitbook/assets/image (2535).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2546).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (2531).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2542).png" alt=""><figcaption></figcaption></figure>
 
 변경 내역 대화 상자에는 이번에 변경된 모든 모듈 파일이 나열됩니다. 목록에서 모듈 파일을 클릭하면 각 모듈의 변경 내용을 전환하고 볼 수 있습니다.
 

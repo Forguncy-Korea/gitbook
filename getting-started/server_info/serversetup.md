@@ -29,13 +29,13 @@
 
 &#x20; (1) “사용자 라이선스 동의서를 확인하였으며 이에 동의함”에 동의하셔야 설치가 진행됩니다.<br>
 
-<figure><img src="../../.gitbook/assets/image (2503).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2514).png" alt=""><figcaption></figcaption></figure>
 
 &#x20; (2) 대상폴더는 기본으로 두셔도 되고, 사용자가 필요한 위치로 옮기셔도 됩니다.
 
 &#x20; (3) EULA(사용자 라이선스 동의서)에 동의하시면 “설치” 버튼이 활성화됩니다. 클릭하셔서 설치를 진행해 주세요.<br>
 
-<figure><img src="../../.gitbook/assets/image (2504).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2515).png" alt=""><figcaption></figcaption></figure>
 
 **3. 설치가 완료되면 Forguncy Server를 실행해 주세요.**
 

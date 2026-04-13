@@ -14,4 +14,4 @@
 2. Forguncy Builder에서 설치하고 Forguncy Builder를 다시 실행합니다.
 3. 서버 명령에서 "대기 명령"을 선택하고 대기 시간만 설정합니다.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (1948).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1959).png" alt=""><figcaption></figcaption></figure>

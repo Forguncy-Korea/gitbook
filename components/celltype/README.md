@@ -10,7 +10,7 @@
 
 셀 범위를 선택하거나 셀 유형에서 선택하거나 드롭다운하여 원하는 셀 유형을 선택합니다.
 
-![](<../../.gitbook/assets/image (2123).png>)
+![](<../../.gitbook/assets/image (2134).png>)
 
 ### 셀 유형을 사용자 정의하고 빠르게 추가하세요. <a href="#zi-ding-yi-kuai-su-tian-jia-dan-yuan-ge-lei-xing" id="zi-ding-yi-kuai-su-tian-jia-dan-yuan-ge-lei-xing"></a>
 
@@ -19,6 +19,6 @@
 
 ![영상](https://gccndocumentsitestorage.blob.core.chinacloudapi.cn/document-site-files/images/03fe0519-46b1-4a5e-a4a7-f63ca4bfa6df/image.84b9f6.png)클릭 하여 셀 유형의 표시 순서를 조정할 수도 있습니다 .
 
-<figure><img src="../../.gitbook/assets/image (2443).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2454).png" alt=""><figcaption></figcaption></figure>
 
 조정이 완료된 후 "확인"을 클릭하면 조정된 순서대로 빠른 추가 셀 유형 영역이 표시됩니다.

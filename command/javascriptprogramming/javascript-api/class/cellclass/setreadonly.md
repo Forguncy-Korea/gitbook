@@ -33,13 +33,13 @@ cell.setReadOnly(true);
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72365221/%E6%AD%A5%E9%AA%A41.png?version=1\&modificationDate=1648092726000\&api=v2) 디자이너의 페이지에서 텍스트 상자로 설정된 셀을 선택하고 이름을 "myCell"로 지정합니다.
 
-#### ![](<../../../../../.gitbook/assets/image (2269).png>) <a href="#setreadonly-fang-fa-shi-li" id="setreadonly-fang-fa-shi-li"></a>
+#### ![](<../../../../../.gitbook/assets/image (2280).png>) <a href="#setreadonly-fang-fa-shi-li" id="setreadonly-fang-fa-shi-li"></a>
 
 
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72365221/%E6%AD%A5%E9%AA%A42.png?version=1\&modificationDate=1648092726000\&api=v2) 셀 범위를 선택하고 셀 유형을 버튼으 설정하고 명령을 \[JavaScript 명령]으로 편집하고 JavaScript 코드를 입력합니다.
 
-<figure><img src="../../../../../.gitbook/assets/image (903).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (914).png" alt=""><figcaption></figcaption></figure>
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72365221/%E6%AD%A5%E9%AA%A43.png?version=1\&modificationDate=1648092726000\&api=v2) 편집이 완료되면 \[확인]을 클릭하여 대화 상자를 닫습니다.
 

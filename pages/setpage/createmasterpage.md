@@ -18,7 +18,7 @@
 
     템플릿 1과 템플릿 2는 테마에 따라 다릅니다. 템플릿을 선택한 후 확인을 클릭하여 일반 마스터 페이지를 만듭니다.<br>
 
-    <figure><img src="../../.gitbook/assets/image (103).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (114).png" alt=""><figcaption></figcaption></figure>
 
 ## 모바일 마스터 페이지 만들기
 
@@ -32,7 +32,7 @@
 
     템플릿 1은 테마에 따라 다릅니다. 템플릿을 선택한 후 확인을 클릭하여 모바일 마스터 페이지를 만듭니다.<br>
 
-    <figure><img src="../../.gitbook/assets/image (104).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (115).png" alt=""><figcaption></figcaption></figure>
 
 ## **페이지 자리 위치 크기를 조정** <a href="#id-chuang-jian-mu-ban-ye-4.-tiao-zheng-ye-mian-zhan-wei-qu-da-xiao" id="id-chuang-jian-mu-ban-ye-4.-tiao-zheng-ye-mian-zhan-wei-qu-da-xiao"></a>
 

@@ -10,18 +10,18 @@
 
 1. 모바일 페이지를 추가합니다.
 
-![](<../../../.gitbook/assets/image (299).png>)
+![](<../../../.gitbook/assets/image (310).png>)
 
 2. 버튼 명령을 아래와 같이 설정합니다.
 
 * 명령 선택: 스마트폰 QR코드 스캔 명령&#x20;
 * 대상 셀 : 포건시 페이지 선택
 
-<figure><img src="../../../.gitbook/assets/image (298).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (309).png" alt=""><figcaption></figcaption></figure>
 
 3. 아래 QR 코드를 이용하여   포건시 앱을 다운로드 합니다.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (295).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (306).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -33,12 +33,12 @@
 배포한 URL을 적어주셔야 합니다.
 {% endhint %}
 
-![](<../../../.gitbook/assets/image (297).png>)
+![](<../../../.gitbook/assets/image (308).png>)
 
 5. 버튼을 클릭하여 바코드를 스캔합니다.
 
-![](<../../../.gitbook/assets/image (302).png>)
+![](<../../../.gitbook/assets/image (313).png>)
 
 6. 스캔을 하면 스캔결과가 아래와 같이 나옵니다.
 
-![](<../../../.gitbook/assets/image (301).png>)
+![](<../../../.gitbook/assets/image (312).png>)

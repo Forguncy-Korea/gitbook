@@ -9,7 +9,7 @@
 1. 프로젝트 탐색기에서 서버단 명령 탭을 마우스 오른쪽 버튼을 클릭하고 서버단 명령 만들기를 선택하고 서버단 명령 편집 대화 상자를 표시하고 서버 명령의 일반 설정을 편집합니다. 서버 쪽 명령의 이름을 "SQL 실행 명령" 으로 설정합니다.
 2.  파라미터가 있을 경우 파라미터 탭을 클릭하여 파라미터를 추가합니다.<br>
 
-    <figure><img src="../../../.gitbook/assets/image (2615).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (2626).png" alt=""><figcaption></figcaption></figure>
 3. 서버단 명령을 편집하는 명령입니다. \[명령 편집] 하이퍼링크를 클릭하고 서버 명령 편집 대화 상자를 표시하고 명령을 \[SQL 실행 명령]으로 선택합니다.
 
 * 연결 문자열: 연결 문자열을 선택하고 연결 문자열이 없는 경우 연결 문자열 관리를 클릭하여 직접 연결할 수 있습니다. 드롭다운 버튼을 클릭하여 연결 문자열을 선택합니다. 내부 라이브러리를 선택할 수도 있습니다.
@@ -21,11 +21,11 @@
     파라미터가  있을경우   파라미터를설정한후,\
     &#x20;  SQL문에서 "@파라미터이름"을 입력하여 사용합니다.
 
-    <figure><img src="../../../.gitbook/assets/image (2616).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (2627).png" alt=""><figcaption></figcaption></figure>
 
 3. &#x20;설정완료되면 이 서버단 명령을 호출할 수 있습니다.
 
 예를 들어 페이지에서 셀 범위를 선택하고 버튼을 설정합니다. 버튼의 명령을 편집하고 "서버단 명령 호출"으로 명령을 선택한 다음 서버 쪽 명령 뒤에 있는 드롭다운을 클릭하고 드롭다운 목록에서 "SQL 실행 명령"을 선택합니다.\
 파라미터가 있는 경우 파라미터 값을 연결합니다.
 
-<figure><img src="../../../.gitbook/assets/image (2617).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2628).png" alt=""><figcaption></figcaption></figure>

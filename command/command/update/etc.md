@@ -7,13 +7,13 @@
 * 서버단 명령 실행 전 데이터 유효성 검사
 * 연결 데이터를 최신 정보로 업데이드하기&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (2305).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2316).png" alt=""><figcaption></figcaption></figure>
 
 
 
 ## 비어있는 값 쿼리 정책&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (2306).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2317).png" alt=""><figcaption></figcaption></figure>
 
 * 비어있는 기록:  쿼리 조건의 값이 수식이고 수식의 결과가 비어 있는 경우 조건은 항상 거짓으로 판단됩니다(다른 조건이 없으면 레코드가 반환되지 않음).
 * 모든 기록: 쿼리 조건의 값이 수식이고 수식의 계산 결과가 비어 있는 경우 이 조건은 영구적으로 거짓으로 판단됩니다(다른 조건이 없으면 모든 레코드가 반환됨).
@@ -27,7 +27,7 @@
 
 확인 후 확인 대화 상자에서 내용을 설정할 수 있습니다.
 
-<figure><img src="../../../.gitbook/assets/image (2307).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2318).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -37,7 +37,7 @@
 
 확인 후 데이터를 업데이트 및 추가하기 전에 데이터를 확인하고 확인을 통과한 후 데이터를 업데이트하고 데이터베이스에 추가합니다.
 
-<figure><img src="../../../.gitbook/assets/image (2308).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2319).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -47,5 +47,5 @@
 
 확인 후  성공하면 데이터가 다시 로드됩니다.
 
-<figure><img src="../../../.gitbook/assets/image (2309).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2320).png" alt=""><figcaption></figcaption></figure>
 

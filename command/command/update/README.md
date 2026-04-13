@@ -2,7 +2,7 @@
 
 데이터 테이블 작업 명령을 사용하면 데이터 테이블에 대한 편집, 추가 및 삭제 작업을 직접 수행할 수 있습니다. 작업 유형을 선택한 후 대상 테이블을 선택하여 대상 데이터 테이블에 대한 작업을 수행합니다.
 
-<figure><img src="../../../.gitbook/assets/image (350).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (361).png" alt=""><figcaption></figcaption></figure>
 
 ## 업데이트 형식 &#x20;
 
@@ -21,11 +21,11 @@
 
 예를 들어 추가 페이지의 확인 단추에서 작업 유형이 추가되고 대상 테이블이 주문 테이블인 데이터 테이블 작업 명령을 설정합니다.
 
-<figure><img src="../../../.gitbook/assets/image (1519).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1530).png" alt=""><figcaption></figcaption></figure>
 
 페이지를 실행한 후 주문정보 목록페이지의 데이터 추가 버튼을 클릭하여 주문 데이터를 입력한 후 확인을 클릭하는 추가 페이지를 표시합니다. 이 시점에서 테이블에 방금 추가된 주문 데이터가 하나 더 있습니다.
 
-![](<../../../.gitbook/assets/image (2277).png>)
+![](<../../../.gitbook/assets/image (2288).png>)
 
 ### 편집&#x20;
 
@@ -33,11 +33,11 @@
 
 예를 들어 주문 수정 페이지에서 확인 버튼 작업 유형이 업데이트되고 대상 테이블이 주문 테이블인 데이터 테이블 작업 명령을 설정합니다.
 
-<figure><img src="../../../.gitbook/assets/image (1717).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1728).png" alt=""><figcaption></figcaption></figure>
 
 페이지를 실행한 후 주문 목록 페이지에서 데이터 행을 선택하고 수정 버튼을 클릭하고 수정 페이지를 팝업한 다음 데이터를 수정한 후 확인을 클릭합니다. 테이블의 주문 데이터가 수정된 데이터로 업데이트되었음을 알 수 있습니다.
 
-![](<../../../.gitbook/assets/image (1646).png>)
+![](<../../../.gitbook/assets/image (1657).png>)
 
 
 
@@ -47,11 +47,11 @@
 
 예를 들어 주문 목록 페이지의 삭제 버튼에서 삭제 및 대상 테이블의 작업 유형에 대한 데이터 테이블 작업을 설정합니다.
 
-<figure><img src="../../../.gitbook/assets/image (2137).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2148).png" alt=""><figcaption></figcaption></figure>
 
 페이지를 실행한 후 데이터 행을 선택하고 주문 목록 페이지의 삭제 버튼을 클릭한 다음 팝업 확인 대화 상자에서 확인을 클릭하면 방금 선택한 데이터가 삭제되었음을 알 수 있습니다.
 
-![](<../../../.gitbook/assets/image (1234).png>)
+![](<../../../.gitbook/assets/image (1245).png>)
 
 ### 추가/편집&#x20;
 
@@ -59,11 +59,11 @@
 
 예를 들어 주문 목록 페이지의 "추가/편집" 버튼에 "데이터 테이블 작업" 명령이 설정되고 작업 유형이 "추가/편집"이고 대상 테이블이 "주문 테이블"입니다.
 
-<figure><img src="../../../.gitbook/assets/image (514).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (525).png" alt=""><figcaption></figcaption></figure>
 
 실행 후 ID가 1인 데이터를 검색하여 편집하며, 검색에 성공하면 데이터가 편집이 됩니다.
 
-<figure><img src="../../../.gitbook/assets/image (2248).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2259).png" alt=""><figcaption></figcaption></figure>
 
 ## 확인 대화 상자 표시&#x20;
 
@@ -72,7 +72,7 @@
 * 작업 유형이 업데이트 및 추가인 경우 기본적으로 이 항목이 선택되지 않습니다.
 * 작업 유형이 삭제인 경우 기본적으로 이 옵션을 선택하면 기본적으로 확인 대화 상자가 나타납니다.
 
-![](<../../../.gitbook/assets/image (1072).png>)
+![](<../../../.gitbook/assets/image (1083).png>)
 
 ## 서버단 명령 실행 전 데이터 유효성 검사&#x20;
 
@@ -81,4 +81,4 @@
 * 이 옵션을 선택하면 데이터 테이블 작업 명령이 실행될 때 데이터 유효성 검사가 수행되고 데이터 검사가 통과될 때까지 데이터 테이블 작업 명령이 실행되지 않습니다.
 * 이 옵션을 선택하지 않으면 데이터 테이블 작업 명령을 실행할 때 데이터 유효성 검사가 수행되지 않고 데이터 테이블 작업 명령이 직접 실행됩니다.
 
-![](<../../../.gitbook/assets/image (1898).png>)
+![](<../../../.gitbook/assets/image (1909).png>)

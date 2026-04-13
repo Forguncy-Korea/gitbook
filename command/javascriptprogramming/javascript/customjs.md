@@ -8,11 +8,11 @@
 
 ![](https://help.grapecity.com.cn/download/thumbnails/56532167/%E6%AD%A5%E9%AA%A41.png?version=1\&modificationDate=1611021619000\&api=v2) 디자이너의 페이지에서 셀 범위를 선택하고 이름을 "myCell"으로 지정합니다.
 
-<figure><img src="../../../.gitbook/assets/image (1501).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1512).png" alt=""><figcaption></figcaption></figure>
 
 ![](https://help.grapecity.com.cn/download/thumbnails/56532167/%E6%AD%A5%E9%AA%A42.png?version=1\&modificationDate=1611021619000\&api=v2) 셀 범위를 선택하고 셀 유형을 버튼으로 설정하고 명령을 \[자바스크립트로 직접 프로그래밍하]으로 편집하고 JavaScript 코드를 입력합니다.
 
-<figure><img src="../../../.gitbook/assets/image (676).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (687).png" alt=""><figcaption></figcaption></figure>
 
 샘플 코드에서 setValue 메서드를 사용 하 여 지정 된 셀 (myCell)의 값을 설정 합니다.
 
@@ -29,4 +29,4 @@ textCell.setValue("이동 가능한 유형");
 
 페이지를 실행한 후 버튼을 클릭하면 지정된 셀의 값이 설정됩니다.
 
-<figure><img src="../../../.gitbook/assets/image (811).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (822).png" alt=""><figcaption></figcaption></figure>

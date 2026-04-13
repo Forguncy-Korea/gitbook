@@ -6,7 +6,7 @@
 
 리본 메뉴 모음에서 \[파일-> 옵션-> 일반 설정]을 선택하고 저장 시 영역을 백업하려면 프로젝트 저장 시 자 백업 켜기를 선택하고 폴더에 백업을 설정합니다. 기본값은 체크된 상태입니다.
 
-<figure><img src="../../.gitbook/assets/image (1664).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1675).png" alt=""><figcaption></figcaption></figure>
 
 저장 시 백업을 켜면 프로젝트 파일을 저장하거나 프로젝트를 실행(시작 또는 F5 누르기 클릭)할 때 백업이 자동으로 수행됩니다.
 
@@ -14,7 +14,7 @@
 
 마지막으로 저장한 시간보다 10분 미만이면 백업이 수행되지 않습니다.
 
-<figure><img src="../../.gitbook/assets/image (457).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (468).png" alt=""><figcaption></figcaption></figure>
 
 필요에 따라 이러한 포건시 엔지니어링 파일을 열고 편집하는 등의 작업을 수행할 수 있습니다.
 
@@ -24,5 +24,5 @@
 
 \[내부-> 설정-> 백업 및 복원]을 선택하고 필요에 따라 백업 또는 복원을 선택합니다.
 
-<figure><img src="../../.gitbook/assets/image (1109).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1120).png" alt=""><figcaption></figcaption></figure>
 

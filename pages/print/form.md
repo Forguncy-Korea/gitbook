@@ -4,17 +4,17 @@
 
 이 섹션에서는 마스터-종속 테이블 주문 및 주문 상 정보 테이블을 예로 들어 양식을 인쇄하는 방법을 보여 줍니다.
 
-![](<../../.gitbook/assets/image (353).png>)
+![](<../../.gitbook/assets/image (364).png>)
 
 ## 한 행을 선택하여 양식 인쇄&#x20;
 
 인쇄 페이지에서 버튼을 만들고 페이지 PDF로 내보내기 명령을 편집하고 내보내기 페이지를 주문서 페이지로 선택합니다.
 
-![](<../../.gitbook/assets/image (499).png>)
+![](<../../.gitbook/assets/image (510).png>)
 
 실행 후 번트을 클릭하여 포커스가 있는 줄의 주문 세부 정보 페이지를 인쇄합니다.
 
-![](<../../.gitbook/assets/image (2119).png>)
+![](<../../.gitbook/assets/image (2130).png>)
 
 ## 여러 행을 선택하여 양식 인쇄&#x20;
 
@@ -27,9 +27,9 @@
 
 내보내기 페이지를 주문 페이지로 선택하고, "세부 정보 테이블 데이터에 해당하는 여러 데이터를 내보내야 합니까" 여부를 선택하고, 리스트뷰1을 선택하고, "선택한 행 내보내기가 해당됩니다"를 선택합니다.
 
-![](<../../.gitbook/assets/image (1246).png>)
+![](<../../.gitbook/assets/image (1257).png>)
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72356486/%E6%AD%A5%E9%AA%A42.png?version=1\&modificationDate=1648092593000\&api=v2)실행 후 페이지에서 처음 두 줄의 주문과 같은 주문을 선택하고 "주문" 버튼을 클릭하여 선택한 주문의 세부 정보 페이지를 내보냅니다.<br>
 
-![](<../../.gitbook/assets/image (477).png>)
+![](<../../.gitbook/assets/image (488).png>)
 

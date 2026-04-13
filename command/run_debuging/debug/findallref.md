@@ -6,25 +6,25 @@
 
 참조를 찾을 데이터 테이블을 선택하고 마우스 오른쪽 버튼을 클릭하고 마우스 오른쪽 버튼 클릭 메뉴에서 모든 참조 찾기를 선택하면 하단에 검색된 참조가 표시되고 검색된 참조를 두 번 클릭하면 해당 데이터 테이블을 참조하는 요소로 이동합니다.
 
-<figure><img src="../../../.gitbook/assets/image (717).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (728).png" alt=""><figcaption></figcaption></figure>
 
 ## 페이지에 대한 참조 찾기&#x20;
 
 참조를 찾을 페이지를 선택하고 마우스 오른쪽 버튼을 클릭하고 마우스 오른쪽 버튼 클릭 메뉴에서 모든 참조 찾기를 선택하면 디자이너 아래에 검색된 참조가 표시되고 검색된 참조를 두 번 클릭하면 페이지를 참조하는 요소로 이동합니다.
 
-<figure><img src="../../../.gitbook/assets/image (1643).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1654).png" alt=""><figcaption></figcaption></figure>
 
 ## 마스터 페이지에 대한 참조 찾기&#x20;
 
 참조를 찾을 마스터 페이지를 선택하고 마우스 오른쪽 버튼을 클릭하고 마우스 오른쪽 버튼 클릭 메뉴에서 모든 참조 찾기를 선택하면 디자이너 아래에 검색된 참조가 표시되고 검색된 참조를 두 번 클릭하면 마스터 페이지를 참조하는 요소로 이동합니다.
 
-<figure><img src="../../../.gitbook/assets/image (2095).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2106).png" alt=""><figcaption></figcaption></figure>
 
 ## 셀에 대한 참조 찾기&#x20;
 
 참조를 찾을 셀을 선택하고 마우스 오른쪽 버튼을 클릭하고 마우스 오른쪽 버 클릭 메뉴에서 모든 참조 찾기를 선택하면 디자이너 아래에 찾은 참조가 표시되고 검색된 참조를 두 번 클릭하면 해당 셀을 참조하는 요소로 이동합니다.
 
-<figure><img src="../../../.gitbook/assets/image (879).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (890).png" alt=""><figcaption></figcaption></figure>
 
 ## 셀 스타일에 대한 참조 찾기&#x20;
 
@@ -32,7 +32,7 @@
 
 참조를 찾을 셀 스타일을 선택하고 마우스 오른쪽 버튼을 클릭하고 마우스 오른쪽 버튼 클릭 메뉴에서 모든 참조 찾기를 선택하면 디자이너 아래에 찾은 참조가 표시되고 검색된 참조를 두 번 클릭하면 셀 스타일을 참조하는 요소로 이동합니다.
 
-<figure><img src="../../../.gitbook/assets/image (705).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (716).png" alt=""><figcaption></figcaption></figure>
 
 ## 리스트뷰 스타일에 대한 참조&#x20;
 
@@ -40,7 +40,7 @@
 
 참조를 찾을 테이블 스타일을 선택하고 마우스 오른쪽 버튼을 클릭하고 마우스 오른쪽 버튼 클릭 메뉴에서 모든 참조 찾기를 선택하면 디자이너 아래에 찾은 참조가 표시되고 검색된 참조를 두 번 클릭하면 테이블 스타일을 참조하는 요소로 이동합니다.
 
-<figure><img src="../../../.gitbook/assets/image (2012).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2023).png" alt=""><figcaption></figcaption></figure>
 
 ## 서버단 명령 참조 찾기&#x20;
 
@@ -48,6 +48,6 @@
 
 서버 단 명령 관리자에서 서버  명령을 선택하고 참조 찾기를 클릭하면 해당 서버단 명령을 참조하는 모든 요소를 찾을 수 있습니다.![](https://help.grapecity.com.cn/download/thumbnails/72363053/image2020-3-18_14-31-53.png?version=1\&modificationDate=1648092696000\&api=v2)
 
-<figure><img src="../../../.gitbook/assets/image (1700).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1711).png" alt=""><figcaption></figcaption></figure>
 
 ##

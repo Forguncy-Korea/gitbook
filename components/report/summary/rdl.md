@@ -8,4 +8,4 @@ RDL 보고서는 단일 페이지 디자인 패턴, 즉 동일한 페이지에�
 
 RDL 보고서는 데이터 집합의 모든 데이터가 표시될 때까지 미리 보기 또는 런타임에 구성 요소를 확장하여 데이터 페이징을 자동으로 구현하고 최종 페이지 레이아웃은 표시할 데이터의 양에 따라 달라집니다.
 
-<figure><img src="../../../.gitbook/assets/image (2381).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2392).png" alt=""><figcaption></figcaption></figure>

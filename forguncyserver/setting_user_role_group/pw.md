@@ -10,7 +10,7 @@
 
 설정을 클릭 하고 비밀번호 정책 설정을 선택하 고 비밀번호 정책 설정 페이지로 이동 합니다.
 
-<figure><img src="../../.gitbook/assets/image (585).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (596).png" alt=""><figcaption></figcaption></figure>
 
 #### 비밀번호정책&#x20;
 

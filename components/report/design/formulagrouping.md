@@ -12,13 +12,13 @@
 
 새 보고서를 만들고 데이터 원본을 추가합니다. 테이블 구성 요소를 추가하고, 데이터 필드를 바인딩하고, 테이블을 적절하게 확장합니다.&#x20;
 
-![](<../../../.gitbook/assets/image (1817).png>)
+![](<../../../.gitbook/assets/image (1828).png>)
 
 ![](https://help.grapecity.com.cn/download/thumbnails/64455871/%E6%AD%A5%E9%AA%A42.png?version=1\&modificationDate=1633694861000\&api=v2) 그룹화를 추가합니다.
 
 테이블의 셀을 클릭하여 테이블에 테이블 그룹화 창이 표시되도록 한 다음 주문 날짜를 테이블 그룹화 창으로 드래그하면 테이블에 그룹화가 나타납니다.
 
-![](<../../../.gitbook/assets/image (2077).png>)
+![](<../../../.gitbook/assets/image (2088).png>)
 
 ![](https://help.grapecity.com.cn/download/thumbnails/64455871/%E6%AD%A5%E9%AA%A43.png?version=1\&modificationDate=1633694861000\&api=v2) 사용정 그룹화 식입니다.
 
@@ -28,16 +28,16 @@
 
 보시다시피 그룹화 조건은 실제로 식이며 그룹화 필드를 바인딩할 때 자동으로 생성됩니다. 그룹화 조건은 여기에서 사용정 편집되며 데이터는 편집된 식에 따라 그룹화할 수 있습니다.
 
-![](<../../../.gitbook/assets/image (345).png>)
+![](<../../../.gitbook/assets/image (356).png>)
 
 ![](https://help.grapecity.com.cn/download/thumbnails/64455871/%E6%AD%A5%E9%AA%A44.png?version=1\&modificationDate=1633694861000\&api=v2)그룹 헤더 표현식을 수정합니다.
 
 그룹 헤더 셀 표현식을 "{Month(주문 일자)}월"로 조정하여 그룹 헤더가 "1월, 2월, 3월"로 표시되도록 합니다.
 
-![](<../../../.gitbook/assets/image (1886).png>)
+![](<../../../.gitbook/assets/image (1897).png>)
 
 ![](https://help.grapecity.com.cn/download/thumbnails/64455871/%E6%AD%A5%E9%AA%A45.png?version=1\&modificationDate=1633694861000\&api=v2) 보고서를 미리 봅니다.
 
 표시되는 데이터는 월별로 그룹화되어 표시됩니다.
 
-![](<../../../.gitbook/assets/image (638).png>)
+![](<../../../.gitbook/assets/image (649).png>)

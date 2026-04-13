@@ -8,11 +8,11 @@ Microsoft는 ISecurityProvider 인터페이스를 제공합니다. 이 인터페
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72363951/%E6%AD%A5%E9%AA%A41.png?version=1\&modificationDate=1648092708000\&api=v2)  Visual Studio에서 클래스 라이브러리 프로젝트를 만듭니다. 프로젝트의 Framework를 .NET Framework 4.7.2로 설정합니다
 
-<figure><img src="../../../.gitbook/assets/image (574).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (585).png" alt=""><figcaption></figcaption></figure>
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72363951/%E6%AD%A5%E9%AA%A42.png?version=1\&modificationDate=1648092708000\&api=v2)  솔루션 탐색기에서 참조를 마우스 오른쪽 버튼으로 클릭하고 참조 추가를 선택합니다.
 
-<figure><img src="../../../.gitbook/assets/image (2029).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2040).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -24,11 +24,11 @@ Microsoft는 ISecurityProvider 인터페이스를 제공합니다. 이 인터페
   * Windows 시스템은 64비트 운영 체제입니다: C:\Program Files (x86)\ForgancyServer\Website\bin
 * 포건시 시 설치 디렉토리가 커스텀 경로라면 이 파일의 경로는 "커스텀 경로\ForgancyServer\Website\bin" 입니다.
 
-<figure><img src="../../../.gitbook/assets/image (408).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (419).png" alt=""><figcaption></figcaption></figure>
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72363951/%E6%AD%A5%E9%AA%A44.png?version=1\&modificationDate=1648092708000\&api=v2)  " GrapeCity.Forguncy.SecurityProvider.dll " 파일을 선택하고 마우스 오른쪽 버튼을 클릭하고 "속성"을 선택한 다음 "로컬복사"를 "False"로 변경합니다.
 
-<figure><img src="../../../.gitbook/assets/image (861).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (872).png" alt=""><figcaption></figcaption></figure>
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72363951/%E6%AD%A5%E9%AA%A45.png?version=1\&modificationDate=1648092708000\&api=v2)  Class1.cs 파일에 코드를 추가합니다. 샘플 코드는 다음과 같습니다.
 
@@ -132,10 +132,10 @@ namespace DemoPasswordSecurityProvider
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72363951/%E6%AD%A5%E9%AA%A47.png?version=1\&modificationDate=1648092708000\&api=v2)  컴파일이 완료되면 파일 탐색기에서 폴더를 열고 생성된 모든 파일을 "bin/Debug" 또는 "bin/Release" 폴더 아래의 .zip 파일로 압축합니다.
 
-<figure><img src="../../../.gitbook/assets/image (648).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (659).png" alt=""><figcaption></figcaption></figure>
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72363951/%E6%AD%A5%E9%AA%A48.png?version=1\&modificationDate=1648092708000\&api=v2)  서버관리자에서사용자 계정 관리 인터페이스의 "타사" 영역에서 "업로드"를 클릭하고 security provider.zip 패키지 파일을 선택합니다
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72363951/%E6%AD%A5%E9%AA%A49.png?version=1\&modificationDate=1648092708000\&api=v2)  포건시 디자이너에서 인증 모드를 "타사 사용자 통합"으로 선택하면 게시 후 맞춤형 사용자 보안 프로그램을 실현할 수 있습니다.
 
-<figure><img src="../../../.gitbook/assets/image (435).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (446).png" alt=""><figcaption></figcaption></figure>

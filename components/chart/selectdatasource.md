@@ -39,7 +39,7 @@
 * **범례 항목(계열):** 범례 항목(계열)을 추가, 편집, 삭제, 위로 또는 아래로 이동합니다.
 * **가로(범주) 축 레이블:** 가로(범주) 축 레이블을 편집합니다.
 
-<figure><img src="../../.gitbook/assets/image (2112).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2123).png" alt=""><figcaption></figcaption></figure>
 
 ## **리스트뷰를 데이터 원본으로 사용**  <a href="#listview" id="listview"></a>
 
@@ -66,7 +66,7 @@
 * 범례 항목(계열)을 추가, 편집, 삭제, 위로 또는 아래로 이동합니다.
 * 가록(범주) 축 레이블을 편집합니다.
 
-<figure><img src="../../.gitbook/assets/image (1522).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1533).png" alt=""><figcaption></figcaption></figure>
 
 테이블을 데이터 원본으로 사용하는 경우 테이블에서 템플릿 행의 셀을 하나만 선택할 수 있으며, 데이터는 한 열로 표시되고 둘 이상의 셀은 선택할 수 없습니다. 이는 셀을 데이터 원본으로 사용했을 때와 다릅니다.
 
@@ -78,9 +78,9 @@
 
 ![](https://help.grapecity.com.cn/download/thumbnails/80943376/%E6%AD%A5%E9%AA%A41.png?version=1\&modificationDate=1673923126000\&api=v2)  빈 차트를 생성한 후 차트를 선택하고 마우스 오른쪽 버튼을 클릭한 후 오른쪽 클릭 메뉴에서 "데이터 선택"을 선택하면 데이터 선택 대화 상자가 팝업됩니다.
 
-<figure><img src="../../.gitbook/assets/image (654).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (665).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (824).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (835).png" alt=""><figcaption></figcaption></figure>
 
 ![](https://help.grapecity.com.cn/download/thumbnails/80943376/%E6%AD%A5%E9%AA%A42.png?version=1\&modificationDate=1673923126000\&api=v2)  데이터 선택 대화 상자에서 "데이터 소스"를 선택한 후 데이터 소스 옆의 "설정"을 클릭하여 데이터를 가져오면 다음과 같은 대화 상자가 나타납니다.
 
@@ -91,7 +91,7 @@
 * 바인딩열: 데이터 테이블의 필드를 바인딩합니다.
 * 수식: 수식으로 설정합니다. 함수를 사용할 수 있으며 페이지의 셀/이름을 참조하거나 다른 열을 참조합니다.
 
-<figure><img src="../../.gitbook/assets/image (755).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (766).png" alt=""><figcaption></figcaption></figure>
 
 ![](https://help.grapecity.com.cn/download/thumbnails/80943376/%E6%AD%A5%E9%AA%A43.png?version=1\&modificationDate=1673923126000\&api=v2)  "확인"을 클릭하여 설정 대화 상자를 닫은 후 다음 설정을 지정할 수도 있습니다.
 
@@ -99,11 +99,11 @@
 * 가로(범주) 축 레이블: 가로(범주) 축 레이블을 편집합니다. 데이터 테이블을 데이터 소스로 사용하는 경우 데이터 소스에서 하나의 컬럼만 축 레이블 값으로 선택할 수 있습니다.
 * 빈 셀: 빈 셀을 공백, 0 값 또는 선으로 연결하여 표시하도록 설정할 수 있습니다.
 
-<figure><img src="../../.gitbook/assets/image (1464).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1475).png" alt=""><figcaption></figcaption></figure>
 
 ![](https://help.grapecity.com.cn/download/thumbnails/80943376/%E6%AD%A5%E9%AA%A44.png?version=1\&modificationDate=1673923126000\&api=v2)  데이터 소스가 설정되면 차트를 미리 볼 수 있습니다.
 
-<figure><img src="../../.gitbook/assets/image (1566).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1577).png" alt=""><figcaption></figcaption></figure>
 
 ## 피벗 테이블을 데이터 원본으로 사용 <a href="#pivot" id="pivot"></a>
 

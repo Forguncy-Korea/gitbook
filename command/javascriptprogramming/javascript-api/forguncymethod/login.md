@@ -28,7 +28,7 @@ Forguncy.logIn("Administrator","123456");
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72364737/%E6%AD%A5%E9%AA%A41.png?version=1\&modificationDate=1648092719000\&api=v2) 페이지에서 셀 범위를 선택하고 셀 유형을 버튼으 설정하고 명령을 \[JavaScript 명령]으로 편집하고 JavaScript 코드를 입력합니다.
 
-<figure><img src="../../../../.gitbook/assets/image (652).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (663).png" alt=""><figcaption></figcaption></figure>
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72364737/%E6%AD%A5%E9%AA%A42.png?version=1\&modificationDate=1648092719000\&api=v2) 편집이 완료되면 \[확인]을 클릭하여 대화 상자를 닫습니다.
 

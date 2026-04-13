@@ -2,7 +2,7 @@
 
 셀 유형을 이미지 유형으로 설정하고  실행 후 브라우저에 선택한 이미지를 표시합니다. 이미지는 다음 이미지와 같이 상자를 표시합니다.
 
-<figure><img src="../../.gitbook/assets/image (1456).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1467).png" alt=""><figcaption></figcaption></figure>
 
 ## 이미지 셀 설정&#x20;
 

@@ -6,11 +6,11 @@
 
 &#x20;2단계 인증은 비활성화된 상태입니다.
 
-<figure><img src="../../.gitbook/assets/image (149).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (160).png" alt=""><figcaption></figcaption></figure>
 
 사용 또는 강제 시행을 클릭한 후 인증자 APP 계정 및 신뢰할 수 있는 장치 유효 일 수를 설정해야 합니다.
 
-<figure><img src="../../.gitbook/assets/image (150).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (161).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -31,19 +31,19 @@ Windows 도메인 인증, 타사 사용자 통합 및 단일 사인온 앱은 2�
 
 사용자 목록에서 사용자의 행 오른쪽을 클릭합니다.![](https://help.grapecity.com.cn/download/thumbnails/72363465/image2021-2-19_12-22-15.png?version=1\&modificationDate=1648092701000\&api=v2)
 
-![](<../../.gitbook/assets/image (794).png>)
+![](<../../.gitbook/assets/image (805).png>)
 
 계정 보안 설정 대화 상자가 나타나고 사용을 클릭하면 활성화를 확인하는 프롬프트 상자가 나타납니다.
 
 확인을 클릭하면 해당 사용자의 2단계 인증이 시작됩니다.
 
-![](<../../.gitbook/assets/image (1030).png>)
+![](<../../.gitbook/assets/image (1041).png>)
 
 2단계 인증을 사용하도록 설정하면 계정 보안 설정 페이지에서 2단계 인증을 비활성화할 수 있습니다.
 
 \[꺼짐] 클릭합니다.
 
-![](<../../.gitbook/assets/image (1452).png>)
+![](<../../.gitbook/assets/image (1463).png>)
 
 2단계 인증을 사용하여 로그인한 후 계정 보안 설정 페이지에서 인증자 APP를 재설정하고 신뢰할 수 있는 장치를 비울 수 있습니다.
 
@@ -57,15 +57,15 @@ Windows 도메인 인증, 타사 사용자 통합 및 단일 사인온 앱은 2�
 
 1.  서버관리자의 로그인 페이지에서 사용자 이름과 암호를 입력하고 로그인 버튼 클릭합니다.<br>
 
-    <figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 2.  2단계 인증 페이지에서 휴대폰의 인증자 앱을 사용하여 계정을 추가하고 QR 코드를 스캔합니다. QR 코드를 스캔하면 휴대폰에 6자리 숫자가 표시됩니다.\
     <br>
 
-    <figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 3.  다음을 클릭하여 입력 상자에 인증자 APP에 표시되는 인증 코드를 입력합니다.\
     참고로   예제에서는MS Authenticator를 사용하였습니다.  <br>
 
-    <figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
 이 장치에서 더 이상 묻지 않음 체크박스 선택하면 다음에 동일한 장치의 동일한 브라우저에서 2단계 확인 단계가 무시됩니다.
 

@@ -2,7 +2,7 @@
 
 실행 후 여러 줄의 텍스트를 입력할 수 있는 여러 줄 텍스트 상자 유형으로 셀을 설정합니다. 여러 줄의 텍스트는 다음 그림과 같습니다.
 
-<figure><img src="../../.gitbook/assets/image (575).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (586).png" alt=""><figcaption></figcaption></figure>
 
 
 

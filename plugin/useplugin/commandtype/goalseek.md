@@ -12,7 +12,7 @@ Excel에서 1개 셀의 데이터를 변경하여 계산식이 있는 셀이 원
 
 ### 사용방법
 
-<figure><img src="../../../.gitbook/assets/image (2607).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2618).png" alt=""><figcaption></figcaption></figure>
 
 * Parameter Name:  수식에서 사용되는 파라미터, 파라미터의 이름과 값을 설정합니다. 값은 셀 값이나 수식 계산에서 가져올 수 있습니다.
 * Variable: 값을 바꿀   셀

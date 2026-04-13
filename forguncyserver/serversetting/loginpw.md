@@ -6,7 +6,7 @@
 
 \[Config.xml] 파일은 \[C:₩Users₩Public₩Documents₩ForguncyServer₩_응용 프로그램 이름_] 디렉토리에 있습니다.
 
-![](<../../.gitbook/assets/image (785).png>)
+![](<../../.gitbook/assets/image (796).png>)
 
 ![](https://help.grapecity.com.cn/download/thumbnails/72363418/%E6%AD%A5%E9%AA%A42.png?version=1\&modificationDate=1648092700000\&api=v2) \[Password] 값을 변경하고 저장합니다.
 
