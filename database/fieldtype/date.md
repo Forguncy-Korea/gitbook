@@ -28,10 +28,10 @@
 
 **절차를 따르십시오**
 
-![](https://help.grapecity.com.cn/download/thumbnails/72352160/%E6%AD%A5%E9%AA%A41.png?version=1\&modificationDate=1648092527000\&api=v2) 날짜 필드를 마우스 오른쪽 버튼으로 클릭하고 팝업 메뉴에서 \[셀 서식]을 선택합니다.
+1. 날짜 필드를 마우스 오른쪽 버튼으로 클릭하고 팝업 메뉴에서 \[셀 서식]을 선택합니다.
 
 ![](<../../.gitbook/assets/image (1166).png>)
 
-![](https://help.grapecity.com.cn/download/thumbnails/72352160/%E6%AD%A5%E9%AA%A42.png?version=1\&modificationDate=1648092527000\&api=v2) \[셀 서식] 대화 상자의 \[숫자] 탭에서 \[날짜]로 분류를 선택하고 유형 및 범위를 선택합니다.
+2. &#x20;\[셀 서식] 대화 상자의 \[숫자] 탭에서 \[날짜]로 분류를 선택하고 유형 및 범위를 선택합니다.
 
 ![](<../../.gitbook/assets/image (1740).png>)
