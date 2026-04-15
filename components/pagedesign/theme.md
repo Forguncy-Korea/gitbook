@@ -58,11 +58,11 @@
 
 대화 상자에는 PC 마스터 페이지의 배경 이미지, PC 마스터 페이지의 열 차트, 일반 페이지의 배경 이미지, 휴대폰 로그인 페이지의 배경 보기, 휴대폰 마스터 페이지의 열 차트, PC 로그인 페이지의 세 가지 크기의 배경 맵 등 8가지 유형의 이미지가 포함되어 있습니다.
 
-테마 이미지를 편집하거나 삭제하거나, 이미지를 선택하거나, 편집을 클릭하거나, 원하는 이미지를 선택하거나, 배경 이미지를 삭제를 클릭할 수 있습니다.![](https://help.grapecity.com.cn/download/thumbnails/56531004/image2020-1-7_17-31-22.png?version=1\&modificationDate=1611021602000\&api=v2)![](https://help.grapecity.com.cn/download/thumbnails/56531004/image2020-1-7_17-32-17.png?version=1\&modificationDate=1611021602000\&api=v2)
+테마 이미지를 편집하거나 삭제하거나, 이미지를 선택하거나, 편집을 클릭하거나, 원하는 이미지를 선택하거나, 배경 이미지를 삭제를 클릭할 수 있습니다.
 
 <figure><img src="../../.gitbook/assets/image (210).png" alt=""><figcaption></figcaption></figure>
 
-예를 들어 PC 마스터 페이지의 스루 바 다이어그램 삭제를 클릭한 다음 마스터 페이지를 만들면 마스터에 막대가 표시되지 않습니다.![](https://help.grapecity.com.cn/download/thumbnails/56531004/image2020-1-7_17-32-17.png?version=1\&modificationDate=1611021602000\&api=v2)
+예를 들어 PC 마스터 페이지의 스루 바 다이어그램 삭제를 클릭한 다음 마스터 페이지를 만들면 마스터에 막대가 표시되지 않습니다.
 
 <figure><img src="../../.gitbook/assets/image (1752).png" alt=""><figcaption></figcaption></figure>
 
@@ -74,7 +74,7 @@
 
 **테마를 저장합니다**
 
-테마의 색상, 글꼴 및 그림을 수정한 후 클릭하여 현재 테마 저장을 선택한 다음 저장된 경로와 파일 이름을 설정합니다.![](https://help.grapecity.com.cn/download/thumbnails/56531004/image2020-1-7_17-55-33.png?version=1\&modificationDate=1611021602000\&api=v2)
+테마의 색상, 글꼴 및 그림을 수정한 후 클릭하여 현재 테마 저장을 선택한 다음 저장된 경로와 파일 이름을 설정합니다.
 
 저장된 주제 접미사 이름은 ".fgctheme"입니다.
 

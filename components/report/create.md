@@ -12,21 +12,20 @@
 
 보고서를 만들려면 먼저 보고서를 만드는 데 사용할 데이터 테이블을 준비해야 합니다.
 
-![](https://help.grapecity.com.cn/download/thumbnails/56535984/%E6%AD%A5%E9%AA%A41.png?version=1\&modificationDate=1614840355000\&api=v2) 보고서를 만듭니다. 개체 관리자의 보고서 탭에서 마우스 오른쪽 버튼을 클릭하거나 새로운보고서생성 또는 RDL 보고서 생성을 선택합니다.
-
-또는 폴더 만들기를 선택하여 폴더에서 페이지 보고서를 만들거나 RDL 보고서를 만듭니다.
+1. 보고서를 만듭니다. 개체 관리자의 보고서 탭에서 마우스 오른쪽 버튼을 클릭하거나 새로운보고서생성 또는 RDL 보고서 생성을 선택합니다.\
+   또는 폴더 만들기를 선택하여 폴더에서 페이지 보고서를 만들거나 RDL 보고서를 만듭니다.
 
 ![](<../../.gitbook/assets/image (2203).png>)
 
 리본 메뉴 모음에서 만들기를 클릭하고 보고서 영역에서 페이지 보고서 또는 RDL 보고서를 클릭할 수도 있습니다.
 
-![](https://help.grapecity.com.cn/download/thumbnails/56535984/%E6%AD%A5%E9%AA%A42.png?version=1\&modificationDate=1614841911000\&api=v2) 데이터 원본을 만듭니다. 보고서를 선택하고 마우스 오른쪽 버튼을 클릭한 다음 마우스 오른쪽 버튼 클릭 메뉴에서 데이터 소스 추가를 선택하여 보고서 데이터 원본 편집 대화 상자를 표시합니다.
+2. 데이터 원본을 만듭니다. 보고서를 선택하고 마우스 오른쪽 버튼을 클릭한 다음 마우스 오른쪽 버튼 클릭 메뉴에서 데이터 소스 추가를 선택하여 보고서 데이터 원본 편집 대화 상자를 표시합니다.
 
 ![](<../../.gitbook/assets/image (413).png>)
 
 
 
-![](https://help.grapecity.com.cn/download/thumbnails/56535984/%E6%AD%A5%E9%AA%A43.png?version=1\&modificationDate=1614842570000\&api=v2) 데이터 원본을 편집합니다.
+3. 데이터 원본을 편집합니다.
 
 * 이름: 데이터 원본의 이름입니다.
 * 테이블: 데이터의 출처 데이터 테이블을 선택합니다.
@@ -38,7 +37,7 @@
 
 ![](<../../.gitbook/assets/image (2239).png>)
 
-![](https://help.grapecity.com.cn/download/thumbnails/56535984/%E6%AD%A5%E9%AA%A44.png?version=1\&modificationDate=1614846094000\&api=v2) 보고서를 편집합니다.<br>
+4. &#x20;보고서를 편집합니다.<br>
 
 (1) 구성 요소 요소를 추가합니다.
 
@@ -68,11 +67,11 @@
 
 ![](<../../.gitbook/assets/image (1554).png>)
 
-![](https://help.grapecity.com.cn/download/thumbnails/56535984/%E6%AD%A5%E9%AA%A45.png?version=1\&modificationDate=1614849577000\&api=v2) 보고서 권한을 편집합니다. 보고서를 선택하고 마우스 오른쪽 버튼을 클릭한 다음 오른쪽 메뉴에서 보고서 권한 편집을 선택합니다. 팝업 대화 상자에서 보고서를 보고 내보낼 수 있는 역할을 선택합니다.
+5. &#x20;보고서 권한을 편집합니다. 보고서를 선택하고 마우스 오른쪽 버튼을 클릭한 다음 오른쪽 메뉴에서 보고서 권한 편집을 선택합니다. 팝업 대화 상자에서 보고서를 보고 내보낼 수 있는 역할을 선택합니다.
 
 ![](<../../.gitbook/assets/image (1827).png>)
 
-![](https://help.grapecity.com.cn/download/thumbnails/56535984/%E6%AD%A5%E9%AA%A46.png?version=1\&modificationDate=1614849926000\&api=v2) 보고서를 표시합니다.&#x20;
+6. 보고서를 표시합니다.&#x20;
 
 ![](<../../.gitbook/assets/image (732).png>)
 

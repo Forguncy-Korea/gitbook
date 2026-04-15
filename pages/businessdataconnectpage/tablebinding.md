@@ -20,15 +20,15 @@
 
 * 방법 2. 리스트뷰로 설정합니다.
 
-![](https://help.grapecity.com.cn/download/thumbnails/72352743/%E6%AD%A5%E9%AA%A41.png?version=1\&modificationDate=1648092536000\&api=v2) 페이지에서 영역을 선택하고 리본 메뉴에서 \[홈]>\[리스트뷰 설정]을 선택합니다.
+1. 페이지에서 영역을 선택하고 리본 메뉴에서 \[홈]>\[리스트뷰 설정]을 선택합니다.
 
 ![리스트뷰 설정 ](../../.gitbook/assets/tablebinding2.png)
 
-![](https://help.grapecity.com.cn/download/thumbnails/72352743/%E6%AD%A5%E9%AA%A42.png?version=1\&modificationDate=1648092536000\&api=v2) 데이터 테이블을 선택하고 \[확인]을 클릭합니다.
+2. 데이터 테이블을 선택하고 \[확인]을 클릭합니다.
 
 ![테이블 선택 ](../../.gitbook/assets/tablebinding3.png)
 
-![](https://help.grapecity.com.cn/download/thumbnails/72352743/%E6%AD%A5%E9%AA%A43.png?version=1\&modificationDate=1648092536000\&api=v2) 데이터 테이블을 선택하면 리스트뷰에 바인딩됩니다.
+3. &#x20;데이터 테이블을 선택하면 리스트뷰에 바인딩됩니다.
 
 ## 리스트뷰에 필드를 바인딩 하기
 

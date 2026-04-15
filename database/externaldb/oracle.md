@@ -12,17 +12,17 @@ Oracle 데이터베이스에 연결하는 방법에 대해 설명합니다.
 
 Oracle 데이터베이스에 접속하려면 먼저 Oracle을 구성해야 합니다. Oracle에 접속하려면 구성이 완료되어야 합니다.
 
-![](https://help.grapecity.com.cn/download/thumbnails/72355122/%E6%AD%A5%E9%AA%A41.png?version=1\&modificationDate=1648092573000\&api=v2) OracleInstantClient 파일 압축 패키지를 로컬로 다운로드하여 압축을 다한 다음 C 디스크 또는 기타 고정 경로에 저장합니다. 다운로드 링크:
+1. OracleInstantClient 파일 압축 패키지를 로컬로 다운로드하여 압축을 다한 다음 C 디스크 또는 기타 고정 경로에 저장합니다. 다운로드 링크:
 
 [https://cdn.grapecity.com.cn/huozige/tools/OracleInstantClient.zip.](https://cdn.grapecity.com.cn/huozige/tools/OracleInstantClient.zip.)
 
-![](https://help.grapecity.com.cn/download/thumbnails/72355122/%E6%AD%A5%E9%AA%A42.png?version=1\&modificationDate=1648092573000\&api=v2) 시스템 환경 변수를 구성합니다.
+2. 시스템 환경 변수를 구성합니다.
 
-&#x20;1\. 이 PC를 마우스 오른쪽 단추로 클릭하고 \[속성-고급 시스템 설정]을 선택하고 시스템 속성 대화 상자의 고급 탭에서 오른쪽 아래 모서리에 있는 \[환경 변수]를 클릭합니다.
+&#x20;1\) 이 PC를 마우스 오른쪽 단추로 클릭하고 \[속성-고급 시스템 설정]을 선택하고 시스템 속성 대화 상자의 고급 탭에서 오른쪽 아래 모서리에 있는 \[환경 변수]를 클릭합니다.
 
 ![시스템 속성 ](../../.gitbook/assets/db12.png)
 
-2\. \[환경 변수]를 클릭하여 환경 변수의 편집 창으로 이동하고 \[시스템 변수] 아래에서 \[새로 만들기]를 클릭하여 두 개의 시스템 변수를 추가합니다.\
+2\) \[환경 변수]를 클릭하여 환경 변수의 편집 창으로 이동하고 \[시스템 변수] 아래에서 \[새로 만들기]를 클릭하여 두 개의 시스템 변수를 추가합니다.\
 (1) 변수 이름 : ORACLE\_NAME; 변수 값: \[디렉토리 찾아보기]를 클릭하고 단계에서 파일의 저장 경로를 선택하고 파일의 두 번째 수준 디렉토리인 \[instantclient\_18\_3]을 선택한 다음 \[확인]을 클릭합니다. 파일이 C 디스크 루트에 저장된 경우 변수 값은 C:\OracleInstantClient\instantclient\_18\_3.\
 (2) 변수  : \
 TNS\_ADMIN; \
@@ -31,14 +31,14 @@ TNS\_ADMIN; \
 ![새 환경 변수
 &#x20;메모장 또는 기타 텍스트 편집기를 사용하여 \[OracleInstantClient\instantclient\_18\_3\] 디렉토리에 있는 \[tnsnames.ora\] 파일을 열어 편집합니다. ](../../.gitbook/assets/db13.png)
 
-3\. 변수 \[Path]를 선택하고 \[편집]을 클릭하여 편집 인터페이스로 이동합니다. 오른쪽에 있는 \[새로 만들기]를 클릭하여 이전 단계의 변수 값과 동일한 새 환경 변수를 추가합니다.
+3\) 변수 \[Path]를 선택하고 \[편집]을 클릭하여 편집 인터페이스로 이동합니다. 오른쪽에 있는 \[새로 만들기]를 클릭하여 이전 단계의 변수 값과 동일한 새 환경 변수를 추가합니다.
 
 ![](../../.gitbook/assets/db14.png)
 
-4\. 환경 변수를 추가 및 편집한 후 \[확인]을 클릭하여 대화 상자를 닫습니다.
+4\) 환경 변수를 추가 및 편집한 후 \[확인]을 클릭하여 대화 상자를 닫습니다.
 
 \
-![](https://help.grapecity.com.cn/download/thumbnails/72355122/%E6%AD%A5%E9%AA%A43.png?version=1\&modificationDate=1648092573000\&api=v2) 메모장 또는 기타 텍스트 편집기를 사용하여 \[OracleInstantClient\instantclient\_18\_3] 디렉토리에 있는 \[tnsnames.ora] 파일을 열어 편집합니다.
+3\. 메모장 또는 기타 텍스트 편집기를 사용하여 \[OracleInstantClient\instantclient\_18\_3] 디렉토리에 있는 \[tnsnames.ora] 파일을 열어 편집합니다.
 
 ![파일 편집 ](../../.gitbook/assets/db15.jfif)
 
@@ -46,13 +46,13 @@ TNS\_ADMIN; \
 
 편집이 완료되면 저장을 닫습니다.
 
-![](https://help.grapecity.com.cn/download/thumbnails/72355122/%E6%AD%A5%E9%AA%A44.png?version=1\&modificationDate=1648092573000\&api=v2) PC를 다시 시작합니다.
+4. &#x20;PC를 다시 시작합니다.
 
 ## Oracle에 연결 &#x20;
 
 Oracle 데이터베이스에 연결하는 방법은 다음과 같습니다.
 
-![](https://help.grapecity.com.cn/download/thumbnails/72355176/%E6%AD%A5%E9%AA%A41.png?version=1\&modificationDate=1648092574000\&api=v2) 리본 메뉴 모음에서 \[데이터]>\[데이터베이스 연결]을 선택합니다.
+1. 리본 메뉴 모음에서 \[데이터]>\[데이터베이스 연결]을 선택합니다.
 
 ![데이터베이스 연결 ](../../.gitbook/assets/db1.png)
 
@@ -62,19 +62,18 @@ Oracle 데이터베이스에 연결하는 방법은 다음과 같습니다.
 
 ![연결된 데이터베이스에서 테이블 연결 ](../../.gitbook/assets/db2.png)
 
-![](https://help.grapecity.com.cn/download/thumbnails/72355176/%E6%AD%A5%E9%AA%A42.png?version=1\&modificationDate=1648092574000\&api=v2) 데이터 소스를 \[Oracle 데이터베이스]로 선택합니다.
-
-![](https://help.grapecity.com.cn/download/thumbnails/72355176/%E6%AD%A5%E9%AA%A43.png?version=1\&modificationDate=1648092574000\&api=v2) 서버 이름, 사용자 이름, 암호, 포트 번호를 입력한 후 데이터베이스를 선택합니다.
+2. 데이터 소스를 \[Oracle 데이터베이스]로 선택합니다.
+3. 서버 이름, 사용자 이름, 암호, 포트 번호를 입력한 후 데이터베이스를 선택합니다.
 
 ![](../../.gitbook/assets/db16.png)
 
-![](https://help.grapecity.com.cn/download/thumbnails/72355176/%E6%AD%A5%E9%AA%A44.png?version=1\&modificationDate=1648092574000\&api=v2) 설정이 완료되면 "연결 테스트"를 클릭하여 서버 연결을 테스트하고 설정할 수 있습니다.
+4. 설정이 완료되면 "연결 테스트"를 클릭하여 서버 연결을 테스트하고 설정할 수 있습니다.
 
 &#x20;     \[확인]을 클릭합니다.
 
 ![테스트 결과 ](../../.gitbook/assets/db6.png)
 
-&#x20;![](https://help.grapecity.com.cn/download/thumbnails/72355176/%E6%AD%A5%E9%AA%A45.png?version=1\&modificationDate=1648092574000\&api=v2) \[확인]을 클릭하면 \[테이블 가져오기] 대화 상자가 나타나고, 데이터 소스의 테이블 목록에서 가져올 테이블을 선택하고, \[>]를 클릭하여 선택한 테이블을 선택한 테이블 목록으로 이동하거나, \[>>]을 클릭하여 데이터 소스의 테이블을 선택한 테이블 목록으로 이동합니다.
+&#x20;5\. \[확인]을 클릭하면 \[테이블 가져오기] 대화 상자가 나타나고, 데이터 소스의 테이블 목록에서 가져올 테이블을 선택하고, \[>]를 클릭하여 선택한 테이블을 선택한 테이블 목록으로 이동하거나, \[>>]을 클릭하여 데이터 소스의 테이블을 선택한 테이블 목록으로 이동합니다.
 
 ![테이블 가져오기 ](../../.gitbook/assets/db7.png)
 
@@ -84,7 +83,7 @@ Oracle 데이터베이스에 연결하는 방법은 다음과 같습니다.
 * 뷰를 선택한 경우 \[확인]을 클릭한 후 뷰의 기본 키를 선택합니다.
 {% endhint %}
 
-![](https://help.grapecity.com.cn/download/thumbnails/72355176/%E6%AD%A5%E9%AA%A46.png?version=1\&modificationDate=1648092574000\&api=v2) \[확인]을 클릭하여 테이블을 가져옵니다. 테이블을 열면 테이블 설정에서 해당 형식이 아웃리치 테이블인 것을 볼 수 있습니다.
+6. \[확인]을 클릭하여 테이블을 가져옵니다. 테이블을 열면 테이블 설정에서 해당 형식이 아웃리치 테이블인 것을 볼 수 있습니다.
 
 ![가져온 테이블 ](../../.gitbook/assets/db8.png)
 

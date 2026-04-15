@@ -42,15 +42,15 @@
 
 아래 절차대로 진행합니다.
 
-![](https://help.grapecity.com.cn/download/thumbnails/72352484/%E6%AD%A5%E9%AA%A41.png?version=1\&modificationDate=1648092532000\&api=v2) 마스터 페이지를 열고 페이지 자리 표시를 선택한 다음 기능 메뉴 모음에서 \[디자인]>\[크기 조정 시작]을 선택합니다.                                                                             &#x20;
+1. 마스터 페이지를 열고 페이지 자리 표시를 선택한 다음 기능 메뉴 모음에서 \[디자인]>\[크기 조정 시작]을 선택합니다.                                                                             &#x20;
 
 ![](../../.gitbook/assets/pagesize.png)
 
-![](https://help.grapecity.com.cn/download/thumbnails/72352484/%E6%AD%A5%E9%AA%A42.png?version=1\&modificationDate=1648092532000\&api=v2)\[크기 조정 시]을 클릭하면 페이지 자리 표시 공간이 파란색 테두리로 둘러싸여 파란색 테두리의 네 모서리를 드래그하여 크기와 위치를 조정합니다.                                                         &#x20;
+2. \[크기 조정 시]을 클릭하면 페이지 자리 표시 공간이 파란색 테두리로 둘러싸여 파란색 테두리의 네 모서리를 드래그하여 크기와 위치를 조정합니다.                                                         &#x20;
 
 ![](../../.gitbook/assets/pagesize2.png)
 
-![](https://help.grapecity.com.cn/download/thumbnails/72352484/%E6%AD%A5%E9%AA%A43.png?version=1\&modificationDate=1648092532000\&api=v2)\[크기 조정 종료]를 클릭하여 조정을 종료합니다.
+3. \[크기 조정 종료]를 클릭하여 조정을 종료합니다.
 
 ## &#x20;**마스터 페이지를 적용** <a href="#id-chuang-jian-mu-ban-ye-5.-ying-yong-mu-ban-ye" id="id-chuang-jian-mu-ban-ye-5.-ying-yong-mu-ban-ye"></a>
 

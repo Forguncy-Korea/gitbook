@@ -8,7 +8,7 @@
 
 그룹화를 선택하여 데이터 옵션 아래의 데이터 데이터 정렬 아래에 항목을 추가합니다.
 
-데이터 정렬을 테이블의 그룹화 기준으로 설정하고, "{Month(주문 날짜)}" 표현식으로 설정하고, 오름차순으로 정렬합니다.![](https://help.grapecity.com.cn/download/attachments/64455969/image2019-5-27_14-38-14.png?version=1\&modificationDate=1633750715000\&api=v2)<br>
+데이터 정렬을 테이블의 그룹화 기준으로 설정하고, "{Month(주문 날짜)}" 표현식으로 설정하고, 오름차순으로 정렬합니다.<br>
 
 ![](<../../../.gitbook/assets/image (2072).png>)
 

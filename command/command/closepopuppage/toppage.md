@@ -28,19 +28,19 @@
 
 다음은 주문 목록의 데이터를 수정하여 값을 테이블로 다시 전달하는 방법을 보여 줍니다.
 
-![](https://help.grapecity.com.cn/download/thumbnails/72353894/%E6%AD%A5%E9%AA%A41.png?version=1\&modificationDate=1648092552000\&api=v2) 주문 정보 페이지에서 테이블에서 편집 하이퍼링크를 선택하고 편집 명령을 클릭합니다.
+1. 주문 정보 페이지에서 테이블에서 편집 하이퍼링크를 선택하고 편집 명령을 클릭합니다.
 
 ![](<../../../.gitbook/assets/image (2252).png>)
 
-![](https://help.grapecity.com.cn/download/thumbnails/72353894/%E6%AD%A5%E9%AA%A42.png?version=1\&modificationDate=1648092552000\&api=v2) 설정 명령은 팝업 페이지이며, 페이지는 팝업 페이지를 선택하고 테이블의 주문 번호가 있는 셀 I10의 값을 팝업 페이지의 대상 셀 H4로 전달합니다.
+2. 설정 명령은 팝업 페이지이며, 페이지는 팝업 페이지를 선택하고 테이블의 주문 번호가 있는 셀 I10의 값을 팝업 페이지의 대상 셀 H4로 전달합니다.
 
 ![](<../../../.gitbook/assets/image (551).png>)
 
-![](https://help.grapecity.com.cn/download/thumbnails/72353894/%E6%AD%A5%E9%AA%A43.png?version=1\&modificationDate=1648092552000\&api=v2) 팝업 페이지를 엽니다. 페이지에서 \[수정] 버튼의 명령을 편집하고\[팝업 닫기] 명령으로 명령을 선택하고 \[입력 값을 상위 페이지에 반환]을 선택합니다.
+3. 팝업 페이지를 엽니다. 페이지에서 \[수정] 버튼의 명령을 편집하고\[팝업 닫기] 명령으로 명령을 선택하고 \[입력 값을 상위 페이지에 반환]을 선택합니다.
 
 ![](<../../../.gitbook/assets/image (2251).png>)
 
-![](https://help.grapecity.com.cn/download/thumbnails/72353894/%E6%AD%A5%E9%AA%A44.png?version=1\&modificationDate=1648092552000\&api=v2) 페이지를 실행합니다. 주문이 있는 라인의 편집 하이퍼링크를 클릭하여 팝업 페이지에 현재 라인의 주문 번호를 표시합니다.
+4. 페이지를 실행합니다. 주문이 있는 라인의 편집 하이퍼링크를 클릭하여 팝업 페이지에 현재 라인의 주문 번호를 표시합니다.
 
 ![](<../../../.gitbook/assets/image (1796).png>)
 

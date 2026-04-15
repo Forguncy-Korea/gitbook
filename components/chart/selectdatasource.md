@@ -45,21 +45,21 @@
 
 리스트뷰를 데이터 원본으로 사용하는 경우 템플릿 행의 셀을 하나만 선택하여 데이터 열을 나타낼 수 있으며 여러 셀을 선택할 수 없습니다. 다음은 데이터 원본에 대한 차트 및 해당 설정을 테이블로 삽입하는 방법에 대해 자세히 설명합니다.
 
-![](https://help.grapecity.com.cn/download/thumbnails/72355838/%E6%AD%A5%E9%AA%A41.png?version=1\&modificationDate=1648092583000\&api=v2) 리스트뷰를 데이터 원본으로 사용하려면 먼저 페이지에 테이블과 필드가 이미 바인딩되어 있어야 하며 테이블 영역을 데이터 원본으로 선택한 다음 리본 메뉴 모음에서 \[삽입]을 선택해야 합니다.
+1. 리스트뷰를 데이터 원본으로 사용하려면 먼저 페이지에 테이블과 필드가 이미 바인딩되어 있어야 하며 테이블 영역을 데이터 원본으로 선택한 다음 리본 메뉴 모음에서 \[삽입]을 선택해야 합니다.
 
 ![](../../.gitbook/assets/chart11.png)
 
-![](https://help.grapecity.com.cn/download/thumbnails/72355838/%E6%AD%A5%E9%AA%A42.png?version=1\&modificationDate=1648092583000\&api=v2) 차트 영역에서 차트 유형을 선택하고 각 차트 유형을 여러 하위 차트 유형으로 나누면 차트 유형 아래의 모든 하위 차트 유형을 클릭하여 나열하고 하위 유형을 선택한 후 직접 삽입할 수 있습니다.
+2. 차트 영역에서 차트 유형을 선택하고 각 차트 유형을 여러 하위 차트 유형으로 나누면 차트 유형 아래의 모든 하위 차트 유형을 클릭하여 나열하고 하위 유형을 선택한 후 직접 삽입할 수 있습니다.
 
 예를 들어 다음 그림과 같이 클러스터된 세로 막대형 차트를 선택합니다.
 
 ![](../../.gitbook/assets/chart3.png)
 
-![](https://help.grapecity.com.cn/download/thumbnails/72355838/%E6%AD%A5%E9%AA%A43.png?version=1\&modificationDate=1648092583000\&api=v2) 차트 유형을 선택하여 차트를 삽입합니다. 예를 들어 다음 그림과 같이 클러스터된 세로 막대형 차트를 삽입합니다.
+3. 차트 유형을 선택하여 차트를 삽입합니다. 예를 들어 다음 그림과 같이 클러스터된 세로 막대형 차트를 삽입합니다.
 
 ![](<../../.gitbook/assets/chart12 (1).png>)
 
-![](https://help.grapecity.com.cn/download/thumbnails/72355838/%E6%AD%A5%E9%AA%A44.png?version=1\&modificationDate=1648092583000\&api=v2)  데이터 원본을 선택합니다. 리본 메뉴 모음에서 \[디자인-> 데이터 선택]을 선택하거나 차트에서 마우스 오른쪽 버튼을 클릭하고 팝업 메뉴에서 \[데이터 선택]을 선택하여 차트에 표시된 데이터를 추가로 변경하고 재정렬합니다.
+4. &#x20;데이터 원본을 선택합니다. 리본 메뉴 모음에서 \[디자인-> 데이터 선택]을 선택하거나 차트에서 마우스 오른쪽 버튼을 클릭하고 팝업 메뉴에서 \[데이터 선택]을 선택하여 차트에 표시된 데이터를 추가로 변경하고 재정렬합니다.
 
 다음과 같이 설정할 수 있습니다.
 
@@ -76,13 +76,13 @@
 
 데이터 테이블을 데이터 원본으로 직접 사용하여 차트를 만들 수 있습니다.
 
-![](https://help.grapecity.com.cn/download/thumbnails/80943376/%E6%AD%A5%E9%AA%A41.png?version=1\&modificationDate=1673923126000\&api=v2)  빈 차트를 생성한 후 차트를 선택하고 마우스 오른쪽 버튼을 클릭한 후 오른쪽 클릭 메뉴에서 "데이터 선택"을 선택하면 데이터 선택 대화 상자가 팝업됩니다.
+1. 빈 차트를 생성한 후 차트를 선택하고 마우스 오른쪽 버튼을 클릭한 후 오른쪽 클릭 메뉴에서 "데이터 선택"을 선택하면 데이터 선택 대화 상자가 팝업됩니다.
 
 <figure><img src="../../.gitbook/assets/image (665).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (835).png" alt=""><figcaption></figcaption></figure>
 
-![](https://help.grapecity.com.cn/download/thumbnails/80943376/%E6%AD%A5%E9%AA%A42.png?version=1\&modificationDate=1673923126000\&api=v2)  데이터 선택 대화 상자에서 "데이터 소스"를 선택한 후 데이터 소스 옆의 "설정"을 클릭하여 데이터를 가져오면 다음과 같은 대화 상자가 나타납니다.
+2. &#x20;데이터 선택 대화 상자에서 "데이터 소스"를 선택한 후 데이터 소스 옆의 "설정"을 클릭하여 데이터를 가져오면 다음과 같은 대화 상자가 나타납니다.
 
 차트 데이터 소스로 설정할 데이터 테이블을 선택한 후 선택 항목, 쿼리 조건, 쿼리 행 수, 정렬 등을 설정할 수 있습니다.
 
@@ -93,7 +93,7 @@
 
 <figure><img src="../../.gitbook/assets/image (766).png" alt=""><figcaption></figcaption></figure>
 
-![](https://help.grapecity.com.cn/download/thumbnails/80943376/%E6%AD%A5%E9%AA%A43.png?version=1\&modificationDate=1673923126000\&api=v2)  "확인"을 클릭하여 설정 대화 상자를 닫은 후 다음 설정을 지정할 수도 있습니다.
+3. &#x20;"확인"을 클릭하여 설정 대화 상자를 닫은 후 다음 설정을 지정할 수도 있습니다.
 
 * 범례 항목(계열): 범례 항목(계열)을 추가, 수정, 삭제, 위아래로 이동, 데이터 테이블을 데이터 소스로 사용하는 경우 데이터 소스의 한 열만 계열 데이터로 선택할 수 있습니다.
 * 가로(범주) 축 레이블: 가로(범주) 축 레이블을 편집합니다. 데이터 테이블을 데이터 소스로 사용하는 경우 데이터 소스에서 하나의 컬럼만 축 레이블 값으로 선택할 수 있습니다.
@@ -101,7 +101,7 @@
 
 <figure><img src="../../.gitbook/assets/image (1475).png" alt=""><figcaption></figcaption></figure>
 
-![](https://help.grapecity.com.cn/download/thumbnails/80943376/%E6%AD%A5%E9%AA%A44.png?version=1\&modificationDate=1673923126000\&api=v2)  데이터 소스가 설정되면 차트를 미리 볼 수 있습니다.
+4. &#x20;데이터 소스가 설정되면 차트를 미리 볼 수 있습니다.
 
 <figure><img src="../../.gitbook/assets/image (1577).png" alt=""><figcaption></figcaption></figure>
 
@@ -111,21 +111,21 @@
 
 다음은 피벗 테이블을 데이터 원본에 대한 차트 삽입 및 해당 설정에 대해 자세히 설명합니다.
 
-![](https://help.grapecity.com.cn/download/thumbnails/72355838/%E6%AD%A5%E9%AA%A41.png?version=1\&modificationDate=1648092583000\&api=v2) 피벗 테이블을 데이터 원본으로 사용하려면 먼저 페이지에 테이블과 필드가 이미 바인딩되어 있고 해당 테이블이 원본으로 피벗 테이블을 만들어야 합니다.
+1. 피벗 테이블을 데이터 원본으로 사용하려면 먼저 페이지에 테이블과 필드가 이미 바인딩되어 있고 해당 테이블이 원본으로 피벗 테이블을 만들어야 합니다.
 
 그런 다음 피벗 테이블 영역을 데이터 원본으로 선택하고 리본 메뉴 모음에서 삽입을 선택합니다.
 
 ![](../../.gitbook/assets/pivot9.png)
 
-![](https://help.grapecity.com.cn/download/thumbnails/72355838/%E6%AD%A5%E9%AA%A42.png?version=1\&modificationDate=1648092583000\&api=v2) 차트 영역에서 차트 유형을 선택하고 각 차트 유형을 여러 하위 차트 유형으로 나누면 차트 유형 아래의 모든 하위 차트 유형을 클릭하여 나열하고 하위 유형을 선택한 후 직접 삽입할 수 있습니다.
+2. 차트 영역에서 차트 유형을 선택하고 각 차트 유형을 여러 하위 차트 유형으로 나누면 차트 유형 아래의 모든 하위 차트 유형을 클릭하여 나열하고 하위 유형을 선택한 후 직접 삽입할 수 있습니다.
 
 예를 들어 다음 그림과 같이 클러스터된 세로 막대형 차트를 선택합니다.
 
-![](https://help.grapecity.com.cn/download/thumbnails/72355838/%E6%AD%A5%E9%AA%A43.png?version=1\&modificationDate=1648092583000\&api=v2) 차트 유형을 선택하여 차트를 삽입합니다. 예를 들어 다음 그림과 같이 클러스터된 세로 막대형 차트를 삽입합니다.
+3. 차트 유형을 선택하여 차트를 삽입합니다. 예를 들어 다음 그림과 같이 클러스터된 세로 막대형 차트를 삽입합니다.
 
 ![](../../.gitbook/assets/pivot10.png)
 
-![](https://help.grapecity.com.cn/download/thumbnails/72355838/%E6%AD%A5%E9%AA%A44.png?version=1\&modificationDate=1648092583000\&api=v2)  데이터 원본을 봅니다. 리본 메뉴 모음에서 \[디자인-> 데이터 선택]을 선택하거나 차트에서 마우스 오른쪽 버튼을 클릭하고 팝업 메뉴에서 \[데이터 선택]을 선택하면 데이터 소스 선택 대화 상자가 나타나지만 편집할 수는 없습니다.
+4. 데이터 원본을 봅니다. 리본 메뉴 모음에서 \[디자인-> 데이터 선택]을 선택하거나 차트에서 마우스 오른쪽 버튼을 클릭하고 팝업 메뉴에서 \[데이터 선택]을 선택하면 데이터 소스 선택 대화 상자가 나타나지만 편집할 수는 없습니다.
 
 ![](../../.gitbook/assets/pivot8.png)
 

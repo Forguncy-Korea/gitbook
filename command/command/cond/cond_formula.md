@@ -22,29 +22,28 @@
 
 예를 들어 첫 페이지에는 관리자 역할의 사용자가 클릭할 때 주문 목록 페이지로 이동하는 버튼이 있습니다. 다른 사용자가 이 버튼을 클릭하면 메시지 상자가 나타납니다.
 
-![](https://help.grapecity.com.cn/download/thumbnails/72354253/%E6%AD%A5%E9%AA%A41.png?version=1\&modificationDate=1648092558000\&api=v2) 첫 페이지에서 \[로그인 사용자]로 선택한 셀 범위를 선택하고 \[주문 보기] 버튼 설정하여 \[조건문 만들기] 명령으로 명령을 설정합니다.
+1. &#x20;첫 페이지에서 \[로그인 사용자]로 선택한 셀 범위를 선택하고 \[주문 보기] 버튼 설정하여 \[조건문 만들기] 명령으로 명령을 설정합니다.
 
 ![](<../../../.gitbook/assets/image (1861).png>)
 
-![](https://help.grapecity.com.cn/download/thumbnails/72354253/%E6%AD%A5%E9%AA%A42.png?version=1\&modificationDate=1648092558000\&api=v2)  조건을 설정합니다. \[If \[조건식]을 클릭하고, \[새 조건]을 클릭하고 필드를 \[로그인 사용자]로 설정합니다. 역할, 작업은 같음, 값은 관리자입니다.
+2. &#x20; 조건을 설정합니다. \[If \[조건식]을 클릭하고, \[새 조건]을 클릭하고 필드를 \[로그인 사용자]로 설정합니다. 역할, 작업은 같음, 값은 관리자입니다.
 
 설정이 완료되면 확인을 클릭합니다.
 
 ![](<../../../.gitbook/assets/image (1624).png>)
 
-![](https://help.grapecity.com.cn/download/thumbnails/72354253/%E6%AD%A5%E9%AA%A43.png?version=1\&modificationDate=1648092558000\&api=v2) 명령을 설정합니다. \[If \[조건식]에서 \[명령없음]을 클릭하고 오른쪽의 \[선택 명령] 콤보 상자에서 \[명령] 페이지 이동을 선택하고 페이지에서 \[주문 목록]을 선택합니다.
+3. 명령을 설정합니다. \[If \[조건식]에서 \[명령없음]을 클릭하고 오른쪽의 \[선택 명령] 콤보 상자에서 \[명령] 페이지 이동을 선택하고 페이지에서 \[주문 목록]을 선택합니다.
 
 설정이 완료되면 확인을 클릭합니다.
 
 ![](<../../../.gitbook/assets/image (2306).png>)
 
-![](https://help.grapecity.com.cn/download/thumbnails/72354253/%E6%AD%A5%E9%AA%A44.png?version=1\&modificationDate=1648092558000\&api=v2)  \[Else 추가]를 선택합니다.
-
-![](https://help.grapecity.com.cn/download/thumbnails/72354253/%E6%AD%A5%E9%AA%A45.png?version=1\&modificationDate=1648092558000\&api=v2) \[Else] 아래의 \[빈 명령]을 클릭하고 오른쪽의 \[선택 명령] 콤보 상자에서 \[메시지 보여주]를 선택합니다. 설정이 완료되면 \[확인]을 클릭하여 명령 선택 창을 닫고 명령 창을 닫습니다.
+4. &#x20; \[Else 추가]를 선택합니다.
+5. &#x20;\[Else] 아래의 \[빈 명령]을 클릭하고 오른쪽의 \[선택 명령] 콤보 상자에서 \[메시지 보여주]를 선택합니다. 설정이 완료되면 \[확인]을 클릭하여 명령 선택 창을 닫고 명령 창을 닫습니다.
 
 ![](<../../../.gitbook/assets/image (1415).png>)
 
-![](https://help.grapecity.com.cn/download/thumbnails/72354253/%E6%AD%A5%E9%AA%A46.png?version=1\&modificationDate=1648092558000\&api=v2) 페이지를 실행한 후 사용자에게 로그인해야 합니다.
+6. &#x20;페이지를 실행한 후 사용자에게 로그인해야 합니다.
 
 관리자 계정으로 로그인합니다. 로그인한 후 주문 보기를 클릭하여 주문 목록 페이지로 이동합니다.&#x20;
 

@@ -20,21 +20,20 @@ Excel 데이터를 리스트뷰로 가져오기 명령에서 데이터를 가져
 
 다음은 두 명령을 함께 사용하는 절차를 보여 주는 예제입니다.
 
-![](https://help.grapecity.com.cn/download/thumbnails/72354196/%E6%AD%A5%E9%AA%A41.png?version=1\&modificationDate=1648092557000\&api=v2) 주문 목록 페이지에서 버튼을 추가하고 명령을 파일 다운로드로 설정하고 다운로드 가능한 파일인 주문 템플릿 .xlsx 업로드합니다. 자세한 내용은 [Excel 명령 - 템플릿 파일 다운로드](excel.md)를 참조하십시오.
+1. 주문 목록 페이지에서 버튼을 추가하고 명령을 파일 다운로드로 설정하고 다운로드 가능한 파일인 주문 템플릿 .xlsx 업로드합니다. 자세한 내용은 [Excel 명령 - 템플릿 파일 다운로드](excel.md)를 참조하십시오.
 
 ![](<../../.gitbook/assets/image (1098).png>)
 
-![](https://help.grapecity.com.cn/download/thumbnails/72354196/%E6%AD%A5%E9%AA%A42.png?version=1\&modificationDate=1648092557000\&api=v2) 주문 목록 페이지에 추가합니다.\[Excel 가져오기] 버튼을 사용하여 \[Excel을 리스트뷰로 가져오기]로 명령을 설정하고 가져온 테이블 \[리스트뷰 1] 및 가져오기 모드 \[추가]를 선택합니다. 리스트뷰 1을 선택하면 템플릿 열과 템플릿 열  이름이 자동으로 채워집니다.
+2. 주문 목록 페이지에 추가합니다.\[Excel 가져오기] 버튼을 사용하여 \[Excel을 리스트뷰로 가져오기]로 명령을 설정하고 가져온 테이블 \[리스트뷰 1] 및 가져오기 모드 \[추가]를 선택합니다. 리스트뷰 1을 선택하면 템플릿 열과 템플릿 열  이름이 자동으로 채워집니다.
 
 ![](<../../.gitbook/assets/image (1304).png>)
 
-![](https://help.grapecity.com.cn/download/thumbnails/72354196/%E6%AD%A5%E9%AA%A43.png?version=1\&modificationDate=1648092557000\&api=v2) 페이지를 실행하고 파일 다운로드 버튼을 클릭하여 주문정보 .xlsx 로컬로 다운로드합니다.
-
-![](https://help.grapecity.com.cn/download/thumbnails/72354196/%E6%AD%A5%E9%AA%A44.png?version=1\&modificationDate=1648092557000\&api=v2) 엑셀파일에 주문 데이터를 입력한 후 저장합니다
+3. 페이지를 실행하고 파일 다운로드 버튼을 클릭하여 주문정보 .xlsx 로컬로 다운로드합니다.
+4. &#x20;엑셀파일에 주문 데이터를 입력한 후 저장합니다
 
 ![](<../../.gitbook/assets/image (1140).png>)
 
-![](https://help.grapecity.com.cn/download/thumbnails/72354196/%E6%AD%A5%E9%AA%A45.png?version=1\&modificationDate=1648092557000\&api=v2) 주문 목록 페이지에서\[Excel 가져오기] 버튼을 클릭하고 데이터를 채울 \[주문정보 .xlsx] 파일을 선택한 후 \[열기]를 클릭하면 선택한 주문 데이터 Excel 파일의 데이터가 테이블로 가져옵니다.
+5. 주문 목록 페이지에서\[Excel 가져오기] 버튼을 클릭하고 데이터를 채울 \[주문정보 .xlsx] 파일을 선택한 후 \[열기]를 클릭하면 선택한 주문 데이터 Excel 파일의 데이터가 테이블로 가져옵니다.
 
 ![](<../../.gitbook/assets/image (1135).png>)
 

@@ -10,11 +10,11 @@
 
 차트의 범주 부분을 클릭하면 상세 정보를 확인할 수 있는 기능을 구현합니다.
 
-![](https://help.grapecity.com.cn/download/thumbnails/72356166/%E6%AD%A5%E9%AA%A41.png?version=1\&modificationDate=1648092588000\&api=v2) 리스트뷰 선택하고 리본 메뉴에서 \[삽입]>\[원형] 을 선택하고 원형 차트를 클릭하여 원형차트를 삽입합니다.
+1. 리스트뷰 선택하고 리본 메뉴에서 \[삽입]>\[원형] 을 선택하고 원형 차트를 클릭하여 원형차트를 삽입합니다.
 
 ![](<../../.gitbook/assets/2 (1).png>)
 
-![](https://help.grapecity.com.cn/download/thumbnails/72356166/%E6%AD%A5%E9%AA%A42.png?version=1\&modificationDate=1648092588000\&api=v2) 원형 차트를 선택하고 리본 메뉴 모음에서 \[차트 도구-디자인-> 차트 변경 명령]을 선택하여 차트 명령 설정 대화 상자를 표시합니다.
+2. 원형 차트를 선택하고 리본 메뉴 모음에서 \[차트 도구-디자인-> 차트 변경 명령]을 선택하여 차트 명령 설정 대화 상자를 표시합니다.
 
 ![](<../../.gitbook/assets/1 (1).png>)
 
@@ -28,13 +28,13 @@
 
 ![](<../../.gitbook/assets/image (1173).png>)
 
-![](https://help.grapecity.com.cn/download/thumbnails/72356166/%E6%AD%A5%E9%AA%A43.png?version=1\&modificationDate=1648092588000\&api=v2) 세부 정보 페이지에서 영역이 C11의 값과 같을 때 테이블에 대한 쿼리 조건을 설정합니다. 10행 셀 설정을 숨깁니다.
+3. &#x20;세부 정보 페이지에서 영역이 C11의 값과 같을 때 테이블에 대한 쿼리 조건을 설정합니다. 10행 셀 설정을 숨깁니다.
 
 테이블의 조회 조건 설정은 테이블 조회를 참조하십시오.
 
 ![](../../.gitbook/assets/4.png)
 
-![](https://help.grapecity.com.cn/download/thumbnails/72356166/%E6%AD%A5%E9%AA%A44.png?version=1\&modificationDate=1648092588000\&api=v2) 설정이 완료되면 확인을 클릭하여 페이지를 실행합니다.
+4. 설정이 완료되면 확인을 클릭하여 페이지를 실행합니다.
 
 원형 차트의 다른 영역을 클릭하면 해당 지역의 해당 지역에 대한 판매 세부 정보가 나타납니다.
 

@@ -8,15 +8,15 @@
 
 페이지에 접근하기 전에 로그인할 사용자를 설정하고 페이지 권한을 설정해야 합니다.
 
-![](https://help.grapecity.com.cn/download/thumbnails/72352590/%E6%AD%A5%E9%AA%A41.png?version=1\&modificationDate=1648092534000\&api=v2)  "보안 -> 권한관리"에서 로그인한 사용자만 페이지에 액세스할 수 있도록 설정합니다.
+1. &#x20; "보안 -> 권한관리"에서 로그인한 사용자만 페이지에 액세스할 수 있도록 설정합니다.
 
 <figure><img src="../../../.gitbook/assets/image (1483).png" alt=""><figcaption></figcaption></figure>
 
-![](https://help.grapecity.com.cn/download/thumbnails/72352590/%E6%AD%A5%E9%AA%A42.png?version=1\&modificationDate=1648092534000\&api=v2)  실행 후 로그인 페이지가 표시되며 사용자는 로그인해야 합니다.
+2. &#x20; 실행 후 로그인 페이지가 표시되며 사용자는 로그인해야 합니다.
 
 <figure><img src="../../../.gitbook/assets/image (2220).png" alt=""><figcaption></figcaption></figure>
 
-![](https://help.grapecity.com.cn/download/thumbnails/72352590/%E6%AD%A5%E9%AA%A43.png?version=1\&modificationDate=1648092534000\&api=v2)  사용자 이름과 암호를 입력한 후 "로그인" 버튼을 클릭하여 페이지에 액세스합니다.
+3. &#x20;사용자 이름과 암호를 입력한 후 "로그인" 버튼을 클릭하여 페이지에 액세스합니다.
 
 
 

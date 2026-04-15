@@ -14,7 +14,7 @@
 
 **절차를 따르십시오**
 
-![](https://help.grapecity.com.cn/download/thumbnails/64456400/%E6%AD%A5%E9%AA%A41.png?version=1\&modificationDate=1633779322000\&api=v2)  보조 그룹화를 추가합니다. 행 그룹화 셀 판매 지역을 마우스 오른쪽 버튼 클릭하고 행 그룹화 > 자식 그룹화를 선택하여 행 그룹에 보조 하위 그룹을 추가합니다.
+1. 보조 그룹화를 추가합니다. 행 그룹화 셀 판매 지역을 마우스 오른쪽 버튼 클릭하고 행 그룹화 > 자식 그룹화를 선택하여 행 그룹에 보조 하위 그룹을 추가합니다.
 
 ![](<../../../.gitbook/assets/image (542).png>)
 
@@ -22,7 +22,7 @@
 
 ![](<../../../.gitbook/assets/image (891).png>)
 
-![](https://help.grapecity.com.cn/download/thumbnails/64456400/%E6%AD%A5%E9%AA%A43.png?version=1\&modificationDate=1633779322000\&api=v2)  보조 그룹에 대한 요약 작업을 추가합니다. 판매 지역 셀을 마우스 오른쪽 버튼을 클릭하고 합계를 선택합니다
+2. 보조 그룹에 대한 요약 작업을 추가합니다. 판매 지역 셀을 마우스 오른쪽 버튼을 클릭하고 합계를 선택합니다
 
 ![](<../../../.gitbook/assets/image (1792).png>)
 
@@ -32,6 +32,6 @@
 예를 들어 첫 번째 수준 그룹 "판매 지역"에 추가되었으며, 여기서는 두 번째 수준 그룹인 "판매 지방"에 대한 요약을 추가한 다음 세 번째 수준 그룹인 "판매 도시"에 대한 요약을 추가합니&#xB2E4;**.**
 {% endhint %}
 
-![](https://help.grapecity.com.cn/download/thumbnails/64456400/%E6%AD%A5%E9%AA%A45.png?version=1\&modificationDate=1633779322000\&api=v2)  보고서를 미리 보면 테이블릭스의 행이 다차원 그룹화 통계임을 알 수 있습니다.
+3. 보고서를 미리 보면 테이블릭스의 행이 다차원 그룹화 통계임을 알 수 있습니다.
 
 ![](<../../../.gitbook/assets/image (1158).png>)

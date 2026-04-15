@@ -19,21 +19,19 @@
 
 예를 들어 직원목록에서 직원 상태가 변경되면 이메일 알람이 전송됩니다.&#x20;
 
-![](https://help.grapecity.com.cn/download/thumbnails/72354420/%E6%AD%A5%E9%AA%A41.png?version=1\&modificationDate=1648092563000\&api=v2)  페이지에 버튼을 추가하고 명령을 "이메일 알림 설정 명령"으로 설정합니다.
-
-![](https://help.grapecity.com.cn/download/thumbnails/72354420/%E6%AD%A5%E9%AA%A42.png?version=1\&modificationDate=1648092563000\&api=v2)  구독 정보를 설정합니다. 이메일 구독의 이름은 "주문정보", 대상 테이블은 "주문정보테이블", "뷰쿼리설정"을 체크하고 "새 조건"을 클릭하고 조건은 "주문 상태"가 "미주문"과 같습니다로.설정합니다.&#x20;
+1. 페이지에 버튼을 추가하고 명령을 "이메일 알림 설정 명령"으로 설정합니다.
+2. &#x20; 구독 정보를 설정합니다. 이메일 구독의 이름은 "주문정보", 대상 테이블은 "주문정보테이블", "뷰쿼리설정"을 체크하고 "새 조건"을 클릭하고 조건은 "주문 상태"가 "미주문"과 같습니다로.설정합니다.&#x20;
 
 아래 그림에 나와 있습니다.
 
 <figure><img src="../../.gitbook/assets/image (1435).png" alt=""><figcaption></figcaption></figure>
 
-![](https://help.grapecity.com.cn/download/thumbnails/72354420/%E6%AD%A5%E9%AA%A43.png?version=1\&modificationDate=1648092563000\&api=v2)  알림 필드를 설정합니다. 하나 이상의 알림 필드를 추가하려면 새 필드를 클릭합니다.
-
-![](https://help.grapecity.com.cn/download/thumbnails/72354420/%E6%AD%A5%E9%AA%A44.png?version=1\&modificationDate=1648092563000\&api=v2)  아래 그림과 같이 "고급 설정 표시"를 클릭하여 보낸 사람의 주소, 이름 및 이메일 헤더 접두사를 설정합니다.
+3. 알림 필드를 설정합니다. 하나 이상의 알림 필드를 추가하려면 새 필드를 클릭합니다.
+4. 아래 그림과 같이 "고급 설정 표시"를 클릭하여 보낸 사람의 주소, 이름 및 이메일 헤더 접두사를 설정합니다.
 
 <figure><img src="../../.gitbook/assets/image (1784).png" alt=""><figcaption></figcaption></figure>
 
-![](https://help.grapecity.com.cn/download/thumbnails/72354420/%E6%AD%A5%E9%AA%A45.png?version=1\&modificationDate=1648092563000\&api=v2)  설정이 완료되면 "확인"을 클릭하여 명령 창을 닫습니다.
+5. &#x20; 설정이 완료되면 "확인"을 클릭하여 명령 창을 닫습니다.
 
 프로젝트를 실행한 후 "메일 구독" 버튼을 클릭하면 내장된 "이메일 구독" 페이지로 페이지가 이동합니다. 필요에 따라 이메일을 구독하고 확인을 클릭합니다.
 

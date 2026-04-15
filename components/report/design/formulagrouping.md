@@ -8,19 +8,19 @@
 
 ## 식 그룹화&#x20;
 
-![](https://help.grapecity.com.cn/download/thumbnails/64455871/%E6%AD%A5%E9%AA%A41.png?version=1\&modificationDate=1633694861000\&api=v2) 새 테이블을 만듭니다.
+1. 새 테이블을 만듭니다.
 
 새 보고서를 만들고 데이터 원본을 추가합니다. 테이블 구성 요소를 추가하고, 데이터 필드를 바인딩하고, 테이블을 적절하게 확장합니다.&#x20;
 
 ![](<../../../.gitbook/assets/image (1828).png>)
 
-![](https://help.grapecity.com.cn/download/thumbnails/64455871/%E6%AD%A5%E9%AA%A42.png?version=1\&modificationDate=1633694861000\&api=v2) 그룹화를 추가합니다.
+2. 그룹화를 추가합니다.
 
 테이블의 셀을 클릭하여 테이블에 테이블 그룹화 창이 표시되도록 한 다음 주문 날짜를 테이블 그룹화 창으로 드래그하면 테이블에 그룹화가 나타납니다.
 
 ![](<../../../.gitbook/assets/image (2088).png>)
 
-![](https://help.grapecity.com.cn/download/thumbnails/64455871/%E6%AD%A5%E9%AA%A43.png?version=1\&modificationDate=1633694861000\&api=v2) 사용정 그룹화 식입니다.
+3. 사용정 그룹화 식입니다.
 
 \[테이블 그룹화] 창에서 \[양식 1\_주문 날짜 1]을 클릭하여 속성 설정 패널의 그룹화 조건 표현식을 **{Month(주문 날짜)}**&#xB85C; 변경합니다.
 
@@ -30,13 +30,13 @@
 
 ![](<../../../.gitbook/assets/image (356).png>)
 
-![](https://help.grapecity.com.cn/download/thumbnails/64455871/%E6%AD%A5%E9%AA%A44.png?version=1\&modificationDate=1633694861000\&api=v2)그룹 헤더 표현식을 수정합니다.
+4. 그룹 헤더 표현식을 수정합니다.
 
 그룹 헤더 셀 표현식을 "{Month(주문 일자)}월"로 조정하여 그룹 헤더가 "1월, 2월, 3월"로 표시되도록 합니다.
 
 ![](<../../../.gitbook/assets/image (1897).png>)
 
-![](https://help.grapecity.com.cn/download/thumbnails/64455871/%E6%AD%A5%E9%AA%A45.png?version=1\&modificationDate=1633694861000\&api=v2) 보고서를 미리 봅니다.
+5. 보고서를 미리 봅니다.
 
 표시되는 데이터는 월별로 그룹화되어 표시됩니다.
 

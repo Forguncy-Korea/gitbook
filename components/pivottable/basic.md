@@ -6,17 +6,16 @@
 
 피벗 테이블을 빌드하는 방법은 다음과 같습니다.
 
-![](https://help.grapecity.com.cn/download/thumbnails/72356225/%E6%AD%A5%E9%AA%A41.png?version=1\&modificationDate=1648092589000\&api=v2) 테이블을 바인딩한 후 페이지에서 범위를 선택하고 셀 유형을 피벗 테이블로 설정합니다.
-
-![](https://help.grapecity.com.cn/download/thumbnails/72356225/%E6%AD%A5%E9%AA%A42.png?version=1\&modificationDate=1648092589000\&api=v2) 셀 설정에서 \[피벗 테이블 설정]을 클릭하여 피벗 테이블 설정 대화 상자를 표시합니다.
+1. 테이블을 바인딩한 후 페이지에서 범위를 선택하고 셀 유형을 피벗 테이블로 설정합니다.
+2. &#x20;셀 설정에서 \[피벗 테이블 설정]을 클릭하여 피벗 테이블 설정 대화 상자를 표시합니다.
 
 ![](../../.gitbook/assets/chart14.png)
 
-![](https://help.grapecity.com.cn/download/thumbnails/72356225/%E6%AD%A5%E9%AA%A43.png?version=1\&modificationDate=1648092589000\&api=v2) 피벗 테이블 설정 대화 상자에서 테이블을 선택하고 선택하면 테이블의 모든 필드가 아래 영역에 표시됩니다.
+3. 피벗 테이블 설정 대화 상자에서 테이블을 선택하고 선택하면 테이블의 모든 필드가 아래 영역에 표시됩니다.
 
 ![](<../../.gitbook/assets/pivot1 (1).png>)
 
-![](https://help.grapecity.com.cn/download/thumbnails/72356225/%E6%AD%A5%E9%AA%A44.png?version=1\&modificationDate=1648092589000\&api=v2) 피벗 테이블에 추가할 필드를 선택하고 끌어서 놓기 방법을 사용하여 필드를 행, 열 및 값 영역으로 드래그합니다.
+4. &#x20;피벗 테이블에 추가할 필드를 선택하고 끌어서 놓기 방법을 사용하여 필드를 행, 열 및 값 영역으로 드래그합니다.
 
 ![](../../.gitbook/assets/pivot2.png)
 
@@ -26,7 +25,7 @@
 
 
 
-![](https://help.grapecity.com.cn/download/thumbnails/72356225/%E6%AD%A5%E9%AA%A45.png?version=1\&modificationDate=1648092589000\&api=v2) 필드 설정입니다. 필드 오른쪽에 있는 드롭다운 메뉴를 클릭하고 필드 설정을 선택합니다.
+5. 필드 설정입니다. 필드 오른쪽에 있는 드롭다운 메뉴를 클릭하고 필드 설정을 선택합니다.
 
 * 필드와 연결된 값 및 숫자 형식은 행 및 열 영역의 필드 설정에서 설정할 수 있습니다.
 
@@ -38,11 +37,11 @@
 
 ![](../../.gitbook/assets/pivot5.png)
 
-![](https://help.grapecity.com.cn/download/thumbnails/72356225/%E6%AD%A5%E9%AA%A46.png?version=1\&modificationDate=1648092589000\&api=v2) 설정이 완료되면 \[확인]을 클릭하여 피벗 테이블 설정 대화 상자를 닫고 피벗 테이블 작성을 완료합니다.<br>
+6. 설정이 완료되면 \[확인]을 클릭하여 피벗 테이블 설정 대화 상자를 닫고 피벗 테이블 작성을 완료합니다.<br>
 
 페이지를 실행하여 브라우저에서 작성된 피벗 테이블을 볼 수 있습니다.
 
-![](https://help.grapecity.com.cn/download/thumbnails/72356225/%E6%AD%A5%E9%AA%A47.png?version=1\&modificationDate=1648092589000\&api=v2) 피벗 테이블을 빌드한 후 피벗 테이블 속성을 설정할 수도 있습니다. 피벗 테이블 속성에는 소계 표시, 모든 행 표시, 모든 열 표가 포함됩니다. 기본적으로 이 세 가지를 선택합니다.
+7. 피벗 테이블을 빌드한 후 피벗 테이블 속성을 설정할 수도 있습니다. 피벗 테이블 속성에는 소계 표시, 모든 행 표시, 모든 열 표가 포함됩니다. 기본적으로 이 세 가지를 선택합니다.
 
 ![](../../.gitbook/assets/pivot6.png)
 

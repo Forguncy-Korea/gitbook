@@ -20,15 +20,13 @@
 
 **절차를 따르십시오**
 
-![](https://help.grapecity.com.cn/download/thumbnails/72352836/%E6%AD%A5%E9%AA%A41.png?version=1\&modificationDate=1648092537000\&api=v2) 리본 메뉴 모음에서 \[홈-> 셀 스타일]을 선택하여 셀 스타일 목록을 표시합니다. 위의 그림에 나와 있습니다.
-
-![](https://help.grapecity.com.cn/download/thumbnails/72352836/%E6%AD%A5%E9%AA%A42.png?version=1\&modificationDate=1648092537000\&api=v2) 셀 스타일 목록에서 \[신규 셀 스타일 만들기]를 클릭하여 \[셀 스타일 설] 대화 상자를 표시합니다.
+1. 리본 메뉴 모음에서 \[홈-> 셀 스타일]을 선택하여 셀 스타일 목록을 표시합니다. 위의 그림에 나와 있습니다.
+2. &#x20;셀 스타일 목록에서 \[신규 셀 스타일 만들기]를 클릭하여 \[셀 스타일 설] 대화 상자를 표시합니다.
 
 ![](<../../.gitbook/assets/image (1364).png>)
 
-![](https://help.grapecity.com.cn/download/thumbnails/72352836/%E6%AD%A5%E9%AA%A43.png?version=1\&modificationDate=1648092537000\&api=v2) \[이름] 뒤에 있는 텍스트 상자에 스타일의 이름을 입력합니다.<br>
-
-![](https://help.grapecity.com.cn/download/thumbnails/72352836/%E6%AD%A5%E9%AA%A44.png?version=1\&modificationDate=1648092537000\&api=v2) 일반, 커서올림, 활성화, 포커스, 비활성화 및 다른 상태 간에 전환할 때 전환 애니메이션의 길이를 포함하여 각 상태에서 셀의 스타일을 지정합니다.
+3. &#x20;\[이름] 뒤에 있는 텍스트 상자에 스타일의 이름을 입력합니다.<br>
+4. &#x20;일반, 커서올림, 활성화, 포커스, 비활성화 및 다른 상태 간에 전환할 때 전환 애니메이션의 길이를 포함하여 각 상태에서 셀의 스타일을 지정합니다.
 
 셀의 색상, 테두리, 원형 테두리, 그림자 등을 설정하는 상태를 선택합니다. 아래 미리 보기 영역에서 셀 스타일 효과를 볼 수 있습니다.
 
@@ -44,6 +42,6 @@
 
 <figure><img src="../../.gitbook/assets/image (958).png" alt=""><figcaption></figcaption></figure>
 
-![](https://help.grapecity.com.cn/download/thumbnails/72352836/%E6%AD%A5%E9%AA%A45.png?version=1\&modificationDate=1648092537000\&api=v2) \[확인]을 클릭하면 버 셀에 스타일이 적용되고 \[셀 스타일]을 클릭하면 스타일 목록 맨 위에 사용자 지정 스타일이 나열됩니다.
+5. &#x20;\[확인]을 클릭하면 버 셀에 스타일이 적용되고 \[셀 스타일]을 클릭하면 스타일 목록 맨 위에 사용자 지정 스타일이 나열됩니다.
 
 <figure><img src="../../.gitbook/assets/image (983).png" alt=""><figcaption></figcaption></figure>

@@ -9,7 +9,7 @@ PostgreSQL 데이터베이스에 연결하는 방법에 대해 설명합니다.
 
 PostgreSQL 데이터베이스에 연결하는 방법은 다음과 같습니다.
 
-![](https://help.grapecity.com.cn/download/thumbnails/72355176/%E6%AD%A5%E9%AA%A41.png?version=1\&modificationDate=1648092574000\&api=v2) 리본 메뉴 모음에서 \[데이터]>\[데이터베이스 연결]을 선택합니다.
+1. 리본 메뉴 모음에서 \[데이터]>\[데이터베이스 연결]을 선택합니다.
 
 ![데이터베이스 연결 ](../../.gitbook/assets/db1.png)
 
@@ -19,19 +19,18 @@ PostgreSQL 데이터베이스에 연결하는 방법은 다음과 같습니다.
 
 ![연결된 데이터베이스에서 테이블 연결 ](../../.gitbook/assets/db2.png)
 
-![](https://help.grapecity.com.cn/download/thumbnails/72355176/%E6%AD%A5%E9%AA%A42.png?version=1\&modificationDate=1648092574000\&api=v2) 데이터 소스를 \[PostgreSQL 데이터베이스]로 선택합니다.
-
-![](https://help.grapecity.com.cn/download/thumbnails/72355176/%E6%AD%A5%E9%AA%A43.png?version=1\&modificationDate=1648092574000\&api=v2) 서버 이름, 사용자 이름, 암호, 포트 번호를 입력한 후 데이터베이스를 선택합니다.
+2. 데이터 소스를 \[PostgreSQL 데이터베이스]로 선택합니다.
+3. &#x20;서버 이름, 사용자 이름, 암호, 포트 번호를 입력한 후 데이터베이스를 선택합니다.
 
 ![](../../.gitbook/assets/db17.png)
 
-![](https://help.grapecity.com.cn/download/thumbnails/72355176/%E6%AD%A5%E9%AA%A44.png?version=1\&modificationDate=1648092574000\&api=v2) 설정이 완료되면 "연결 테스트"를 클릭하여 서버 연결을 테스트하고 설정할 수 있습니다.
+4. &#x20;설정이 완료되면 "연결 테스트"를 클릭하여 서버 연결을 테스트하고 설정할 수 있습니다.
 
 &#x20;     \[확인]을 클릭합니다.
 
 ![테스트 결과 ](../../.gitbook/assets/db6.png)
 
-&#x20;![](https://help.grapecity.com.cn/download/thumbnails/72355176/%E6%AD%A5%E9%AA%A45.png?version=1\&modificationDate=1648092574000\&api=v2) \[확인]을 클릭하면 \[테이블 가져오기] 대화 상자가 나타나고, 데이터 소스의 테이블 목록에서 가져올 테이블을 선택하고, \[>]를 클릭하여 선택한 테이블을 선택한 테이블 목록으로 이동하거나, \[>>]을 클릭하여 데이터 소스의 테이블을 선택한 테이블 목록으로 이동합니다.
+&#x20;5\.  \[확인]을 클릭하면 \[테이블 가져오기] 대화 상자가 나타나고, 데이터 소스의 테이블 목록에서 가져올 테이블을 선택하고, \[>]를 클릭하여 선택한 테이블을 선택한 테이블 목록으로 이동하거나, \[>>]을 클릭하여 데이터 소스의 테이블을 선택한 테이블 목록으로 이동합니다.
 
 ![테이블 가져오기 ](../../.gitbook/assets/db7.png)
 
@@ -41,7 +40,7 @@ PostgreSQL 데이터베이스에 연결하는 방법은 다음과 같습니다.
 * 뷰를 선택한 경우 \[확인]을 클릭한 후 뷰의 기본 키를 선택합니다.
 {% endhint %}
 
-![](https://help.grapecity.com.cn/download/thumbnails/72355176/%E6%AD%A5%E9%AA%A46.png?version=1\&modificationDate=1648092574000\&api=v2) \[확인]을 클릭하여 테이블을 가져옵니다. 테이블을 열면 테이블 설정에서 해당 형식이 아웃리치 테이블인 것을 볼 수 있습니다.
+6. \[확인]을 클릭하여 테이블을 가져옵니다. 테이블을 열면 테이블 설정에서 해당 형식이 아웃리치 테이블인 것을 볼 수 있습니다.
 
 ![가져온 테이블 ](../../.gitbook/assets/db8.png)
 

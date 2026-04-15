@@ -47,10 +47,10 @@
 
 작업 이름으로 분류되는 단일 작업 버튼의 스타일입니다.
 
-![](https://help.grapecity.com.cn/download/thumbnails/56526402/%E6%AD%A5%E9%AA%A41.png?version=1\&modificationDate=1611021540000\&api=v2) \[단일 스타일]에서 제출을 선택하고 \[추가]를 클릭합니다.
+1. \[단일 스타일]에서 제출을 선택하고 \[추가]를 클릭합니다.
 
 <figure><img src="../../.gitbook/assets/image (1817).png" alt=""><figcaption></figcaption></figure>
 
-![](https://help.grapecity.com.cn/download/thumbnails/56526402/%E6%AD%A5%E9%AA%A42.png?version=1\&modificationDate=1611021540000\&api=v2) 제출 버튼을 추가한 후 \[설정]을 클릭하여 스타일을 지정합니다.
+2. 제출 버튼을 추가한 후 \[설정]을 클릭하여 스타일을 지정합니다.
 
 <figure><img src="../../.gitbook/assets/image (335).png" alt=""><figcaption></figcaption></figure>

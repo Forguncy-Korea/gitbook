@@ -6,7 +6,7 @@
 
 이 섹션에서는  지도 차트를 사용하는 방법을 설명합니다.
 
-## &#x20;<a href="#id-di-tu-2.-cha-ru-di-tu" id="id-di-tu-2.-cha-ru-di-tu"></a>
+
 
 ## 지도 삽입
 
@@ -14,15 +14,15 @@
 
 다음은 포건시에서 지도를 삽입하는 동작을 설명합니다.
 
-![](https://help.grapecity.com.cn/download/thumbnails/80943660/%E6%AD%A5%E9%AA%A41.png?version=1\&modificationDate=1673923132000\&api=v2)  지도를 준비하는 데 사용되는 GeoJSON 파일은 두 가지 GeoJSON 유형(좌표 및 윤곽선) 을 지원합니다.좌표형의 GeoJSON은 점 지도를 그릴 수 있고, 윤곽 선형의 GeoJSON은 영역 지도를 그릴 수 있습니다 .
+1. 지도를 준비하는 데 사용되는 GeoJSON 파일은 두 가지 GeoJSON 유형(좌표 및 윤곽선) 을 지원합니다.좌표형의 GeoJSON은 점 지도를 그릴 수 있고, 윤곽 선형의 GeoJSON은 영역 지도를 그릴 수 있습니다 .
 
 좌표 유형 GeoJSON 파일의 파일 이름은 " Korea\_point.json"과 같이 "\_point.json"으로 끝나야 하며, 윤곽선 유형 GeoJSON 파일은 "Korea\_area.json"과 같이 "\_area.json"으로 끝나야 합니다.
 
-![](https://help.grapecity.com.cn/download/thumbnails/80943660/%E6%AD%A5%E9%AA%A42.png?version=1\&modificationDate=1673923132000\&api=v2)  셀 범위나 테이블을 데이터 소스로 선택하고 리본 메뉴 표시줄에서 "삽입"을 클릭한 다음 지도에서 하위 유형을 선택합니다.![](<../../.gitbook/assets/image (297).png>)
+2. &#x20; 셀 범위나 테이블을 데이터 소스로 선택하고 리본 메뉴 표시줄에서 "삽입"을 클릭한 다음 지도에서 하위 유형을 선택합니다.![](<../../.gitbook/assets/image (297).png>)
 
 <figure><img src="../../.gitbook/assets/image (299).png" alt=""><figcaption></figcaption></figure>
 
-![](https://help.grapecity.com.cn/download/thumbnails/80943660/%E6%AD%A5%E9%AA%A43.png?version=1\&modificationDate=1673923132000\&api=v2)  지도 유형을 선택하면 지도 GeoJSON 구성 대화 상자가 열리며, "GeoJSON 파일을 저장할폴더 열기"를 클릭하고 준비된 GeoJSON 파일을 열린 폴더에 복사합니다. 여기에 있는 GeoJSON 파일은 이 프로젝트 파일에서만 사용할 수 있습니다.
+3. 지도 유형을 선택하면 지도 GeoJSON 구성 대화 상자가 열리며, "GeoJSON 파일을 저장할폴더 열기"를 클릭하고 준비된 GeoJSON 파일을 열린 폴더에 복사합니다. 여기에 있는 GeoJSON 파일은 이 프로젝트 파일에서만 사용할 수 있습니다.
 
 <figure><img src="../../.gitbook/assets/image (295).png" alt=""><figcaption></figcaption></figure>
 
@@ -34,11 +34,11 @@
   * Windows 시스템은 64비트 운영 체제입니다: C:\Program Files (x86)\Forgency\Website\DesignerResources\Map
 * Forguncy   빌더를 설치할 때 설치 디렉터리가 사용자 지정 경로인 경우 이 파일의 경로는 "Custom Path\Forguncy\Website\DesignerResources\Map"입니다.
 
-![](https://help.grapecity.com.cn/download/thumbnails/80943660/%E6%AD%A5%E9%AA%A44.png?version=1\&modificationDate=1673923132000\&api=v2)  작업이 완료되면 클릭하세요.![](https://help.grapecity.com.cn/download/thumbnails/80943660/image2019-2-22_15-1-21.png?version=1\&modificationDate=1673923132000\&api=v2)아이콘은 GeoJSON 파일 목록을 새로 고침하고, 새로 고친 후 드롭다운 버튼을 클릭하면 해당 유형의 GeoJSON 파일 목록이 표시됩니다.
+4. &#x20; 작업이 완료되면 클릭하세요.GeoJSON 파일 목록을 새로 고침하고, 새로 고친 후 드롭다운 버튼을 클릭하면 해당 유형의 GeoJSON 파일 목록이 표시됩니다.
 
 <figure><img src="../../.gitbook/assets/image (296).png" alt=""><figcaption></figcaption></figure>
 
-![](https://help.grapecity.com.cn/download/thumbnails/80943660/%E6%AD%A5%E9%AA%A45.png?version=1\&modificationDate=1673923132000\&api=v2)  목록에서 파일을 선택하고 "확인"을 클릭하면 지도 차트가 삽입됩니다.
+5. 목록에서 파일을 선택하고 "확인"을 클릭하면 지도 차트가 삽입됩니다.
 
 <figure><img src="../../.gitbook/assets/image (300).png" alt=""><figcaption></figcaption></figure>
 
