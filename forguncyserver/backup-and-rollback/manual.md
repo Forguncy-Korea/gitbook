@@ -15,7 +15,7 @@
 <figure><img src="../../.gitbook/assets/image (1154).png" alt=""><figcaption></figcaption></figure>
 
 \
-![](https://help.grapecity.com.cn/download/thumbnails/80953434/image2022-4-12_8-35-16.png?version=1\&modificationDate=1673923288000\&api=v2)를   클릭하면 백업 파일의 정보를 보려면 백업 정보를 확장합니다. 지정된 백업을 복원, 다운로드 또는 삭제할 수 있으며 지정된 백업에서 모듈을 복원 또는 로그  내려받기를 할수 있습니다.
+&#x20;![](https://gccndocumentsitestorage.blob.core.chinacloudapi.cn/document-site-files/images/8ca07557-62b8-4219-8ddd-357e505dc985/80953434/image2022-4-12_8-35-16.png)클릭하면백업 파일의 정보를 보려면 백업 정보를 확장합니다. 지정된 백업을 복원, 다운로드 또는 삭제할 수 있으며 지정된 백업에서 모듈을 복원 또는 로그  내려받기를 할수 있습니다.
 
 <figure><img src="../../.gitbook/assets/image (1153).png" alt=""><figcaption></figcaption></figure>
 

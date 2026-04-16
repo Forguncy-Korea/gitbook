@@ -1,22 +1,22 @@
 # setFocus 메서드
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72365112/blue%20block.png?version=1\&modificationDate=1648092725000\&api=v2) 메서드 <a href="#setfocus-fang-fa-fang-fa" id="setfocus-fang-fa-fang-fa"></a>
+#### 메서드 <a href="#setfocus-fang-fa-fang-fa" id="setfocus-fang-fa-fang-fa"></a>
 
 Cell.setFocus()
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72365112/blue%20block.png?version=1\&modificationDate=1648092725000\&api=v2) 설명 <a href="#setfocus-fang-fa-miao-shu" id="setfocus-fang-fa-miao-shu"></a>
+#### 설명 <a href="#setfocus-fang-fa-miao-shu" id="setfocus-fang-fa-miao-shu"></a>
 
 지정된 셀에 포커스를 설정합니다. 일반적으로 셀은 마우스 클릭으로 요소를 선택하거나 탭 키를 통해 셀에 배치될 때 포커스를 받습니다. setFocus 메서드를 사용하면 지정된 셀에 직접 포커스를 부여할 수 있습니다.
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72365112/blue%20block.png?version=1\&modificationDate=1648092725000\&api=v2) **매개 변수** <a href="#setfocus-fang-fa-can-shu-shuo-ming" id="setfocus-fang-fa-can-shu-shuo-ming"></a>
+#### **매개 변수** <a href="#setfocus-fang-fa-can-shu-shuo-ming" id="setfocus-fang-fa-can-shu-shuo-ming"></a>
 
 없음
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72365112/blue%20block.png?version=1\&modificationDate=1648092725000\&api=v2) **반환값**  <a href="#setfocus-fang-fa-fan-hui-zhi" id="setfocus-fang-fa-fan-hui-zhi"></a>
+#### **반환값**  <a href="#setfocus-fang-fa-fan-hui-zhi" id="setfocus-fang-fa-fan-hui-zhi"></a>
 
 없음&#x20;
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72365112/blue%20block.png?version=1\&modificationDate=1648092725000\&api=v2) 예제 <a href="#setfocus-fang-fa-shi-li" id="setfocus-fang-fa-shi-li"></a>
+#### 예제 <a href="#setfocus-fang-fa-shi-li" id="setfocus-fang-fa-shi-li"></a>
 
 다음 예제 코드에서는 setFocus 메서드를 사용하여 셀에 포커스를 설정합니다.
 

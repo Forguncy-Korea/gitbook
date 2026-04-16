@@ -1,22 +1,22 @@
 # resumeCalc 메서드
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72366202/blue%20block.png?version=1\&modificationDate=1648092741000\&api=v2) 메서드 <a href="#resumecalc-fang-fa-fang-fa" id="resumecalc-fang-fa-fang-fa"></a>
+#### 메서드 <a href="#resumecalc-fang-fa-fang-fa" id="resumecalc-fang-fa-fang-fa"></a>
 
 &#x20;  Page.resumeCalc()
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72366202/blue%20block.png?version=1\&modificationDate=1648092741000\&api=v2) 설명 <a href="#resumecalc-fang-fa-miao-shu" id="resumecalc-fang-fa-miao-shu"></a>
+#### 설명 <a href="#resumecalc-fang-fa-miao-shu" id="resumecalc-fang-fa-miao-shu"></a>
 
 복구 페이지의 수식 계산 논리는 일반적으로 셀을 많이 조작한 후에 사용됩니다. suspendCalc 메서드와 쌍으로 사용할 수 있습니다.
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72366202/blue%20block.png?version=1\&modificationDate=1648092741000\&api=v2) **매개 변수** <a href="#resumecalc-fang-fa-can-shu-shuo-ming" id="resumecalc-fang-fa-can-shu-shuo-ming"></a>
+#### **매개 변수** <a href="#resumecalc-fang-fa-can-shu-shuo-ming" id="resumecalc-fang-fa-can-shu-shuo-ming"></a>
 
 없음&#x20;
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72366202/blue%20block.png?version=1\&modificationDate=1648092741000\&api=v2) **반환값**  <a href="#resumecalc-fang-fa-fan-hui-zhi" id="resumecalc-fang-fa-fan-hui-zhi"></a>
+#### **반환값**  <a href="#resumecalc-fang-fa-fan-hui-zhi" id="resumecalc-fang-fa-fan-hui-zhi"></a>
 
 없음&#x20;
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72366202/blue%20block.png?version=1\&modificationDate=1648092741000\&api=v2) 예제 <a href="#resumecalc-fang-fa-shi-li" id="resumecalc-fang-fa-shi-li"></a>
+#### 예제 <a href="#resumecalc-fang-fa-shi-li" id="resumecalc-fang-fa-shi-li"></a>
 
 다음 예제 코드에서는 resumeCalc 메서드를 사용하여 페이지의 모든 수식 계산을 복원합니다.
 

@@ -2,7 +2,7 @@
 
 서버단 명령에서 예외 catch 명령을 사용하여 지정된 상황에서 오류를 처리한 다음 오류 조건에 따라 다음 단계를 결정할 수 있습니다.
 
-​![](https://help.grapecity.com.cn/download/thumbnails/72358198/%E6%AD%A5%E9%AA%A41.png?version=1\&modificationDate=1648092616000\&api=v2)프로젝트 탐색기의 서버단 명령 탭을 마우스 오른쪽 버튼을 클릭하고 서버단 명령 만들기를 선택하여 서버단 명령 만들기 대화 상자를 띄웁니다. <br>
+​프로젝트 탐색기의 서버단 명령 탭을 마우스 오른쪽 버튼을 클릭하고 서버단 명령 만들기를 선택하여 서버단 명령 만들기 대화 상자를 띄웁니다. <br>
 
 ![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FzxNQdilex6YN3fZKZhGM%2Fuploads%2FM7ndQXFvMxRnTKlgee90%2Fimage.png?alt=media\&token=55d7054c-8e83-4df0-b9e6-4effaf72841e)
 

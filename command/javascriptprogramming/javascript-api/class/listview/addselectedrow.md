@@ -1,24 +1,24 @@
 # addSelectedRow 메서드
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72365407/blue%20block.png?version=1\&modificationDate=1648092729000\&api=v2) 메서드 <a href="#addselectedrow-fang-fa-fang-fa" id="addselectedrow-fang-fa-fang-fa"></a>
+#### 메서드 <a href="#addselectedrow-fang-fa-fang-fa" id="addselectedrow-fang-fa-fang-fa"></a>
 
 &#x20;  ListView.addSelectedRow(rowIndex)
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72365407/blue%20block.png?version=1\&modificationDate=1648092729000\&api=v2) 설명입니다 <a href="#addselectedrow-fang-fa-miao-shu" id="addselectedrow-fang-fa-miao-shu"></a>
+#### 설명 <a href="#addselectedrow-fang-fa-miao-shu" id="addselectedrow-fang-fa-miao-shu"></a>
 
 리스트뷰에서 지정된 행을 선택합니다. 리스트뷰를 여러 번 선택할 수 있는 경우 행을 선택한 후 이 메서드를 사용하여 지정된 행을 하나 더 선택할 수 있습니다. 리스트뷰에서 라디오만 허용하는 경우 행을 선택한 다음 이 메서드를 사용하여 지정된 행을 선택하고 이전 행은 선택 취소합니다.
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72365407/blue%20block.png?version=1\&modificationDate=1648092729000\&api=v2) **매개 변수 설명입니다** <a href="#addselectedrow-fang-fa-can-shu-shuo-ming" id="addselectedrow-fang-fa-can-shu-shuo-ming"></a>
+#### **매개 변수**  <a href="#addselectedrow-fang-fa-can-shu-shuo-ming" id="addselectedrow-fang-fa-can-shu-shuo-ming"></a>
 
 | 매개변수     | 형식     | 설명                 |
 | -------- | ------ | ------------------ |
 | rowIndex | number | 0부터 시작하는 행 인덱스입니다. |
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72365407/blue%20block.png?version=1\&modificationDate=1648092729000\&api=v2) **반환값**  <a href="#addselectedrow-fang-fa-fan-hui-zhi" id="addselectedrow-fang-fa-fan-hui-zhi"></a>
+#### **반환값**  <a href="#addselectedrow-fang-fa-fan-hui-zhi" id="addselectedrow-fang-fa-fan-hui-zhi"></a>
 
 없음&#x20;
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72365407/blue%20block.png?version=1\&modificationDate=1648092729000\&api=v2) 예제 <a href="#addselectedrow-fang-fa-shi-li" id="addselectedrow-fang-fa-shi-li"></a>
+#### 예제 <a href="#addselectedrow-fang-fa-shi-li" id="addselectedrow-fang-fa-shi-li"></a>
 
 다음 예제 코드에서는 addSelectedRow 메서드를 사용하여 리스트뷰에서 지정된 행을 선택합니다.
 

@@ -1,22 +1,22 @@
 # getListViews 메서드
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72366059/blue%20block.png?version=1\&modificationDate=1648092739000\&api=v2) 메서드 <a href="#getlistviews-fang-fa-fang-fa" id="getlistviews-fang-fa-fang-fa"></a>
+#### 메서드 <a href="#getlistviews-fang-fa-fang-fa" id="getlistviews-fang-fa-fang-fa"></a>
 
 &#x20;  Page.getListViews(includeSubPage)
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72366059/blue%20block.png?version=1\&modificationDate=1648092739000\&api=v2) 설명 <a href="#getlistviews-fang-fa-miao-shu" id="getlistviews-fang-fa-miao-shu"></a>
+#### 설명 <a href="#getlistviews-fang-fa-miao-shu" id="getlistviews-fang-fa-miao-shu"></a>
 
 페이지의 모든 리스트뷰를 가져옵니다.
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72366059/blue%20block.png?version=1\&modificationDate=1648092739000\&api=v2) **매개 변수**  <a href="#getlistviews-fang-fa-can-shu-shuo-ming" id="getlistviews-fang-fa-can-shu-shuo-ming"></a>
+#### **매개 변수**  <a href="#getlistviews-fang-fa-can-shu-shuo-ming" id="getlistviews-fang-fa-can-shu-shuo-ming"></a>
 
 <table><thead><tr><th width="164.33333333333331">매개변수 </th><th width="193">형식 </th><th>설명 </th></tr></thead><tbody><tr><td>includeSubPage</td><td>Boolean</td><td>하위 페이지에서 찾을지 여부입니다. 선택적 매개 변수( 기본값은 true)입니다.</td></tr></tbody></table>
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72366059/blue%20block.png?version=1\&modificationDate=1648092739000\&api=v2) **반환값**  <a href="#getlistviews-fang-fa-fan-hui-zhi" id="getlistviews-fang-fa-fan-hui-zhi"></a>
+#### **반환값**  <a href="#getlistviews-fang-fa-fan-hui-zhi" id="getlistviews-fang-fa-fan-hui-zhi"></a>
 
 &#x20;     [ListView\[\]](../listview/)
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72366059/blue%20block.png?version=1\&modificationDate=1648092739000\&api=v2) 예제 <a href="#getlistviews-fang-fa-shi-li" id="getlistviews-fang-fa-shi-li"></a>
+#### 예제 <a href="#getlistviews-fang-fa-shi-li" id="getlistviews-fang-fa-shi-li"></a>
 
 다음 예제 코드에서는 getListViews 메서드를 통해 페이지의 모든 리스트뷰 가져옵니다.
 

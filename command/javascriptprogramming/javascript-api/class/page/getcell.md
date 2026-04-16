@@ -1,22 +1,22 @@
 # getCell 메서드
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72366027/blue%20block.png?version=1\&modificationDate=1648092739000\&api=v2) 메서드 <a href="#getcell-fang-fa-fang-fa" id="getcell-fang-fa-fang-fa"></a>
+#### 메서드 <a href="#getcell-fang-fa-fang-fa" id="getcell-fang-fa-fang-fa"></a>
 
 &#x20;  Page.getCell(name, includeSubPage)
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72366027/blue%20block.png?version=1\&modificationDate=1648092739000\&api=v2) 설명 <a href="#getcell-fang-fa-miao-shu" id="getcell-fang-fa-miao-shu"></a>
+#### 설명 <a href="#getcell-fang-fa-miao-shu" id="getcell-fang-fa-miao-shu"></a>
 
 셀 이름으로 셀 인스턴스를 가져옵니다.
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72366027/blue%20block.png?version=1\&modificationDate=1648092739000\&api=v2) **매개 변수** <a href="#getcell-fang-fa-can-shu-shuo-ming" id="getcell-fang-fa-can-shu-shuo-ming"></a>
+#### &#x20;**매개 변수** <a href="#getcell-fang-fa-can-shu-shuo-ming" id="getcell-fang-fa-can-shu-shuo-ming"></a>
 
 <table><thead><tr><th width="197.33333333333331">매개변수 </th><th width="172">형식 </th><th>설명 </th></tr></thead><tbody><tr><td>name</td><td>string</td><td>셀 이름입니다.</td></tr><tr><td>includeSubPage</td><td>Boolean</td><td>하위 페이지에서 찾을지 여부입니다. 선택적 매개 변수( 기본값은 true)입니다.</td></tr></tbody></table>
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72366027/blue%20block.png?version=1\&modificationDate=1648092739000\&api=v2) **반환값**  <a href="#getcell-fang-fa-fan-hui-zhi" id="getcell-fang-fa-fan-hui-zhi"></a>
+#### **반환값**  <a href="#getcell-fang-fa-fan-hui-zhi" id="getcell-fang-fa-fan-hui-zhi"></a>
 
 &#x20;  [Cell](../cellclass/)
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72366027/blue%20block.png?version=1\&modificationDate=1648092739000\&api=v2) 예제 <a href="#getcell-fang-fa-shi-li" id="getcell-fang-fa-shi-li"></a>
+#### 예제 <a href="#getcell-fang-fa-shi-li" id="getcell-fang-fa-shi-li"></a>
 
 다음 예제 코드에서는 getCell 메서드를 통해 셀 인스턴스를 가져오고 셀 값을 설정합니다.
 

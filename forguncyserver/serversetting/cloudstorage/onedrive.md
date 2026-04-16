@@ -12,19 +12,18 @@
 
 ### OneDrive 구성&#x20;
 
-OneDrive 클라우드 저장소에 대한 인증 정보를 구성하려면 OneDrive에서 ClientId 및 ClientSecret 정보를 가져와야 합니다. 이 정보를 얻는 방법은 다음과 같습니다.
+OneDrive 클라우드 저장소에 대한 인증 정보를 구성하려면 OneDrive에서 ClientId 및 ClientSecret 정보를 가져와야 합니다. 이 정보를 얻는 방법은 다음과 같습니다
 
-[![](https://help.grapecity.com.cn/download/thumbnails/80953251/%E6%AD%A5%E9%AA%A41.png?version=1\&modificationDate=1673923286000\&api=v2)](https://cloud.tencent.com/)  도메인 계정이 아닌 개인 계정으로 [https://portal.azure.com/#home](https://portal.azure.com/#home) 에 로그인합니다 .
-
-[![](https://help.grapecity.com.cn/download/thumbnails/80953251/%E6%AD%A5%E9%AA%A42.png?version=1\&modificationDate=1673923286000\&api=v2)](https://cloud.tencent.com/)  Azure 서비스에서Azure Active Directory를 선택합니다.&#x20;
+1. 도메인 계정이 아닌 개인 계정으로 [https://portal.azure.com/#home](https://portal.azure.com/#home) 에 로그인합니다&#x20;
+2. Azure 서비스에서Azure Active Directory를 선택합니다.&#x20;
 
 <figure><img src="../../../.gitbook/assets/image (338).png" alt=""><figcaption></figcaption></figure>
 
-![](https://help.grapecity.com.cn/download/thumbnails/80953251/%E6%AD%A5%E9%AA%A43.png?version=1\&modificationDate=1673923286000\&api=v2)  왼쪽 메뉴에서\[추가>앱등록]을 클릭합니다.&#x20;
+3. 왼쪽 메뉴에서\[추가>앱등록]을 클릭합니다.&#x20;
 
 <figure><img src="../../../.gitbook/assets/image (681).png" alt=""><figcaption></figcaption></figure>
 
-[![](https://help.grapecity.com.cn/download/thumbnails/80953251/%E6%AD%A5%E9%AA%A44.png?version=1\&modificationDate=1673923286000\&api=v2)](https://cloud.tencent.com/)  애플리케이션 등록 페이지에서 정보를 입력합니다.
+4. 애플리케이션 등록 페이지에서 정보를 입력합니다.
 
 지원되는 계정 유형 "개인 Microsoft 계정"을 포함하는 옵션을 선택하고 리디렉션 URL은 " _**AppBaseUrl**_ /UserService/CloudStorageProvider/OAuthCallback"입니다.
 
@@ -39,7 +38,7 @@ OneDrive 클라우드 저장소에 대한 인증 정보를 구성하려면 OneDr
 
 <figure><img src="../../../.gitbook/assets/image (2048).png" alt=""><figcaption></figcaption></figure>
 
-[![](https://help.grapecity.com.cn/download/thumbnails/80953251/%E6%AD%A5%E9%AA%A45.png?version=1\&modificationDate=1673923286000\&api=v2)](https://cloud.tencent.com/)  앱 왼쪽 메뉴에서 "인증서 및 암호"를 클릭합니다.을 클릭한 다음 새 클라이언트 암호를 클릭하여 표시된 페이지에 클라이언트 암호를 추가합니다.
+5. 앱 왼쪽 메뉴에서 "인증서 및 암호"를 클릭합니다.을 클릭한 다음 새 클라이언트 암호를 클릭하여 표시된 페이지에 클라이언트 암호를 추가합니다.
 
 <figure><img src="../../../.gitbook/assets/image (1152).png" alt=""><figcaption></figcaption></figure>
 
@@ -49,11 +48,11 @@ OneDrive 클라우드 저장소에 대한 인증 정보를 구성하려면 OneDr
 
 <figure><img src="../../../.gitbook/assets/image (2098).png" alt=""><figcaption></figcaption></figure>
 
-[![](https://help.grapecity.com.cn/download/thumbnails/80953251/%E6%AD%A5%E9%AA%A46.png?version=1\&modificationDate=1673923286000\&api=v2)](https://cloud.tencent.com/)  애플리케이션 개요 페이지에서 ClientId를 얻을 수 있습니다.
+6. 애플리케이션 개요 페이지에서 ClientId를 얻을 수 있습니다.
 
 <figure><img src="../../../.gitbook/assets/image (1149).png" alt=""><figcaption></figcaption></figure>
 
-![](https://help.grapecity.com.cn/download/thumbnails/80953251/%E6%AD%A5%E9%AA%A47.png?version=1\&modificationDate=1673923286000\&api=v2)  API 권한을 추가합니다. 왼쪽 메뉴에서 "API 권한"을 선택하고 "권한 추가"를 클릭하십시오.
+7. &#x20; API 권한을 추가합니다. 왼쪽 메뉴에서 "API 권한"을 선택하고 "권한 추가"를 클릭하십시오.
 
 <figure><img src="../../../.gitbook/assets/image (1179).png" alt=""><figcaption></figcaption></figure>
 
@@ -69,7 +68,7 @@ OneDrive 클라우드 저장소에 대한 인증 정보를 구성하려면 OneDr
 
 <figure><img src="../../../.gitbook/assets/image (1174).png" alt=""><figcaption></figcaption></figure>
 
-![](https://help.grapecity.com.cn/download/thumbnails/80953251/%E6%AD%A5%E9%AA%A48.png?version=1\&modificationDate=1673923286000\&api=v2)  이 시점에서 OneDrive가 설정되었으므로 단계를 입력해야 합니다.[![](https://help.grapecity.com.cn/download/thumbnails/80953251/%E6%AD%A5%E9%AA%A45.png?version=1\&modificationDate=1673923286000\&api=v2)](https://cloud.tencent.com/)그리고[![](https://help.grapecity.com.cn/download/thumbnails/80953251/%E6%AD%A5%E9%AA%A46.png?version=1\&modificationDate=1673923286000\&api=v2)](https://cloud.tencent.com/)인증 정보에서 얻은 클라이언트Id와 클라이언트Secret을 입력합니다.
+8. 이 시점에서 OneDrive가 설정되었으므로 단계를 입력해야 합니다.[![](https://help.grapecity.com.cn/download/thumbnails/80953251/%E6%AD%A5%E9%AA%A45.png?version=1\&modificationDate=1673923286000\&api=v2)](https://cloud.tencent.com/)그리고[![](https://help.grapecity.com.cn/download/thumbnails/80953251/%E6%AD%A5%E9%AA%A46.png?version=1\&modificationDate=1673923286000\&api=v2)](https://cloud.tencent.com/)인증 정보에서 얻은 클라이언트Id와 클라이언트Secret을 입력합니다.
 
 <figure><img src="../../../.gitbook/assets/image (1713).png" alt=""><figcaption></figcaption></figure>
 

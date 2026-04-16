@@ -1,18 +1,18 @@
 # SelectionChanged 이벤트
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72364875/blue%20block.png?version=1\&modificationDate=1648092721000\&api=v2) 이벤트 <a href="#selectionchanged-shi-jian-shi-jian" id="selectionchanged-shi-jian-shi-jian"></a>
+#### 이벤트 <a href="#selectionchanged-shi-jian-shi-jian" id="selectionchanged-shi-jian-shi-jian"></a>
 
 &#x20;  Forguncy.CellEvents.SelectionChanged
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72364875/blue%20block.png?version=1\&modificationDate=1648092721000\&api=v2) 설명 <a href="#selectionchanged-shi-jian-miao-shu" id="selectionchanged-shi-jian-miao-shu"></a>
+#### 설명 <a href="#selectionchanged-shi-jian-miao-shu" id="selectionchanged-shi-jian-miao-shu"></a>
 
 셀의 선택 항목이 변경될 때 이벤트가 트리거됩니다. 콤보 상자 및 사용자 선택 상자 셀 유형을 지원합니다.
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72364875/blue%20block.png?version=1\&modificationDate=1648092721000\&api=v2) **반환값**  <a href="#selectionchanged-shi-jian-fan-hui-zhi" id="selectionchanged-shi-jian-fan-hui-zhi"></a>
+#### **반환값**  <a href="#selectionchanged-shi-jian-fan-hui-zhi" id="selectionchanged-shi-jian-fan-hui-zhi"></a>
 
 &#x20;  string
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72364875/blue%20block.png?version=1\&modificationDate=1648092721000\&api=v2) 예제입니다 <a href="#selectionchanged-shi-jian-shi-li" id="selectionchanged-shi-jian-shi-li"></a>
+#### &#x20;예제 <a href="#selectionchanged-shi-jian-shi-li" id="selectionchanged-shi-jian-shi-li"></a>
 
 다음 예제 코드에서는 콤보 상자에 SelectionChanged 이벤트를 추가하는 bind 메서드를 사용하여 콤보 상자의 선택 항목이 변경될 때 경고 상자가 나타납니다.
 

@@ -1,22 +1,22 @@
 # hide 메서드
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72365081/blue%20block.png?version=1\&modificationDate=1648092724000\&api=v2) 메서드 <a href="#hide-fang-fa-fang-fa" id="hide-fang-fa-fang-fa"></a>
+#### 메서드 <a href="#hide-fang-fa-fang-fa" id="hide-fang-fa-fang-fa"></a>
 
 &#x20;  Cell.hide()
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72365081/blue%20block.png?version=1\&modificationDate=1648092724000\&api=v2) 설명 <a href="#hide-fang-fa-miao-shu" id="hide-fang-fa-miao-shu"></a>
+#### 설명 <a href="#hide-fang-fa-miao-shu" id="hide-fang-fa-miao-shu"></a>
 
 셀을 숨깁니다. 페이지에 지정된 셀을 숨기면 셀의 배경이 아닌 셀의 값, 유형 등만 숨길 수 있습니다. 보여주기 방법과는 달리 실제 요구 사항에 따라 사용할 수 있습니다.
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72365081/blue%20block.png?version=1\&modificationDate=1648092724000\&api=v2) **매개 변수** <a href="#hide-fang-fa-can-shu-shuo-ming" id="hide-fang-fa-can-shu-shuo-ming"></a>
+#### **매개 변수** <a href="#hide-fang-fa-can-shu-shuo-ming" id="hide-fang-fa-can-shu-shuo-ming"></a>
 
 없음&#x20;
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72365081/blue%20block.png?version=1\&modificationDate=1648092724000\&api=v2) **반환값**  <a href="#hide-fang-fa-fan-hui-zhi" id="hide-fang-fa-fan-hui-zhi"></a>
+#### **반환값**  <a href="#hide-fang-fa-fan-hui-zhi" id="hide-fang-fa-fan-hui-zhi"></a>
 
 없음&#x20;
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72365081/blue%20block.png?version=1\&modificationDate=1648092724000\&api=v2) 예제 <a href="#hide-fang-fa-shi-li" id="hide-fang-fa-shi-li"></a>
+#### 예제 <a href="#hide-fang-fa-shi-li" id="hide-fang-fa-shi-li"></a>
 
 다음 예제 코드에서는 hide 메서드를 통해 지정된 셀(myCell)을 숨깁니다.
 

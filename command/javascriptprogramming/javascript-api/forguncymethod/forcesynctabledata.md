@@ -38,18 +38,16 @@ Forguncy.forceSyncTableData("city",function (data) {
 
 ### 사용 예제&#x20;
 
-![](https://help.grapecity.com.cn/download/thumbnails/72364673/%E6%AD%A5%E9%AA%A41.png?version=1\&modificationDate=1648092718000\&api=v2) 연걸된 테이블의 복사본을 만듭니다.
+1. 연결된 테이블의 복사본을 만듭니다.
 
 <figure><img src="../../../../.gitbook/assets/image (1678).png" alt=""><figcaption></figcaption></figure>
 
-![](https://help.grapecity.com.cn/download/thumbnails/72364673/%E6%AD%A5%E9%AA%A42.png?version=1\&modificationDate=1648092718000\&api=v2) 페이지에서 범위를 선택하고 아웃리치 테이블 복사본을 셀 범위로 드래그하여 필드를 바인딩합니다.
-
-![](https://help.grapecity.com.cn/download/thumbnails/72364673/%E6%AD%A5%E9%AA%A43.png?version=1\&modificationDate=1648092718000\&api=v2) 셀 범위를 선택하고 셀 유형을 단추로 설정하고 명령을 \[JavaScript 명령]으로 편집하고 JavaScript 코드를 입력합니다.
+2. 페이지에서 범위를 선택하고 아웃리치 테이블 복사본을 셀 범위로 드래그하여 필드를 바인딩합니다.
+3. 셀 범위를 선택하고 셀 유형을 단추로 설정하고 명령을 \[JavaScript 명령]으로 편집하고 JavaScript 코드를 입력합니다.
 
 <figure><img src="../../../../.gitbook/assets/image (1855).png" alt=""><figcaption></figcaption></figure>
 
-![](https://help.grapecity.com.cn/download/thumbnails/72364673/%E6%AD%A5%E9%AA%A44.png?version=1\&modificationDate=1648092718000\&api=v2) 편집이 완료되면 \[확인]을 클릭하여 대화 상자를 닫습니다.
-
-페이지를 실행하고 데이터 동기화 버튼을 클릭하면 동기화가 성공한다는 경고 상자가 나타납니다.
+4. 편집이 완료되면 \[확인]을 클릭하여 대화 상자를 닫습니다.\
+   페이지를 실행하고 데이터 동기화 버튼을 클릭하면 동기화가 성공한다는 경고 상자가 나타납니다.
 
 <figure><img src="../../../../.gitbook/assets/image (2096).png" alt=""><figcaption></figcaption></figure>

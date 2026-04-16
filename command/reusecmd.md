@@ -37,7 +37,7 @@
 
 <figure><img src="../.gitbook/assets/image (511).png" alt=""><figcaption></figcaption></figure>
 
-###
+
 
 
 
@@ -48,8 +48,8 @@
 재사용 명령 설정:
 
 * 이름:  명령의 이름을 설정합니다.
-* 파라마티: 파라미터 설에서 매개변수 설정 대화상자를 클릭하면 \[새로 만들기]를 클릭하여 파라미터 작성할 수 있습니다.![](https://help.grapecity.com.cn/download/thumbnails/72354536/image2019-9-12_17-11-25.png?version=1\&modificationDate=1648092564000\&api=v2)
-* 재사용 명령 편집: 편집 명령 아래를 클릭하면 재사 명령을 구성할 명령을 하나 이상 선택할 수 있는 편집 명령 대화상자가 나타납니다.![](https://help.grapecity.com.cn/download/thumbnails/72354536/image2019-9-12_17-12-5.png?version=1\&modificationDate=1648092564000\&api=v2)
+* 파라마티: 파라미터 설에서 매개변수 설정 대화상자를 클릭하면 \[새로 만들기]를 클릭하여 파라미터 작성할 수 있습니다.
+* 재사용 명령 편집: 편집 명령 아래를 클릭하면 재사 명령을 구성할 명령을 하나 이상 선택할 수 있는 편집 명령 대화상자가 나타납니다.
 * 참조값 검색: 참조값 검색을 클릭하여 재사용 명령을 참조하는 모든 셀과 페이지를 찾습니다.![](https://help.grapecity.com.cn/download/thumbnails/72354536/image2019-9-12_17-15-44.png?version=1\&modificationDate=1648092564000\&api=v2)
 
 

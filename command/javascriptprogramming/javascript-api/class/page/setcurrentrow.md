@@ -1,24 +1,24 @@
 # setCurrentRow 메서드
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72366222/blue%20block.png?version=1\&modificationDate=1648092742000\&api=v2) 메서드 <a href="#setcurrentrow-fang-fa-fang-fa" id="setcurrentrow-fang-fa-fang-fa"></a>
+#### 메서드 <a href="#setcurrentrow-fang-fa-fang-fa" id="setcurrentrow-fang-fa-fang-fa"></a>
 
 &#x20;  Page.setCurrentRow(currentRowParam)
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72366222/blue%20block.png?version=1\&modificationDate=1648092742000\&api=v2) 설명 <a href="#setcurrentrow-fang-fa-miao-shu" id="setcurrentrow-fang-fa-miao-shu"></a>
+#### 설명 <a href="#setcurrentrow-fang-fa-miao-shu" id="setcurrentrow-fang-fa-miao-shu"></a>
 
 테이블 1의 현재 행을 테이블의 첫 번째 행으로 설정하는 등의 현재 행을 설정하면 페이지의 모든 테이블 1의 바인딩 필드에 첫 번째 행에 대한 데이터가 표시됩니다.
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72366222/blue%20block.png?version=1\&modificationDate=1648092742000\&api=v2) **매개 변수 설명입니다** <a href="#setcurrentrow-fang-fa-can-shu-shuo-ming" id="setcurrentrow-fang-fa-can-shu-shuo-ming"></a>
+#### **매개 변수**  <a href="#setcurrentrow-fang-fa-can-shu-shuo-ming" id="setcurrentrow-fang-fa-can-shu-shuo-ming"></a>
 
 | 매개변수            | 형식                                                                                                 | 설명          |
 | --------------- | -------------------------------------------------------------------------------------------------- | ----------- |
 | currentRowParam | [CurrentRowInfoParam](../../forguncyinterface/currentrowinfoparam.md) 또는 CurrentRowInfoPluginParam | 현재 행 정보입니다. |
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72366222/blue%20block.png?version=1\&modificationDate=1648092742000\&api=v2) **반환값**  <a href="#setcurrentrow-fang-fa-fan-hui-zhi" id="setcurrentrow-fang-fa-fan-hui-zhi"></a>
+#### **반환값**  <a href="#setcurrentrow-fang-fa-fan-hui-zhi" id="setcurrentrow-fang-fa-fan-hui-zhi"></a>
 
 없음&#x20;
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72366222/blue%20block.png?version=1\&modificationDate=1648092742000\&api=v2) 예제 <a href="#setcurrentrow-fang-fa-shi-li" id="setcurrentrow-fang-fa-shi-li"></a>
+#### 예제 <a href="#setcurrentrow-fang-fa-shi-li" id="setcurrentrow-fang-fa-shi-li"></a>
 
 &#x20;  **예 1:**
 

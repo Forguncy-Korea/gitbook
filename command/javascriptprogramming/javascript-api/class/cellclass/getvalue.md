@@ -1,22 +1,22 @@
 # getValue 메서드
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72365050/blue%20block.png?version=1\&modificationDate=1648092724000\&api=v2) 메서드 <a href="#getvalue-fang-fa-fang-fa" id="getvalue-fang-fa-fang-fa"></a>
+#### 메서드 <a href="#getvalue-fang-fa-fang-fa" id="getvalue-fang-fa-fang-fa"></a>
 
 &#x20;  Cell.getValue()
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72365050/blue%20block.png?version=1\&modificationDate=1648092724000\&api=v2) 설명 <a href="#getvalue-fang-fa-miao-shu" id="getvalue-fang-fa-miao-shu"></a>
+#### 설명 <a href="#getvalue-fang-fa-miao-shu" id="getvalue-fang-fa-miao-shu"></a>
 
 지정된 셀의 값을 가져옵니다. 셀의 값을 가져온 후 명령과 같은 다른 곳에서 사용할 수 있습니다.
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72365050/blue%20block.png?version=1\&modificationDate=1648092724000\&api=v2) **매개 변수**  <a href="#getvalue-fang-fa-can-shu-shuo-ming" id="getvalue-fang-fa-can-shu-shuo-ming"></a>
+#### **매개 변수**  <a href="#getvalue-fang-fa-can-shu-shuo-ming" id="getvalue-fang-fa-can-shu-shuo-ming"></a>
 
 없음&#x20;
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72365050/blue%20block.png?version=1\&modificationDate=1648092724000\&api=v2) **반환값**  <a href="#getvalue-fang-fa-fan-hui-zhi" id="getvalue-fang-fa-fan-hui-zhi"></a>
+#### **반환값**  <a href="#getvalue-fang-fa-fan-hui-zhi" id="getvalue-fang-fa-fan-hui-zhi"></a>
 
 &#x20;  any
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72365050/blue%20block.png?version=1\&modificationDate=1648092724000\&api=v2) 예제입니다 <a href="#getvalue-fang-fa-shi-li" id="getvalue-fang-fa-shi-li"></a>
+#### 예제 <a href="#getvalue-fang-fa-shi-li" id="getvalue-fang-fa-shi-li"></a>
 
 다음 예제 코드에서는 getValue 메서드를 통해 지정된 셀(myCell)의 값을 가져옵니다.
 

@@ -1,22 +1,22 @@
 # unbindAll 메서드
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72366271/blue%20block.png?version=1\&modificationDate=1648092742000\&api=v2) 메서드 <a href="#unbindall-fang-fa-fang-fa" id="unbindall-fang-fa-fang-fa"></a>
+#### 메서드 <a href="#unbindall-fang-fa-fang-fa" id="unbindall-fang-fa-fang-fa"></a>
 
 &#x20;  Cell.unbindAll()
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72366271/blue%20block.png?version=1\&modificationDate=1648092742000\&api=v2) 설명 <a href="#unbindall-fang-fa-miao-shu" id="unbindall-fang-fa-miao-shu"></a>
+#### 설명 <a href="#unbindall-fang-fa-miao-shu" id="unbindall-fang-fa-miao-shu"></a>
 
 페이지의 모든 이벤트에 대한 바인딩을 제거합니다. 이 메서드는 페이지의 모든 이벤트 처리기를 제거하거나 이벤트가 발생할 때 지정된 함수의 실행을 종료할 수 있습니다.
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72366271/blue%20block.png?version=1\&modificationDate=1648092742000\&api=v2) **매개 변수** <a href="#unbindall-fang-fa-can-shu-shuo-ming" id="unbindall-fang-fa-can-shu-shuo-ming"></a>
+#### **매개 변수** <a href="#unbindall-fang-fa-can-shu-shuo-ming" id="unbindall-fang-fa-can-shu-shuo-ming"></a>
 
 없음&#x20;
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72366271/blue%20block.png?version=1\&modificationDate=1648092742000\&api=v2) **반환값**  <a href="#unbindall-fang-fa-fan-hui-zhi" id="unbindall-fang-fa-fan-hui-zhi"></a>
+#### **반환값**  <a href="#unbindall-fang-fa-fan-hui-zhi" id="unbindall-fang-fa-fan-hui-zhi"></a>
 
 없음&#x20;
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72366271/blue%20block.png?version=1\&modificationDate=1648092742000\&api=v2) 예제 <a href="#unbindall-fang-fa-shi-li" id="unbindall-fang-fa-shi-li"></a>
+#### 예제 <a href="#unbindall-fang-fa-shi-li" id="unbindall-fang-fa-shi-li"></a>
 
 다음 예제 코드에서는 unbindAll 메서드를 사용하여 페이지의 모든 클릭 이벤트를 바인딩 해제합니다.
 

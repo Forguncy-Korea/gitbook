@@ -1,22 +1,22 @@
 # suspendCalc 메서드
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72366240/blue%20block.png?version=1\&modificationDate=1648092742000\&api=v2) 메서드 <a href="#suspendcalc-fang-fa-fang-fa" id="suspendcalc-fang-fa-fang-fa"></a>
+#### 메서드 <a href="#suspendcalc-fang-fa-fang-fa" id="suspendcalc-fang-fa-fang-fa"></a>
 
 &#x20;  Page.suspendCalc()
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72366240/blue%20block.png?version=1\&modificationDate=1648092742000\&api=v2) 설명 <a href="#suspendcalc-fang-fa-miao-shu" id="suspendcalc-fang-fa-miao-shu"></a>
+#### 설명 <a href="#suspendcalc-fang-fa-miao-shu" id="suspendcalc-fang-fa-miao-shu"></a>
 
 일시 중단된 페이지의 수식 계산 논리, 즉 페이지의 수식 계산을 일시 중지합니다. 일반적으로 더 나은 성능을 위해 셀 값을 많이 조작하기 전에 사용됩니다. 복구 계산은 [resumeCalc 메서드](resumecalc.md)를 사용합니다.
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72366240/blue%20block.png?version=1\&modificationDate=1648092742000\&api=v2) **매개 변수** <a href="#suspendcalc-fang-fa-can-shu-shuo-ming" id="suspendcalc-fang-fa-can-shu-shuo-ming"></a>
+#### **매개 변수** <a href="#suspendcalc-fang-fa-can-shu-shuo-ming" id="suspendcalc-fang-fa-can-shu-shuo-ming"></a>
 
 없음&#x20;
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72366240/blue%20block.png?version=1\&modificationDate=1648092742000\&api=v2) **반환값**  <a href="#suspendcalc-fang-fa-fan-hui-zhi" id="suspendcalc-fang-fa-fan-hui-zhi"></a>
+#### **반환값**  <a href="#suspendcalc-fang-fa-fan-hui-zhi" id="suspendcalc-fang-fa-fan-hui-zhi"></a>
 
 없음&#x20;
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72366240/blue%20block.png?version=1\&modificationDate=1648092742000\&api=v2) 예제 <a href="#suspendcalc-fang-fa-shi-li" id="suspendcalc-fang-fa-shi-li"></a>
+#### 예제 <a href="#suspendcalc-fang-fa-shi-li" id="suspendcalc-fang-fa-shi-li"></a>
 
 다음 예제 코드에서는 suspendCalc 메서드를 사용하여 페이지의 모든 수식을 일시 중단하고 계산하지 않습니다.
 

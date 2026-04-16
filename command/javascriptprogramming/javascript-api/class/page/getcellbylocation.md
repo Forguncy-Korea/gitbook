@@ -1,14 +1,14 @@
 # getCellByLocation 메서드
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72366016/blue%20block.png?version=1\&modificationDate=1648092739000\&api=v2) 메서드 <a href="#getcellbylocation-fang-fa-fang-fa" id="getcellbylocation-fang-fa-fang-fa"></a>
+#### 메서드 <a href="#getcellbylocation-fang-fa-fang-fa" id="getcellbylocation-fang-fa-fang-fa"></a>
 
 &#x20;  Page.getCellByLocation(cellLocation)
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72366016/blue%20block.png?version=1\&modificationDate=1648092739000\&api=v2) 설명 <a href="#getcellbylocation-fang-fa-miao-shu" id="getcellbylocation-fang-fa-miao-shu"></a>
+#### 설명 <a href="#getcellbylocation-fang-fa-miao-shu" id="getcellbylocation-fang-fa-miao-shu"></a>
 
 셀의 위치 정보를 통해 셀 개체를 가져옵니다.
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72366016/blue%20block.png?version=1\&modificationDate=1648092739000\&api=v2) **매개 변수** <a href="#getcellbylocation-fang-fa-can-shu-shuo-ming" id="getcellbylocation-fang-fa-can-shu-shuo-ming"></a>
+#### **매개 변수** <a href="#getcellbylocation-fang-fa-can-shu-shuo-ming" id="getcellbylocation-fang-fa-can-shu-shuo-ming"></a>
 
 | 매개변수         | 형식                                                              | 위치           |
 | ------------ | --------------------------------------------------------------- | ------------ |
@@ -27,11 +27,11 @@ PageName: string;
 }
 ```
 
-#### &#x20;![](https://help.grapecity.com.cn/download/thumbnails/72366016/blue%20block.png?version=1\&modificationDate=1648092739000\&api=v2) **반환값**  <a href="#getcellbylocation-fang-fa-fan-hui-zhi" id="getcellbylocation-fang-fa-fan-hui-zhi"></a>
+#### &#x20;**반환값**  <a href="#getcellbylocation-fang-fa-fan-hui-zhi" id="getcellbylocation-fang-fa-fan-hui-zhi"></a>
 
 &#x20;  [Cell](../cellclass/)
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72366016/blue%20block.png?version=1\&modificationDate=1648092739000\&api=v2) 예제입니다 <a href="#getcellbylocation-fang-fa-shi-li" id="getcellbylocation-fang-fa-shi-li"></a>
+#### 예제 <a href="#getcellbylocation-fang-fa-shi-li" id="getcellbylocation-fang-fa-shi-li"></a>
 
 다음 예제 코드에서는 getCellByLocation 메서드를 사용하여 셀 개체를 가져오고 셀 배경색을 설정합니다.
 

@@ -16,15 +16,15 @@
 * 파일 업로드: 로컬 JavaScript 파일을 추가합니다.
 * 빈 파일 생성: 새 JavaScript 파일을 만듭니다.
 
-JavaScript 파일을 업로드한 후 파일 이름을 클릭한 후 JavaScript 파일을 삭제, 위로 이동, 아래로 이동, 이름 바꾸기 및 편집할 수 있습니다.![](https://help.grapecity.com.cn/download/thumbnails/56532102/image2018-2-1_14-24-21.png?version=1\&modificationDate=1611021618000\&api=v2)
+JavaScript 파일을 업로드한 후 파일 이름을 클릭한 후 JavaScript 파일을 삭제, 위로 이동, 아래로 이동, 이름 바꾸기 및 편집할 수 있습니다.
 
 다음은 응용 프로그램 수준 JavaScript 파일을 등록하고 사용하는 방법을 보여 줍니다.
 
-![](https://help.grapecity.com.cn/download/thumbnails/56532102/%E6%AD%A5%E9%AA%A41.png?version=1\&modificationDate=1611021618000\&api=v2) 두 셀 범위를 선택하고 셀 유형을 텍스트 상자로 설정합니다.
+1. 두 셀 범위를 선택하고 셀 유형을 텍스트 상자로 설정합니다.
 
 <figure><img src="../../../.gitbook/assets/image (589).png" alt=""><figcaption></figcaption></figure>
 
-![](https://help.grapecity.com.cn/download/thumbnails/56532102/%E6%AD%A5%E9%AA%A42.png?version=1\&modificationDate=1611021618000\&api=v2) \[파일-> 옵션-> JavaScript/CSS]를 선택하고 \[JavaScript 파일 관리] 영역에서 \[파일 업로드]를 선택하여 JavaScript 파일을 업로드합니다.
+2. &#x20;\[파일-> 옵션-> JavaScript/CSS]를 선택하고 \[JavaScript 파일 관리] 영역에서 \[파일 업로드]를 선택하여 JavaScript 파일을 업로드합니다.
 
 <figure><img src="../../../.gitbook/assets/image (2180).png" alt=""><figcaption></figcaption></figure>
 
@@ -37,7 +37,7 @@ function Add(num1, num2){
 }
 ```
 
-![](https://help.grapecity.com.cn/download/thumbnails/56532102/%E6%AD%A5%E9%AA%A43.png?version=1\&modificationDate=1611021618000\&api=v2) 셀 범위를 선택하고 셀 유형을 버튼으로 설정하고 이름을 "button"으로 지정합니다. 명령을 편집하고, 명령을 JavaScript 명령으로 설정하고, JavaScript 코드를 입력합니다.
+3. 셀 범위를 선택하고 셀 유형을 버튼으로 설정하고 이름을 "button"으로 지정합니다. 명령을 편집하고, 명령을 JavaScript 명령으로 설정하고, JavaScript 코드를 입력합니다.
 
 <figure><img src="../../../.gitbook/assets/image (1401).png" alt=""><figcaption></figcaption></figure>
 
@@ -56,5 +56,5 @@ var sum=Add(c1,c2);
 alert(sum);
 ```
 
-![](https://help.grapecity.com.cn/download/thumbnails/56532102/%E6%AD%A5%E9%AA%A44.png?version=1\&modificationDate=1611021618000\&api=v2) 페이지를 실행한 후 텍스트 상자에 값을 입력한 후 버튼을 클릭하면 계산 결과를 표시하는 경고 상자가 나타납니다.
+4. 페이지를 실행한 후 텍스트 상자에 값을 입력한 후 버튼을 클릭하면 계산 결과를 표시하는 경고 상자가 나타납니다.
 

@@ -12,7 +12,7 @@ Forguncy.getTableDataByCondition(condition, formulaCalcContext, callBack, async)
 
 
 
-<table><thead><tr><th width="206">매개변수 </th><th>형식 </th><th width="127">필요여부 </th><th>설명 </th></tr></thead><tbody><tr><td>condition</td><td><a href="https://help.grapecity.com.cn/pages/viewpage.action?pageId=72364493">GetTableDataByConditionParams</a></td><td>필수 </td><td>데이터를 가져오는 조건입니다.</td></tr><tr><td>formulaCalcContext</td><td><a href="https://help.grapecity.com.cn/pages/viewpage.action?pageId=72364491">FormulaCalcContext</a></td><td>필수 </td><td>매개 변수에 대한 쿼리 조건에 수식이 포함된 경우 수식을 사용하여 계산된 결과를 가져오는 수식 계산에 대한 컨텍스트 정보입니다.</td></tr><tr><td>callBack</td><td>function</td><td>필수 </td><td>함수를 성공적으로 콜백했습니다.</td></tr><tr><td>async</td><td>boolean</td><td>필수아</td><td>요청이 비동기인지 여부입니다.</td></tr></tbody></table>
+<table><thead><tr><th width="206">매개변수 </th><th>형식 </th><th width="127">필요여부 </th><th>설명 </th></tr></thead><tbody><tr><td>condition</td><td>GetTableDataByConditionParams</td><td>필수 </td><td>데이터를 가져오는 조건입니다.</td></tr><tr><td>formulaCalcContext</td><td>FormulaCalcContext</td><td>필수 </td><td>매개 변수에 대한 쿼리 조건에 수식이 포함된 경우 수식을 사용하여 계산된 결과를 가져오는 수식 계산에 대한 컨텍스트 정보입니다.</td></tr><tr><td>callBack</td><td>function</td><td>필수 </td><td>함수를 성공적으로 콜백했습니다.</td></tr><tr><td>async</td><td>boolean</td><td>필수아</td><td>요청이 비동기인지 여부입니다.</td></tr></tbody></table>
 
 ### 반환값&#x20;
 

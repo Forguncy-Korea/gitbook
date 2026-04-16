@@ -347,7 +347,7 @@
       * [데이블 테이블 데이터 삭제하기](command/severcmd/supportcmd/datatable/delete.md)
       * [추가/업데이트 작업](command/severcmd/supportcmd/datatable/addupdate.md)
     * [프로그램 명령 호출](command/severcmd/supportcmd/callprogram.md)
-    * [Excel 가져오기/내보내기 명](command/severcmd/supportcmd/excel/README.md)
+    * [Excel 가져오기/내보내기 명령](command/severcmd/supportcmd/excel/README.md)
       * [서버에서 Excel 파일 가져오기](command/severcmd/supportcmd/excel/import.md)
       * [서버단에서 Excel 파일 내보내기 ](command/severcmd/supportcmd/excel/export.md)
     * [CSV 가져오기, 내보내기](command/severcmd/supportcmd/csv/README.md)

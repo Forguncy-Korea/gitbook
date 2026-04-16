@@ -4,11 +4,9 @@
 
 자바 스크립트 및 CSS 코드를 디버깅하기 위해 Google 크롬을 사용하는 것이 좋습니다. 디버그 도구는 Google 크롬 버전에 따라 다를 수 있습니다.
 
-![](https://help.grapecity.com.cn/download/thumbnails/56532247/%E6%AD%A5%E9%AA%A41.png?version=1\&modificationDate=1611021620000\&api=v2) 응용 프로그램 실행을 클릭하여 로컬에서 미리 봅니다.![](https://help.grapecity.com.cn/download/thumbnails/56532247/image2018-1-4_11-55-2.png?version=1\&modificationDate=1611021620000\&api=v2)
-
-![](https://help.grapecity.com.cn/download/thumbnails/56532247/%E6%AD%A5%E9%AA%A42.png?version=1\&modificationDate=1611021620000\&api=v2) 브라우저에서 F12 키를 눌러 개발자 도구를 열고 \[Sources]를 선택합니다.
-
-![](https://help.grapecity.com.cn/download/thumbnails/56532247/%E6%AD%A5%E9%AA%A43.png?version=1\&modificationDate=1611021620000\&api=v2) 각 파일 및 위치는 아래 그림과 같이 실제 비즈니스에 따라 JavaScript 및 CSS 코드를 디버깅할 수 있습니다.
+1. 응용 프로그램 실행을 클릭하여 로컬에서 미리 봅니다.
+2. &#x20;브라우저에서 F12 키를 눌러 개발자 도구를 열고 \[Sources]를 선택합니다.
+3. 각 파일 및 위치는 아래 그림과 같이 실제 비즈니스에 따라 JavaScript 및 CSS 코드를 디버깅할 수 있습니다.
 
 <figure><img src="../../.gitbook/assets/image (1217).png" alt=""><figcaption></figcaption></figure>
 

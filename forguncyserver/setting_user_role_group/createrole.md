@@ -18,9 +18,8 @@
 
 역할을 추가한 후에는 역할에 구성원을 추가해야 합니다.
 
-![](https://help.grapecity.com.cn/download/thumbnails/72356663/%E6%AD%A5%E9%AA%A41.png?version=1\&modificationDate=1648092595000\&api=v2) 역할을 선택하고 오른쪽에서 멤버 추가를 클릭합니다.
-
-![](https://help.grapecity.com.cn/download/thumbnails/72356663/%E6%AD%A5%E9%AA%A42.png?version=1\&modificationDate=1648092595000\&api=v2) 팝업 멤버 편집 대화 상자에서 사용자 인증 모드를 선택하고 검색 상자에 검색 키워드를 입력하고 Enter 키를 클릭하거나 눌러 검색하거나 사용자를 직접 선택할 수 있습니다.![](https://help.grapecity.com.cn/download/thumbnails/72356663/image2018-2-7_11-52-55.png?version=1\&modificationDate=1648092595000\&api=v2)<br>
+1. 역할을 선택하고 오른쪽에서 멤버 추가를 클릭합니다.
+2. &#x20;팝업 멤버 편집 대화 상자에서 사용자 인증 모드를 선택하고 검색 상자에 검색 키워드를 입력하고 Enter 키를 클릭하거나 눌러 검색하거나 사용자를 직접 선택할 수 있습니다.![](https://help.grapecity.com.cn/download/thumbnails/72356663/image2018-2-7_11-52-55.png?version=1\&modificationDate=1648092595000\&api=v2)<br>
 
 <figure><img src="../../.gitbook/assets/image (2430).png" alt=""><figcaption></figcaption></figure>
 
@@ -31,7 +30,7 @@
 * 사용자를 만들 때 Windows 인증 사용자를 선택한 경우 여기에서 Windows 도메인 사용자를 선택합니다.
 {% endhint %}
 
-![](https://help.grapecity.com.cn/download/thumbnails/72356663/%E6%AD%A5%E9%AA%A43.png?version=1\&modificationDate=1648092595000\&api=v2) 확인을 클릭하면 사용자를 성공적으로 추가할 수 있습니다. 사용자가 서명한 체크박스를 여러 번 검색하고 선택한 모든 사용자를 한 번에 추가하여 사용자를 추가할 수 있습니다.
+3. 확인을 클릭하면 사용자를 성공적으로 추가할 수 있습니다. 사용자가 서명한 체크박스를 여러 번 검색하고 선택한 모든 사용자를 한 번에 추가하여 사용자를 추가할 수 있습니다.
 
 ### 역할 및 권한
 

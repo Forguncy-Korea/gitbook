@@ -8,25 +8,21 @@
 
 이 섹션에서는 GitHub를 공동 작업 서버로 사용하여 프로젝트를 만들고 여는 방법을 보여 줍니다.&#x20;
 
-![](https://help.grapecity.com.cn/download/thumbnails/72363999/%E6%AD%A5%E9%AA%A41.png?version=1\&modificationDate=1648092709000\&api=v2)  github에 등록하고 계정에 성공적으로 로그인하면 저장소를 만들 수 있습니다.
-
-아래    Create a new repository 버튼을 클릭합니다.&#x20;
+1. github에 등록하고 계정에 성공적으로 로그인하면 저장소를 만들 수 있습니다.\
+   아래    Create a new repository 버튼을 클릭합니다.&#x20;
 
 <figure><img src="../../.gitbook/assets/image (613).png" alt=""><figcaption></figcaption></figure>
 
-![](https://help.grapecity.com.cn/download/thumbnails/72363999/%E6%AD%A5%E9%AA%A42.png?version=1\&modificationDate=1648092709000\&api=v2) 새 저장소 만들기 페이지에서 저장소이름 입력하고 오픈 소스가 비공개인지 공개인지 여부를 선택하고 실제 비즈니스 상황에 따라 다른 설정을 설정합니다.
-
-설정이 완료되면 create repository를 클릭합니다.&#x20;
+2. 새 저장소 만들기 페이지에서 저장소이름 입력하고 오픈 소스가 비공개인지 공개인지 여부를 선택하고 실제 비즈니스 상황에 따라 다른 설정을 설정합니다.\
+   설정이 완료되면 create repository를 클릭합니다.&#x20;
 
 <figure><img src="../../.gitbook/assets/1.png" alt=""><figcaption></figcaption></figure>
 
-![](https://help.grapecity.com.cn/download/thumbnails/72363999/%E6%AD%A5%E9%AA%A43.png?version=1\&modificationDate=1648092709000\&api=v2) 생성이 완료되면 저장소 주소를 가져옵니다.
+3. 생성이 완료되면 저장소 주소를 가져옵니다.
 
 <figure><img src="../../.gitbook/assets/2 (3).png" alt=""><figcaption></figcaption></figure>
 
-![](https://help.grapecity.com.cn/download/thumbnails/72363999/%E6%AD%A5%E9%AA%A44.png?version=1\&modificationDate=1648092709000\&api=v2) 협업개발을 위한 포건시 파일 또는 빈 프로젝트를 열고 리본 메뉴 모음에서 \[공동작업-> 프로젝트 생성하기]를 선택하여 공동 작업 프로젝트 작성 대화 상자를 팝업합니다.
-
-텍스트 상자에 단계에서 가져온 저장소 주소를 입력합니다.
+4. 협업개발을 위한 포건시 파일 또는 빈 프로젝트를 열고 리본 메뉴 모음에서 \[공동작업-> 프로젝트 생성하기]를 선택하여 공동 작업 프로젝트 작성 대화 상자를 팝업합니다.텍스트 상자에 단계에서 가져온 저장소 주소를 입력합니다.
 
 <figure><img src="../../.gitbook/assets/image (2377).png" alt=""><figcaption></figcaption></figure>
 
@@ -38,9 +34,7 @@
 
 사용자 정보를 입력한 후 확인을 클릭합니다.
 
-![](https://help.grapecity.com.cn/download/thumbnails/72363999/%E6%AD%A5%E9%AA%A45.png?version=1\&modificationDate=1648092709000\&api=v2) 현재 열려 있는 포건 프로젝트 파일 또는 빈 프로젝트를 공동 작업 서버에 업로드하면 서버 측에서 새 공동 작업 프로젝트가 만들어집니다.
-
-업로드가 완료되면 github에 다음과 같이 표시됩니다.
+5. 현재 열려 있는 포건 프로젝트 파일 또는 빈 프로젝트를 공동 작업 서버에 업로드하면 서버 측에서 새 공동 작업 프로젝트가 만들어집니다. 업로드가 완료되면 github에 다음과 같이 표시됩니다.
 
 <figure><img src="../../.gitbook/assets/image (1413).png" alt=""><figcaption></figcaption></figure>
 

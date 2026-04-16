@@ -32,4 +32,4 @@
 
 다음과 같이 표시됩니다.
 
-![](<../../.gitbook/assets/image (2265).png>)
+<figure><img src="../../.gitbook/assets/image (2265).png" alt=""><figcaption></figcaption></figure>

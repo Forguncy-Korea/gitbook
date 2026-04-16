@@ -1,18 +1,18 @@
 # PivottableClick 이벤트
 
-#### &#x20;![](https://help.grapecity.com.cn/download/thumbnails/72364860/blue%20block.png?version=1\&modificationDate=1648092721000\&api=v2) 이벤트 <a href="#pivottableclick-shi-jian-shi-jian" id="pivottableclick-shi-jian-shi-jian"></a>
+#### 이벤트 <a href="#pivottableclick-shi-jian-shi-jian" id="pivottableclick-shi-jian-shi-jian"></a>
 
 &#x20;  Forguncy.CellEvents.PivottableClick
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72364860/blue%20block.png?version=1\&modificationDate=1648092721000\&api=v2) 설명 <a href="#pivottableclick-shi-jian-miao-shu" id="pivottableclick-shi-jian-miao-shu"></a>
+#### 설명 <a href="#pivottableclick-shi-jian-miao-shu" id="pivottableclick-shi-jian-miao-shu"></a>
 
 피벗 테이블의 셀을 클릭하면 이벤트가 트리거됩니다.
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72364860/blue%20block.png?version=1\&modificationDate=1648092721000\&api=v2) **반환값**  <a href="#pivottableclick-shi-jian-fan-hui-zhi" id="pivottableclick-shi-jian-fan-hui-zhi"></a>
+#### &#x20;**반환값**  <a href="#pivottableclick-shi-jian-fan-hui-zhi" id="pivottableclick-shi-jian-fan-hui-zhi"></a>
 
 &#x20;  string
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72364860/blue%20block.png?version=1\&modificationDate=1648092721000\&api=v2) 예제 <a href="#pivottableclick-shi-jian-shi-li" id="pivottableclick-shi-jian-shi-li"></a>
+#### 예제 <a href="#pivottableclick-shi-jian-shi-li" id="pivottableclick-shi-jian-shi-li"></a>
 
 다음 예제 코드에서는 bind 메서드를 사용 하 여 피벗 테이블에 클릭 이벤트를 추가하고 피벗 테이블을 클릭할 때 피벗 테이블의 셀에 대 한 정보를 팝업 합니다.
 

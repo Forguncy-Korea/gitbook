@@ -1,22 +1,22 @@
 # show 메서드
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72365166/blue%20block.png?version=1\&modificationDate=1648092725000\&api=v2) 메서드 <a href="#show-fang-fa-fang-fa" id="show-fang-fa-fang-fa"></a>
+#### 메서드 <a href="#show-fang-fa-fang-fa" id="show-fang-fa-fang-fa"></a>
 
 Cell.show()
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72365166/blue%20block.png?version=1\&modificationDate=1648092725000\&api=v2) 설명 <a href="#show-fang-fa-miao-shu" id="show-fang-fa-miao-shu"></a>
+#### 설명 <a href="#show-fang-fa-miao-shu" id="show-fang-fa-miao-shu"></a>
 
 셀을 표시합니다. 페이지의 숨겨진 셀을 표시하여 셀의 값, 유형 등을 표시합니다. hide 방법과는 달리 실제 요구 사항에 따라 사용할 수 있습니다.
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72365166/blue%20block.png?version=1\&modificationDate=1648092725000\&api=v2) **매개 변수**  <a href="#show-fang-fa-can-shu-shuo-ming" id="show-fang-fa-can-shu-shuo-ming"></a>
+#### **매개 변수**  <a href="#show-fang-fa-can-shu-shuo-ming" id="show-fang-fa-can-shu-shuo-ming"></a>
 
 없
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72365166/blue%20block.png?version=1\&modificationDate=1648092725000\&api=v2) **반환값**  <a href="#show-fang-fa-fan-hui-zhi" id="show-fang-fa-fan-hui-zhi"></a>
+#### **반환값**  <a href="#show-fang-fa-fan-hui-zhi" id="show-fang-fa-fan-hui-zhi"></a>
 
 없음&#x20;
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72365166/blue%20block.png?version=1\&modificationDate=1648092725000\&api=v2) 예제 <a href="#show-fang-fa-shi-li" id="show-fang-fa-shi-li"></a>
+#### 예제 <a href="#show-fang-fa-shi-li" id="show-fang-fa-shi-li"></a>
 
 다음 예제 코드에서는 show 메서드를 통해 지정된 셀(button)을 표시합니다.
 

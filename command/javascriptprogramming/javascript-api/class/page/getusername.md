@@ -1,22 +1,22 @@
 # getUserName 메서드
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72366144/blue%20block.png?version=1\&modificationDate=1648092741000\&api=v2) 메서드 <a href="#getusername-fang-fa-fang-fa" id="getusername-fang-fa-fang-fa"></a>
+#### 메서드 <a href="#getusername-fang-fa-fang-fa" id="getusername-fang-fa-fang-fa"></a>
 
 page.getUserName()
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72366144/blue%20block.png?version=1\&modificationDate=1648092741000\&api=v2) 설명 <a href="#getusername-fang-fa-miao-shu" id="getusername-fang-fa-miao-shu"></a>
+#### 설명 <a href="#getusername-fang-fa-miao-shu" id="getusername-fang-fa-miao-shu"></a>
 
 현재 로그인한 사용자의 사용자 이름을 가져오고 사용자가 로그인하지 않은 경우 null 값을 반환합니다.
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72366144/blue%20block.png?version=1\&modificationDate=1648092741000\&api=v2) **매개 변수**  <a href="#getusername-fang-fa-can-shu-shuo-ming" id="getusername-fang-fa-can-shu-shuo-ming"></a>
+#### **매개 변수**  <a href="#getusername-fang-fa-can-shu-shuo-ming" id="getusername-fang-fa-can-shu-shuo-ming"></a>
 
 &#x20;  **없음**&#x20;
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72366144/blue%20block.png?version=1\&modificationDate=1648092741000\&api=v2) **반환값**  <a href="#getusername-fang-fa-fan-hui-zhi" id="getusername-fang-fa-fan-hui-zhi"></a>
+#### **반환값**  <a href="#getusername-fang-fa-fan-hui-zhi" id="getusername-fang-fa-fan-hui-zhi"></a>
 
 string
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72366144/blue%20block.png?version=1\&modificationDate=1648092741000\&api=v2) 예제입니다 <a href="#getusername-fang-fa-shi-li" id="getusername-fang-fa-shi-li"></a>
+#### 예제입니다 <a href="#getusername-fang-fa-shi-li" id="getusername-fang-fa-shi-li"></a>
 
 다음 예제 코드에서는 getUserName 메서드를 통해 사용자 이름을 가져옵니다.
 

@@ -1,12 +1,12 @@
 # PivotTableEventParameter 클래스
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72366308/blue%20block.png?version=1\&modificationDate=1648092745000\&api=v2) **설명입니다** <a href="#pivottableeventparameter-lei-miao-shu" id="pivottableeventparameter-lei-miao-shu"></a>
+#### **설명** <a href="#pivottableeventparameter-lei-miao-shu" id="pivottableeventparameter-lei-miao-shu"></a>
 
 피벗 테이블 클릭 이벤트에 대한 데이터를 제공합니다.
 
 
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72366308/blue%20block.png?version=1\&modificationDate=1648092745000\&api=v2) **속** <a href="#pivottableeventparameter-lei-shu-xing" id="pivottableeventparameter-lei-shu-xing"></a>
+#### **속성**  <a href="#pivottableeventparameter-lei-shu-xing" id="pivottableeventparameter-lei-shu-xing"></a>
 
 | 속성         | 형식                                                  | 설명                                                                                   |
 | ---------- | --------------------------------------------------- | ------------------------------------------------------------------------------------ |

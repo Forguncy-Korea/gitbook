@@ -1,22 +1,22 @@
 # disable 메서드
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72364924/blue%20block.png?version=1\&modificationDate=1648092722000\&api=v2) 메서드 <a href="#disable-fang-fa-fang-fa" id="disable-fang-fa-fang-fa"></a>
+#### &#x20;메서드 <a href="#disable-fang-fa-fang-fa" id="disable-fang-fa-fang-fa"></a>
 
 Cell.disable()
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72364924/blue%20block.png?version=1\&modificationDate=1648092722000\&api=v2) 설명 <a href="#disable-fang-fa-miao-shu" id="disable-fang-fa-miao-shu"></a>
+#### 설명 <a href="#disable-fang-fa-miao-shu" id="disable-fang-fa-miao-shu"></a>
 
 셀을 사용하지 않도록 설정합니다. 셀이 비활성화되면 클릭할 수 없습니다.
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72364924/blue%20block.png?version=1\&modificationDate=1648092722000\&api=v2) **매개 변수** <a href="#disable-fang-fa-can-shu-shuo-ming" id="disable-fang-fa-can-shu-shuo-ming"></a>
+#### **매개 변수** <a href="#disable-fang-fa-can-shu-shuo-ming" id="disable-fang-fa-can-shu-shuo-ming"></a>
 
 없음&#x20;
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72364924/blue%20block.png?version=1\&modificationDate=1648092722000\&api=v2) **반환값**  <a href="#disable-fang-fa-fan-hui-zhi" id="disable-fang-fa-fan-hui-zhi"></a>
+#### &#x20;**반환값**  <a href="#disable-fang-fa-fan-hui-zhi" id="disable-fang-fa-fan-hui-zhi"></a>
 
 없음&#x20;
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72364924/blue%20block.png?version=1\&modificationDate=1648092722000\&api=v2) 예제 <a href="#disable-fang-fa-shi-li" id="disable-fang-fa-shi-li"></a>
+#### 예제 <a href="#disable-fang-fa-shi-li" id="disable-fang-fa-shi-li"></a>
 
 다음 예제 코드에서 disable 메서드를 사용 하 여 지정된 체크박스를 사용 하지 않도록 설정 하려면 버튼 클릭 합니다.
 

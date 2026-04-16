@@ -46,7 +46,7 @@
 
 서버  명령을 참조하는 요소를 찾을 수 있습니다.
 
-서버 단 명령 관리자에서 서버  명령을 선택하고 참조 찾기를 클릭하면 해당 서버단 명령을 참조하는 모든 요소를 찾을 수 있습니다.![](https://help.grapecity.com.cn/download/thumbnails/72363053/image2020-3-18_14-31-53.png?version=1\&modificationDate=1648092696000\&api=v2)
+서버 단 명령 관리자에서 서버  명령을 선택하고 참조 찾기를 클릭하면 해당 서버단 명령을 참조하는 모든 요소를 찾을 수 있습니다.
 
 <figure><img src="../../../.gitbook/assets/image (1711).png" alt=""><figcaption></figcaption></figure>
 

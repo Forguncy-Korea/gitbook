@@ -1,22 +1,22 @@
 # unbind 메서드
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72365181/blue%20block.png?version=1\&modificationDate=1648092726000\&api=v2) 메서드 <a href="#unbind-fang-fa-fang-fa" id="unbind-fang-fa-fang-fa"></a>
+#### 메서드 <a href="#unbind-fang-fa-fang-fa" id="unbind-fang-fa-fang-fa"></a>
 
 &#x20;  Cell.unbind(type, fn)
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72365181/blue%20block.png?version=1\&modificationDate=1648092726000\&api=v2) 설명 <a href="#unbind-fang-fa-miao-shu" id="unbind-fang-fa-miao-shu"></a>
+#### 설명 <a href="#unbind-fang-fa-miao-shu" id="unbind-fang-fa-miao-shu"></a>
 
 선택한 요소에 대한 이벤트 처리기를 제거합니다. 이 메서드는 선택한 이벤트 처리기를 제거하거나 이벤트가 발생할 때 지정된 함수의 실행을 종료할 수 있습니다.
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72365181/blue%20block.png?version=1\&modificationDate=1648092726000\&api=v2) **매개 변수** <a href="#unbind-fang-fa-can-shu-shuo-ming" id="unbind-fang-fa-can-shu-shuo-ming"></a>
+#### **매개 변수** <a href="#unbind-fang-fa-can-shu-shuo-ming" id="unbind-fang-fa-can-shu-shuo-ming"></a>
 
 <table><thead><tr><th width="125">매개변수 </th><th width="131">형식 </th><th width="114">필수여부</th><th>설명 </th></tr></thead><tbody><tr><td>type</td><td>string</td><td>Yes</td><td>이벤트 형식을 나타내는 문자열입니다. 셀에서 지원하는 이벤트는 CellEvents 클래스를 참조하십시오.</td></tr><tr><td>fn</td><td>function</td><td>No</td><td>이벤트 처리기입니다. 생략하면 해당 이벤트 형식의 셀에 대한 모든 처리기의 바인딩이 해제됩니다.</td></tr></tbody></table>
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72365181/blue%20block.png?version=1\&modificationDate=1648092726000\&api=v2) **반환값**  <a href="#unbind-fang-fa-fan-hui-zhi" id="unbind-fang-fa-fan-hui-zhi"></a>
+#### **반환값**  <a href="#unbind-fang-fa-fan-hui-zhi" id="unbind-fang-fa-fan-hui-zhi"></a>
 
 없음&#x20;
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72365181/blue%20block.png?version=1\&modificationDate=1648092726000\&api=v2) 예제입니다 <a href="#unbind-fang-fa-shi-li" id="unbind-fang-fa-shi-li"></a>
+#### 예제 <a href="#unbind-fang-fa-shi-li" id="unbind-fang-fa-shi-li"></a>
 
 다음 예제 코드에서는 unbind 메서드를 통해 버에 대한 클릭 이벤트 바인딩을 제거합니다.
 

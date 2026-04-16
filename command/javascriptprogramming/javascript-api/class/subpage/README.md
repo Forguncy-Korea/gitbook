@@ -1,12 +1,12 @@
 # SubPage 클래스
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72366399/blue%20block.png?version=1\&modificationDate=1648092747000\&api=v2) **설명** <a href="#subpage-lei-miao-shu" id="subpage-lei-miao-shu"></a>
+#### **설명** <a href="#subpage-lei-miao-shu" id="subpage-lei-miao-shu"></a>
 
 하위페이지 개체입니다.
 
 페이지에 페이지 컨테이너 및 탭 셀 유형이 포함된 경우 하위 페이지가 있을 수 있습니다.
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72366399/blue%20block.png?version=1\&modificationDate=1648092747000\&api=v2) 메서드 <a href="#subpage-lei-fang-fa" id="subpage-lei-fang-fa"></a>
+#### 메서드 <a href="#subpage-lei-fang-fa" id="subpage-lei-fang-fa"></a>
 
 | 메서드                                       | 설명                                  |
 | ----------------------------------------- | ----------------------------------- |

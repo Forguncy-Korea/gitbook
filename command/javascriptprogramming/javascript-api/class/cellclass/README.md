@@ -1,10 +1,10 @@
 # Cell 클래스
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72364904/blue%20block.png?version=1\&modificationDate=1648092722000\&api=v2) 설명 <a href="#cell-lei-miao-shu" id="cell-lei-miao-shu"></a>
+#### 설명 <a href="#cell-lei-miao-shu" id="cell-lei-miao-shu"></a>
 
 셀 개체입니다.
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72364904/blue%20block.png?version=1\&modificationDate=1648092722000\&api=v2) 메서드 <a href="#cell-lei-fang-fa" id="cell-lei-fang-fa"></a>
+#### &#x20;메서드 <a href="#cell-lei-fang-fa" id="cell-lei-fang-fa"></a>
 
 
 

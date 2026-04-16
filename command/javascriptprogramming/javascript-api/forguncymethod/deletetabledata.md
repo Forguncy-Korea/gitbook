@@ -72,15 +72,13 @@ alert(errorMessage);
 
 ### 사용예제&#x20;
 
-![](https://help.grapecity.com.cn/download/thumbnails/72364626/%E6%AD%A5%E9%AA%A41.png?version=1\&modificationDate=1648092718000\&api=v2) 페이지에서 범위를 선택하고, 데이터 테이블을 셀 범위로 드래그하고, 데이터 테이블의 필드를 바인딩하고, 각 열의 열 이름을 설정합니다.
-
-![](https://help.grapecity.com.cn/download/thumbnails/72364626/%E6%AD%A5%E9%AA%A42.png?version=1\&modificationDate=1648092718000\&api=v2) 셀 범위를 선택하고 셀 유형을 버튼으로 설정하고 명령을 \[JavaScript 명령]으로 편집하고 JavaScript 코드를 입력합니다.<br>
+1. 페이지에서 범위를 선택하고, 데이터 테이블을 셀 범위로 드래그하고, 데이터 테이블의 필드를 바인딩하고, 각 열의 열 이름을 설정합니다.
+2. &#x20;셀 범위를 선택하고 셀 유형을 버튼으로 설정하고 명령을 \[JavaScript 명령]으로 편집하고 JavaScript 코드를 입력합니다.<br>
 
 <figure><img src="../../../../.gitbook/assets/image (1208).png" alt=""><figcaption></figcaption></figure>
 
-![](https://help.grapecity.com.cn/download/thumbnails/72364626/%E6%AD%A5%E9%AA%A43.png?version=1\&modificationDate=1648092718000\&api=v2) 편집이 완료되면 \[확인]을 클릭하여 대화 상자를 닫습니다.
-
-페이지를 실행하고 삭제 버튼 클릭하면 삭제가 성공한다는 경고 상자가 나타납니다.&#x20;
+3. 편집이 완료되면 \[확인]을 클릭하여 대화 상자를 닫습니다.\
+   페이지를 실행하고 삭제 버튼 클릭하면 삭제가 성공한다는 경고 상자가 나타납니다.&#x20;
 
 <figure><img src="../../../../.gitbook/assets/image (522).png" alt=""><figcaption></figcaption></figure>
 

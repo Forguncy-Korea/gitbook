@@ -1,22 +1,22 @@
 # getCellArray 메서드
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72365999/blue%20block.png?version=1\&modificationDate=1648092739000\&api=v2) 메서드 <a href="#getcellarray-fang-fa-fang-fa" id="getcellarray-fang-fa-fang-fa"></a>
+#### 메서드 <a href="#getcellarray-fang-fa-fang-fa" id="getcellarray-fang-fa-fang-fa"></a>
 
 Page.getCellArray(name, includeSubPage)
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72365999/blue%20block.png?version=1\&modificationDate=1648092739000\&api=v2) 설명 <a href="#getcellarray-fang-fa-miao-shu" id="getcellarray-fang-fa-miao-shu"></a>
+#### 설명 <a href="#getcellarray-fang-fa-miao-shu" id="getcellarray-fang-fa-miao-shu"></a>
 
 셀 이름으로 셀 인스턴스 집합을 가져옵니다.
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72365999/blue%20block.png?version=1\&modificationDate=1648092739000\&api=v2) **매개 변수** <a href="#getcellarray-fang-fa-can-shu-shuo-ming" id="getcellarray-fang-fa-can-shu-shuo-ming"></a>
+#### **매개 변수** <a href="#getcellarray-fang-fa-can-shu-shuo-ming" id="getcellarray-fang-fa-can-shu-shuo-ming"></a>
 
 <table data-header-hidden><thead><tr><th width="185.33333333333331">매개변수 </th><th width="159">형식 </th><th>설명 </th></tr></thead><tbody><tr><td>name</td><td>string</td><td>셀 이름입니다.</td></tr><tr><td>includeSubPage</td><td>Boolean</td><td>하위 페이지에서 찾을지 여부입니다. 선택적 매개 변수( 기본값은 true)입니다.</td></tr></tbody></table>
 
-#### &#x20;![](https://help.grapecity.com.cn/download/thumbnails/72365999/blue%20block.png?version=1\&modificationDate=1648092739000\&api=v2) **반환 값**  <a href="#getcellarray-fang-fa-fan-hui-zhi" id="getcellarray-fang-fa-fan-hui-zhi"></a>
+#### &#x20;**반환 값**  <a href="#getcellarray-fang-fa-fan-hui-zhi" id="getcellarray-fang-fa-fan-hui-zhi"></a>
 
 &#x20;  [Cell](https://help.grapecity.com.cn/pages/viewpage.action?pageId=72364904)[\[\]](https://help.grapecity.com.cn/pages/viewpage.action?pageId=72364904)
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72365999/blue%20block.png?version=1\&modificationDate=1648092739000\&api=v2) 예제 <a href="#getcellarray-fang-fa-shi-li" id="getcellarray-fang-fa-shi-li"></a>
+#### 예제 <a href="#getcellarray-fang-fa-shi-li" id="getcellarray-fang-fa-shi-li"></a>
 
 다음 예제 코드에서는 getCellArray 메서드를 통해 셀 인스턴스 집합을 가져오고 반환된 셀 인스턴스의 길이를 가져옵니다.
 

@@ -1,18 +1,18 @@
 # ValueChanged 이벤트
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72364889/blue%20block.png?version=1\&modificationDate=1648092722000\&api=v2) 이벤트 <a href="#valuechanged-shi-jian-shi-jian" id="valuechanged-shi-jian-shi-jian"></a>
+#### 이벤트 <a href="#valuechanged-shi-jian-shi-jian" id="valuechanged-shi-jian-shi-jian"></a>
 
 &#x20;  Forguncy.CellEvents.ValueChanged
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72364889/blue%20block.png?version=1\&modificationDate=1648092722000\&api=v2) 설명 <a href="#valuechanged-shi-jian-miao-shu" id="valuechanged-shi-jian-miao-shu"></a>
+#### 설명 <a href="#valuechanged-shi-jian-miao-shu" id="valuechanged-shi-jian-miao-shu"></a>
 
 셀의 값이 변경될 때 이벤트가 트리거됩니다.
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72364889/blue%20block.png?version=1\&modificationDate=1648092722000\&api=v2) **반환값**  <a href="#valuechanged-shi-jian-fan-hui-zhi" id="valuechanged-shi-jian-fan-hui-zhi"></a>
+#### **반환값**  <a href="#valuechanged-shi-jian-fan-hui-zhi" id="valuechanged-shi-jian-fan-hui-zhi"></a>
 
 문자열
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72364889/blue%20block.png?version=1\&modificationDate=1648092722000\&api=v2) 예제 <a href="#valuechanged-shi-jian-shi-li" id="valuechanged-shi-jian-shi-li"></a>
+#### 예제 <a href="#valuechanged-shi-jian-shi-li" id="valuechanged-shi-jian-shi-li"></a>
 
 다음 예제 코드에서는 콤보 상자에 ValueChanged 이벤트를 추가하는 bind 메서드를 사용하여 셀 값이 변경될 때 경고 상자가 나타납니다.
 

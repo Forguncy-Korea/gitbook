@@ -31,5 +31,7 @@ Git은 매우 작은 것부터 매우 큰 프로젝트 버전 관리까지 효�
 
 일반적으로 사용되는 Git 클라우드 서버는 다음과 같습니다.
 
-* GitHub: GitHub는 팀 로그, 할당 작업, 코드 롤백 등을 기록하는 데 사용할 수 있는 오픈 소스 및 개인 소프트웨어 프로젝트를 위한 호스팅 플랫폼입니다.                                                                       GitHub 주소: [https://github.com/](https://github.com/)                                                                                                GitHub를 사용하기 전에 GitHub에서 사용자 액세스 토큰을 만들고 해당 토큰을 암호로 사용해야 합니다. 개인 액세스 토큰을 만드는 방법에 대한 자세한 내용은 [https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token) 참조하십시오.
+* GitHub: GitHub는 팀 로그, 할당 작업, 코드 롤백 등을 기록하는 데 사용할 수 있는 오픈 소스 및 개인 소프트웨어 프로젝트를 위한 호스팅 플랫폼입니다.                                                                       \
+  GitHub 주소: [https://github.com/](https://github.com/)                                                                                               \
+  &#x20;GitHub를 사용하기 전에 GitHub에서 사용자 액세스 토큰을 만들고 해당 토큰을 암호로 사용해야 합니다. 개인 액세스 토큰을 만드는 방법에 대한 자세한 내용은 [https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token) 참조하십시오.
 * Bitbucket: Git의 호스팅 플랫폼, 5 명의 개발 구성원을 무료로 지원하는 팀은 무제한 개인 코드 호스팅 라이브러리를 만들 수 있습니다.                                                                                                        Bitbucket 주소: [https://bitbucket.org/](https://yq.aliyun.com/go/articleRenderRedirect?url=https%3A%2F%2Fbitbucket.org%2F) .

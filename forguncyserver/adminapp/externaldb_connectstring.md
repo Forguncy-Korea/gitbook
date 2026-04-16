@@ -6,10 +6,9 @@
 
 이 섹션에서는 외부 데이터베이스 연결 문자열을 구성하는 방법에 대해 설명합니다.
 
-![](https://help.grapecity.com.cn/download/thumbnails/72363240/%E6%AD%A5%E9%AA%A41.png?version=1\&modificationDate=1648092698000\&api=v2) 서버관리자의 앱 목록에서 앱을 선택하고 앱 이름을 클릭하여 앱의 일반 설정 페이지로 이동합니다.
-
-![](https://help.grapecity.com.cn/download/thumbnails/72363240/%E6%AD%A5%E9%AA%A42.png?version=1\&modificationDate=1648092698000\&api=v2) 그런 다음 고급 설정을 클릭하면 데이터베이스 연결 문자열 영역에서 앱에 연결된 모든 유형의 데이터베이스를 볼 수 있습니다. 데이터베이스 연결 문자열을 구성할 수 있습니다.
+1. 서버관리자의 앱 목록에서 앱을 선택하고 앱 이름을 클릭하여 앱의 일반 설정 페이지로 이동합니다.
+2. &#x20;그런 다음 고급 설정을 클릭하면 데이터베이스 연결 문자열 영역에서 앱에 연결된 모든 유형의 데이터베이스를 볼 수 있습니다. 데이터베이스 연결 문자열을 구성할 수 있습니다.
 
 ![](<../../.gitbook/assets/image (386).png>)
 
-![](https://help.grapecity.com.cn/download/thumbnails/72363240/%E6%AD%A5%E9%AA%A43.png?version=1\&modificationDate=1648092698000\&api=v2) 구성이 완료되면 설정 저장을 클릭하고 프롬프트에 따라 앱 서비스를 다시 시작하면 적용됩니다.
+3. 구성이 완료되면 설정 저장을 클릭하고 프롬프트에 따라 앱 서비스를 다시 시작하면 적용됩니다.

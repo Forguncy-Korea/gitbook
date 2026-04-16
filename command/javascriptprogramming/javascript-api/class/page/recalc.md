@@ -1,22 +1,22 @@
 # recalc 메서드
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72366172/blue%20block.png?version=1\&modificationDate=1648092741000\&api=v2) 메서드 <a href="#recalc-fang-fa-fang-fa" id="recalc-fang-fa-fang-fa"></a>
+#### 메서드 <a href="#recalc-fang-fa-fang-fa" id="recalc-fang-fa-fang-fa"></a>
 
 page.recalc()
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72366172/blue%20block.png?version=1\&modificationDate=1648092741000\&api=v2) 설명 <a href="#recalc-fang-fa-miao-shu" id="recalc-fang-fa-miao-shu"></a>
+#### 설명 <a href="#recalc-fang-fa-miao-shu" id="recalc-fang-fa-miao-shu"></a>
 
 페이지의 모든 수식을 강제로 다시 계산합니다.
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72366172/blue%20block.png?version=1\&modificationDate=1648092741000\&api=v2) **매개 변수** <a href="#recalc-fang-fa-can-shu-shuo-ming" id="recalc-fang-fa-can-shu-shuo-ming"></a>
+#### **매개 변수** <a href="#recalc-fang-fa-can-shu-shuo-ming" id="recalc-fang-fa-can-shu-shuo-ming"></a>
 
 없음&#x20;
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72366172/blue%20block.png?version=1\&modificationDate=1648092741000\&api=v2) **반환값**  <a href="#recalc-fang-fa-fan-hui-zhi" id="recalc-fang-fa-fan-hui-zhi"></a>
+#### **반환값**  <a href="#recalc-fang-fa-fan-hui-zhi" id="recalc-fang-fa-fan-hui-zhi"></a>
 
 없음&#x20;
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72366172/blue%20block.png?version=1\&modificationDate=1648092741000\&api=v2) 예제 <a href="#recalc-fang-fa-shi-li" id="recalc-fang-fa-shi-li"></a>
+#### 예제 <a href="#recalc-fang-fa-shi-li" id="recalc-fang-fa-shi-li"></a>
 
 다음 예제 코드에서는 recalc 메서드를 사용하여 페이지의 모든 수식을 강제로 트리거하여 다시 계산합니다.
 

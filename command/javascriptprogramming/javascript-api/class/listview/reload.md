@@ -1,24 +1,24 @@
 # reload 메서드
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72365739/blue%20block.png?version=1\&modificationDate=1648092734000\&api=v2) 메서드 <a href="#reload-fang-fa-fang-fa" id="reload-fang-fa-fang-fa"></a>
+#### 메서드 <a href="#reload-fang-fa-fang-fa" id="reload-fang-fa-fang-fa"></a>
 
 &#x20;  ListView.reload()
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72365739/blue%20block.png?version=1\&modificationDate=1648092734000\&api=v2) 설명 <a href="#reload-fang-fa-miao-shu" id="reload-fang-fa-miao-shu"></a>
+#### 설명 <a href="#reload-fang-fa-miao-shu" id="reload-fang-fa-miao-shu"></a>
 
 데이터베이스에서 데이터를 다시 로드합니다.
 
 리스트뷰 설정에서 "데이터 새로 고침"을 설정할 수 있으며, 이 옵션을 선택하지 않으면 reload 메서드를 사용하여 데이터베이스에서 데이터를 다시 로드할 수 있습니다.
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72365739/blue%20block.png?version=1\&modificationDate=1648092734000\&api=v2) **매개 변수** <a href="#reload-fang-fa-can-shu-shuo-ming" id="reload-fang-fa-can-shu-shuo-ming"></a>
+#### **매개 변수** <a href="#reload-fang-fa-can-shu-shuo-ming" id="reload-fang-fa-can-shu-shuo-ming"></a>
 
 없음&#x20;
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72365739/blue%20block.png?version=1\&modificationDate=1648092734000\&api=v2) **반환값**  <a href="#reload-fang-fa-fan-hui-zhi" id="reload-fang-fa-fan-hui-zhi"></a>
+#### **반환값**  <a href="#reload-fang-fa-fan-hui-zhi" id="reload-fang-fa-fan-hui-zhi"></a>
 
 없음&#x20;
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72365739/blue%20block.png?version=1\&modificationDate=1648092734000\&api=v2) 예제 <a href="#reload-fang-fa-shi-li" id="reload-fang-fa-shi-li"></a>
+#### 예제 <a href="#reload-fang-fa-shi-li" id="reload-fang-fa-shi-li"></a>
 
 다음 예제 코드에서는 reload 메서드를 통해 데이터베이스에서 데이터를 다시 로드합니다.
 

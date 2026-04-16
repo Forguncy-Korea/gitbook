@@ -1,10 +1,10 @@
 # ListViewEvents 클래스
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72365324/blue%20block.png?version=1\&modificationDate=1648092728000\&api=v2) 설명 <a href="#listviewevents-lei-miao-shu" id="listviewevents-lei-miao-shu"></a>
+#### 설명 <a href="#listviewevents-lei-miao-shu" id="listviewevents-lei-miao-shu"></a>
 
 &#x20;  리스트뷰에서 지원하는 이벤트입니다.
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72365324/blue%20block.png?version=1\&modificationDate=1648092728000\&api=v2) 이벤 <a href="#listviewevents-lei-shi-jian" id="listviewevents-lei-shi-jian"></a>
+#### 이벤트 <a href="#listviewevents-lei-shi-jian" id="listviewevents-lei-shi-jian"></a>
 
 | 이벤트                                                                         | 트리거 타이밍                                                                                                    |
 | --------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |

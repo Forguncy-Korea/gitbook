@@ -1,22 +1,22 @@
 # getContainerCells 메서드
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72366043/blue%20block.png?version=1\&modificationDate=1648092739000\&api=v2) 메서드 <a href="#getcontainercells-fang-fa-fang-fa" id="getcontainercells-fang-fa-fang-fa"></a>
+#### 메서드 <a href="#getcontainercells-fang-fa-fang-fa" id="getcontainercells-fang-fa-fang-fa"></a>
 
 &#x20;  Page.getContainerCells(includeSubPage)
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72366043/blue%20block.png?version=1\&modificationDate=1648092739000\&api=v2) 설명 <a href="#getcontainercells-fang-fa-miao-shu" id="getcontainercells-fang-fa-miao-shu"></a>
+#### 설명 <a href="#getcontainercells-fang-fa-miao-shu" id="getcontainercells-fang-fa-miao-shu"></a>
 
 &#x20;  모든 탭 및 페이지 컨테이너 유형의 셀을 가져옵니다.
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72366043/blue%20block.png?version=1\&modificationDate=1648092739000\&api=v2) **매개 변수** <a href="#getcontainercells-fang-fa-can-shu-shuo-ming" id="getcontainercells-fang-fa-can-shu-shuo-ming"></a>
+#### **매개 변수** <a href="#getcontainercells-fang-fa-can-shu-shuo-ming" id="getcontainercells-fang-fa-can-shu-shuo-ming"></a>
 
 <table><thead><tr><th width="175.33333333333331">매개변수 </th><th width="156">형식 </th><th>설명 </th></tr></thead><tbody><tr><td>includeSubPage</td><td>Boolean</td><td>하위 페이지에서 찾을지 여부입니다. 선택적 매개 변수( 기본값은 true)입니다.</td></tr></tbody></table>
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72366043/blue%20block.png?version=1\&modificationDate=1648092739000\&api=v2) **반환값**  <a href="#getcontainercells-fang-fa-fan-hui-zhi" id="getcontainercells-fang-fa-fan-hui-zhi"></a>
+#### **반환값**  <a href="#getcontainercells-fang-fa-fan-hui-zhi" id="getcontainercells-fang-fa-fan-hui-zhi"></a>
 
 &#x20;  Cell\[]
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72366043/blue%20block.png?version=1\&modificationDate=1648092739000\&api=v2) 예제 <a href="#getcontainercells-fang-fa-shi-li" id="getcontainercells-fang-fa-shi-li"></a>
+#### 예제 <a href="#getcontainercells-fang-fa-shi-li" id="getcontainercells-fang-fa-shi-li"></a>
 
 다음 예제 코드에서는 getContainerCells 메서드를 통해 셀 인스턴스 집합을 가져오고 반환된 셀 인스턴스의 길이를 가져옵니다.
 

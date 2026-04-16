@@ -1,18 +1,18 @@
 # MouseLeave 이벤트
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72364848/blue%20block.png?version=1\&modificationDate=1648092721000\&api=v2) 이벤트 <a href="#mouseleave-shi-jian-shi-jian" id="mouseleave-shi-jian-shi-jian"></a>
+#### 이벤트 <a href="#mouseleave-shi-jian-shi-jian" id="mouseleave-shi-jian-shi-jian"></a>
 
 &#x20;  Forguncy.CellEvents.MouseLeave
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72364848/blue%20block.png?version=1\&modificationDate=1648092721000\&api=v2) 설명 <a href="#mouseleave-shi-jian-miao-shu" id="mouseleave-shi-jian-miao-shu"></a>
+#### 설명 <a href="#mouseleave-shi-jian-miao-shu" id="mouseleave-shi-jian-miao-shu"></a>
 
 마우스가 셀을 떠날 때 트리거되며 버튼, 이미지 및 하이퍼링크 셀 유형을 지원합니다.
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72364848/blue%20block.png?version=1\&modificationDate=1648092721000\&api=v2) **반환값**  <a href="#mouseleave-shi-jian-fan-hui-zhi" id="mouseleave-shi-jian-fan-hui-zhi"></a>
+#### **반환값**  <a href="#mouseleave-shi-jian-fan-hui-zhi" id="mouseleave-shi-jian-fan-hui-zhi"></a>
 
 string
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72364848/blue%20block.png?version=1\&modificationDate=1648092721000\&api=v2) 예제 <a href="#mouseleave-shi-jian-shi-li" id="mouseleave-shi-jian-shi-li"></a>
+#### 예제 <a href="#mouseleave-shi-jian-shi-li" id="mouseleave-shi-jian-shi-li"></a>
 
 다음 예제 코드에서는 bind 메서드를 사용하여 이미지에 MouseLeave 이벤트를 추가하고 마우스가 이미지셀을 떠날 때 경고 상자가 나타납니다.
 

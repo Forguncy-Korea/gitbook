@@ -1,22 +1,22 @@
 # bind 메서드
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72365984/blue%20block.png?version=1\&modificationDate=1648092738000\&api=v2) 메서드 <a href="#bind-fang-fa-fang-fa" id="bind-fang-fa-fang-fa"></a>
+#### 메서드 <a href="#bind-fang-fa-fang-fa" id="bind-fang-fa-fang-fa"></a>
 
 &#x20;  Page.bind(type, data, fn, targetPage)
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72365984/blue%20block.png?version=1\&modificationDate=1648092738000\&api=v2) 설명 <a href="#bind-fang-fa-miao-shu" id="bind-fang-fa-miao-shu"></a>
+#### 설명 <a href="#bind-fang-fa-miao-shu" id="bind-fang-fa-miao-shu"></a>
 
 &#x20;  페이지에 이벤트를 바인딩합니다. 현재 페이지, 지정된 페이지 또는 모든 페이지에 이벤트를 바인딩할 수 있습니다.
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72365984/blue%20block.png?version=1\&modificationDate=1648092738000\&api=v2) **매개 변수** <a href="#bind-fang-fa-can-shu-shuo-ming" id="bind-fang-fa-can-shu-shuo-ming"></a>
+#### **매개 변수** <a href="#bind-fang-fa-can-shu-shuo-ming" id="bind-fang-fa-can-shu-shuo-ming"></a>
 
 <table><thead><tr><th width="147">매개변수 </th><th width="116">형식 </th><th width="130">필수여부 </th><th>설명 </th></tr></thead><tbody><tr><td>eventType</td><td>string</td><td>YES</td><td>페이지 이벤트 유형을 나타내는 문자열입니다. 페이지에서 지원되는 이벤트는 <a href="../pageevents/">PageEvents 클래스</a> 를 참조하십시오.</td></tr><tr><td>data</td><td>any</td><td>NO</td><td>이벤트 처리기에 전달된 사용자 지정 매개 변수를 무시하지 않는 경우 선택적 매개 변수입니다.</td></tr><tr><td>fn</td><td>function</td><td>YES</td><td>이벤트 처리기입니다. 이벤트에는 arg1, arg2의 두 가지 매개 변수가 있습니다. arg1 매개 변수는 data 매개 변수를 나타내고 arg2는 targetPage 매개 변수를 나타냅니다.</td></tr><tr><td>targetPage</td><td>string</td><td>NO</td><td>페이지의 이름입니다. 모든 페이지에 대한 이벤트를 바인딩하는 경우 "*"를 사용합니다. 생략하면 현재 페이지에 바인딩됩니다.</td></tr></tbody></table>
 
-#### &#x20;![](https://help.grapecity.com.cn/download/thumbnails/72365984/blue%20block.png?version=1\&modificationDate=1648092738000\&api=v2) **반환값**  <a href="#bind-fang-fa-fan-hui-zhi" id="bind-fang-fa-fan-hui-zhi"></a>
+#### &#x20;**반환값**  <a href="#bind-fang-fa-fan-hui-zhi" id="bind-fang-fa-fan-hui-zhi"></a>
 
 없음&#x20;
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72365984/blue%20block.png?version=1\&modificationDate=1648092738000\&api=v2) 예제 <a href="#bind-fang-fa-shi-li" id="bind-fang-fa-shi-li"></a>
+#### 예제 <a href="#bind-fang-fa-shi-li" id="bind-fang-fa-shi-li"></a>
 
 다음 예제 코드에서는 bnd 메서드를 통해 페이지에 이벤트를 바인딩합니다.
 

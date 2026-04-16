@@ -1,6 +1,6 @@
 # Forguncy 클래스
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72364812/blue%20block.png?version=1\&modificationDate=1648092720000\&api=v2) 클래스 <a href="#forguncy-lei-lei" id="forguncy-lei-lei"></a>
+#### 클래스 <a href="#forguncy-lei-lei" id="forguncy-lei-lei"></a>
 
 | 클래스                                             | 설명                              |
 | ----------------------------------------------- | ------------------------------- |

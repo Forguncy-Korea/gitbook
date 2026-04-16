@@ -1,10 +1,10 @@
 # hasFocus 메서드
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72365063/blue%20block.png?version=1\&modificationDate=1648092724000\&api=v2) 메서드 <a href="#hasfocus-fang-fa-fang-fa" id="hasfocus-fang-fa-fang-fa"></a>
+#### 메서드 <a href="#hasfocus-fang-fa-fang-fa" id="hasfocus-fang-fa-fang-fa"></a>
 
-&#x20;  Cell.hasFocus()
+Cell.hasFocus()
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72365063/blue%20block.png?version=1\&modificationDate=1648092724000\&api=v2) 설명 <a href="#hasfocus-fang-fa-miao-shu" id="hasfocus-fang-fa-miao-shu"></a>
+#### &#x20;설명 <a href="#hasfocus-fang-fa-miao-shu" id="hasfocus-fang-fa-miao-shu"></a>
 
 지정된 셀에 포커스가 있는지 여부를 가져옵니다. 페이지의 셀 중 하나가 포커스를 가져오는지 여부를 감지하는 데 사용할 수 있습니다. 반환 값은 true 또는 false
 
@@ -12,11 +12,11 @@ true: 셀은 포커스를 가져옵니다.&#x20;
 
 false: 셀이 포커스를 가져오지 않습니다.
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72365063/blue%20block.png?version=1\&modificationDate=1648092724000\&api=v2) **반환값**  <a href="#hasfocus-fang-fa-fan-hui-zhi" id="hasfocus-fang-fa-fan-hui-zhi"></a>
+#### **반환값**  <a href="#hasfocus-fang-fa-fan-hui-zhi" id="hasfocus-fang-fa-fan-hui-zhi"></a>
 
 boolean
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72365063/blue%20block.png?version=1\&modificationDate=1648092724000\&api=v2) 예제입니다 <a href="#hasfocus-fang-fa-shi-li" id="hasfocus-fang-fa-shi-li"></a>
+#### 예제 <a href="#hasfocus-fang-fa-shi-li" id="hasfocus-fang-fa-shi-li"></a>
 
 다음 예제 코드에서는 hasFocus 메서드를 사용하여 지정된 셀(myCell)에 포커스가 있는지 여부를 가져옵니다.
 

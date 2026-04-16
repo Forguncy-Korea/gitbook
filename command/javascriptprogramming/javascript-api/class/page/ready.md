@@ -1,24 +1,24 @@
 # ready 메서드
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72366157/blue%20block.png?version=1\&modificationDate=1648092741000\&api=v2) 메서드 <a href="#ready-fang-fa-fang-fa" id="ready-fang-fa-fang-fa"></a>
+#### 메서드 <a href="#ready-fang-fa-fang-fa" id="ready-fang-fa-fang-fa"></a>
 
 &#x20;  Page.ready(fn)
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72366157/blue%20block.png?version=1\&modificationDate=1648092741000\&api=v2) 설명 <a href="#ready-fang-fa-miao-shu" id="ready-fang-fa-miao-shu"></a>
+#### 설명 <a href="#ready-fang-fa-miao-shu" id="ready-fang-fa-miao-shu"></a>
 
 페이지가 준비되면 매개 변수의 콜백 함수가 호출되고 페이지의 처리 논리가 콜백 함수에 기록되어 페이지를 조작할 준비가 되었는지 확인하는 것이 좋습니다.
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72366157/blue%20block.png?version=1\&modificationDate=1648092741000\&api=v2) **매개 변수** <a href="#ready-fang-fa-can-shu-shuo-ming" id="ready-fang-fa-can-shu-shuo-ming"></a>
+#### **매개 변수** <a href="#ready-fang-fa-can-shu-shuo-ming" id="ready-fang-fa-can-shu-shuo-ming"></a>
 
 | 매개변수  | 형식       | 설명                                  |
 | ----- | -------- | ----------------------------------- |
 | fn    | function | 페이지가 완료될 준비가 되면 자동으로 호출되는 콜백 함수입니다. |
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72366157/blue%20block.png?version=1\&modificationDate=1648092741000\&api=v2) **반환값**  <a href="#ready-fang-fa-fan-hui-zhi" id="ready-fang-fa-fan-hui-zhi"></a>
+#### **반환값**  <a href="#ready-fang-fa-fan-hui-zhi" id="ready-fang-fa-fan-hui-zhi"></a>
 
 없음&#x20;
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72366157/blue%20block.png?version=1\&modificationDate=1648092741000\&api=v2) 예제 <a href="#ready-fang-fa-shi-li" id="ready-fang-fa-shi-li"></a>
+#### 예제 <a href="#ready-fang-fa-shi-li" id="ready-fang-fa-shi-li"></a>
 
 다음 예제 코드에서는 ready 메서드를 사용하여 ready 메서드의 콜백 함수에 페이지 처리 논리를 추가하여 현재 로그온한 사용자의 사용자 이름을 가져옵니다.
 

@@ -1,14 +1,14 @@
 # showTab 메서드
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72365151/blue%20block.png?version=1\&modificationDate=1648092725000\&api=v2) 메서드 <a href="#showtab-fang-fa-fang-fa" id="showtab-fang-fa-fang-fa"></a>
+#### 메서드 <a href="#showtab-fang-fa-fang-fa" id="showtab-fang-fa-fang-fa"></a>
 
 &#x20;  Cell.showTab()
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72365151/blue%20block.png?version=1\&modificationDate=1648092725000\&api=v2) 설명 <a href="#showtab-fang-fa-miao-shu" id="showtab-fang-fa-miao-shu"></a>
+#### 설명 <a href="#showtab-fang-fa-miao-shu" id="showtab-fang-fa-miao-shu"></a>
 
 표시되는 탭을 설정합니다. 예를 들어 첫 번째 탭이 기본적으로 표시되고 이 메서드를 사용하여 두 번째 탭을 표시할 수 있습니다. 이 메서드는 셀 유형이 탭인 경우에만 사용됩니다.
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72365151/blue%20block.png?version=1\&modificationDate=1648092725000\&api=v2) **매개 변수** <a href="#showtab-fang-fa-can-shu-shuo-ming" id="showtab-fang-fa-can-shu-shuo-ming"></a>
+#### **매개 변수** <a href="#showtab-fang-fa-can-shu-shuo-ming" id="showtab-fang-fa-can-shu-shuo-ming"></a>
 
 | 매개변수     | 유형     | 설명                         |
 | -------- | ------ | -------------------------- |
@@ -16,11 +16,11 @@
 
 <br>
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72365151/blue%20block.png?version=1\&modificationDate=1648092725000\&api=v2) **반환값**  <a href="#showtab-fang-fa-fan-hui-zhi" id="showtab-fang-fa-fan-hui-zhi"></a>
+#### **반환값**  <a href="#showtab-fang-fa-fan-hui-zhi" id="showtab-fang-fa-fan-hui-zhi"></a>
 
 없음&#x20;
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72365151/blue%20block.png?version=1\&modificationDate=1648092725000\&api=v2) 예제 <a href="#showtab-fang-fa-shi-li" id="showtab-fang-fa-shi-li"></a>
+#### 예제 <a href="#showtab-fang-fa-shi-li" id="showtab-fang-fa-shi-li"></a>
 
 다음 예제 코드에서 showTab 메서드를 사용 하 여 표시 되는 탭이 첫 번째 탭에서 두 번째 탭으로 변경 됩니다.
 

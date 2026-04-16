@@ -10,17 +10,17 @@ HTTPS(Hypertext Transfer Protocol over Secure Socket Layer)를 사용하면 서�
 
 Https를 사용하기 전에 Https 설정이 필요합니다.
 
-![](https://help.grapecity.com.cn/download/thumbnails/72363120/%E6%AD%A5%E9%AA%A41.png?version=1\&modificationDate=1648092696000\&api=v2) 관리 콘솔에서 설정->Https 인증서를 선택합니다.
+1. 관리 콘솔에서 설정->Https 인증서를 선택합니다.
 
 ![](<../../.gitbook/assets/image (755).png>)
 
-![](https://help.grapecity.com.cn/download/thumbnails/72363120/%E6%AD%A5%E9%AA%A42.png?version=1\&modificationDate=1648092696000\&api=v2) Https 인증서의 쿼리 포트 영역에서 포트 번호를 입력하고 쿼리를 클릭하여 포트에 바인딩된 인증서 정보를 가져옵니다. 기본 포트 번호는 443입니다.
+2. Https 인증서의 쿼리 포트 영역에서 포트 번호를 입력하고 쿼리를 클릭하여 포트에 바인딩된 인증서 정보를 가져옵니다. 기본 포트 번호는 443입니다.
 
 SSL 인증서 정보 영역에서 "인증서 해제"를 클릭하여 현재 포트에서 인증서를 제거합니다. 인증서 목록 보기를 클릭하여 목록 대화 상자를 열고 인증서를 선택한 후 바인딩을 클릭하여 인증서를 현재 포트에 바인딩합니다.
 
 ![](<../../.gitbook/assets/image (1273).png>)
 
-![](https://help.grapecity.com.cn/download/thumbnails/72363120/%E6%AD%A5%E9%AA%A43.png?version=1\&modificationDate=1648092696000\&api=v2) 서버에 인증서를 업로드합니다.
+3. 서버에 인증서를 업로드합니다.
 
 로컬 컴퓨터에서 인증서 파일을 선택합니다. 인증서에 암호가 필요한 경우 암호를 입력합니다. 인증서 업로드를 클릭하여 서버에 인증서를 업로드합니다.
 

@@ -1,25 +1,25 @@
 # addNewRow 메서드
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72365390/blue%20block.png?version=1\&modificationDate=1648092729000\&api=v2) 메서드 <a href="#addnewrow-fang-fa-fang-fa" id="addnewrow-fang-fa-fang-fa"></a>
+#### 메서드 <a href="#addnewrow-fang-fa-fang-fa" id="addnewrow-fang-fa-fang-fa"></a>
 
 &#x20;  ListView.addNewRow(rowValues, isText)
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72365390/blue%20block.png?version=1\&modificationDate=1648092729000\&api=v2) 설명 <a href="#addnewrow-fang-fa-miao-shu" id="addnewrow-fang-fa-miao-shu"></a>
+#### 설명 <a href="#addnewrow-fang-fa-miao-shu" id="addnewrow-fang-fa-miao-shu"></a>
 
 리스트뷰에 새 행에 대한 데이터를 포함하여 새 행을 추가합니다.
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72365390/blue%20block.png?version=1\&modificationDate=1648092729000\&api=v2) **매개 변수 설명입니다** <a href="#addnewrow-fang-fa-can-shu-shuo-ming" id="addnewrow-fang-fa-can-shu-shuo-ming"></a>
+#### &#x20;**매개 변수** <a href="#addnewrow-fang-fa-can-shu-shuo-ming" id="addnewrow-fang-fa-can-shu-shuo-ming"></a>
 
 | 매개 변수     | 형식                    | 설명                                                         |
 | --------- | --------------------- | ---------------------------------------------------------- |
 | rowValues | plainObject 또는 any\[] | 새 행의 데이터입니다.                                               |
 | isText    | boolean               | 선택적 매개 변수, rowValues의 데이터를 텍스트로 구문 분석할지 여부, 기본값은 false입니다. |
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72365390/blue%20block.png?version=1\&modificationDate=1648092729000\&api=v2) **반환값**  <a href="#addnewrow-fang-fa-fan-hui-zhi" id="addnewrow-fang-fa-fan-hui-zhi"></a>
+#### **반환값**  <a href="#addnewrow-fang-fa-fan-hui-zhi" id="addnewrow-fang-fa-fan-hui-zhi"></a>
 
 없음&#x20;
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72365390/blue%20block.png?version=1\&modificationDate=1648092729000\&api=v2) 예제 <a href="#addnewrow-fang-fa-shi-li" id="addnewrow-fang-fa-shi-li"></a>
+#### 예제 <a href="#addnewrow-fang-fa-shi-li" id="addnewrow-fang-fa-shi-li"></a>
 
 다음 예제 코드에서는 addNewRow 메서드를 통해 테이블에 새 행과 데이터 행을 추가합니다.
 
@@ -36,8 +36,6 @@ listview.addNewRow(
 "부서": "마케팅 부서"
 });
 ```
-
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72365390/blue%20block.png?version=1\&modificationDate=1648092729000\&api=v2) 사용 예제 <a href="#addnewrow-fang-fa-shi-li" id="addnewrow-fang-fa-shi-li"></a>
 
 
 

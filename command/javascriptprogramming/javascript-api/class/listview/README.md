@@ -1,10 +1,10 @@
 # ListView 클래스
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72365388/blue%20block.png?version=1\&modificationDate=1648092729000\&api=v2) 설명 <a href="#listview-lei-miao-shu" id="listview-lei-miao-shu"></a>
+#### 설명 <a href="#listview-lei-miao-shu" id="listview-lei-miao-shu"></a>
 
 리스트뷰 개체입니다.
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72365388/blue%20block.png?version=1\&modificationDate=1648092729000\&api=v2) 메서드 <a href="#listview-lei-fang-fa" id="listview-lei-fang-fa"></a>
+#### 메서드 <a href="#listview-lei-fang-fa" id="listview-lei-fang-fa"></a>
 
 | 메서드                                                   | 설명                                                                                                                                                           |
 | ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |

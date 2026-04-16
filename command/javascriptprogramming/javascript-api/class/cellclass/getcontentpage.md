@@ -1,22 +1,22 @@
 # getContentPage 메서드
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72364992/blue%20block.png?version=1\&modificationDate=1648092723000\&api=v2) 메서드 <a href="#getcontentpage-fang-fa-fang-fa" id="getcontentpage-fang-fa-fang-fa"></a>
+#### &#x20;메서드 <a href="#getcontentpage-fang-fa-fang-fa" id="getcontentpage-fang-fa-fang-fa"></a>
 
 &#x20;  Cell.getContentPage()
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72364992/blue%20block.png?version=1\&modificationDate=1648092723000\&api=v2) 설명 <a href="#getcontentpage-fang-fa-miao-shu" id="getcontentpage-fang-fa-miao-shu"></a>
+#### 설명 <a href="#getcontentpage-fang-fa-miao-shu" id="getcontentpage-fang-fa-miao-shu"></a>
 
 페이지 컨테이너의 자식 페이지 개체를 가져옵니다. 이 메서드는 셀 유형이 페이지 컨테이너인 경우에만 사용할 수 있습니다.
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72364992/blue%20block.png?version=1\&modificationDate=1648092723000\&api=v2) **매개 변수**  <a href="#getcontentpage-fang-fa-can-shu-shuo-ming" id="getcontentpage-fang-fa-can-shu-shuo-ming"></a>
+#### &#x20;**매개 변수**  <a href="#getcontentpage-fang-fa-can-shu-shuo-ming" id="getcontentpage-fang-fa-can-shu-shuo-ming"></a>
 
 없음&#x20;
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72364992/blue%20block.png?version=1\&modificationDate=1648092723000\&api=v2) **값을 반환합니다** <a href="#getcontentpage-fang-fa-fan-hui-zhi" id="getcontentpage-fang-fa-fan-hui-zhi"></a>
+#### 반환값  <a href="#getcontentpage-fang-fa-fan-hui-zhi" id="getcontentpage-fang-fa-fan-hui-zhi"></a>
 
 &#x20;  SubPage
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72364992/blue%20block.png?version=1\&modificationDate=1648092723000\&api=v2) 예제입니다 <a href="#getcontentpage-fang-fa-shi-li" id="getcontentpage-fang-fa-shi-li"></a>
+#### &#x20;예제 <a href="#getcontentpage-fang-fa-shi-li" id="getcontentpage-fang-fa-shi-li"></a>
 
 다음 예제 코드에서는 getContentPage 메서드를 사용하여 지정된 페이지 컨테이너(container)의 하위 페이지(페이지 1)의 셀(myCell) 값을 가져옵니다.
 

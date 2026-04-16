@@ -52,7 +52,7 @@
 
 **하위 테이블 권한 설정**
 
-![](https://help.grapecity.com.cn/download/thumbnails/80960137/image2023-2-23_9-10-49.png?version=1\&modificationDate=1677114649000\&api=v2)버튼을,클릭하여 하위 테이블 권한을 설정할 수 있습니다.
+![](https://gccndocumentsitestorage.blob.core.chinacloudapi.cn/document-site-files/images/8ca07557-62b8-4219-8ddd-357e505dc985/80960137/image2023-2-23_9-10-49.png)버튼을 클릭하여 하위 테이블 권한을 설정할 수 있습니다.
 
 팝업 하위 테이블 권한 설정 대화 상자에 데이터 테이블의 모든 하위 테이블이 나열됩니다. 데이터 테이블 옆의 확인란을 선택하면 테이블이 기본 테이블의 권한 설정을 사용합니다.
 

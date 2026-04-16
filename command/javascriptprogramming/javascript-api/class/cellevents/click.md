@@ -1,18 +1,18 @@
 # Click 이벤트
 
-#### &#x20;![](https://help.grapecity.com.cn/download/thumbnails/72364816/blue%20block.png?version=1\&modificationDate=1648092721000\&api=v2) 이벤트 <a href="#click-shi-jian-shi-jian" id="click-shi-jian-shi-jian"></a>
+#### &#x20;이벤트 <a href="#click-shi-jian-shi-jian" id="click-shi-jian-shi-jian"></a>
 
 &#x20;  Forguncy.CellEvents.Click
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72364816/blue%20block.png?version=1\&modificationDate=1648092721000\&api=v2) 설명 <a href="#click-shi-jian-miao-shu" id="click-shi-jian-miao-shu"></a>
+#### 설명 <a href="#click-shi-jian-miao-shu" id="click-shi-jian-miao-shu"></a>
 
 셀을 클릭하면 버튼, 이미지 및 하이퍼링크 셀 유형을 지원하는 이벤트가 트리거됩니다.
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72364816/blue%20block.png?version=1\&modificationDate=1648092721000\&api=v2) **반환값**  <a href="#click-shi-jian-fan-hui-zhi" id="click-shi-jian-fan-hui-zhi"></a>
+#### **반환값**  <a href="#click-shi-jian-fan-hui-zhi" id="click-shi-jian-fan-hui-zhi"></a>
 
 String&#x20;
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72364816/blue%20block.png?version=1\&modificationDate=1648092721000\&api=v2) 예제 <a href="#click-shi-jian-shi-li" id="click-shi-jian-shi-li"></a>
+#### 예제 <a href="#click-shi-jian-shi-li" id="click-shi-jian-shi-li"></a>
 
 다음 예제 코드에서는 bnd 메서드를 사용하여 단추에 클릭 이벤트를 추가하고 버튼을 클릭할 때 경고 상자가 나타납니다.
 

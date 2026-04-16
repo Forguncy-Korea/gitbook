@@ -8,7 +8,7 @@
 
 서버단 명령을 만든 후 개체 관리자에서 명령을 편집할 수 있습니다.
 
-서버단 명령에서 앞에 있는 확장 버튼을 클릭하고 명령을 두 번 클릭하면 서버 명령 편집 대화 상자가 나타납니다.![](https://help.grapecity.com.cn/download/thumbnails/72357371/image2020-9-21_11-38-34.png?version=1\&modificationDate=1648092605000\&api=v2)
+서버단 명령에서 앞에 있는 확장 버튼을 클릭하고 명령을 두 번 클릭하면 서버 명령 편집 대화 상자가 나타납니다.
 
 ![](<../../.gitbook/assets/image (602).png>)
 

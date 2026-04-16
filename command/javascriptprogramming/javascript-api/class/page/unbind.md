@@ -1,22 +1,22 @@
 # unbind 메서드
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72366255/blue%20block.png?version=1\&modificationDate=1648092742000\&api=v2) 메서드 <a href="#unbind-fang-fa-fang-fa" id="unbind-fang-fa-fang-fa"></a>
+#### 메서드 <a href="#unbind-fang-fa-fang-fa" id="unbind-fang-fa-fang-fa"></a>
 
 &#x20;  Page.unbind(eventType, fn, targetPage)
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72366255/blue%20block.png?version=1\&modificationDate=1648092742000\&api=v2) 설명 <a href="#unbind-fang-fa-miao-shu" id="unbind-fang-fa-miao-shu"></a>
+#### 설명 <a href="#unbind-fang-fa-miao-shu" id="unbind-fang-fa-miao-shu"></a>
 
 특정 이벤트의 바인딩을 해제합니다. 이 메서드는 선택한 이벤트 처리기를 제거하거나 이벤트가 발생할 때 지정된 함수의 실행을 종료할 수 있습니다.
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72366255/blue%20block.png?version=1\&modificationDate=1648092742000\&api=v2) **매개 변수** <a href="#unbind-fang-fa-can-shu-shuo-ming" id="unbind-fang-fa-can-shu-shuo-ming"></a>
+#### **매개 변수** <a href="#unbind-fang-fa-can-shu-shuo-ming" id="unbind-fang-fa-can-shu-shuo-ming"></a>
 
 <table><thead><tr><th width="151">매개변수 </th><th width="156">형식 </th><th width="124">필수여부 </th><th>설명 </th></tr></thead><tbody><tr><td>eventType</td><td>any</td><td>YES</td><td>페이지 이벤트 유형을 나타내는 문자열입니다. 페이지에서 지원되는 이벤트는 <a href="../pageevents/">PageEvents 클래</a>스 를 참조하십시오.</td></tr><tr><td>fn</td><td>function</td><td>NO</td><td>이벤트 처리기입니다. 생략하면 해당 이벤트 형식의 페이지에 있는 모든 처리기의 바인딩이 해제됩니다.</td></tr><tr><td>targetPage</td><td>string</td><td>NO</td><td>페이지의 이름입니다. 모든 페이지에 대한 이벤트를 바인딩 해제하는 경우 "*"를 사용합니다. 생략하면 현재 페이지의 이벤트가 바인딩 해제됩니다.</td></tr></tbody></table>
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72366255/blue%20block.png?version=1\&modificationDate=1648092742000\&api=v2) **반환값**  <a href="#unbind-fang-fa-fan-hui-zhi" id="unbind-fang-fa-fan-hui-zhi"></a>
+#### **반환값**  <a href="#unbind-fang-fa-fan-hui-zhi" id="unbind-fang-fa-fan-hui-zhi"></a>
 
 없음&#x20;
 
-#### ![](https://help.grapecity.com.cn/download/thumbnails/72366255/blue%20block.png?version=1\&modificationDate=1648092742000\&api=v2) 예제 <a href="#unbind-fang-fa-shi-li" id="unbind-fang-fa-shi-li"></a>
+#### 예제 <a href="#unbind-fang-fa-shi-li" id="unbind-fang-fa-shi-li"></a>
 
 다음 예제 코드에서 unbind 메서드를 사용 하 여 페이지 이벤트에 대 한 바인딩을 제거 합니다.
 
