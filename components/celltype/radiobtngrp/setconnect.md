@@ -11,9 +11,9 @@
 **절차를 따르십시오**
 
 1. 범주 목록의 ID가 범주 테이블의 ID에 해당하는 [그림 1](https://help.grapecity.com.cn/pages/viewpage.action?pageId=72353084#id-%E5%8D%95%E9%80%89%E6%8C%89%E9%92%AE%E8%81%94%E5%8A%A8%E8%AE%BE%E7%BD%AE-%E5%9B%BE1)의 범주 및 제품 테이블을 만듭니다.
-2. &#x20;페이지에서 두 개의 라디오 단추를 만듭니다.
+2. &#x20;페이지에서 두 개의 라디오 버튼을 만듭니다.
 
-첫 번째 라디오 단추를 선택하고 속성 설정 영역에서 셀 설정 탭을 선택하고 항목을 설정합니다.
+첫 번째 라디오 버튼을 선택하고 속성 설정 영역에서 셀 설정 탭을 선택하고 항목을 설정합니다.
 
 <figure><img src="../../../.gitbook/assets/image (930).png" alt=""><figcaption></figcaption></figure>
 
